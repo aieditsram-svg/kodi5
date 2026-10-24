@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 20:25 UTC",
-  "fingerprint": "e1ba5cc49e47a4a04154f2dc86887093",
+  "updated_at": "2026-10-24 20:50 UTC",
+  "fingerprint": "737dbfd3b87a6a97b1202ddbfdb6d58c",
   "total": 1323,
-  "working": 1151,
-  "in_grace_period": 5,
-  "dead": 172,
-  "hd_channels": 612,
+  "working": 1155,
+  "in_grace_period": 6,
+  "dead": 168,
+  "hd_channels": 610,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 104,
       "working": 82,
-      "hd": 46
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 23,
@@ -30,7 +30,7 @@
     "English": {
       "total": 148,
       "working": 122,
-      "hd": 64
+      "hd": 63
     },
     "Gujarati": {
       "total": 24,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 430,
+      "working": 434,
       "hd": 229
     },
     "Kannada": {
@@ -275,16 +275,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 24 (576p)",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -400,19 +390,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -552,7 +532,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
@@ -562,7 +542,7 @@
     {
       "name": "Sony Max (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "National Geographic (576p) [Geo-blocked]",
@@ -932,7 +912,7 @@
     {
       "name": "Zee Tamil HD (1080p)",
       "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sony Max 1",
