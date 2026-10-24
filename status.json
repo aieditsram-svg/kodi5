@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-24 14:34 UTC",
-  "fingerprint": "390580a68df2e5096b2e0bbd5ce03d1e",
+  "updated_at": "2026-10-24 15:00 UTC",
+  "fingerprint": "9e814220a9750a668aa1467f9c6c62f5",
   "total": 1323,
-  "working": 1148,
-  "in_grace_period": 5,
-  "dead": 175,
+  "working": 1150,
+  "in_grace_period": 15,
+  "dead": 173,
   "hd_channels": 612,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 427,
+      "working": 429,
       "hd": 229
     },
     "Kannada": {
@@ -385,11 +385,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -567,7 +562,7 @@
     {
       "name": "Sony Max (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "National Geographic (576p) [Geo-blocked]",
@@ -583,11 +578,6 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Gyandarshan HD (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BVG (576p)",
