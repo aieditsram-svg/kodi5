@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 22:00 UTC",
-  "fingerprint": "0a19777eded7eb7f6f12108d365ff668",
+  "updated_at": "2026-10-24 22:23 UTC",
+  "fingerprint": "bb57283dccbb7b74b91d52002b9444c0",
   "total": 1323,
-  "working": 1160,
-  "in_grace_period": 25,
-  "dead": 163,
-  "hd_channels": 612,
+  "working": 1156,
+  "in_grace_period": 6,
+  "dead": 167,
+  "hd_channels": 614,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 437,
-      "hd": 230
+      "working": 435,
+      "hd": 232
     },
     "Kannada": {
       "total": 69,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 104,
-      "working": 87,
+      "working": 86,
       "hd": 43
     },
     "Marathi": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 87,
+      "working": 86,
       "hd": 47
     },
     "Santali": {
@@ -117,7 +117,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Aaj Tak (1080p)",
@@ -132,6 +132,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -277,7 +282,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -358,6 +363,11 @@
       "name": "APN (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Kappa TV (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Raj News Kannada (576p)",
@@ -753,6 +763,16 @@
       "name": "Shemaroo TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "PTC Punjabi (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4PTCPUNJABI/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
