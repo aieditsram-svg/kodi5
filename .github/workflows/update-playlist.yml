@@ -43,7 +43,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add channels.m3u channels_hd.m3u channels_best.m3u channels_all.m3u channels_pvr.m3u languages telugu.m3u telugu_hd.m3u telugu_all.m3u telugu_pvr.m3u status.json state.json zips addons.xml addons.xml.md5 repository.telugulive.zip
+          git add channels.m3u channels_hd.m3u channels_best.m3u channels_pvr.m3u channels_all.m3u languages telugu.m3u telugu_hd.m3u telugu_all.m3u telugu_pvr.m3u status.json state.json zips addons.xml addons.xml.md5 repository.telugulive.zip
           if git diff --cached --quiet; then
             echo "No changes."
           else
