@@ -1,0 +1,56 @@
+name: Update Telugu playlist
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"    # every 5 minutes, the fastest GitHub allows (runs may start a few minutes late)
+  workflow_dispatch:          # manual "Run workflow" button
+  push:
+    paths:
+      - "sources.txt"
+      - "scripts/**"
+      - "kodi/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-playlist
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Fetch sources, test every stream, keep recently-working channels listed for a short
+      # grace period (so one failed check never interrupts playback), and only rewrite the
+      # playlists when the channel lists actually change.
+      - name: Build playlist
+        run: python scripts/build_playlist.py
+
+      # Zips and addons.xml only change when the add-on code changes, so skip on the timer.
+      - name: Build Kodi repository
+        if: github.event_name != 'schedule'
+        run: python scripts/build_kodi_repo.py
+
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add channels.m3u channels_hd.m3u channels_best.m3u channels_all.m3u channels_pvr.m3u languages telugu.m3u telugu_hd.m3u telugu_all.m3u telugu_pvr.m3u status.json state.json zips addons.xml addons.xml.md5 repository.telugulive.zip
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update playlist $(date -u +'%Y-%m-%d %H:%M UTC')"
+            for i in 1 2 3; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push && exit 0
+              sleep 5
+            done
+            exit 1
+          fi
