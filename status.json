@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 21:35 UTC",
-  "fingerprint": "3e91e6a101c4a84cde3cab325fd27dc0",
+  "updated_at": "2026-10-24 22:00 UTC",
+  "fingerprint": "0a19777eded7eb7f6f12108d365ff668",
   "total": 1323,
-  "working": 1158,
-  "in_grace_period": 13,
-  "dead": 165,
-  "hd_channels": 610,
+  "working": 1160,
+  "in_grace_period": 25,
+  "dead": 163,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 436,
-      "hd": 229
+      "working": 437,
+      "hd": 230
     },
     "Kannada": {
       "total": 69,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 2,
-      "working": 1,
-      "hd": 1
+      "working": 2,
+      "hd": 2
     },
     "Malayalam": {
       "total": 104,
@@ -117,7 +117,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 403"
     },
     {
       "name": "Aaj Tak (1080p)",
@@ -133,11 +133,6 @@
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Bansal News (720p)",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-      "reason": "HTTP 401"
     },
     {
       "name": "DD National HD (576p)",
@@ -265,11 +260,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "RDX Goa (720p) [Geo-blocked]",
-      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "HTTP 401"
-    },
-    {
       "name": "Shekinah TV (1080p)",
       "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -287,7 +277,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
