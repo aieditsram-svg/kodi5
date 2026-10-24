@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 21:09 UTC",
-  "fingerprint": "92787ea3dbb94b2b84c6dd44e691b579",
+  "updated_at": "2026-10-24 21:35 UTC",
+  "fingerprint": "3e91e6a101c4a84cde3cab325fd27dc0",
   "total": 1323,
-  "working": 1157,
-  "in_grace_period": 2,
-  "dead": 166,
-  "hd_channels": 611,
+  "working": 1158,
+  "in_grace_period": 13,
+  "dead": 165,
+  "hd_channels": 610,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 435,
+      "working": 436,
       "hd": 229
     },
     "Kannada": {
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 104,
       "working": 87,
-      "hd": 44
+      "hd": 43
     },
     "Marathi": {
       "total": 41,
@@ -132,11 +132,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Awaaz India TV (720p) [Not 24/7]",
-      "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
       "reason": "HTTP 404"
     },
     {
