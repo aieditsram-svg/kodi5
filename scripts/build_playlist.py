@@ -12,7 +12,9 @@ Pipeline
 Outputs
   channels.m3u        working streams, all languages (group-title = language)
   channels_hd.m3u     best working stream per channel at HD (720p+ by default)
-  channels_best.m3u   best working stream per channel at any quality (for Kodi's IPTV Simple Client)
+  channels_best.m3u   best working stream per channel at any quality (verified links only)
+  channels_pvr.m3u    one link per channel for Kodi's IPTV Simple Client: verified links first, and channels
+                      that only work inside India are kept too (telugu_pvr.m3u = Telugu only)
   channels_all.m3u    every stream found, tested or not (includes links this server could not reach,
                       for example streams that only work inside India)
   languages/<name>.m3u  working streams per language
@@ -444,6 +446,12 @@ def main() -> int:
     for lang in languages:
         write_if_changed(out_dir / "languages" / f"{slug(lang)}.m3u",
                          render_m3u(working, f"Working {lang} channels, updated {now}", only_language=lang))
+    # One link per channel, verified links first, India-only links included: for Kodi's IPTV Simple Client
+    pvr = pick_pvr(channels, working)
+    write_if_changed(out_dir / "channels_pvr.m3u", render_m3u(
+        pvr, f"One link per channel for Kodi IPTV Simple Client, all languages, updated {now}"))
+    write_if_changed(out_dir / "telugu_pvr.m3u", render_m3u(
+        pvr, f"One link per channel for Kodi IPTV Simple Client, Telugu, updated {now}", only_language="Telugu"))
     # Older Telugu-only links keep working
     for fname, items, note in (
         ("telugu.m3u", working, "Working Telugu channels"),
@@ -451,13 +459,6 @@ def main() -> int:
         ("telugu_all.m3u", channels, "All Telugu channels found"),
     ):
         write_if_changed(out_dir / fname, render_m3u(items, f"{note}, updated {now}", only_language="Telugu"))
-
-    # One link per channel, verified links first, India-only links included: for Kodi's IPTV Simple Client
-    pvr = pick_pvr(channels, working)
-    write_if_changed(out_dir / "channels_pvr.m3u", render_m3u(
-        pvr, f"One link per channel for Kodi IPTV Simple Client, all languages, updated {now}"))
-    write_if_changed(out_dir / "telugu_pvr.m3u", render_m3u(
-        pvr, f"One link per channel for Kodi IPTV Simple Client, Telugu, updated {now}", only_language="Telugu"))
 
     per_language = {}
     for lang in languages:

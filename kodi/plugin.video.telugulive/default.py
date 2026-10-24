@@ -4,7 +4,6 @@ Menu
   HD channels      only channels with an HD stream, split by language
   All channels     everything in one list
   <Language>       Telugu, Hindi, Tamil, Kannada, Malayalam, ...
-  Set up Live TV   installs and configures PVR IPTV Simple Client (see pvr_setup.py)
 The playlist is downloaded fresh every time a list is opened. When you open a channel the add-on
 tests its streams from your own network and plays the best working one; service.py switches to
 the next one if a stream drops while playing.
@@ -18,6 +17,7 @@ import xbmcaddon
 import xbmcgui
 import xbmcplugin
 
+import pvr_setup
 import resolver
 
 ADDON = xbmcaddon.Addon()
@@ -43,15 +43,30 @@ def load_channels():
     GitHub server could not reach (for example streams that only work inside India)."""
     show_all = ADDON.getSetting("show_unverified") != "false"
     order = ["list_all", "list_working"] if show_all else ["list_working", "list_all"]
-    error = None
+    channels, error = None, None
     for setting in order:
         try:
-            return resolver.parse_m3u(resolver.fetch_text(ADDON.getSetting(setting).strip()))
+            channels = resolver.parse_m3u(resolver.fetch_text(ADDON.getSetting(setting).strip()))
+            break
         except Exception as exc:
             error = exc
-    xbmcgui.Dialog().notification("Telugu Live", "Playlist error: %s" % error,
-                                  xbmcgui.NOTIFICATION_ERROR, 5000)
-    return []
+    if channels is None:
+        xbmcgui.Dialog().notification("Telugu Live", "Playlist error: %s" % error,
+                                      xbmcgui.NOTIFICATION_ERROR, 5000)
+        channels = []
+    # Optional playlist of your own, mixed in with the public channels
+    extra = ADDON.getSetting("extra_playlist").strip()
+    if extra:
+        try:
+            mine = resolver.parse_m3u(resolver.read_playlist(extra))
+            for ch in mine:
+                lang = ch["attrs"].get("tvg-language") or ch["attrs"].get("group-title") or "My playlist"
+                ch["attrs"]["tvg-language"] = lang
+            channels = mine + channels
+        except Exception as exc:
+            xbmcgui.Dialog().notification("Telugu Live", "Extra playlist not loaded: %s" % exc,
+                                          xbmcgui.NOTIFICATION_WARNING, 5000)
+    return channels
 
 
 def languages_of(channels):
@@ -84,9 +99,6 @@ def add_folder(label, **params):
 
 
 def main_menu(channels):
-    xbmcplugin.addDirectoryItem(
-        HANDLE, build_url(action="setup_pvr"),
-        xbmcgui.ListItem(label="[B]Set up Live TV (IPTV Simple Client)[/B]  - all channels in TV / Channels"), False)
     hd_total = len(view(channels, ALL, True))
     add_folder("[B]HD channels[/B]  (%d)" % hd_total, action="langs", hd="1")
     add_folder("[B]All channels[/B]  (%d)" % len(view(channels, ALL, False)), action="list", lang=ALL, hd="0")
@@ -95,6 +107,7 @@ def main_menu(channels):
     order = sorted(counts, key=lambda l: (l == "Other", l != "Telugu", -counts[l], l))
     for lang in order:
         add_folder("%s  (%d)" % (lang, counts[lang]), action="list", lang=lang, hd="0")
+    add_folder("[COLOR gray]Load all channels into Kodi's TV section[/COLOR]", action="pvr")
     xbmcplugin.endOfDirectory(HANDLE)
 
 
@@ -146,9 +159,9 @@ def main():
     if action == "play":
         play(ARGS["key"], ARGS.get("label", ARGS["key"]))
         return
-    if action == "setup_pvr":
-        import pvr_setup
-        pvr_setup.run()
+    if action == "pvr":
+        ok, message = pvr_setup.configure(ADDON.getSetting("pvr_playlist").strip())
+        xbmcgui.Dialog().ok("Telugu Live", message)
         xbmcplugin.endOfDirectory(HANDLE, succeeded=False)
         return
     channels = load_channels()

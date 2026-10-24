@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Live TV Hub</title>
+<style>
+  :root { --bg:#0b0d12; --panel:#141821; --line:#232938; --text:#e8ebf3; --muted:#8b93a7; --accent:#ffb020; --accent-ink:#1a1200; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { margin: 0 0 4px; font-size: 28px; }
+  h2 { margin: 28px 0 8px; font-size: 17px; }
+  p { margin: 0 0 10px; color: var(--muted); }
+  .hero { display: flex; gap: 10px; flex-wrap: wrap; margin: 18px 0 0; }
+  a.btn { display: inline-block; padding: 11px 18px; border-radius: 10px; background: var(--accent); color: var(--accent-ink);
+          font-weight: 600; text-decoration: none; }
+  a.btn.alt { background: var(--panel); color: var(--text); border: 1px solid var(--line); }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; }
+  .row { display: flex; gap: 8px; align-items: center; padding: 8px 0; border-top: 1px solid var(--line); }
+  .row:first-child { border-top: 0; }
+  .row .what { flex: 1; min-width: 0; }
+  .row .what b { display: block; font-weight: 600; }
+  .row .what span { color: var(--muted); font-size: 13px; }
+  code { display: block; overflow-wrap: anywhere; font: 12px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; color: #c9d1e3; margin-top: 2px; }
+  button { background: var(--bg); color: var(--text); border: 1px solid var(--line); border-radius: 8px; padding: 7px 12px; font: inherit; cursor: pointer; flex: none; }
+  ol { margin: 0; padding-left: 20px; color: var(--muted); } ol li { margin: 4px 0; } ol b { color: var(--text); }
+  #stats { color: var(--muted); font-size: 13px; margin-top: 10px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Live TV Hub</h1>
+  <p>Free Indian live TV in every language, tested every 5 minutes.</p>
+  <div class="hero">
+    <a class="btn" href="player.html">Watch in the browser</a>
+    <a class="btn alt" href="player.html?hd=1">HD channels</a>
+    <a class="btn alt" href="repository.telugulive.zip" download>Download Kodi repository (.zip)</a>
+  </div>
+  <div id="stats"></div>
+
+  <h2>Playlists</h2>
+  <div class="card" id="lists"></div>
+
+  <h2>Install in Kodi</h2>
+  <div class="card">
+    <p><a class="btn" href="repository.telugulive.zip" download>Download repository.telugulive.zip</a></p>
+    <ol>
+      <li>Settings &gt; System &gt; Add-ons &gt; turn on <b>Unknown sources</b>.</li>
+      <li>Add-ons &gt; Install from zip file. Either pick the downloaded <b>repository.telugulive.zip</b> from your device, or
+        add a source first: Settings &gt; File manager &gt; Add source &gt; enter <b id="site"></b></li>
+      <li>Install from repository &gt; Telugu Live Repository &gt; Video add-ons &gt; <b>Telugu Live</b> &gt; Install.</li>
+      <li>About 20 seconds after Kodi starts, answer <b>Yes</b> to "Load all channels into Kodi's TV section". Every channel then appears under <b>TV</b>, grouped by language.</li>
+    </ol>
+    <p style="margin-top:10px">Kodi on a TV box or phone: download the zip on that device, or copy it there with a USB drive. Kodi reads it from Downloads.</p>
+  </div>
+</main>
+<script>
+(function () {
+  var here = location.href.replace(/[?#].*$/, "").replace(/[^\/]*$/, "");   // address of this folder, ends with /
+  var m = /^([^.]+)\.github\.io$/i.exec(location.hostname), repo = location.pathname.split("/")[1];
+  var raw = m && repo ? "https://raw.githubusercontent.com/" + m[1] + "/" + repo + "/main/" : "";
+  document.getElementById("site").textContent = here;
+
+  var items = [
+    ["channels_pvr.m3u", "Kodi IPTV Simple Client", "One link per channel, grouped by language, includes India-only channels"],
+    ["channels_hd.m3u", "HD channels", "720p and up, one link per channel"],
+    ["channels.m3u", "All working links", "Several links per channel"],
+    ["telugu_pvr.m3u", "Telugu only (for Kodi)", "Per-language working links: languages/hindi.m3u, tamil.m3u, ..."]
+  ];
+  var box = document.getElementById("lists");
+  items.forEach(function (it) {
+    var url = raw + it[0];
+    var row = document.createElement("div"); row.className = "row";
+    row.innerHTML = '<div class="what"><b></b><span></span><code></code></div>';
+    row.querySelector("b").textContent = it[1];
+    row.querySelector("span").textContent = it[2];
+    row.querySelector("code").textContent = url || it[0];
+    var btn = document.createElement("button"); btn.type = "button"; btn.textContent = "Copy";
+    btn.onclick = function () {
+      var done = function () { btn.textContent = "Copied"; setTimeout(function () { btn.textContent = "Copy"; }, 1500); };
+      if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, function () {});
+    };
+    row.appendChild(btn); box.appendChild(row);
+  });
+
+  if (raw) fetch(raw + "status.json", { cache: "no-store" }).then(function (r) { return r.json(); }).then(function (s) {
+    document.getElementById("stats").textContent = s.working + " working streams, " + s.hd_channels + " HD channels, " +
+      Object.keys(s.languages || {}).length + " languages. Last change: " + s.updated_at + ".";
+  }).catch(function () {});
+})();
+</script>
+</body>
+</html>
