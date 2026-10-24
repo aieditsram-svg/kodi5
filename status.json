@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 14:08 UTC",
-  "fingerprint": "72a856e1f02479d0a1dd34a8c4c2d2a9",
+  "updated_at": "2026-10-24 14:34 UTC",
+  "fingerprint": "390580a68df2e5096b2e0bbd5ce03d1e",
   "total": 1323,
-  "working": 1149,
-  "in_grace_period": 12,
-  "dead": 174,
-  "hd_channels": 611,
+  "working": 1148,
+  "in_grace_period": 5,
+  "dead": 175,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 104,
-      "working": 80,
+      "working": 81,
       "hd": 46
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 429,
-      "hd": 228
+      "working": 427,
+      "hd": 229
     },
     "Kannada": {
       "total": 69,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 104,
-      "working": 86,
+      "working": 87,
       "hd": 44
     },
     "Marathi": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 87,
+      "working": 86,
       "hd": 47
     },
     "Santali": {
@@ -132,6 +132,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -320,11 +325,6 @@
       "reason": "HTTP 401"
     },
     {
-      "name": "Vision (576p)",
-      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
@@ -367,6 +367,11 @@
     {
       "name": "Sadhna News Madhya Pradesh/Chhattisgarh (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "IBC 24 (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -557,17 +562,12 @@
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Sony Max (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-      "reason": "HTTP 429"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
+      "reason": "HTTP 456"
     },
     {
       "name": "National Geographic (576p) [Geo-blocked]",
@@ -608,6 +608,11 @@
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "World Punjabi TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Mahimai TV (576p)",
