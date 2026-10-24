@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 12:06 UTC",
-  "fingerprint": "17d1dc2f35c452473b41665bbb6bbdb9",
+  "updated_at": "2026-10-24 12:39 UTC",
+  "fingerprint": "27328dc81daa96a473a214b1d59118d1",
   "total": 1323,
   "working": 1160,
-  "in_grace_period": 23,
+  "in_grace_period": 29,
   "dead": 163,
-  "hd_channels": 615,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 104,
-      "working": 82,
+      "working": 81,
       "hd": 46
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 529,
       "working": 437,
-      "hd": 232
+      "hd": 229
     },
     "Kannada": {
       "total": 69,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 2,
-      "working": 1,
-      "hd": 1
+      "working": 2,
+      "hd": 2
     },
     "Malayalam": {
       "total": 104,
@@ -117,7 +117,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 403"
     },
     {
       "name": "Aaj Tak (1080p)",
@@ -133,11 +133,6 @@
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Bansal News (720p)",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-      "reason": "HTTP 401"
     },
     {
       "name": "DD National HD (576p)",
@@ -255,11 +250,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "RDX Goa (720p) [Geo-blocked]",
-      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "HTTP 401"
-    },
-    {
       "name": "Shekinah TV (1080p)",
       "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -368,6 +358,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -527,12 +522,12 @@
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Sony Max (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "National Geographic (576p) [Geo-blocked]",
@@ -753,6 +748,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
