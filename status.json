@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 16:12 UTC",
-  "fingerprint": "4e2e6435a6321a5ef734403ad952d77e",
+  "updated_at": "2026-10-24 16:42 UTC",
+  "fingerprint": "ed899a772f62cefe5399c1bf8bbeb3e5",
   "total": 1323,
-  "working": 1148,
-  "in_grace_period": 8,
-  "dead": 175,
-  "hd_channels": 611,
+  "working": 1149,
+  "in_grace_period": 3,
+  "dead": 174,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 428,
-      "hd": 228
+      "working": 429,
+      "hd": 230
     },
     "Kannada": {
       "total": 69,
@@ -235,6 +235,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Good News Today (720p)",
+      "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
@@ -418,11 +423,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -902,11 +902,6 @@
     {
       "name": "Sony Entertainment Television (576p)",
       "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sony Max HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
