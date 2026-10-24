@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 11:40 UTC",
-  "fingerprint": "b8c54e170daa78446557d14147b4b4b9",
+  "updated_at": "2026-10-24 12:06 UTC",
+  "fingerprint": "17d1dc2f35c452473b41665bbb6bbdb9",
   "total": 1323,
   "working": 1160,
-  "in_grace_period": 5,
+  "in_grace_period": 23,
   "dead": 163,
-  "hd_channels": 614,
+  "hd_channels": 615,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 529,
       "working": 437,
-      "hd": 231
+      "hd": 232
     },
     "Kannada": {
       "total": 69,
@@ -277,7 +277,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -527,12 +527,12 @@
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Sony Max (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "National Geographic (576p) [Geo-blocked]",
