@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-24 15:53 UTC",
-  "fingerprint": "933cb6a24a610e25945bf84d3845fa58",
+  "updated_at": "2026-10-24 16:12 UTC",
+  "fingerprint": "4e2e6435a6321a5ef734403ad952d77e",
   "total": 1323,
   "working": 1148,
-  "in_grace_period": 14,
+  "in_grace_period": 8,
   "dead": 175,
-  "hd_channels": 610,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
-      "working": 24,
+      "working": 23,
       "hd": 12
     },
     "Bengali": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 148,
-      "working": 122,
-      "hd": 64
+      "working": 123,
+      "hd": 65
     },
     "Gujarati": {
       "total": 24,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 529,
       "working": 428,
-      "hd": 229
+      "hd": 228
     },
     "Kannada": {
       "total": 69,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 2,
-      "working": 0,
-      "hd": 0
+      "working": 1,
+      "hd": 1
     },
     "Malayalam": {
       "total": 104,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 173,
       "working": 138,
-      "hd": 73
+      "hd": 74
     },
     "Telugu": {
       "total": 158,
@@ -137,6 +137,11 @@
     {
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -262,17 +267,12 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News 24 (576p)",
       "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Prudent Media (1080p)",
-      "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -297,7 +297,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -410,21 +410,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -462,6 +447,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -593,6 +583,11 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Gyandarshan HD (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BVG (576p)",
@@ -907,6 +902,11 @@
     {
       "name": "Sony Entertainment Television (576p)",
       "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sony Max HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
