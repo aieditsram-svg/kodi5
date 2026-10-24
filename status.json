@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 17:34 UTC",
-  "fingerprint": "f8eb151aadc99dad1ed4a4c304e0c380",
+  "updated_at": "2026-10-24 17:58 UTC",
+  "fingerprint": "1a7c53a22311c3eedf9dd6d73b41d68e",
   "total": 1323,
-  "working": 1157,
-  "in_grace_period": 8,
-  "dead": 166,
-  "hd_channels": 616,
+  "working": 1155,
+  "in_grace_period": 11,
+  "dead": 168,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 435,
-      "hd": 233
+      "working": 433,
+      "hd": 230
     },
     "Kannada": {
       "total": 69,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 173,
       "working": 138,
-      "hd": 74
+      "hd": 73
     },
     "Telugu": {
       "total": 158,
@@ -390,6 +390,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -397,6 +402,11 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
