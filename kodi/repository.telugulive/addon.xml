@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.telugulive" name="Telugu Live Repository" version="1.0.1" provider-name="Telugu Live">
+  <extension point="xbmc.addon.repository" name="Telugu Live Repository">
+    <dir>
+      <info compressed="false">{{RAW_URL}}/addons.xml</info>
+      <checksum>{{RAW_URL}}/addons.xml.md5</checksum>
+      <datadir zip="true">{{RAW_URL}}/zips/</datadir>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Telugu Live add-on repository</summary>
+    <description lang="en_GB">Hosts the Telugu Live video add-on, which plays an auto-updating playlist of working free-to-air Telugu TV channels.</description>
+    <platform>all</platform>
+    <license>GPL-3.0-only</license>
+  </extension>
+</addon>
