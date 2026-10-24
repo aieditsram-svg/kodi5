@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 11:02 UTC",
-  "fingerprint": "cd603498cfd37fcdee4672a139076847",
+  "updated_at": "2026-10-24 11:03 UTC",
+  "fingerprint": "cf33dce7ae082faffad642f995abb770",
   "total": 1323,
-  "working": 1145,
-  "in_grace_period": 0,
-  "dead": 178,
-  "hd_channels": 612,
+  "working": 1149,
+  "in_grace_period": 3,
+  "dead": 174,
+  "hd_channels": 614,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 431,
-      "hd": 231
+      "working": 433,
+      "hd": 232
     },
     "Kannada": {
       "total": 69,
@@ -59,7 +59,7 @@
     },
     "Marathi": {
       "total": 41,
-      "working": 30,
+      "working": 31,
       "hd": 20
     },
     "Nepali": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 173,
-      "working": 137,
-      "hd": 73
+      "working": 138,
+      "hd": 74
     },
     "Telugu": {
       "total": 158,
@@ -104,11 +104,6 @@
     }
   },
   "dead_channels": [
-    {
-      "name": "9X Jhakaas (576p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
-      "reason": "HTTP 404"
-    },
     {
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
@@ -142,11 +137,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -395,11 +385,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "OM TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -422,11 +407,6 @@
     {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -587,7 +567,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
