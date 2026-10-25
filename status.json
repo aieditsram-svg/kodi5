@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 13:58 UTC",
-  "fingerprint": "602dac5ad08361bcb3b928e25e90527b",
+  "updated_at": "2026-10-25 14:21 UTC",
+  "fingerprint": "1d31089b3942e007e9100422dcf080a7",
   "total": 1314,
   "working": 1147,
-  "in_grace_period": 16,
+  "in_grace_period": 10,
   "dead": 167,
-  "hd_channels": 611,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 81,
+      "working": 79,
       "hd": 45
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 120,
-      "hd": 63
+      "working": 121,
+      "hd": 64
     },
     "Gujarati": {
       "total": 24,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 428,
-      "hd": 228
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 2,
-      "working": 0,
-      "hd": 0
+      "working": 1,
+      "hd": 1
     },
     "Malayalam": {
       "total": 100,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 85,
+      "working": 86,
       "hd": 47
     },
     "Santali": {
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 167,
       "working": 135,
-      "hd": 73
+      "hd": 72
     },
     "Telugu": {
       "total": 152,
@@ -265,11 +265,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Prudent Media (1080p)",
-      "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -292,7 +287,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -392,11 +387,6 @@
     {
       "name": "Nagaland TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -553,6 +543,11 @@
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
       "reason": "HTTP 429"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -778,6 +773,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Q TV (576p) [Geo-blocked]",
