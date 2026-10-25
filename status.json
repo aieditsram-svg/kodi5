@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 14:51 UTC",
-  "fingerprint": "12b5cd5b5f1c44d54d0f673def1ba39d",
+  "updated_at": "2026-10-25 15:11 UTC",
+  "fingerprint": "96764e07f416007d6fad7bf8b5e26813",
   "total": 1314,
   "working": 1147,
-  "in_grace_period": 16,
+  "in_grace_period": 7,
   "dead": 167,
-  "hd_channels": 610,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 80,
+      "working": 81,
       "hd": 45
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 426,
-      "hd": 226
+      "hd": 227
     },
     "Kannada": {
       "total": 65,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 167,
-      "working": 135,
+      "working": 134,
       "hd": 73
     },
     "Telugu": {
@@ -282,7 +282,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -542,17 +542,17 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
+      "name": "Mei Alai TV (576p)",
+      "url": "https://meialai.iptelevishion.com/meialai/2/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Nickelodeon (576p)",
