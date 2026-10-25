@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-25 16:35 UTC",
-  "fingerprint": "151e19608aac65463c35536a02248b66",
+  "updated_at": "2026-10-25 17:03 UTC",
+  "fingerprint": "e9a14c5f357ac8b1acd66c1926cdfe6f",
   "total": 1314,
   "working": 1142,
-  "in_grace_period": 12,
+  "in_grace_period": 11,
   "dead": 172,
   "hd_channels": 612,
   "languages": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 80,
+      "working": 79,
       "hd": 45
     },
     "Bhojpuri": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 167,
-      "working": 134,
+      "working": 135,
       "hd": 73
     },
     "Telugu": {
@@ -375,11 +375,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Shemaroo TV (576p)",
       "url": "https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8",
       "reason": "HTTP 404"
@@ -410,13 +405,23 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -462,11 +467,6 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -572,12 +572,17 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
     },
     {
       "name": "Mei Alai TV (576p)",
@@ -627,11 +632,6 @@
     {
       "name": "NH BollyGold (1080p)",
       "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Thendral TV (576p)",
-      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
       "reason": "HTTP 404"
     },
     {
