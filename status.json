@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-25 08:53 UTC",
-  "fingerprint": "a009e03972f76d11254c2f026b68612c",
+  "updated_at": "2026-10-25 09:15 UTC",
+  "fingerprint": "a84b12f2486eb7bffbd32d27b8fbde12",
   "total": 1314,
-  "working": 1154,
-  "in_grace_period": 12,
-  "dead": 160,
-  "hd_channels": 612,
+  "working": 1149,
+  "in_grace_period": 5,
+  "dead": 165,
+  "hd_channels": 614,
   "languages": {
     "Assamese": {
       "total": 28,
-      "working": 24,
+      "working": 23,
       "hd": 12
     },
     "Bengali": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
-      "hd": 229
+      "working": 429,
+      "hd": 230
     },
     "Kannada": {
       "total": 65,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 86,
+      "working": 85,
       "hd": 47
     },
     "Santali": {
@@ -90,11 +90,11 @@
     "Tamil": {
       "total": 167,
       "working": 136,
-      "hd": 72
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
-      "working": 121,
+      "working": 120,
       "hd": 59
     },
     "Urdu": {
@@ -132,6 +132,11 @@
     {
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -213,6 +218,11 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -370,6 +380,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -387,6 +402,11 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -538,6 +558,11 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Gyandarshan HD (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
