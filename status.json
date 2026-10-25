@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 22:45 UTC",
-  "fingerprint": "79fe9781bce371fee28ceb7e56686bf0",
+  "updated_at": "2026-10-25 23:05 UTC",
+  "fingerprint": "6e9f6b650f667b8eaed2a107bb9579a2",
   "total": 1314,
   "working": 1145,
-  "in_grace_period": 12,
+  "in_grace_period": 21,
   "dead": 169,
-  "hd_channels": 609,
+  "hd_channels": 605,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -30,7 +30,7 @@
     "English": {
       "total": 143,
       "working": 120,
-      "hd": 63
+      "hd": 61
     },
     "Gujarati": {
       "total": 24,
@@ -40,12 +40,12 @@
     "Hindi": {
       "total": 519,
       "working": 426,
-      "hd": 228
+      "hd": 227
     },
     "Kannada": {
       "total": 65,
       "working": 51,
-      "hd": 27
+      "hd": 26
     },
     "Konkani": {
       "total": 2,
@@ -292,7 +292,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -400,6 +400,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
@@ -417,11 +422,6 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -562,12 +562,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Mei Alai TV (576p)",
