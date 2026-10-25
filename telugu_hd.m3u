@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Telugu HD channels (720p+), updated 2026-10-25 21:09 UTC
+# Working Telugu HD channels (720p+), updated 2026-10-25 21:35 UTC
 #EXTINF:-1 tvg-id="10TV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",10 TV (720p)
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="4SiDESTV.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" tvg-language="Telugu" group-title="Telugu" height="1080",4 SiDES TV (1080p)
@@ -76,6 +76,8 @@ https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
 #EXTINF:-1 tvg-id="RajMusixTelugu.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s143708_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Raj Musix Telugu (576p)
 https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
+#EXTINF:-1 tvg-id="RajNewsTelugu.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143712_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Raj News Telugu (576p)
+https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8
 #EXTINF:-1 tvg-id="SakshiTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143744_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Sakshi TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlSAKSHITV/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="1080",Sony Pix HD (1080p)
@@ -84,8 +86,8 @@ http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" x-category="movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h.jpg" tvg-language="Telugu" group-title="Telugu" height="720",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-language="Telugu" group-title="Telugu" height="720",Studio One + (720p)
-https://cdn.pishow.tv/ott/live/276/master.m3u8
+#EXTINF:-1 tvg-id="StudioOnePlus.in@SD" x-category="movies" tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-language="Telugu" group-title="Telugu" height="720",Studio One + (576p)
+https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8
 #EXTINF:-1 tvg-id="StudioYuva.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/BOhgz2T.png" tvg-language="Telugu" group-title="Telugu" height="720",Studio Yuva (576p)
 https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8
 #EXTINF:-1 tvg-id="SubhavaarthaTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143869_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Subhavaartha TV (720p)

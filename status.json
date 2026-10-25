@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 21:09 UTC",
-  "fingerprint": "10d519ff2a042fdafdad424a401fa834",
+  "updated_at": "2026-10-25 21:35 UTC",
+  "fingerprint": "22f64fffe95fa69cb137bc98b25b933e",
   "total": 1314,
-  "working": 1147,
-  "in_grace_period": 59,
-  "dead": 167,
-  "hd_channels": 584,
+  "working": 1148,
+  "in_grace_period": 10,
+  "dead": 166,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -35,17 +35,17 @@
     "Gujarati": {
       "total": 24,
       "working": 23,
-      "hd": 14
+      "hd": 15
     },
     "Hindi": {
       "total": 519,
-      "working": 427,
-      "hd": 219
+      "working": 428,
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
       "working": 51,
-      "hd": 24
+      "hd": 27
     },
     "Konkani": {
       "total": 2,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 100,
       "working": 86,
-      "hd": 39
+      "hd": 43
     },
     "Marathi": {
       "total": 37,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 88,
       "working": 86,
-      "hd": 46
+      "hd": 47
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 167,
       "working": 134,
-      "hd": 65
+      "hd": 72
     },
     "Telugu": {
       "total": 152,
       "working": 121,
-      "hd": 58
+      "hd": 59
     },
     "Urdu": {
       "total": 13,
@@ -132,7 +132,7 @@
     {
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Bansal News (720p)",
@@ -267,7 +267,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -292,7 +292,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -358,11 +358,6 @@
       "name": "Zee South Flix (1080p)",
       "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Shemaroo TV (576p)",
@@ -432,6 +427,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -582,7 +582,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -783,11 +783,6 @@
       "name": "Shemaroo TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
