@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 00:41 UTC",
-  "fingerprint": "6683615080c8f0f1705cb363caef725c",
+  "updated_at": "2026-10-25 01:17 UTC",
+  "fingerprint": "ff870cb2a6b64578a17717f5dbb294fb",
   "total": 1314,
-  "working": 1152,
-  "in_grace_period": 11,
-  "dead": 162,
-  "hd_channels": 614,
+  "working": 1151,
+  "in_grace_period": 12,
+  "dead": 163,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
-      "hd": 231
+      "working": 430,
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -277,7 +277,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -517,7 +517,7 @@
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -847,6 +847,11 @@
     {
       "name": "Sony Entertainment Television (576p)",
       "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sony Max HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
