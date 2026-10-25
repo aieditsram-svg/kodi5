@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 01:48 UTC",
-  "fingerprint": "dfe3de24a2d14f26f3f22323cd318015",
+  "updated_at": "2026-10-25 02:14 UTC",
+  "fingerprint": "b74313b6a01aa313214d605048f3f793",
   "total": 1314,
-  "working": 1151,
-  "in_grace_period": 29,
-  "dead": 163,
-  "hd_channels": 612,
+  "working": 1148,
+  "in_grace_period": 11,
+  "dead": 166,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 430,
-      "hd": 230
+      "working": 428,
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -90,11 +90,11 @@
     "Tamil": {
       "total": 167,
       "working": 136,
-      "hd": 72
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
-      "working": 121,
+      "working": 120,
       "hd": 59
     },
     "Urdu": {
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -210,6 +215,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -277,7 +287,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -522,12 +532,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -568,6 +578,11 @@
       "name": "NH BollyGold (1080p)",
       "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Swastik TV (720p)",
+      "url": "https://server.playontv.in/swastiktv/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "ETV Andhra Pradesh (1080p)",
