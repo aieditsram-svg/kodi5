@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-25 17:03 UTC",
-  "fingerprint": "e9a14c5f357ac8b1acd66c1926cdfe6f",
+  "updated_at": "2026-10-25 17:28 UTC",
+  "fingerprint": "64baf833eed1aabbcee71e03a3cb4b27",
   "total": 1314,
-  "working": 1142,
+  "working": 1141,
   "in_grace_period": 11,
-  "dead": 172,
+  "dead": 173,
   "hd_channels": 612,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 425,
+      "working": 424,
       "hd": 228
     },
     "Kannada": {
@@ -385,11 +385,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sadhna News Madhya Pradesh/Chhattisgarh (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 404"
@@ -405,14 +400,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Dangal TV (576p)",
@@ -422,6 +417,16 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -602,7 +607,7 @@
     {
       "name": "BVG (576p)",
       "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
