@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 04:50 UTC",
-  "fingerprint": "441920b218a92b9ba05ccf2c26aa10b1",
+  "updated_at": "2026-10-25 05:16 UTC",
+  "fingerprint": "27fbbe8e2d27a658ac495e2e069adc61",
   "total": 1314,
-  "working": 1148,
-  "in_grace_period": 9,
-  "dead": 166,
-  "hd_channels": 611,
+  "working": 1150,
+  "in_grace_period": 18,
+  "dead": 164,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 100,
       "working": 80,
-      "hd": 44
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 23,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 24,
-      "working": 22,
+      "working": 23,
       "hd": 15
     },
     "Hindi": {
       "total": 519,
-      "working": 428,
-      "hd": 228
+      "working": 429,
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -393,16 +393,6 @@
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Bansal News (576p)",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Mantavya News (576p)",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "YET TV (720p)",
