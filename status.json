@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 19:39 UTC",
-  "fingerprint": "3bf740cffff573ddf9c8138fe999579c",
+  "updated_at": "2026-10-25 19:59 UTC",
+  "fingerprint": "14ec779e1f4dd25b43f74a9c54121ac0",
   "total": 1314,
-  "working": 1152,
-  "in_grace_period": 12,
-  "dead": 162,
-  "hd_channels": 612,
+  "working": 1147,
+  "in_grace_period": 11,
+  "dead": 167,
+  "hd_channels": 608,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 100,
       "working": 81,
-      "hd": 45
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 23,
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
-      "hd": 229
+      "working": 427,
+      "hd": 227
     },
     "Kannada": {
       "total": 65,
-      "working": 52,
+      "working": 51,
       "hd": 27
     },
     "Konkani": {
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 167,
       "working": 134,
-      "hd": 72
+      "hd": 71
     },
     "Telugu": {
       "total": 152,
@@ -272,7 +272,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -297,7 +297,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -365,6 +365,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Dangal TV (576p)",
+      "url": "https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Shemaroo TV (576p)",
       "url": "https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8",
       "reason": "HTTP 404"
@@ -372,6 +377,11 @@
     {
       "name": "APN (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Darshan 24 (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2DARSHAN24/index.m3u8",
       "reason": "TimeoutError"
     },
     {
@@ -388,6 +398,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -685,6 +700,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Republic Kannada (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Thanthi One (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8",
       "reason": "TimeoutError"
@@ -748,6 +768,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
