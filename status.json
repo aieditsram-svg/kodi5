@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 09:46 UTC",
-  "fingerprint": "3c204a37e6f90d955996982db59bc144",
+  "updated_at": "2026-10-25 10:10 UTC",
+  "fingerprint": "278ed28d08717865bc3b6b3b17bfad83",
   "total": 1314,
-  "working": 1153,
-  "in_grace_period": 9,
-  "dead": 161,
-  "hd_channels": 615,
+  "working": 1154,
+  "in_grace_period": 12,
+  "dead": 160,
+  "hd_channels": 614,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 430,
-      "hd": 231
+      "working": 431,
+      "hd": 230
     },
     "Kannada": {
       "total": 65,
@@ -375,11 +375,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -522,7 +517,7 @@
     {
       "name": "Sony Pal (576p)",
       "url": "http://59.103.38.46:8000/play/a0ac/index.m3u8",
-      "reason": "RemoteDisconnected"
+      "reason": "HTTP 403"
     },
     {
       "name": "StarPlus HD (1080p)",
