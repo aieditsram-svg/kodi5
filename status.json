@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 22:15 UTC",
-  "fingerprint": "cdbbb06ecb18f81972bc1b5722c3709d",
+  "updated_at": "2026-10-26 22:51 UTC",
+  "fingerprint": "6d621099ec8ae1dbfc9d9fce9260eb7c",
   "total": 1315,
-  "working": 1155,
-  "in_grace_period": 5,
-  "dead": 160,
-  "hd_channels": 607,
+  "working": 1157,
+  "in_grace_period": 9,
+  "dead": 158,
+  "hd_channels": 608,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 430,
-      "hd": 225
+      "working": 432,
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
@@ -277,7 +277,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -368,11 +368,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -837,11 +832,6 @@
     {
       "name": "Sony Entertainment Television (576p)",
       "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sony Max HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
