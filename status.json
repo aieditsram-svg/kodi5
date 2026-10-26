@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-26 16:17 UTC",
-  "fingerprint": "55d047586851e2d2ba8a0451c2345459",
+  "updated_at": "2026-10-26 17:01 UTC",
+  "fingerprint": "efb0ba86c9070a78356785e53e9a70e9",
   "total": 1315,
-  "working": 1150,
-  "in_grace_period": 33,
-  "dead": 165,
-  "hd_channels": 609,
+  "working": 1146,
+  "in_grace_period": 17,
+  "dead": 169,
+  "hd_channels": 610,
   "languages": {
     "Assamese": {
       "total": 28,
       "working": 23,
-      "hd": 11
+      "hd": 12
     },
     "Bengali": {
       "total": 100,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 429,
-      "hd": 226
+      "working": 426,
+      "hd": 225
     },
     "Kannada": {
       "total": 65,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 86,
+      "working": 85,
       "hd": 47
     },
     "Santali": {
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 152,
       "working": 120,
-      "hd": 58
+      "hd": 59
     },
     "Urdu": {
       "total": 13,
@@ -395,13 +395,28 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -552,12 +567,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -597,12 +612,17 @@
     {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "World Punjabi TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "KBP Times (1080p)",
+      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mahimai TV (576p)",
