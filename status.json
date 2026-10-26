@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 05:42 UTC",
-  "fingerprint": "05ef87eb02b8c43bf331e2af64154a6c",
+  "updated_at": "2026-10-26 06:16 UTC",
+  "fingerprint": "c68fa492a32977446b5d354d4906f870",
   "total": 1315,
   "working": 1150,
-  "in_grace_period": 8,
+  "in_grace_period": 11,
   "dead": 165,
-  "hd_channels": 610,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 136,
-      "hd": 72
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
@@ -372,12 +372,12 @@
     {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -538,6 +538,11 @@
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
       "reason": "HTTP 458"
+    },
+    {
+      "name": "India Voice (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mei Alai TV (576p)",
@@ -762,7 +767,7 @@
     {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Q TV (576p) [Geo-blocked]",
@@ -772,7 +777,7 @@
     {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -798,11 +803,6 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "M Nadu TV (576p)",
