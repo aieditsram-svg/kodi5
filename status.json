@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-26 07:11 UTC",
-  "fingerprint": "5a8300717ece4327a1a125d4bde1eca1",
+  "updated_at": "2026-10-26 07:58 UTC",
+  "fingerprint": "3d9fa38dfa265deff8f5a8abeb2713b7",
   "total": 1315,
-  "working": 1156,
-  "in_grace_period": 13,
-  "dead": 159,
+  "working": 1157,
+  "in_grace_period": 25,
+  "dead": 158,
   "hd_channels": 615,
   "languages": {
     "Assamese": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 433,
-      "hd": 230
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 2,
-      "working": 1,
-      "hd": 1
+      "working": 2,
+      "hd": 2
     },
     "Malayalam": {
       "total": 100,
@@ -117,7 +117,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 403"
     },
     {
       "name": "Aaj Tak (1080p)",
@@ -133,11 +133,6 @@
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Bansal News (720p)",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-      "reason": "HTTP 401"
     },
     {
       "name": "DD National HD (576p)",
@@ -258,11 +253,6 @@
       "name": "News 24 (720p)",
       "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "RDX Goa (720p) [Geo-blocked]",
-      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "HTTP 401"
     },
     {
       "name": "Shekinah TV (1080p)",
@@ -390,6 +380,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -412,6 +407,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -748,11 +748,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
