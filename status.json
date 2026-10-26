@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-26 13:41 UTC",
-  "fingerprint": "59a26d612a516d504dca287c87472a9e",
+  "updated_at": "2026-10-26 15:20 UTC",
+  "fingerprint": "405bf26cd61817906633f6ef16a59b0f",
   "total": 1315,
-  "working": 1160,
-  "in_grace_period": 23,
-  "dead": 155,
+  "working": 1159,
+  "in_grace_period": 17,
+  "dead": 156,
   "hd_channels": 610,
   "languages": {
     "Assamese": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 123,
-      "hd": 65
+      "working": 122,
+      "hd": 64
     },
     "Gujarati": {
       "total": 24,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 434,
+      "working": 433,
       "hd": 225
     },
     "Kannada": {
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 138,
-      "hd": 74
+      "working": 137,
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
-      "working": 120,
-      "hd": 59
+      "working": 119,
+      "hd": 58
     },
     "Urdu": {
       "total": 13,
@@ -812,6 +812,11 @@
     {
       "name": "Sonic (576p)",
       "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sony Pix HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
