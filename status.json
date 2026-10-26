@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-26 11:23 UTC",
-  "fingerprint": "f1379f577d23b2735628890c92948007",
+  "updated_at": "2026-10-26 13:41 UTC",
+  "fingerprint": "59a26d612a516d504dca287c87472a9e",
   "total": 1315,
-  "working": 1152,
-  "in_grace_period": 6,
-  "dead": 163,
+  "working": 1160,
+  "in_grace_period": 23,
+  "dead": 155,
   "hd_channels": 610,
   "languages": {
     "Assamese": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 121,
-      "hd": 63
+      "working": 123,
+      "hd": 65
     },
     "Gujarati": {
       "total": 24,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 429,
-      "hd": 226
+      "working": 434,
+      "hd": 225
     },
     "Kannada": {
       "total": 65,
@@ -65,7 +65,7 @@
     "Nepali": {
       "total": 4,
       "working": 4,
-      "hd": 2
+      "hd": 1
     },
     "Odia": {
       "total": 27,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 137,
-      "hd": 73
+      "working": 138,
+      "hd": 74
     },
     "Telugu": {
       "total": 152,
-      "working": 119,
+      "working": 120,
       "hd": 59
     },
     "Urdu": {
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ANB News (720p)",
-      "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -220,11 +215,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -237,11 +227,6 @@
     {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -270,11 +255,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -297,7 +277,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -383,11 +363,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Movies (576p)",
@@ -537,12 +512,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -577,11 +552,6 @@
     {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Vistaar News (1080p)",
-      "url": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -775,11 +745,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -792,11 +757,6 @@
     {
       "name": "Prarthana Bhawan TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
