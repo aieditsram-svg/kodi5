@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 04:31 UTC",
-  "fingerprint": "8dd6886fa1e5d7e64592d81cd596cd00",
+  "updated_at": "2026-10-26 05:10 UTC",
+  "fingerprint": "43b41136a7cb721ef8e9eb57dfd18aa9",
   "total": 1315,
-  "working": 1148,
-  "in_grace_period": 9,
-  "dead": 167,
-  "hd_channels": 611,
+  "working": 1150,
+  "in_grace_period": 8,
+  "dead": 165,
+  "hd_channels": 610,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 429,
-      "hd": 228
+      "working": 430,
+      "hd": 227
     },
     "Kannada": {
       "total": 65,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 152,
-      "working": 119,
+      "working": 120,
       "hd": 59
     },
     "Urdu": {
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -208,11 +213,6 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -350,11 +350,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "APN (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8",
       "reason": "TimeoutError"
@@ -380,11 +375,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
@@ -392,6 +382,11 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -777,11 +772,6 @@
     {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/index.m3u8",
       "reason": "TimeoutError"
     },
     {
