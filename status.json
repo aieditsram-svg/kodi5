@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26 05:10 UTC",
-  "fingerprint": "43b41136a7cb721ef8e9eb57dfd18aa9",
+  "updated_at": "2026-10-26 05:42 UTC",
+  "fingerprint": "05ef87eb02b8c43bf331e2af64154a6c",
   "total": 1315,
   "working": 1150,
   "in_grace_period": 8,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 100,
       "working": 80,
-      "hd": 44
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 23,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 136,
-      "hd": 73
+      "hd": 72
     },
     "Telugu": {
       "total": 152,
@@ -527,12 +527,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
