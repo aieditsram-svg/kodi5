@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-26 17:37 UTC",
-  "fingerprint": "dfaaa4fd2d8481fb016e7a64d012617c",
+  "updated_at": "2026-10-26 18:15 UTC",
+  "fingerprint": "43fbc457b583b6cdd543f9cf251d630e",
   "total": 1315,
   "working": 1152,
-  "in_grace_period": 6,
+  "in_grace_period": 12,
   "dead": 163,
   "hd_channels": 612,
   "languages": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 123,
-      "hd": 65
+      "working": 122,
+      "hd": 64
     },
     "Gujarati": {
       "total": 24,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 430,
-      "hd": 228
+      "working": 429,
+      "hd": 227
     },
     "Kannada": {
       "total": 65,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 37,
       "working": 30,
-      "hd": 18
+      "hd": 19
     },
     "Nepali": {
       "total": 4,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 152,
-      "working": 118,
+      "working": 119,
       "hd": 59
     },
     "Urdu": {
@@ -205,11 +205,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -228,11 +223,6 @@
       "name": "ETV Telangana (1080p)",
       "url": "https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Fateh TV (1080p) [Not 24/7]",
-      "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Good News Today (720p)",
@@ -287,7 +277,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -377,6 +367,11 @@
     {
       "name": "9X Tashan (576p)",
       "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -542,12 +537,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -797,6 +792,11 @@
     {
       "name": "Prarthana Bhawan TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
