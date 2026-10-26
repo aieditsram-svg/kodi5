@@ -1,5 +1,5 @@
 #EXTM3U
-# Working HD channels (720p+), all languages, updated 2026-10-26 20:12 UTC
+# Working HD channels (720p+), all languages, updated 2026-10-26 20:44 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="NewsLive.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143595_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="1080",News Live (576p)
@@ -451,6 +451,8 @@ https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8
 #EXTINF:-1 tvg-id="GreenGoldTV.in@India" x-category="kids" tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" tvg-language="Hindi" group-title="Hindi" height="1080",Green Gold TV (1080p)
 https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8
+#EXTINF:-1 tvg-id="Gyandarshan.in@HD" x-category="education" tvg-logo="https://dtil.tmsimg.com/assets/s143100_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Gyandarshan HD (576p)
+https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
 #EXTINF:-1 tvg-id="HareKrsnaTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143102_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Hare Krsna TV (1080p)
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 #EXTINF:-1 tvg-id="HindiHits.in@SD" x-category="music" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" tvg-language="Hindi" group-title="Hindi" height="720",Hindi Hits (720p)
@@ -698,8 +700,6 @@ https://stream.ottlive.co.in/tv7bharat/index.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="UniqueTV.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png" tvg-language="Hindi" group-title="Hindi" height="720",Unique TV (576p)
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
-#EXTINF:-1 tvg-id="UPNOW.in@SD" x-category="news" tvg-logo="https://papaji.freetvindia.com/media/channels/Upnow.png" tvg-language="Hindi" group-title="Hindi" height="720",UP NOW (720p)
-http://45.122.122.61:8080/UPNOW/video.m3u8
 #EXTINF:-1 tvg-id="Vedic.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Vedic (576p)
 https://mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8
 #EXTINF:-1 tvg-id="VistaarNews.in@SD" x-category="news" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENaovfkLYBJSYXeQwImkwXOorLvGyRcF3ZbCQshsWNEshT7aOJlQqEdnqzhjRusmztSo&usqp=CAU" tvg-language="Hindi" group-title="Hindi" height="1080",Vistaar News (1080p)
