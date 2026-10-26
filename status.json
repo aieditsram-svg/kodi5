@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 00:06 UTC",
-  "fingerprint": "3acaf9ce16360ef61566d57b3421d785",
-  "total": 1314,
-  "working": 1138,
-  "in_grace_period": 12,
-  "dead": 176,
-  "hd_channels": 601,
+  "updated_at": "2026-10-26 00:57 UTC",
+  "fingerprint": "cf40017e78d6965a2b1602c0d6eb5181",
+  "total": 1315,
+  "working": 1142,
+  "in_grace_period": 8,
+  "dead": 173,
+  "hd_channels": 602,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -30,7 +30,7 @@
     "English": {
       "total": 143,
       "working": 120,
-      "hd": 63
+      "hd": 62
     },
     "Gujarati": {
       "total": 24,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 424,
-      "hd": 225
+      "working": 427,
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
@@ -88,9 +88,9 @@
       "hd": 0
     },
     "Tamil": {
-      "total": 167,
-      "working": 134,
-      "hd": 71
+      "total": 168,
+      "working": 135,
+      "hd": 72
     },
     "Telugu": {
       "total": 152,
@@ -133,6 +133,11 @@
       "name": "ANB News (720p)",
       "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bansal News (720p)",
@@ -255,11 +260,6 @@
       "reason": "URLError"
     },
     {
-      "name": "MNTV (1080p)",
-      "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -302,7 +302,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -380,11 +380,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Darshan 24 (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2DARSHAN24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -395,19 +390,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Movies (576p)",
@@ -447,11 +432,6 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -557,12 +537,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -973,6 +953,11 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
