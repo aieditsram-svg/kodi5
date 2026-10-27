@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 23:47 UTC",
-  "fingerprint": "85045283d639a553e0ca3f8813d098ea",
+  "updated_at": "2026-10-27 00:11 UTC",
+  "fingerprint": "9ae950cfa17db2b75dfaaf738a22db8c",
   "total": 1315,
-  "working": 1152,
-  "in_grace_period": 3,
-  "dead": 163,
-  "hd_channels": 609,
+  "working": 1151,
+  "in_grace_period": 6,
+  "dead": 164,
+  "hd_channels": 608,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 121,
-      "hd": 64
+      "working": 120,
+      "hd": 63
     },
     "Gujarati": {
       "total": 24,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 432,
-      "hd": 227
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
@@ -75,7 +75,7 @@
     "Other": {
       "total": 15,
       "working": 14,
-      "hd": 12
+      "hd": 13
     },
     "Punjabi": {
       "total": 88,
@@ -258,6 +258,11 @@
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
+    },
+    {
+      "name": "NDTV Profit (1080p)",
+      "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News18 Kerala (1080p) [Geo-blocked]",
@@ -542,12 +547,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Nickelodeon (576p)",
