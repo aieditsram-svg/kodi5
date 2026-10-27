@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 11:16 UTC",
-  "fingerprint": "9392cd779adb2a8ef9637d3d3c673f66",
+  "updated_at": "2026-10-27 11:52 UTC",
+  "fingerprint": "977089d3032950f802466ce4ed022566",
   "total": 1315,
-  "working": 1154,
-  "in_grace_period": 13,
-  "dead": 161,
-  "hd_channels": 612,
+  "working": 1148,
+  "in_grace_period": 10,
+  "dead": 167,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 81,
+      "working": 79,
       "hd": 45
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 430,
-      "hd": 227
+      "working": 427,
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 87,
+      "working": 86,
       "hd": 47
     },
     "Santali": {
@@ -137,6 +137,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -380,6 +385,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Kadak (576p)",
       "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
@@ -392,6 +402,11 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -432,6 +447,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -542,12 +562,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -765,9 +785,19 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Q TV (576p) [Geo-blocked]",
@@ -792,7 +822,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
