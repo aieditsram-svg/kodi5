@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27 00:11 UTC",
-  "fingerprint": "9ae950cfa17db2b75dfaaf738a22db8c",
+  "updated_at": "2026-10-27 00:54 UTC",
+  "fingerprint": "aad882f02c03029f6f2314fe266fb05b",
   "total": 1315,
-  "working": 1151,
-  "in_grace_period": 6,
-  "dead": 164,
+  "working": 1150,
+  "in_grace_period": 7,
+  "dead": 165,
   "hd_channels": 608,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 81,
+      "working": 80,
       "hd": 44
     },
     "Bhojpuri": {
@@ -547,12 +547,17 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
