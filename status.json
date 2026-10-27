@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 18:23 UTC",
-  "fingerprint": "146df48b56fef755d5eab18ff0ab3cd2",
+  "updated_at": "2026-10-27 19:11 UTC",
+  "fingerprint": "a00bb689132ca1b06a31e07578f95c4e",
   "total": 1315,
-  "working": 1156,
-  "in_grace_period": 10,
-  "dead": 159,
-  "hd_channels": 614,
+  "working": 1157,
+  "in_grace_period": 22,
+  "dead": 158,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 122,
-      "hd": 64
+      "working": 121,
+      "hd": 63
     },
     "Gujarati": {
       "total": 24,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
+      "working": 432,
       "hd": 228
     },
     "Kannada": {
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 138,
-      "hd": 74
+      "working": 137,
+      "hd": 72
     },
     "Telugu": {
       "total": 152,
-      "working": 120,
-      "hd": 59
+      "working": 119,
+      "hd": 58
     },
     "Urdu": {
       "total": 13,
@@ -390,11 +390,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -543,11 +538,6 @@
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
       "reason": "HTTP 458"
-    },
-    {
-      "name": "India Voice (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -837,6 +827,11 @@
     {
       "name": "Sonic (576p)",
       "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sony Pix HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
