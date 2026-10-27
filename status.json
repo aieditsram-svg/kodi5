@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27 16:20 UTC",
-  "fingerprint": "b04dc501e0e78a7e4c719ec59e31d743",
+  "updated_at": "2026-10-27 17:05 UTC",
+  "fingerprint": "1854ddb64a5443b3751912c8741920ea",
   "total": 1315,
-  "working": 1145,
-  "in_grace_period": 7,
-  "dead": 170,
+  "working": 1146,
+  "in_grace_period": 9,
+  "dead": 169,
   "hd_channels": 610,
   "languages": {
     "Assamese": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 121,
-      "hd": 63
+      "working": 122,
+      "hd": 64
     },
     "Gujarati": {
       "total": 24,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 422,
+      "working": 423,
       "hd": 225
     },
     "Kannada": {
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 136,
-      "hd": 72
+      "working": 137,
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
-      "working": 119,
-      "hd": 58
+      "working": 120,
+      "hd": 59
     },
     "Urdu": {
       "total": 13,
@@ -247,7 +247,7 @@
     {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Joy TV (576p)",
@@ -410,8 +410,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -452,11 +452,6 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -890,13 +885,13 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Sony Pix HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
+      "name": "Sony Entertainment Television (576p)",
+      "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
-      "name": "Sony Entertainment Television (576p)",
-      "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
+      "name": "Sony Max HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
