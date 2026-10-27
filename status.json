@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-27 02:39 UTC",
-  "fingerprint": "0ef9ccb03c3b0b32056795719fe5f643",
+  "updated_at": "2026-10-27 03:14 UTC",
+  "fingerprint": "27695f76d0973a790296caaef0f0f119",
   "total": 1315,
   "working": 1151,
-  "in_grace_period": 13,
+  "in_grace_period": 52,
   "dead": 164,
-  "hd_channels": 608,
+  "hd_channels": 586,
   "languages": {
     "Assamese": {
       "total": 28,
       "working": 24,
-      "hd": 12
+      "hd": 11
     },
     "Bengali": {
       "total": 100,
       "working": 80,
-      "hd": 44
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 23,
       "working": 21,
-      "hd": 12
+      "hd": 11
     },
     "Chhattisgarhi": {
       "total": 2,
@@ -35,17 +35,17 @@
     "Gujarati": {
       "total": 24,
       "working": 22,
-      "hd": 14
+      "hd": 12
     },
     "Hindi": {
       "total": 519,
       "working": 429,
-      "hd": 226
+      "hd": 221
     },
     "Kannada": {
       "total": 65,
       "working": 52,
-      "hd": 27
+      "hd": 26
     },
     "Konkani": {
       "total": 2,
@@ -55,12 +55,12 @@
     "Malayalam": {
       "total": 100,
       "working": 87,
-      "hd": 43
+      "hd": 40
     },
     "Marathi": {
       "total": 37,
       "working": 30,
-      "hd": 19
+      "hd": 18
     },
     "Nepali": {
       "total": 4,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 88,
       "working": 87,
-      "hd": 47
+      "hd": 46
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 74
+      "hd": 71
     },
     "Telugu": {
       "total": 152,
       "working": 120,
-      "hd": 59
+      "hd": 58
     },
     "Urdu": {
       "total": 13,
@@ -127,12 +127,12 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Bansal News (720p)",
@@ -142,7 +142,7 @@
     {
       "name": "DD National HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Dharsan TV (720p)",
@@ -277,7 +277,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -347,12 +347,12 @@
     {
       "name": "Manoranjan Prime (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "APN (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Raj News Kannada (576p)",
@@ -380,8 +380,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -417,7 +417,7 @@
     {
       "name": "Win TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "6 TV Telugu (360p)",
