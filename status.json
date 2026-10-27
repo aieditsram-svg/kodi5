@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 20:57 UTC",
-  "fingerprint": "2fcb11035eb0fedc0ccac869fa6af794",
+  "updated_at": "2026-10-27 21:26 UTC",
+  "fingerprint": "7d35aab41b09055cba05fcdc8fdb5e08",
   "total": 1315,
-  "working": 1155,
-  "in_grace_period": 6,
-  "dead": 160,
-  "hd_channels": 613,
+  "working": 1154,
+  "in_grace_period": 12,
+  "dead": 161,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 24,
-      "working": 23,
-      "hd": 15
+      "working": 22,
+      "hd": 14
     },
     "Hindi": {
       "total": 519,
       "working": 431,
-      "hd": 228
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 88,
       "working": 87,
-      "hd": 47
+      "hd": 46
     },
     "Santali": {
       "total": 1,
@@ -137,6 +137,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -385,11 +390,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -537,12 +537,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -587,6 +587,11 @@
     {
       "name": "NH BollyGold (1080p)",
       "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
