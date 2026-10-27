@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 14:04 UTC",
-  "fingerprint": "89cb3b650645906ec401273957250e47",
+  "updated_at": "2026-10-27 14:50 UTC",
+  "fingerprint": "3451ef08263650c3d12be9ab2c141583",
   "total": 1315,
-  "working": 1149,
-  "in_grace_period": 9,
-  "dead": 166,
-  "hd_channels": 611,
+  "working": 1150,
+  "in_grace_period": 14,
+  "dead": 165,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 80,
+      "working": 81,
       "hd": 45
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 428,
-      "hd": 227
+      "working": 427,
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 100,
-      "working": 85,
-      "hd": 42
+      "working": 86,
+      "hd": 43
     },
     "Marathi": {
       "total": 37,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 137,
-      "hd": 73
+      "hd": 74
     },
     "Telugu": {
       "total": 152,
@@ -148,11 +148,6 @@
       "name": "Bansal News (720p)",
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
       "reason": "HTTP 401"
-    },
-    {
-      "name": "CCV (480p)",
-      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD National HD (576p)",
@@ -375,6 +370,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sadhna News Madhya Pradesh/Chhattisgarh (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 404"
@@ -393,6 +393,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood (576p)",
@@ -547,12 +552,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -802,7 +807,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
@@ -850,11 +855,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Colors Bangla Cinema (576p)",
-      "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Colors Cineplex HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a02s/index.m3u8?hls",
       "reason": "HTTP 404"
@@ -882,11 +882,6 @@
     {
       "name": "Star Sports 3 (576p)",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Superhitz (576p)",
-      "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
@@ -922,7 +917,7 @@
     {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 503"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
