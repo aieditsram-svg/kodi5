@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-27 03:14 UTC",
-  "fingerprint": "27695f76d0973a790296caaef0f0f119",
+  "updated_at": "2026-10-27 03:47 UTC",
+  "fingerprint": "b14463c68cadb3351fcee6ae71fecc0a",
   "total": 1315,
-  "working": 1151,
-  "in_grace_period": 52,
-  "dead": 164,
-  "hd_channels": 586,
+  "working": 1155,
+  "in_grace_period": 17,
+  "dead": 160,
+  "hd_channels": 605,
   "languages": {
     "Assamese": {
       "total": 28,
       "working": 24,
-      "hd": 11
+      "hd": 12
     },
     "Bengali": {
       "total": 100,
       "working": 80,
-      "hd": 41
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 23,
-      "working": 21,
-      "hd": 11
+      "working": 22,
+      "hd": 13
     },
     "Chhattisgarhi": {
       "total": 2,
@@ -30,17 +30,17 @@
     "English": {
       "total": 143,
       "working": 123,
-      "hd": 65
+      "hd": 63
     },
     "Gujarati": {
       "total": 24,
       "working": 22,
-      "hd": 12
+      "hd": 14
     },
     "Hindi": {
       "total": 519,
-      "working": 429,
-      "hd": 221
+      "working": 432,
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
@@ -55,12 +55,12 @@
     "Malayalam": {
       "total": 100,
       "working": 87,
-      "hd": 40
+      "hd": 43
     },
     "Marathi": {
       "total": 37,
       "working": 30,
-      "hd": 18
+      "hd": 19
     },
     "Nepali": {
       "total": 4,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 88,
       "working": 87,
-      "hd": 46
+      "hd": 47
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 71
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
       "working": 120,
-      "hd": 58
+      "hd": 59
     },
     "Urdu": {
       "total": 13,
@@ -127,12 +127,12 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Bansal News (720p)",
@@ -142,7 +142,7 @@
     {
       "name": "DD National HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Dharsan TV (720p)",
@@ -345,14 +345,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Manoranjan Prime (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "APN (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Raj News Kannada (576p)",
@@ -370,19 +365,9 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -417,7 +402,7 @@
     {
       "name": "Win TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "6 TV Telugu (360p)",
@@ -532,12 +517,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -857,11 +842,6 @@
     {
       "name": "Sony Entertainment Television (576p)",
       "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sony Max HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
