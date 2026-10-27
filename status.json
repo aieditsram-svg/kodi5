@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 21:26 UTC",
-  "fingerprint": "7d35aab41b09055cba05fcdc8fdb5e08",
+  "updated_at": "2026-10-27 22:00 UTC",
+  "fingerprint": "e198bb40c1e6689dd4f164a15f05e060",
   "total": 1315,
-  "working": 1154,
-  "in_grace_period": 12,
-  "dead": 161,
-  "hd_channels": 612,
+  "working": 1152,
+  "in_grace_period": 15,
+  "dead": 163,
+  "hd_channels": 607,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 122,
-      "hd": 64
+      "working": 121,
+      "hd": 62
     },
     "Gujarati": {
       "total": 24,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
-      "hd": 229
+      "working": 430,
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
       "working": 52,
-      "hd": 27
+      "hd": 26
     },
     "Konkani": {
       "total": 2,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 74
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
@@ -302,12 +302,17 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Star Sports Select 2 HD (720p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -792,7 +797,12 @@
     {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "UP NOW (720p)",
