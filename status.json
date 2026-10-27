@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 23:08 UTC",
-  "fingerprint": "eedd7585bca788bc9c2e4e647f90e208",
+  "updated_at": "2026-10-27 23:37 UTC",
+  "fingerprint": "4ed7fb725803142dbfc297fb22c51a1f",
   "total": 1315,
-  "working": 1141,
-  "in_grace_period": 3,
-  "dead": 174,
-  "hd_channels": 604,
+  "working": 1144,
+  "in_grace_period": 2,
+  "dead": 171,
+  "hd_channels": 608,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 119,
-      "hd": 62
+      "working": 121,
+      "hd": 64
     },
     "Gujarati": {
       "total": 24,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 428,
-      "hd": 227
+      "working": 429,
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
-      "working": 51,
-      "hd": 26
+      "working": 52,
+      "hd": 27
     },
     "Konkani": {
       "total": 2,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 152,
-      "working": 120,
+      "working": 119,
       "hd": 59
     },
     "Urdu": {
@@ -142,11 +142,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Andy Haryana (576p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -235,6 +230,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -258,11 +258,6 @@
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "India Ahead (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Jonack TV (360p) [Not 24/7]",
@@ -403,11 +398,6 @@
       "name": "OM TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Power TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Raj News Kannada (576p)",
@@ -577,12 +567,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -953,11 +943,6 @@
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Grace TV (360p)",
-      "url": "https://samitaorigin.tangotv.in/GRACETV/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
