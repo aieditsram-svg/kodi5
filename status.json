@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27 07:24 UTC",
-  "fingerprint": "4cb65cee1afbb00796d0085f996dd118",
+  "updated_at": "2026-10-27 08:08 UTC",
+  "fingerprint": "b6d11f64e549aa0feb16a31b7041f5bd",
   "total": 1315,
-  "working": 1162,
+  "working": 1160,
   "in_grace_period": 18,
-  "dead": 153,
+  "dead": 155,
   "hd_channels": 615,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 436,
+      "working": 434,
       "hd": 229
     },
     "Kannada": {
@@ -365,8 +365,18 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -397,6 +407,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -520,11 +535,6 @@
       "reason": "HTTP 458"
     },
     {
-      "name": "India Voice (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
@@ -557,7 +567,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -757,7 +767,7 @@
     {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Star Movies HD (1080p)",
