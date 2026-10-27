@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 09:22 UTC",
-  "fingerprint": "7f502ecad2f45afc914b0bf32ead4e7c",
+  "updated_at": "2026-10-27 10:03 UTC",
+  "fingerprint": "6cf6ee551688a79c3b70899c7986817a",
   "total": 1315,
-  "working": 1155,
-  "in_grace_period": 17,
-  "dead": 160,
-  "hd_channels": 610,
+  "working": 1156,
+  "in_grace_period": 19,
+  "dead": 159,
+  "hd_channels": 616,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 430,
-      "hd": 228
+      "working": 431,
+      "hd": 231
     },
     "Kannada": {
       "total": 65,
       "working": 52,
-      "hd": 26
+      "hd": 27
     },
     "Konkani": {
       "total": 2,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 100,
       "working": 86,
-      "hd": 41
+      "hd": 42
     },
     "Marathi": {
       "total": 37,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 72
+      "hd": 74
     },
     "Telugu": {
       "total": 152,
@@ -137,11 +137,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -672,7 +667,7 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -697,7 +692,7 @@
     {
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "RemoteDisconnected"
     },
     {
       "name": "Thanthi One (576p)",
@@ -732,7 +727,7 @@
     {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Tarang TV (576p)",
@@ -742,7 +737,7 @@
     {
       "name": "Bhakthi Siri (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Vistaar News (576p)",
