@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-27 05:57 UTC",
-  "fingerprint": "85f65353817f6d7891c230664c3219da",
+  "updated_at": "2026-10-27 06:32 UTC",
+  "fingerprint": "fee258c5a90b28b87abdb9cbff99c5d6",
   "total": 1315,
   "working": 1163,
-  "in_grace_period": 12,
+  "in_grace_period": 18,
   "dead": 152,
   "hd_channels": 616,
   "languages": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 436,
+      "working": 437,
       "hd": 230
     },
     "Kannada": {
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 2,
-      "working": 2,
-      "hd": 2
+      "working": 1,
+      "hd": 1
     },
     "Malayalam": {
       "total": 100,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 73
+      "hd": 74
     },
     "Telugu": {
       "total": 152,
@@ -128,6 +128,11 @@
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Bansal News (720p)",
+      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
+      "reason": "HTTP 401"
     },
     {
       "name": "DD National HD (576p)",
@@ -243,6 +248,11 @@
       "name": "News 24 (720p)",
       "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "RDX Goa (720p) [Geo-blocked]",
+      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+      "reason": "HTTP 401"
     },
     {
       "name": "Shekinah TV (1080p)",
@@ -487,12 +497,12 @@
     {
       "name": "Sun Gemini (576p)",
       "url": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 403"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
@@ -502,7 +512,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 403"
+      "reason": "HTTP 458"
     },
     {
       "name": "India Voice (576p)",
@@ -725,11 +735,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -748,11 +753,6 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "UP NOW (720p)",
-      "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Star Movies HD (1080p)",
