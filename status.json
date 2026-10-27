@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 05:23 UTC",
-  "fingerprint": "be0cc12a914633828e72f9ae232e26f6",
+  "updated_at": "2026-10-27 05:57 UTC",
+  "fingerprint": "85f65353817f6d7891c230664c3219da",
   "total": 1315,
-  "working": 1161,
-  "in_grace_period": 8,
-  "dead": 154,
-  "hd_channels": 615,
+  "working": 1163,
+  "in_grace_period": 12,
+  "dead": 152,
+  "hd_channels": 616,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 435,
-      "hd": 229
+      "working": 436,
+      "hd": 230
     },
     "Kannada": {
       "total": 65,
@@ -64,8 +64,8 @@
     },
     "Nepali": {
       "total": 4,
-      "working": 3,
-      "hd": 1
+      "working": 4,
+      "hd": 2
     },
     "Odia": {
       "total": 27,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 74
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
@@ -257,12 +257,12 @@
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
       "url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8",
-      "reason": "URLError"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -345,19 +345,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nepal 1 (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -502,7 +492,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 403"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
@@ -512,7 +502,12 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "India Voice (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -548,11 +543,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "NH BollyGold (1080p)",
