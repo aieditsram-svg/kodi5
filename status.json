@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 10:03 UTC",
-  "fingerprint": "6cf6ee551688a79c3b70899c7986817a",
+  "updated_at": "2026-10-27 10:38 UTC",
+  "fingerprint": "a4930aa7edeac8473994c7af982177dc",
   "total": 1315,
-  "working": 1156,
-  "in_grace_period": 19,
-  "dead": 159,
-  "hd_channels": 616,
+  "working": 1153,
+  "in_grace_period": 18,
+  "dead": 162,
+  "hd_channels": 614,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
-      "hd": 231
+      "working": 430,
+      "hd": 230
     },
     "Kannada": {
       "total": 65,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 100,
-      "working": 86,
+      "working": 85,
       "hd": 42
     },
     "Marathi": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 138,
-      "hd": 74
+      "working": 137,
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
@@ -143,6 +143,11 @@
       "name": "Bansal News (720p)",
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
       "reason": "HTTP 401"
+    },
+    {
+      "name": "CCV (480p)",
+      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD National HD (576p)",
@@ -378,6 +383,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -667,7 +677,7 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -692,7 +702,7 @@
     {
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
-      "reason": "RemoteDisconnected"
+      "reason": "HTTP 404"
     },
     {
       "name": "Thanthi One (576p)",
@@ -727,7 +737,7 @@
     {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Tarang TV (576p)",
@@ -737,7 +747,7 @@
     {
       "name": "Bhakthi Siri (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Vistaar News (576p)",
@@ -768,6 +778,11 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Bhagyam TV (1080p)",
+      "url": "https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
