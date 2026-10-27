@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 10:38 UTC",
-  "fingerprint": "a4930aa7edeac8473994c7af982177dc",
+  "updated_at": "2026-10-27 11:16 UTC",
+  "fingerprint": "9392cd779adb2a8ef9637d3d3c673f66",
   "total": 1315,
-  "working": 1153,
-  "in_grace_period": 18,
-  "dead": 162,
-  "hd_channels": 614,
+  "working": 1154,
+  "in_grace_period": 13,
+  "dead": 161,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 430,
-      "hd": 230
+      "hd": 227
     },
     "Kannada": {
       "total": 65,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 137,
-      "hd": 73
+      "working": 138,
+      "hd": 74
     },
     "Telugu": {
       "total": 152,
@@ -380,6 +380,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -392,11 +397,6 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -780,11 +780,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bhagyam TV (1080p)",
-      "url": "https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Bhagyam TV (576p) [Not 24/7]",
       "url": "https://bhagyam.iptv.pics/bhagyam/index.m3u8",
       "reason": "HTTP 404"
@@ -797,7 +792,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
