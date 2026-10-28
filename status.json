@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 09:13 UTC",
-  "fingerprint": "fcfaea7682a5380ecbe0fd65986bd2a8",
+  "updated_at": "2026-10-28 09:58 UTC",
+  "fingerprint": "e86d96ea084e0df1cbf6288e85942a90",
   "total": 1425,
-  "working": 1269,
-  "in_grace_period": 26,
-  "dead": 156,
-  "hd_channels": 633,
+  "working": 1268,
+  "in_grace_period": 16,
+  "dead": 157,
+  "hd_channels": 634,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 103,
-      "working": 84,
+      "working": 83,
       "hd": 46
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 482,
+      "working": 481,
       "hd": 241
     },
     "Kannada": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 105,
-      "working": 92,
+      "working": 91,
       "hd": 43
     },
     "Marathi": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 176,
-      "working": 146,
-      "hd": 74
+      "working": 148,
+      "hd": 75
     },
     "Telugu": {
       "total": 160,
@@ -260,16 +260,6 @@
       "reason": "HTTP 401"
     },
     {
-      "name": "Sana Plus (1080p) [Not 24/7]",
-      "url": "https://galaxyott.live/hls/sanaplus.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sana Plus (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Shekinah TV (1080p)",
       "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -325,6 +315,11 @@
       "reason": "HTTP 401"
     },
     {
+      "name": "Vision (576p)",
+      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
@@ -377,6 +372,11 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -730,6 +730,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -752,7 +757,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
