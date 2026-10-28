@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27 23:37 UTC",
-  "fingerprint": "4ed7fb725803142dbfc297fb22c51a1f",
+  "updated_at": "2026-10-28 00:06 UTC",
+  "fingerprint": "3780cb57a30686d9d6b0306e0a42cbc5",
   "total": 1315,
-  "working": 1144,
-  "in_grace_period": 2,
-  "dead": 171,
+  "working": 1145,
+  "in_grace_period": 6,
+  "dead": 170,
   "hd_channels": 608,
   "languages": {
     "Assamese": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 429,
-      "hd": 228
+      "hd": 227
     },
     "Kannada": {
       "total": 65,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 137,
-      "hd": 73
+      "working": 138,
+      "hd": 74
     },
     "Telugu": {
       "total": 152,
@@ -393,11 +393,6 @@
       "name": "APN (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "OM TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Raj News Kannada (576p)",
