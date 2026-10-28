@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 08:24 UTC",
-  "fingerprint": "8e0dc2370311c7b851e630fee4c2de4c",
+  "updated_at": "2026-10-28 09:13 UTC",
+  "fingerprint": "fcfaea7682a5380ecbe0fd65986bd2a8",
   "total": 1425,
-  "working": 1266,
-  "in_grace_period": 18,
-  "dead": 159,
-  "hd_channels": 634,
+  "working": 1269,
+  "in_grace_period": 26,
+  "dead": 156,
+  "hd_channels": 633,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 103,
-      "working": 83,
+      "working": 84,
       "hd": 46
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 480,
-      "hd": 242
+      "working": 482,
+      "hd": 241
     },
     "Kannada": {
       "total": 65,
@@ -373,16 +373,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -743,11 +733,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
