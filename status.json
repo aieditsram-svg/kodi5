@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-28 05:56 UTC",
-  "fingerprint": "0a92735e248e2117cc2a8bf275ef23c0",
+  "updated_at": "2026-10-28 06:31 UTC",
+  "fingerprint": "dd2ffdc99b5f7bf79786f61d2a1863dd",
   "total": 1425,
-  "working": 1257,
-  "in_grace_period": 12,
-  "dead": 168,
+  "working": 1253,
+  "in_grace_period": 14,
+  "dead": 172,
   "hd_channels": 630,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 103,
-      "working": 84,
+      "working": 83,
       "hd": 47
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 476,
+      "working": 472,
       "hd": 239
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 160,
-      "working": 129,
+      "working": 130,
       "hd": 59
     },
     "Urdu": {
@@ -162,7 +162,7 @@
     {
       "name": "DY 365 (360p)",
       "url": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "E-Vidya 4 (576p)",
@@ -247,7 +247,7 @@
     {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Joy TV (576p)",
@@ -385,6 +385,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -398,6 +403,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -520,11 +530,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sun Gemini (576p)",
-      "url": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Fast1 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
       "reason": "TimeoutError"
@@ -538,6 +543,11 @@
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
       "reason": "HTTP 458"
+    },
+    {
+      "name": "India Voice (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -755,6 +765,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -778,6 +793,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "UP NOW (720p)",
