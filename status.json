@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 20:41 UTC",
-  "fingerprint": "5d847d835fb4a498b3ee4e5d459c3c55",
+  "updated_at": "2026-10-28 21:18 UTC",
+  "fingerprint": "cdba82b5f2d64e7a5ac2a0bd098178dc",
   "total": 1425,
-  "working": 1228,
-  "in_grace_period": 8,
-  "dead": 197,
-  "hd_channels": 621,
+  "working": 1226,
+  "in_grace_period": 10,
+  "dead": 199,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 105,
-      "working": 88,
-      "hd": 41
+      "working": 86,
+      "hd": 40
     },
     "Marathi": {
       "total": 39,
@@ -133,6 +133,11 @@
       "name": "Bansal News (720p)",
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
       "reason": "HTTP 401"
+    },
+    {
+      "name": "CCV (480p)",
+      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD National HD (576p)",
@@ -307,7 +312,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -338,6 +343,11 @@
       "name": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "VCV (720p) [Not 24/7]",
+      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "VIP News (360p)",
@@ -537,7 +547,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -777,7 +787,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
