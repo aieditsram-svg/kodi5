@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-28 00:57 UTC",
-  "fingerprint": "b7fe8c4311924d76691ccbff66fdfdb7",
+  "updated_at": "2026-10-28 01:46 UTC",
+  "fingerprint": "3652a4eb6519ee7046d8460f72ab2535",
   "total": 1425,
-  "working": 1258,
-  "in_grace_period": 6,
-  "dead": 167,
+  "working": 1257,
+  "in_grace_period": 15,
+  "dead": 168,
   "hd_channels": 629,
   "languages": {
     "Assamese": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 113,
-      "working": 103,
+      "working": 102,
       "hd": 47
     },
     "Santali": {
@@ -377,6 +377,11 @@
     {
       "name": "Nagaland TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -772,7 +777,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
