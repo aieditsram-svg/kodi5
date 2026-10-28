@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 12:51 UTC",
-  "fingerprint": "29c1f952184fa4dd738f80529dc07d3a",
+  "updated_at": "2026-10-28 13:43 UTC",
+  "fingerprint": "ecadd410183e15c5c77b5d50133c9076",
   "total": 1425,
-  "working": 1262,
-  "in_grace_period": 14,
-  "dead": 163,
-  "hd_channels": 632,
+  "working": 1263,
+  "in_grace_period": 52,
+  "dead": 162,
+  "hd_channels": 618,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 103,
-      "working": 82,
+      "working": 83,
       "hd": 46
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 149,
       "working": 129,
-      "hd": 65
+      "hd": 64
     },
     "Gujarati": {
       "total": 27,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 476,
-      "hd": 239
+      "working": 477,
+      "hd": 232
     },
     "Kannada": {
       "total": 65,
@@ -54,13 +54,13 @@
     },
     "Malayalam": {
       "total": 105,
-      "working": 92,
+      "working": 91,
       "hd": 43
     },
     "Marathi": {
       "total": 39,
       "working": 32,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 4,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 113,
       "working": 109,
-      "hd": 50
+      "hd": 47
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 176,
       "working": 148,
-      "hd": 75
+      "hd": 74
     },
     "Telugu": {
       "total": 160,
       "working": 129,
-      "hd": 59
+      "hd": 58
     },
     "Urdu": {
       "total": 13,
@@ -257,12 +257,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -287,7 +282,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -325,14 +320,14 @@
       "reason": "HTTP 401"
     },
     {
-      "name": "YRF Music (1080p)",
-      "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
+      "name": "Vision (576p)",
+      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
       "reason": "URLError"
     },
     {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
+      "name": "YRF Music (1080p)",
+      "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Zee Cine Classic (1080p)",
@@ -385,6 +380,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -392,11 +392,6 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -548,6 +543,11 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Gyandarshan HD (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BVG (576p)",
@@ -782,17 +782,12 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
