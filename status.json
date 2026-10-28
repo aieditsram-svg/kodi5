@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-28 21:18 UTC",
-  "fingerprint": "cdba82b5f2d64e7a5ac2a0bd098178dc",
+  "updated_at": "2026-10-28 21:58 UTC",
+  "fingerprint": "fb0bf08c0c9cb0c64fb0f62f547d5ffd",
   "total": 1425,
-  "working": 1226,
-  "in_grace_period": 10,
-  "dead": 199,
+  "working": 1225,
+  "in_grace_period": 11,
+  "dead": 200,
   "hd_channels": 620,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 463,
+      "working": 462,
       "hd": 235
     },
     "Kannada": {
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -405,13 +410,13 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -787,12 +792,12 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "StarPlus HD (1080p)",
