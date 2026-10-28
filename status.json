@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 07:35 UTC",
-  "fingerprint": "49f4f921f34d9dcbc171063448a7c1fd",
+  "updated_at": "2026-10-28 08:24 UTC",
+  "fingerprint": "8e0dc2370311c7b851e630fee4c2de4c",
   "total": 1425,
-  "working": 1264,
-  "in_grace_period": 6,
-  "dead": 161,
-  "hd_channels": 635,
+  "working": 1266,
+  "in_grace_period": 18,
+  "dead": 159,
+  "hd_channels": 634,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 103,
       "working": 83,
-      "hd": 47
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 23,
@@ -30,7 +30,7 @@
     "English": {
       "total": 149,
       "working": 129,
-      "hd": 65
+      "hd": 64
     },
     "Gujarati": {
       "total": 27,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 478,
+      "working": 480,
       "hd": 242
     },
     "Kannada": {
@@ -367,11 +367,6 @@
     {
       "name": "Nagaland TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -778,11 +773,6 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
