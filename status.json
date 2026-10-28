@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 15:25 UTC",
-  "fingerprint": "bd8a3140982cc034f29cca5ee78a2e49",
+  "updated_at": "2026-10-28 16:17 UTC",
+  "fingerprint": "097a1298a0cedb58533af2f3bffd10d9",
   "total": 1425,
-  "working": 1253,
-  "in_grace_period": 15,
-  "dead": 172,
-  "hd_channels": 631,
+  "working": 1256,
+  "in_grace_period": 11,
+  "dead": 169,
+  "hd_channels": 633,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 103,
-      "working": 82,
+      "working": 83,
       "hd": 47
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 470,
-      "hd": 237
+      "working": 472,
+      "hd": 239
     },
     "Kannada": {
       "total": 65,
@@ -395,11 +395,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -412,6 +407,11 @@
     {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -573,11 +573,6 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Gyandarshan HD (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BVG (576p)",
@@ -790,11 +785,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -948,11 +938,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "9XM (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
