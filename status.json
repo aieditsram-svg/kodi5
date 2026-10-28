@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 11:21 UTC",
-  "fingerprint": "39d026b95fec6d6539835e98dfde8a91",
+  "updated_at": "2026-10-28 12:02 UTC",
+  "fingerprint": "9a674d12181c5f42cf2472dc5d4015ce",
   "total": 1425,
-  "working": 1266,
-  "in_grace_period": 23,
-  "dead": 159,
-  "hd_channels": 629,
+  "working": 1264,
+  "in_grace_period": 21,
+  "dead": 161,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -30,7 +30,7 @@
     "English": {
       "total": 149,
       "working": 129,
-      "hd": 63
+      "hd": 64
     },
     "Gujarati": {
       "total": 27,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 481,
-      "hd": 239
+      "working": 479,
+      "hd": 240
     },
     "Kannada": {
       "total": 65,
       "working": 52,
-      "hd": 26
+      "hd": 27
     },
     "Konkani": {
       "total": 2,
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -257,6 +252,16 @@
     {
       "name": "News 24 (720p)",
       "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 24 (576p)",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "News 24 (576p)",
+      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -387,6 +392,11 @@
     {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -522,7 +532,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -735,14 +745,14 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
