@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 19:19 UTC",
-  "fingerprint": "aa15adeb912fecc9b1e647deabc40d5b",
+  "updated_at": "2026-10-28 20:02 UTC",
+  "fingerprint": "4acfdab8a7a29c3302423419a9363ba6",
   "total": 1425,
   "working": 1260,
-  "in_grace_period": 50,
+  "in_grace_period": 44,
   "dead": 165,
-  "hd_channels": 634,
+  "hd_channels": 633,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 103,
       "working": 84,
-      "hd": 47
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 23,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 149,
-      "working": 129,
-      "hd": 65
+      "working": 128,
+      "hd": 64
     },
     "Gujarati": {
       "total": 27,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 475,
-      "hd": 241
+      "working": 476,
+      "hd": 242
     },
     "Kannada": {
       "total": 65,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 105,
       "working": 92,
-      "hd": 43
+      "hd": 42
     },
     "Marathi": {
       "total": 39,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 176,
-      "working": 146,
-      "hd": 74
+      "working": 145,
+      "hd": 73
     },
     "Telugu": {
       "total": 160,
-      "working": 129,
-      "hd": 59
+      "working": 127,
+      "hd": 58
     },
     "Urdu": {
       "total": 13,
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -220,6 +215,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -233,11 +233,6 @@
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Hare Krsna TV (1080p)",
-      "url": "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd",
-      "reason": "URLError"
     },
     {
       "name": "Jonack TV (360p) [Not 24/7]",
@@ -297,7 +292,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -395,18 +390,13 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -573,6 +563,11 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Gyandarshan HD (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
@@ -847,6 +842,11 @@
     {
       "name": "Sonic (576p)",
       "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sony Pix HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
       "reason": "URLError"
     },
     {
