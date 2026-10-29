@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 09:56 UTC",
-  "fingerprint": "c8b878047ade148e9cfd66d8b4634287",
+  "updated_at": "2026-10-29 10:36 UTC",
+  "fingerprint": "7de411824e1316e67584f92e13588b66",
   "total": 1657,
-  "working": 1450,
-  "in_grace_period": 10,
-  "dead": 207,
-  "hd_channels": 629,
+  "working": 1453,
+  "in_grace_period": 14,
+  "dead": 204,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 83,
+      "working": 84,
       "hd": 44
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 580,
-      "hd": 238
+      "working": 582,
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 3,
-      "hd": 2
+      "working": 2,
+      "hd": 1
     },
     "Malayalam": {
       "total": 113,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 137,
-      "hd": 58
+      "working": 138,
+      "hd": 57
     },
     "Urdu": {
       "total": 16,
@@ -128,6 +128,11 @@
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Bansal News (720p)",
+      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
+      "reason": "HTTP 401"
     },
     {
       "name": "Chardikla Time TV (1080p)",
@@ -210,11 +215,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -232,7 +232,7 @@
     {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Joy TV (576p)",
@@ -253,6 +253,11 @@
       "name": "News 24 (720p)",
       "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "RDX Goa (720p) [Geo-blocked]",
+      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+      "reason": "HTTP 401"
     },
     {
       "name": "Sai TV",
@@ -345,11 +350,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "APN (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -363,11 +363,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -490,11 +485,6 @@
       "reason": "HTTP 456"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
@@ -503,11 +493,6 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Gyandarshan HD (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
