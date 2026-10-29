@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29 09:10 UTC",
-  "fingerprint": "2e748846dd7aca43663478d16dceb264",
+  "updated_at": "2026-10-29 09:56 UTC",
+  "fingerprint": "c8b878047ade148e9cfd66d8b4634287",
   "total": 1657,
-  "working": 1449,
-  "in_grace_period": 11,
-  "dead": 208,
+  "working": 1450,
+  "in_grace_period": 10,
+  "dead": 207,
   "hd_channels": 629,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 577,
+      "working": 580,
       "hd": 238
     },
     "Kannada": {
@@ -69,7 +69,7 @@
     },
     "Odia": {
       "total": 31,
-      "working": 23,
+      "working": 22,
       "hd": 9
     },
     "Other": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 138,
+      "working": 137,
       "hd": 58
     },
     "Urdu": {
@@ -208,6 +208,11 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -355,11 +360,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -367,11 +367,6 @@
     {
       "name": "Bharat Samachar (576p)",
       "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -498,11 +493,6 @@
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
       "reason": "HTTP 458"
-    },
-    {
-      "name": "India Voice (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -1097,6 +1087,11 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Odia (576p)",
+      "url": "https://fta.ektv.in/live/384/master.m3u8",
       "reason": "HTTP 404"
     },
     {
