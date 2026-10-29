@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 03:26 UTC",
-  "fingerprint": "687692c52fa8d22d553422d3098f05b4",
+  "updated_at": "2026-10-29 04:13 UTC",
+  "fingerprint": "246ffeb23b38b56e056fb36a0d84a0af",
   "total": 1657,
-  "working": 1439,
+  "working": 1438,
   "in_grace_period": 13,
-  "dead": 218,
-  "hd_channels": 619,
+  "dead": 219,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 575,
-      "hd": 233
+      "working": 574,
+      "hd": 234
     },
     "Kannada": {
       "total": 70,
-      "working": 56,
-      "hd": 26
+      "working": 57,
+      "hd": 27
     },
     "Konkani": {
       "total": 3,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 113,
-      "working": 96,
+      "working": 95,
       "hd": 40
     },
     "Marathi": {
@@ -395,6 +395,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -402,6 +407,11 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -755,11 +765,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -1045,8 +1050,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Ashwaveega News 24x7 (720p)",
-      "url": "https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8",
+      "name": "Asianet Movies (396p)",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8",
       "reason": "HTTP 404"
     },
     {
