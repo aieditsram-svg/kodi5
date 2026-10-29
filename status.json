@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 12:51 UTC",
-  "fingerprint": "6b98d56151f54927a59d5f2c23a64a5b",
+  "updated_at": "2026-10-29 13:44 UTC",
+  "fingerprint": "31ea1c10deb4ca2bac618360f99d4e5b",
   "total": 1657,
-  "working": 1447,
-  "in_grace_period": 28,
-  "dead": 210,
-  "hd_channels": 626,
+  "working": 1439,
+  "in_grace_period": 20,
+  "dead": 218,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 83,
+      "working": 82,
       "hd": 44
     },
     "Bhojpuri": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 580,
-      "hd": 236
+      "working": 577,
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
-      "working": 57,
+      "working": 56,
       "hd": 27
     },
     "Konkani": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 125,
+      "working": 124,
       "hd": 50
     },
     "Santali": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 148,
-      "hd": 72
+      "working": 146,
+      "hd": 71
     },
     "Telugu": {
       "total": 171,
@@ -142,6 +142,11 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Ayush TV (360p) [Not 24/7]",
+      "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -290,6 +295,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Sana Plus (1080p) [Not 24/7]",
+      "url": "https://galaxyott.live/hls/sanaplus.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sana Plus (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shekinah TV (1080p)",
       "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -323,6 +338,11 @@
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Taaza TV (720p)",
+      "url": "https://live.we2live.in/taazatv/live/playlist.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Times Now (720p) [Geo-blocked]",
@@ -380,6 +400,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Tabbar Hits (576p)",
+      "url": "https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -400,14 +425,24 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -518,6 +553,11 @@
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
       "reason": "HTTP 456"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
