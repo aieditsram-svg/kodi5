@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 20:16 UTC",
-  "fingerprint": "103e6e818ff1c91a26b614c5d652bd04",
+  "updated_at": "2026-10-29 20:59 UTC",
+  "fingerprint": "8e4f9131fa1b2ccc1f2927eb884f4fdf",
   "total": 1657,
-  "working": 1413,
-  "in_grace_period": 15,
-  "dead": 244,
-  "hd_channels": 629,
+  "working": 1411,
+  "in_grace_period": 9,
+  "dead": 246,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 79,
+      "working": 78,
       "hd": 41
     },
     "Bhojpuri": {
@@ -29,18 +29,18 @@
     },
     "English": {
       "total": 165,
-      "working": 126,
+      "working": 125,
       "hd": 61
     },
     "Gujarati": {
       "total": 34,
       "working": 34,
-      "hd": 17
+      "hd": 18
     },
     "Hindi": {
       "total": 686,
-      "working": 575,
-      "hd": 240
+      "working": 574,
+      "hd": 241
     },
     "Kannada": {
       "total": 70,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 132,
       "working": 124,
-      "hd": 50
+      "hd": 51
     },
     "Santali": {
       "total": 1,
@@ -245,6 +245,11 @@
       "reason": "URLError"
     },
     {
+      "name": "JTBS Classic",
+      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
+      "reason": "HTTP 302"
+    },
+    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -392,6 +397,11 @@
     {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
