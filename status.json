@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29 22:56 UTC",
-  "fingerprint": "8f7721674d1d9b88bd1a4b0555ecc15d",
+  "updated_at": "2026-10-29 23:25 UTC",
+  "fingerprint": "4b1d1863dc79403241096dd6961fd69e",
   "total": 1657,
-  "working": 1414,
-  "in_grace_period": 5,
-  "dead": 243,
+  "working": 1418,
+  "in_grace_period": 8,
+  "dead": 239,
   "hd_channels": 630,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 573,
+      "working": 577,
       "hd": 238
     },
     "Kannada": {
@@ -395,34 +395,14 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Dangal TV (576p)",
       "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
