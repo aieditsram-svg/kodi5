@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 10:36 UTC",
-  "fingerprint": "7de411824e1316e67584f92e13588b66",
+  "updated_at": "2026-10-29 11:19 UTC",
+  "fingerprint": "04541e5b3938edb6c6f39ccd7aee5aa3",
   "total": 1657,
   "working": 1453,
-  "in_grace_period": 14,
+  "in_grace_period": 16,
   "dead": 204,
-  "hd_channels": 628,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 686,
       "working": 582,
-      "hd": 239
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 171,
       "working": 138,
-      "hd": 57
+      "hd": 58
     },
     "Urdu": {
       "total": 16,
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -232,7 +237,7 @@
     {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Joy TV (576p)",
@@ -282,7 +287,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -387,11 +392,6 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Zee TV HD (720p) [Geo-blocked]",
-      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
