@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-29 04:13 UTC",
-  "fingerprint": "246ffeb23b38b56e056fb36a0d84a0af",
+  "updated_at": "2026-10-29 04:57 UTC",
+  "fingerprint": "ce832cf237472fb61d17db7023c8392b",
   "total": 1657,
-  "working": 1438,
-  "in_grace_period": 13,
-  "dead": 219,
-  "hd_channels": 621,
+  "working": 1440,
+  "in_grace_period": 14,
+  "dead": 217,
+  "hd_channels": 617,
   "languages": {
     "Assamese": {
       "total": 39,
-      "working": 33,
+      "working": 34,
       "hd": 12
     },
     "Bengali": {
       "total": 113,
       "working": 81,
-      "hd": 43
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 31,
@@ -29,18 +29,18 @@
     },
     "English": {
       "total": 165,
-      "working": 127,
-      "hd": 59
+      "working": 128,
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
-      "working": 34,
-      "hd": 17
+      "working": 33,
+      "hd": 16
     },
     "Hindi": {
       "total": 686,
-      "working": 574,
-      "hd": 234
+      "working": 575,
+      "hd": 232
     },
     "Kannada": {
       "total": 70,
@@ -125,19 +125,9 @@
       "reason": "URLError"
     },
     {
-      "name": "Aakaash Aath (576p)",
-      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Bansal News (720p)",
@@ -270,11 +260,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 24 (576p)",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -302,17 +287,12 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Star Sports Select 2 HD (720p)",
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -577,6 +557,11 @@
     {
       "name": "NH BollyGold (1080p)",
       "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1063,6 +1048,11 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shiksha TV (720p)",
+      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
+      "reason": "empty HLS manifest"
     },
     {
       "name": "Dukhniwaran (576p)",
