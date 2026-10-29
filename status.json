@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 08:17 UTC",
-  "fingerprint": "803f89de0e7e32ac0c77e16b2937ae70",
+  "updated_at": "2026-10-29 09:10 UTC",
+  "fingerprint": "2e748846dd7aca43663478d16dceb264",
   "total": 1657,
-  "working": 1447,
-  "in_grace_period": 20,
-  "dead": 210,
-  "hd_channels": 627,
+  "working": 1449,
+  "in_grace_period": 11,
+  "dead": 208,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 576,
-      "hd": 236
+      "working": 577,
+      "hd": 238
     },
     "Kannada": {
       "total": 70,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 137,
+      "working": 138,
       "hd": 58
     },
     "Urdu": {
@@ -117,7 +117,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Aaj Tak (1080p)",
@@ -203,11 +203,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -370,6 +365,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Network 10 (576p)",
       "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
@@ -378,11 +378,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -503,6 +498,11 @@
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
       "reason": "HTTP 458"
+    },
+    {
+      "name": "India Voice (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -1028,16 +1028,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "9XM (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "9X Jalwa (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
