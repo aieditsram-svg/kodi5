@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 20:59 UTC",
-  "fingerprint": "8e4f9131fa1b2ccc1f2927eb884f4fdf",
+  "updated_at": "2026-10-29 21:35 UTC",
+  "fingerprint": "7ac180ea4ef06dfa643819a6eb7516db",
   "total": 1657,
-  "working": 1411,
-  "in_grace_period": 9,
-  "dead": 246,
-  "hd_channels": 632,
+  "working": 1408,
+  "in_grace_period": 11,
+  "dead": 249,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 125,
-      "hd": 61
+      "working": 124,
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 574,
-      "hd": 241
+      "working": 571,
+      "hd": 238
     },
     "Kannada": {
       "total": 70,
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -402,11 +407,6 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -765,6 +765,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
@@ -1028,6 +1033,16 @@
       "name": "Sun Surya HD (1080p)",
       "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bhakti Dhara (720p)",
+      "url": "https://newsliveindia.com:4433/bhaktidhara/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ATN Samachar (1080p)",
+      "url": "https://newsliveindia.com:4433/atn/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
