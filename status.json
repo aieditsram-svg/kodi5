@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 04:57 UTC",
-  "fingerprint": "ce832cf237472fb61d17db7023c8392b",
+  "updated_at": "2026-10-29 05:35 UTC",
+  "fingerprint": "621a820291fcb38328588d1cae874331",
   "total": 1657,
-  "working": 1440,
-  "in_grace_period": 14,
-  "dead": 217,
-  "hd_channels": 617,
+  "working": 1441,
+  "in_grace_period": 12,
+  "dead": 216,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 81,
-      "hd": 41
+      "working": 83,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 31,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 128,
-      "hd": 60
+      "working": 129,
+      "hd": 61
     },
     "Gujarati": {
       "total": 34,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 686,
       "working": 575,
-      "hd": 232
+      "hd": 233
     },
     "Kannada": {
       "total": 70,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 126,
+      "working": 125,
       "hd": 50
     },
     "Santali": {
@@ -375,6 +375,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Kadak (576p)",
       "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
@@ -533,6 +538,11 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Gyandarshan HD (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
@@ -745,11 +755,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -765,14 +770,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1048,11 +1048,6 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shiksha TV (720p)",
-      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
-      "reason": "empty HLS manifest"
     },
     {
       "name": "Dukhniwaran (576p)",
