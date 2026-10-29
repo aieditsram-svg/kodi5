@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Punjabi channels, updated 2026-10-29 19:32 UTC
+# Working Punjabi channels, updated 2026-10-29 20:16 UTC
 #EXTINF:-1 tvg-id="9XTashan.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="576",9X Tashan
 https://cdn.pishow.tv/ott/live/1613/master.m3u8
 #EXTINF:-1 tvg-id="9XTashan.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="1080",9X Tashan (1080p)
@@ -10,6 +10,8 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
 #EXTINF:-1 tvg-id="9XTashan.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="720",9X Tashan (576p)
 https://streams.tangotv.in/9XTASHAN/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="576",9X Tashan (576p)
+https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8
 #EXTINF:-1 tvg-id="9XTashan.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="1080",9X Tashan (576p)
 http://107.167.16.138/9xtashan/index.m3u8?token=test
 #EXTINF:-1 tvg-id="9XTashan.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="576",9X Tashan (576p)
@@ -108,9 +110,6 @@ https://cdn.pishow.tv/ott/live/1521/master.m3u8
 https://fta.ektv.in/live/640/master.m3u8
 #EXTINF:-1 tvg-id="ManoranjanMovies.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="720",Manoranjan Movies (576p)
 https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="ManoranjanMovies.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="576",Manoranjan Movies (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/47/47_0.m3u8
 #EXTINF:-1 tvg-id="Mh1Music.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="1080",Mh 1 Music (720p)
 https://livestream.jswk.online/playlisttest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Mh1News.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="576",Mh 1 News (360p)
@@ -249,6 +248,8 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://server.thelegitpro.in/tabbarhits/tabbarhits/index.m3u8
 #EXTINF:-1 tvg-id="TabbarHits.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="1080",Tabbar Hits (1080p)
 https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8
+#EXTINF:-1 tvg-id="TabbarHits.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="720",Tabbar Hits (576p)
+https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="TabbarHits.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="720",Tabbar Hits (576p)
 https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
 #EXTINF:-1 tvg-id="TVPunjab.ca@SD" x-category="news" tvg-logo="https://en.tvpunjab.com/storage/2022/03/logo-2022.png" tvg-language="Punjabi" group-title="Punjabi" height="720",TV Punjab (720p) [Geo-blocked]

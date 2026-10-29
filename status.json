@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-29 19:32 UTC",
-  "fingerprint": "486caf0f4d1ca8426b0829d6d695c522",
+  "updated_at": "2026-10-29 20:16 UTC",
+  "fingerprint": "103e6e818ff1c91a26b614c5d652bd04",
   "total": 1657,
-  "working": 1424,
-  "in_grace_period": 24,
-  "dead": 233,
-  "hd_channels": 630,
+  "working": 1413,
+  "in_grace_period": 15,
+  "dead": 244,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 39,
-      "working": 33,
+      "working": 31,
       "hd": 12
     },
     "Bengali": {
       "total": 113,
-      "working": 83,
-      "hd": 42
+      "working": 79,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 31,
-      "working": 28,
+      "working": 27,
       "hd": 13
     },
     "Chhattisgarhi": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 126,
-      "hd": 60
+      "hd": 61
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 578,
-      "hd": 241
+      "working": 575,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -75,11 +75,11 @@
     "Other": {
       "total": 19,
       "working": 16,
-      "hd": 12
+      "hd": 13
     },
     "Punjabi": {
       "total": 132,
-      "working": 123,
+      "working": 124,
       "hd": 50
     },
     "Santali": {
@@ -94,12 +94,12 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 129,
+      "working": 128,
       "hd": 58
     },
     "Urdu": {
       "total": 16,
-      "working": 15,
+      "working": 14,
       "hd": 6
     }
   },
@@ -260,6 +260,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "NK TV 24x7 (1080p)",
+      "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "NK TV Bangla (1080p)",
+      "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -283,6 +293,11 @@
       "name": "Sony Wah (1080p) [Geo-blocked]",
       "url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8",
       "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "Spondon (1080p)",
+      "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Star Sports 2 HD (720p)",
@@ -355,11 +370,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Tabbar Hits (576p)",
-      "url": "https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -370,23 +380,28 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -715,6 +730,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1030,6 +1050,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Manoranjan Movies (576p)",
+      "url": "https://fta.ektv.in/live/47/47_0.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Unique TV (576p)",
       "url": "https://fta.ektv.in/live/688/master.m3u8",
       "reason": "HTTP 404"
@@ -1042,6 +1067,11 @@
     {
       "name": "Tabbar Hits (576p)",
       "url": "https://fta.ektv.in/live/179/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "R Plus Gold (576p)",
+      "url": "https://fta.ektv.in/live/198/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1065,8 +1095,18 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Subhavaartha TV (576p)",
+      "url": "https://fta.ektv.in/live/301/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/332/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Manoranjan Prime (576p)",
+      "url": "https://fta.ektv.in/live/345/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1175,6 +1215,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Raftaar Media (576p)",
+      "url": "https://fta.ektv.in/live/306/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Samachar Plus 24x7 (576p)",
       "url": "https://fta.ektv.in/live/589/master.m3u8",
       "reason": "HTTP 404"
@@ -1190,8 +1235,18 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "4TV News (576p)",
+      "url": "https://fta.ektv.in/live/647/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Tripura (576p)",
       "url": "https://fta.ektv.in/live/661/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "R Plus (576p)",
+      "url": "https://fta.ektv.in/live/662/master.m3u8",
       "reason": "HTTP 404"
     },
     {
