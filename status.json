@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 05:35 UTC",
-  "fingerprint": "621a820291fcb38328588d1cae874331",
+  "updated_at": "2026-10-29 06:17 UTC",
+  "fingerprint": "85129b3b74edb32d872245f4f063778a",
   "total": 1657,
   "working": 1441,
-  "in_grace_period": 12,
+  "in_grace_period": 11,
   "dead": 216,
-  "hd_channels": 621,
+  "hd_channels": 624,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 686,
       "working": 575,
-      "hd": 233
+      "hd": 236
     },
     "Kannada": {
       "total": 70,
@@ -390,13 +390,13 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -413,11 +413,6 @@
       "name": "Win TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Soham TV (576p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "6 TV Telugu (360p)",
@@ -758,6 +753,11 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
