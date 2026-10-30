@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 23:59 UTC",
-  "fingerprint": "a393d1481d0186c3f87622f075f70d4f",
-  "total": 1657,
-  "working": 1418,
-  "in_grace_period": 5,
-  "dead": 239,
-  "hd_channels": 630,
+  "updated_at": "2026-10-30 00:41 UTC",
+  "fingerprint": "a592e8e31532b160929f3b5d86a87ece",
+  "total": 1655,
+  "working": 1419,
+  "in_grace_period": 35,
+  "dead": 236,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -38,9 +38,9 @@
       "hd": 18
     },
     "Hindi": {
-      "total": 686,
-      "working": 576,
-      "hd": 238
+      "total": 684,
+      "working": 577,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1080,18 +1075,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Anmol Cinema 2 (576p)",
-      "url": "https://fta.ektv.in/live/257/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee Action (576p)",
       "url": "https://fta.ektv.in/live/270/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Anmol Cinema (576p)",
-      "url": "https://fta.ektv.in/live/271/master.m3u8",
       "reason": "HTTP 404"
     },
     {
