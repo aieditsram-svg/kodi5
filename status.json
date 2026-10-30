@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 13:58 UTC",
-  "fingerprint": "c03e36023de26b55c052d8d9afc259ca",
+  "updated_at": "2026-10-30 14:47 UTC",
+  "fingerprint": "7e70e04308d779eb1eb66e09f37de714",
   "total": 1655,
   "working": 1440,
-  "in_grace_period": 8,
+  "in_grace_period": 14,
   "dead": 215,
-  "hd_channels": 630,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 128,
-      "hd": 61
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
@@ -40,12 +40,12 @@
     "Hindi": {
       "total": 684,
       "working": 575,
-      "hd": 240
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
       "working": 56,
-      "hd": 27
+      "hd": 26
     },
     "Konkani": {
       "total": 3,
@@ -420,11 +420,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
@@ -433,6 +428,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
