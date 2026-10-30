@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-30 09:25 UTC",
-  "fingerprint": "cfb293afdc12a7904369c17e3b3b8a85",
+  "updated_at": "2026-10-30 10:16 UTC",
+  "fingerprint": "a04d135d978604da51877276a286539e",
   "total": 1655,
-  "working": 1441,
-  "in_grace_period": 72,
-  "dead": 214,
-  "hd_channels": 599,
+  "working": 1443,
+  "in_grace_period": 81,
+  "dead": 212,
+  "hd_channels": 604,
   "languages": {
     "Assamese": {
       "total": 39,
       "working": 32,
-      "hd": 8
+      "hd": 9
     },
     "Bengali": {
       "total": 113,
       "working": 83,
-      "hd": 41
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 31,
       "working": 29,
-      "hd": 12
+      "hd": 10
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 129,
-      "hd": 61
+      "hd": 59
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 574,
-      "hd": 225
+      "working": 575,
+      "hd": 234
     },
     "Kannada": {
       "total": 70,
@@ -55,22 +55,22 @@
     "Malayalam": {
       "total": 113,
       "working": 98,
-      "hd": 42
+      "hd": 38
     },
     "Marathi": {
       "total": 46,
       "working": 38,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 5,
       "working": 5,
-      "hd": 1
+      "hd": 2
     },
     "Odia": {
       "total": 31,
       "working": 23,
-      "hd": 9
+      "hd": 10
     },
     "Other": {
       "total": 19,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 125,
-      "hd": 50
+      "working": 126,
+      "hd": 51
     },
     "Santali": {
       "total": 1,
@@ -90,17 +90,17 @@
     "Tamil": {
       "total": 181,
       "working": 148,
-      "hd": 67
+      "hd": 68
     },
     "Telugu": {
       "total": 171,
       "working": 138,
-      "hd": 58
+      "hd": 55
     },
     "Urdu": {
       "total": 16,
       "working": 15,
-      "hd": 5
+      "hd": 6
     }
   },
   "dead_channels": [
@@ -152,7 +152,7 @@
     {
       "name": "DD National HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Dharsan TV (720p)",
@@ -397,16 +397,6 @@
     {
       "name": "Nagaland TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
     },
     {
