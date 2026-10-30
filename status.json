@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 06:02 UTC",
-  "fingerprint": "a5fb11edbc5b1280e0cc26903d53e072",
+  "updated_at": "2026-10-30 06:51 UTC",
+  "fingerprint": "3f1197feb2f3087c937a6290a687faf4",
   "total": 1655,
   "working": 1444,
-  "in_grace_period": 15,
+  "in_grace_period": 37,
   "dead": 211,
-  "hd_channels": 635,
+  "hd_channels": 633,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 129,
-      "hd": 62
+      "hd": 61
     },
     "Gujarati": {
       "total": 34,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 181,
       "working": 148,
-      "hd": 72
+      "hd": 71
     },
     "Telugu": {
       "total": 171,
@@ -100,7 +100,7 @@
     "Urdu": {
       "total": 16,
       "working": 15,
-      "hd": 7
+      "hd": 6
     }
   },
   "dead_channels": [
@@ -522,7 +522,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 403"
+      "reason": "HTTP 456"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -733,11 +738,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Q TV (576p) [Geo-blocked]",
