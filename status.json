@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 13:02 UTC",
-  "fingerprint": "57bf42e1d0db20f34b6b32672658276b",
+  "updated_at": "2026-10-30 13:58 UTC",
+  "fingerprint": "c03e36023de26b55c052d8d9afc259ca",
   "total": 1655,
-  "working": 1441,
-  "in_grace_period": 14,
-  "dead": 214,
-  "hd_channels": 631,
+  "working": 1440,
+  "in_grace_period": 8,
+  "dead": 215,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 165,
-      "working": 129,
+      "working": 128,
       "hd": 61
     },
     "Gujarati": {
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 113,
-      "working": 97,
-      "hd": 41
+      "working": 96,
+      "hd": 40
     },
     "Marathi": {
       "total": 46,
@@ -260,6 +260,16 @@
       "reason": "URLError"
     },
     {
+      "name": "JTBS Classic",
+      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
+      "reason": "HTTP 429"
+    },
+    {
+      "name": "KCL TV (720p)",
+      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -415,8 +425,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -753,11 +763,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
