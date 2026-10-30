@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30 16:24 UTC",
-  "fingerprint": "050d06c85671dc970de9166bc1dcfdeb",
+  "updated_at": "2026-10-30 17:08 UTC",
+  "fingerprint": "711d4e11cf76558d7d012435af848b27",
   "total": 1655,
-  "working": 1440,
-  "in_grace_period": 19,
-  "dead": 215,
+  "working": 1435,
+  "in_grace_period": 10,
+  "dead": 220,
   "hd_channels": 631,
   "languages": {
     "Assamese": {
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 82,
-      "hd": 42
+      "working": 80,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 31,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 576,
+      "working": 573,
       "hd": 242
     },
     "Kannada": {
       "total": 70,
-      "working": 55,
-      "hd": 26
+      "working": 56,
+      "hd": 27
     },
     "Konkani": {
       "total": 3,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 126,
+      "working": 125,
       "hd": 51
     },
     "Santali": {
@@ -370,6 +370,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee Cine Classic (1080p)",
       "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
@@ -395,11 +400,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Power TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -410,6 +410,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -417,6 +422,21 @@
     {
       "name": "Bharat Samachar (576p)",
       "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -758,6 +778,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
