@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 23:20 UTC",
-  "fingerprint": "8e1b31f1f4e0c02a02c1ebdf7e91920f",
+  "updated_at": "2026-10-30 23:54 UTC",
+  "fingerprint": "a8255e1b4bcfef3690a8da06f5543228",
   "total": 1655,
   "working": 1434,
-  "in_grace_period": 3,
+  "in_grace_period": 1,
   "dead": 221,
-  "hd_channels": 628,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 575,
-      "hd": 239
+      "working": 576,
+      "hd": 238
     },
     "Kannada": {
       "total": 70,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 3,
-      "hd": 2
+      "working": 2,
+      "hd": 1
     },
     "Malayalam": {
       "total": 113,
@@ -143,6 +143,11 @@
       "name": "Ayush TV (360p) [Not 24/7]",
       "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Bansal News (720p)",
+      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
+      "reason": "HTTP 401"
     },
     {
       "name": "Chardikla Time TV (1080p)",
@@ -300,6 +305,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "RDX Goa (720p) [Geo-blocked]",
+      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+      "reason": "HTTP 401"
+    },
+    {
       "name": "Sai TV",
       "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
       "reason": "HTTP 404"
@@ -410,19 +420,9 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
