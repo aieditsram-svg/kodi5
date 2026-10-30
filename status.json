@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 05:19 UTC",
-  "fingerprint": "ecc6287fcd7f0ba64d13e96c8ca444fa",
+  "updated_at": "2026-10-30 06:02 UTC",
+  "fingerprint": "a5fb11edbc5b1280e0cc26903d53e072",
   "total": 1655,
-  "working": 1443,
-  "in_grace_period": 11,
-  "dead": 212,
-  "hd_channels": 634,
+  "working": 1444,
+  "in_grace_period": 15,
+  "dead": 211,
+  "hd_channels": 635,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 113,
       "working": 82,
-      "hd": 42
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 31,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 128,
-      "hd": 61
+      "working": 129,
+      "hd": 62
     },
     "Gujarati": {
       "total": 34,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 576,
+      "working": 577,
       "hd": 241
     },
     "Kannada": {
@@ -253,11 +253,6 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "JTBS Classic",
-      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
-      "reason": "HTTP 302"
     },
     {
       "name": "MTV HD (396p)",
@@ -527,7 +522,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 403"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -738,6 +733,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Q TV (576p) [Geo-blocked]",
@@ -1053,11 +1053,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "9X Jalwa (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
