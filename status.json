@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30 15:35 UTC",
-  "fingerprint": "3579bdfaa8484e7099f315e1aa49c5fa",
+  "updated_at": "2026-10-30 16:24 UTC",
+  "fingerprint": "050d06c85671dc970de9166bc1dcfdeb",
   "total": 1655,
-  "working": 1441,
-  "in_grace_period": 13,
-  "dead": 214,
+  "working": 1440,
+  "in_grace_period": 19,
+  "dead": 215,
   "hd_channels": 631,
   "languages": {
     "Assamese": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 577,
+      "working": 576,
       "hd": 242
     },
     "Kannada": {
       "total": 70,
-      "working": 56,
+      "working": 55,
       "hd": 26
     },
     "Konkani": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 137,
+      "working": 138,
       "hd": 58
     },
     "Urdu": {
@@ -218,11 +218,6 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -400,6 +395,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Power TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -415,8 +415,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1127,6 +1127,11 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
