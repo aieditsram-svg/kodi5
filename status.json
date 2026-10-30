@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-30 08:34 UTC",
-  "fingerprint": "31748961ad22feb26bfd1462e18fe6e1",
+  "updated_at": "2026-10-30 09:25 UTC",
+  "fingerprint": "cfb293afdc12a7904369c17e3b3b8a85",
   "total": 1655,
-  "working": 1440,
-  "in_grace_period": 5,
-  "dead": 215,
-  "hd_channels": 634,
+  "working": 1441,
+  "in_grace_period": 72,
+  "dead": 214,
+  "hd_channels": 599,
   "languages": {
     "Assamese": {
       "total": 39,
       "working": 32,
-      "hd": 12
+      "hd": 8
     },
     "Bengali": {
       "total": 113,
       "working": 83,
-      "hd": 43
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 31,
       "working": 29,
-      "hd": 13
+      "hd": 12
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -30,22 +30,22 @@
     "English": {
       "total": 165,
       "working": 129,
-      "hd": 62
+      "hd": 61
     },
     "Gujarati": {
       "total": 34,
       "working": 34,
-      "hd": 18
+      "hd": 17
     },
     "Hindi": {
       "total": 684,
-      "working": 573,
-      "hd": 241
+      "working": 574,
+      "hd": 225
     },
     "Kannada": {
       "total": 70,
       "working": 56,
-      "hd": 27
+      "hd": 26
     },
     "Konkani": {
       "total": 3,
@@ -60,17 +60,17 @@
     "Marathi": {
       "total": 46,
       "working": 38,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 5,
       "working": 5,
-      "hd": 2
+      "hd": 1
     },
     "Odia": {
       "total": 31,
       "working": 23,
-      "hd": 10
+      "hd": 9
     },
     "Other": {
       "total": 19,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 132,
       "working": 125,
-      "hd": 51
+      "hd": 50
     },
     "Santali": {
       "total": 1,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 181,
       "working": 148,
-      "hd": 72
+      "hd": 67
     },
     "Telugu": {
       "total": 171,
@@ -100,7 +100,7 @@
     "Urdu": {
       "total": 16,
       "working": 15,
-      "hd": 6
+      "hd": 5
     }
   },
   "dead_channels": [
@@ -415,18 +415,13 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
