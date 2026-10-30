@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 00:41 UTC",
-  "fingerprint": "a592e8e31532b160929f3b5d86a87ece",
+  "updated_at": "2026-10-30 01:41 UTC",
+  "fingerprint": "b1d65af52cec5f55664e3bde914c8c72",
   "total": 1655,
-  "working": 1419,
-  "in_grace_period": 35,
-  "dead": 236,
-  "hd_channels": 632,
+  "working": 1421,
+  "in_grace_period": 15,
+  "dead": 234,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 79,
+      "working": 80,
       "hd": 41
     },
     "Bhojpuri": {
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 577,
-      "hd": 240
+      "working": 578,
+      "hd": 238
     },
     "Kannada": {
       "total": 70,
       "working": 55,
-      "hd": 27
+      "hd": 26
     },
     "Konkani": {
       "total": 3,
@@ -390,11 +390,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -718,11 +713,6 @@
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
