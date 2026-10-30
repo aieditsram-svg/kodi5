@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 01:41 UTC",
-  "fingerprint": "b1d65af52cec5f55664e3bde914c8c72",
+  "updated_at": "2026-10-30 02:25 UTC",
+  "fingerprint": "ad2e3c01ffa25840c6d35e409aa4fb2b",
   "total": 1655,
   "working": 1421,
-  "in_grace_period": 15,
+  "in_grace_period": 21,
   "dead": 234,
-  "hd_channels": 629,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -45,7 +45,7 @@
     "Kannada": {
       "total": 70,
       "working": 55,
-      "hd": 26
+      "hd": 27
     },
     "Konkani": {
       "total": 3,
@@ -537,7 +537,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "NH BollyGold (1080p)",
