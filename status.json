@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 16:24 UTC",
-  "fingerprint": "a63950d10437a5ab987a609753b6196d",
+  "updated_at": "2026-10-31 17:00 UTC",
+  "fingerprint": "c69e7cf6a05ad8eae4adc5f4e5f7485e",
   "total": 1677,
-  "working": 1456,
-  "in_grace_period": 18,
-  "dead": 221,
-  "hd_channels": 633,
+  "working": 1454,
+  "in_grace_period": 14,
+  "dead": 223,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 114,
-      "working": 79,
+      "working": 78,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 591,
-      "hd": 241
+      "working": 590,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -765,9 +765,19 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
