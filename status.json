@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 02:20 UTC",
-  "fingerprint": "7cf4a5da77b21c423210cfd921219685",
+  "updated_at": "2026-10-31 03:06 UTC",
+  "fingerprint": "16b74eef5be5aebfaf0f049dbe5b7660",
   "total": 1677,
-  "working": 1454,
-  "in_grace_period": 17,
-  "dead": 223,
-  "hd_channels": 628,
+  "working": 1455,
+  "in_grace_period": 12,
+  "dead": 222,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 587,
+      "working": 586,
       "hd": 237
     },
     "Kannada": {
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 98,
-      "hd": 41
+      "working": 99,
+      "hd": 42
     },
     "Marathi": {
       "total": 46,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 182,
-      "working": 147,
+      "working": 148,
       "hd": 72
     },
     "Telugu": {
@@ -255,11 +255,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Harvest TV Keralam (720p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
       "reason": "HTTP 403"
@@ -415,6 +410,16 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -563,11 +568,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -1040,6 +1040,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Bharat AtoZ (720p)",
+      "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
       "reason": "HTTP 403"
@@ -1048,11 +1053,6 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -1077,11 +1077,6 @@
     {
       "name": "9XM (576p)",
       "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "9XM (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
       "reason": "not a valid HLS manifest"
     },
     {
