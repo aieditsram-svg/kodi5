@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 20:52 UTC",
-  "fingerprint": "32ca27c0fdadb876bacf7e6c8a36402a",
+  "updated_at": "2026-10-31 21:21 UTC",
+  "fingerprint": "04af2ee02aeb9ce43ba28a859ccee558",
   "total": 1677,
-  "working": 1454,
-  "in_grace_period": 11,
-  "dead": 223,
+  "working": 1455,
+  "in_grace_period": 13,
+  "dead": 222,
   "hd_channels": 628,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 589,
+      "working": 590,
       "hd": 238
     },
     "Kannada": {
@@ -418,11 +418,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Movies (576p)",
