@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 05:43 UTC",
-  "fingerprint": "61c3ce0f5abcbb23f541effda7edb80d",
+  "updated_at": "2026-10-31 06:19 UTC",
+  "fingerprint": "fd04d265501ac8acb726aee8540459d7",
   "total": 1677,
-  "working": 1453,
-  "in_grace_period": 7,
-  "dead": 224,
-  "hd_channels": 632,
+  "working": 1455,
+  "in_grace_period": 11,
+  "dead": 222,
+  "hd_channels": 631,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 114,
-      "working": 81,
+      "working": 82,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 586,
-      "hd": 240
+      "working": 587,
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
@@ -545,11 +545,6 @@
       "reason": "HTTP 456"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
@@ -768,11 +763,6 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
