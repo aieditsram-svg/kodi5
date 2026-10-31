@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 04:25 UTC",
-  "fingerprint": "a85c009206572b0ea89edbb341c4246c",
+  "updated_at": "2026-10-31 05:07 UTC",
+  "fingerprint": "6c52a1ff272ed95572a30ec4ba51d456",
   "total": 1677,
-  "working": 1456,
+  "working": 1452,
   "in_grace_period": 13,
-  "dead": 221,
-  "hd_channels": 630,
+  "dead": 225,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 114,
       "working": 81,
-      "hd": 42
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 32,
@@ -30,7 +30,7 @@
     "English": {
       "total": 166,
       "working": 130,
-      "hd": 62
+      "hd": 61
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 588,
-      "hd": 239
+      "working": 587,
+      "hd": 238
     },
     "Kannada": {
       "total": 70,
@@ -64,7 +64,7 @@
     },
     "Nepali": {
       "total": 5,
-      "working": 5,
+      "working": 2,
       "hd": 1
     },
     "Odia": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 182,
-      "working": 148,
-      "hd": 72
+      "working": 147,
+      "hd": 71
     },
     "Telugu": {
       "total": 173,
-      "working": 138,
+      "working": 139,
       "hd": 58
     },
     "Urdu": {
@@ -215,11 +215,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -260,6 +255,11 @@
       "reason": "HTTP 451"
     },
     {
+      "name": "Nepal 1 (396p)",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News18 Kerala (1080p) [Geo-blocked]",
       "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8",
       "reason": "HTTP 451"
@@ -278,6 +278,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -390,6 +395,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nepal 1 (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "B4U Kadak (576p)",
       "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
@@ -442,6 +452,11 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1152,6 +1167,11 @@
     {
       "name": "DD Kashir (576p)",
       "url": "https://fta.ektv.in/live/248/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Nepal 1 (576p)",
+      "url": "https://fta.ektv.in/live/380/master.m3u8",
       "reason": "HTTP 404"
     },
     {
