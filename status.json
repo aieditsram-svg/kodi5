@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-31 09:23 UTC",
-  "fingerprint": "58df9763f1561b6ee9af897a06001809",
+  "updated_at": "2026-10-31 10:00 UTC",
+  "fingerprint": "6524764ebd637b84418a2ebe2a66a984",
   "total": 1677,
-  "working": 1456,
-  "in_grace_period": 12,
-  "dead": 221,
-  "hd_channels": 632,
+  "working": 1461,
+  "in_grace_period": 13,
+  "dead": 216,
+  "hd_channels": 633,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 30,
+      "working": 31,
       "hd": 12
     },
     "Bengali": {
       "total": 114,
-      "working": 81,
+      "working": 82,
       "hd": 43
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 166,
-      "working": 129,
-      "hd": 61
+      "working": 130,
+      "hd": 62
     },
     "Gujarati": {
       "total": 34,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 589,
+      "working": 591,
       "hd": 240
     },
     "Kannada": {
@@ -125,11 +125,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Aakaash Aath (576p)",
-      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -138,11 +133,6 @@
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Ayush TV (360p) [Not 24/7]",
@@ -275,11 +265,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 24 (576p)",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "HTTP 403"
@@ -322,17 +307,12 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Star Sports Select 2 HD (720p)",
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -748,11 +728,6 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
