@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-30 23:54 UTC",
-  "fingerprint": "a8255e1b4bcfef3690a8da06f5543228",
-  "total": 1655,
-  "working": 1434,
-  "in_grace_period": 1,
-  "dead": 221,
-  "hd_channels": 626,
+  "updated_at": "2026-10-31 00:28 UTC",
+  "fingerprint": "70953cb5e75da97439d97e77ba96307c",
+  "total": 1677,
+  "working": 1455,
+  "in_grace_period": 7,
+  "dead": 222,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
-      "total": 39,
-      "working": 32,
+      "total": 38,
+      "working": 31,
       "hd": 12
     },
     "Bengali": {
-      "total": 113,
-      "working": 79,
-      "hd": 40
+      "total": 114,
+      "working": 81,
+      "hd": 41
     },
     "Bhojpuri": {
-      "total": 31,
-      "working": 29,
+      "total": 32,
+      "working": 30,
       "hd": 13
     },
     "Chhattisgarhi": {
@@ -28,9 +28,9 @@
       "hd": 0
     },
     "English": {
-      "total": 165,
-      "working": 127,
-      "hd": 60
+      "total": 166,
+      "working": 129,
+      "hd": 61
     },
     "Gujarati": {
       "total": 34,
@@ -38,8 +38,8 @@
       "hd": 18
     },
     "Hindi": {
-      "total": 684,
-      "working": 576,
+      "total": 699,
+      "working": 590,
       "hd": 238
     },
     "Kannada": {
@@ -53,8 +53,8 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 113,
-      "working": 96,
+      "total": 114,
+      "working": 97,
       "hd": 40
     },
     "Marathi": {
@@ -88,18 +88,18 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 181,
+      "total": 182,
       "working": 147,
       "hd": 72
     },
     "Telugu": {
-      "total": 171,
-      "working": 136,
+      "total": 173,
+      "working": 138,
       "hd": 58
     },
     "Urdu": {
-      "total": 16,
-      "working": 15,
+      "total": 17,
+      "working": 16,
       "hd": 6
     }
   },
@@ -268,11 +268,6 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "JTBS Classic",
-      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
-      "reason": "HTTP 429"
     },
     {
       "name": "KCL TV (720p)",
@@ -1197,6 +1192,16 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Prarthana Bhawan TV (576p)",
+      "url": "https://fta.ektv.in/live/623/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Dhool TV (576p)",
+      "url": "https://fta.ektv.in/live/631/master.m3u8",
       "reason": "HTTP 404"
     },
     {
