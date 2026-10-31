@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 08:45 UTC",
-  "fingerprint": "f9edd79fe34f188528a104937746c3bc",
+  "updated_at": "2026-10-31 09:23 UTC",
+  "fingerprint": "58df9763f1561b6ee9af897a06001809",
   "total": 1677,
-  "working": 1453,
-  "in_grace_period": 14,
-  "dead": 224,
+  "working": 1456,
+  "in_grace_period": 12,
+  "dead": 221,
   "hd_channels": 632,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 591,
-      "hd": 241
+      "working": 589,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -64,12 +64,12 @@
     },
     "Nepali": {
       "total": 5,
-      "working": 2,
-      "hd": 1
+      "working": 5,
+      "hd": 2
     },
     "Odia": {
       "total": 31,
-      "working": 21,
+      "working": 23,
       "hd": 10
     },
     "Other": {
@@ -220,11 +220,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Ekamra Bharat Odia (400p)",
-      "url": "https://live.ekamraott.com/bharat/bharat/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "ET Now (720p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8",
       "reason": "HTTP 403"
@@ -270,11 +265,6 @@
       "reason": "HTTP 451"
     },
     {
-      "name": "Nepal 1 (396p)",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News18 Kerala (1080p) [Geo-blocked]",
       "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8",
       "reason": "HTTP 451"
@@ -298,11 +288,6 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "One Paschima (400p)",
-      "url": "https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -420,14 +405,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nepal 1 (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -760,14 +745,14 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -1045,6 +1030,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Sindh TV (720p)",
+      "url": "https://samitaorigin.tangotv.in/SINDHTV/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
       "reason": "HTTP 403"
@@ -1162,11 +1152,6 @@
     {
       "name": "DD Kashir (576p)",
       "url": "https://fta.ektv.in/live/248/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Nepal 1 (576p)",
-      "url": "https://fta.ektv.in/live/380/master.m3u8",
       "reason": "HTTP 404"
     },
     {
