@@ -1,5 +1,5 @@
 #EXTM3U
-# Working HD channels (720p+), all languages, updated 2026-10-31 05:07 UTC
+# Working HD channels (720p+), all languages, updated 2026-10-31 05:43 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="NewsLive.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143595_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="1080",News Live (576p)
@@ -204,6 +204,8 @@ https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
 #EXTINF:-1 tvg-id="HSTV.in@SD" tvg-logo="https://ibb.co/Ng5nkX6F" tvg-language="English" group-title="English" height="720",HSTV (720p)
 https://live.castmaxcloud.com/live/hstv.m3u8
+#EXTINF:-1 tvg-id="IndiaAhead.in@SD" x-category="news" tvg-logo="https://i.imgur.com/hBkTmf9.png" tvg-language="English" group-title="English" height="720",India Ahead (576p)
+https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143197_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="720",India Today (720p) [Geo-blocked]
 https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
 #EXTINF:-1 tvg-id="IndywoodTV.in@SD" x-category="movies" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" tvg-language="English" group-title="English" height="720",Indywood TV (720p)
@@ -354,6 +356,8 @@ https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgusNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142650_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Argus News (576p)
 https://stream.ottlive.co.in/argus/index.m3u8
+#EXTINF:-1 tvg-id="AryanTVNational.in@SD" tvg-logo="https://i.imgur.com/3tePHES.png" tvg-language="Hindi" group-title="Hindi" height="720",Aryan TV National (576p)
+https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="AsianNews.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png" tvg-language="Hindi" group-title="Hindi" height="1080",Asian News (1080p)
 https://stream.ottlive.co.in/asiannews/index.m3u8
 #EXTINF:-1 tvg-id="ATNSamachar.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ATN_Samachar.png" tvg-language="Hindi" group-title="Hindi" height="1080",ATN Samachar (1080p)
@@ -538,9 +542,11 @@ https://stream.ottlive.co.in/livetimetv/index.m3u8
 #EXTINF:-1 tvg-id="MahotsavTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mahotsav_TV.png" tvg-language="Hindi" group-title="Hindi" height="1080",Mahotsav TV (576p)
 https://livetv.mahotsavtv.com/mahotsavtv/playout/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanGrand.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143302_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Manoranjan Grand (576p)
-https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
+https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanTV.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143304_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Manoranjan TV (576p)
 https://streams.tangotv.in/MANORANJANTV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Mastiii.in@SD" x-category="music" tvg-logo="https://i.imgur.com/lxgXHx4.png" tvg-language="Hindi" group-title="Hindi" height="720",Mastiii (576p)
+https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 #EXTINF:-1 tvg-id="MercyTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/klNH4tV.png" tvg-language="Hindi" group-title="Hindi" height="1080",Mercy TV (1080p)
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mh1Prime.in@SD" x-category="general" tvg-language="Hindi" group-title="Hindi" height="720",Mh 1 Prime (576p)
@@ -1192,6 +1198,8 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/
 https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
 #EXTINF:-1 tvg-id="NTCTV.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" tvg-language="Tamil" group-title="Tamil" height="720",NTC TV (720p)
 https://galaxyott.live/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="OliTV.in@SD" x-category="entertainment" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" tvg-language="Tamil" group-title="Tamil" height="1080",Oli TV (1080p)
+https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="OMTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" tvg-language="Tamil" group-title="Tamil" height="720",OM TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 #EXTINF:-1 tvg-id="PeppersTV.in@SD" x-category="music" tvg-logo="https://i.imgur.com/5PyJj2n.png" tvg-language="Tamil" group-title="Tamil" height="720",Peppers TV (576p)

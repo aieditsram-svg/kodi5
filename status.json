@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 05:07 UTC",
-  "fingerprint": "6c52a1ff272ed95572a30ec4ba51d456",
+  "updated_at": "2026-10-31 05:43 UTC",
+  "fingerprint": "61c3ce0f5abcbb23f541effda7edb80d",
   "total": 1677,
-  "working": 1452,
-  "in_grace_period": 13,
-  "dead": 225,
-  "hd_channels": 628,
+  "working": 1453,
+  "in_grace_period": 7,
+  "dead": 224,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -30,7 +30,7 @@
     "English": {
       "total": 166,
       "working": 130,
-      "hd": 61
+      "hd": 62
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 587,
-      "hd": 238
+      "working": 586,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 182,
-      "working": 147,
-      "hd": 71
+      "working": 148,
+      "hd": 72
     },
     "Telugu": {
       "total": 173,
-      "working": 139,
+      "working": 140,
       "hd": 58
     },
     "Urdu": {
@@ -220,11 +220,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -278,11 +273,6 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -778,6 +768,11 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
