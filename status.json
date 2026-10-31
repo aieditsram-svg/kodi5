@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 19:17 UTC",
-  "fingerprint": "bd2183833f2576e5a0992caa09c0ac65",
+  "updated_at": "2026-10-31 19:51 UTC",
+  "fingerprint": "00bea70d00dd7fe85ceefeae2d188f44",
   "total": 1677,
-  "working": 1451,
-  "in_grace_period": 14,
-  "dead": 226,
-  "hd_channels": 629,
+  "working": 1450,
+  "in_grace_period": 9,
+  "dead": 227,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,12 +14,12 @@
     },
     "Bengali": {
       "total": 114,
-      "working": 80,
-      "hd": 43
+      "working": 81,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
-      "working": 30,
+      "working": 29,
       "hd": 13
     },
     "Chhattisgarhi": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 699,
       "working": 585,
-      "hd": 238
+      "hd": 237
     },
     "Kannada": {
       "total": 70,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 98,
+      "working": 97,
       "hd": 41
     },
     "Marathi": {
@@ -143,6 +143,11 @@
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Awaaz India TV (720p) [Not 24/7]",
+      "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Ayush TV (360p) [Not 24/7]",
@@ -258,6 +263,11 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Kalika TV (576p)",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "KCL TV (720p)",
@@ -427,11 +437,6 @@
     {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -775,11 +780,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -1107,6 +1107,11 @@
     {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Captain (576p)",
+      "url": "https://fta.ektv.in/live/173/master.m3u8",
       "reason": "HTTP 404"
     },
     {
