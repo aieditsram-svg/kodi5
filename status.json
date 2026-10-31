@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 13:39 UTC",
-  "fingerprint": "fdec64241e547e312741262681b6ced7",
+  "updated_at": "2026-10-31 14:18 UTC",
+  "fingerprint": "bf1a70aea46287e2623beee3aac26935",
   "total": 1677,
-  "working": 1458,
-  "in_grace_period": 11,
-  "dead": 219,
+  "working": 1460,
+  "in_grace_period": 17,
+  "dead": 217,
   "hd_channels": 634,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 114,
-      "working": 81,
+      "working": 82,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 589,
+      "working": 590,
       "hd": 241
     },
     "Kannada": {
@@ -745,11 +745,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Q TV (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
@@ -1137,11 +1132,6 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Kashir (576p)",
-      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
