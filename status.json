@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 15:55 UTC",
-  "fingerprint": "9820710fc1320a46f3c8ad35a69a3472",
+  "updated_at": "2026-10-31 16:24 UTC",
+  "fingerprint": "a63950d10437a5ab987a609753b6196d",
   "total": 1677,
-  "working": 1457,
-  "in_grace_period": 6,
-  "dead": 220,
+  "working": 1456,
+  "in_grace_period": 18,
+  "dead": 221,
   "hd_channels": 633,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 114,
-      "working": 80,
+      "working": 79,
       "hd": 43
     },
     "Bhojpuri": {
@@ -132,11 +132,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -545,6 +540,11 @@
       "reason": "HTTP 456"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
@@ -573,6 +573,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "NH BollyGold (1080p)",
