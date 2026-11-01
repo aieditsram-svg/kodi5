@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 10:44 UTC",
-  "fingerprint": "af5b146f312e98307955548ee7385b73",
+  "updated_at": "2026-11-01 11:16 UTC",
+  "fingerprint": "4a5c9c4f6b0dfa84a4f427f9319ae93a",
   "total": 1672,
-  "working": 1459,
-  "in_grace_period": 13,
-  "dead": 213,
-  "hd_channels": 628,
+  "working": 1461,
+  "in_grace_period": 16,
+  "dead": 211,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 592,
-      "hd": 239
+      "working": 594,
+      "hd": 240
     },
     "Kannada": {
       "total": 69,
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -393,11 +388,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
