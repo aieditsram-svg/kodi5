@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-01 04:50 UTC",
-  "fingerprint": "6a795385e48ba7d6737bf659053dd9db",
+  "updated_at": "2026-11-01 05:29 UTC",
+  "fingerprint": "fa7d50c1162ca8292d57f4e5e6bf50b9",
   "total": 1672,
-  "working": 1440,
-  "in_grace_period": 10,
-  "dead": 232,
+  "working": 1454,
+  "in_grace_period": 17,
+  "dead": 218,
   "hd_channels": 629,
   "languages": {
     "Assamese": {
@@ -29,18 +29,18 @@
     },
     "English": {
       "total": 165,
-      "working": 128,
-      "hd": 60
+      "working": 130,
+      "hd": 61
     },
     "Gujarati": {
       "total": 34,
       "working": 33,
-      "hd": 18
+      "hd": 17
     },
     "Hindi": {
       "total": 696,
-      "working": 582,
-      "hd": 239
+      "working": 588,
+      "hd": 238
     },
     "Kannada": {
       "total": 69,
@@ -49,17 +49,17 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 1,
+      "working": 2,
       "hd": 1
     },
     "Malayalam": {
       "total": 113,
-      "working": 96,
-      "hd": 41
+      "working": 98,
+      "hd": 42
     },
     "Marathi": {
       "total": 45,
-      "working": 36,
+      "working": 38,
       "hd": 20
     },
     "Nepali": {
@@ -69,12 +69,12 @@
     },
     "Odia": {
       "total": 30,
-      "working": 22,
-      "hd": 9
+      "working": 23,
+      "hd": 10
     },
     "Other": {
       "total": 19,
-      "working": 15,
+      "working": 16,
       "hd": 12
     },
     "Punjabi": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 147,
+      "working": 148,
       "hd": 72
     },
     "Telugu": {
       "total": 170,
-      "working": 139,
+      "working": 140,
       "hd": 58
     },
     "Urdu": {
@@ -243,11 +243,6 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "KCL TV (720p)",
-      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "MTV HD (396p)",
@@ -550,6 +545,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "KBP Times (1080p)",
+      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
@@ -562,6 +562,11 @@
     {
       "name": "NH BollyGold (1080p)",
       "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -740,6 +745,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Q TV (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
@@ -757,11 +767,6 @@
     {
       "name": "Prarthana Bhawan TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1120,28 +1125,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "DD Bihar (576p)",
-      "url": "https://fta.ektv.in/live/172/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Punjabi (576p)",
       "url": "https://fta.ektv.in/live/177/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Sahyadri (576p)",
-      "url": "https://fta.ektv.in/live/187/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Bangla (576p)",
-      "url": "https://fta.ektv.in/live/197/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Arun Prabha (576p)",
-      "url": "https://fta.ektv.in/live/203/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1152,46 +1137,6 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Kashir (576p)",
-      "url": "https://fta.ektv.in/live/248/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Uttar Pradesh (576p)",
-      "url": "https://fta.ektv.in/live/263/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Goa (576p)",
-      "url": "https://fta.ektv.in/live/367/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Girnar (576p)",
-      "url": "https://fta.ektv.in/live/368/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Mizoram (576p)",
-      "url": "https://fta.ektv.in/live/381/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Odia (576p)",
-      "url": "https://fta.ektv.in/live/384/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Himachal Pradesh (576p)",
-      "url": "https://fta.ektv.in/live/575/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Madhya Pradesh (576p)",
-      "url": "https://fta.ektv.in/live/578/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1227,21 +1172,6 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Yadagiri (576p)",
-      "url": "https://fta.ektv.in/live/678/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Tamil (576p)",
-      "url": "https://fta.ektv.in/live/679/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Malayalam (576p)",
-      "url": "https://fta.ektv.in/live/680/master.m3u8",
       "reason": "HTTP 404"
     },
     {
