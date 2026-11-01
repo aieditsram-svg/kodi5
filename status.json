@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 10:08 UTC",
-  "fingerprint": "4bc2554ce25c45073ed117848de3e28c",
+  "updated_at": "2026-11-01 10:44 UTC",
+  "fingerprint": "af5b146f312e98307955548ee7385b73",
   "total": 1672,
-  "working": 1456,
-  "in_grace_period": 3,
-  "dead": 216,
-  "hd_channels": 627,
+  "working": 1459,
+  "in_grace_period": 13,
+  "dead": 213,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 589,
-      "hd": 238
+      "working": 592,
+      "hd": 239
     },
     "Kannada": {
       "total": 69,
@@ -307,7 +307,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -400,11 +400,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -432,11 +427,6 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Zee TV HD (720p) [Geo-blocked]",
-      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -733,11 +723,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
