@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 23:24 UTC",
-  "fingerprint": "61c624f1fd2992c8e62fb530a2b47792",
+  "updated_at": "2026-11-01 23:56 UTC",
+  "fingerprint": "dca902218e395e778c18c0c545ac3270",
   "total": 1672,
-  "working": 1456,
+  "working": 1455,
   "in_grace_period": 37,
-  "dead": 216,
-  "hd_channels": 611,
+  "dead": 217,
+  "hd_channels": 610,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 83,
-      "hd": 41
+      "working": 82,
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -34,8 +34,8 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 34,
-      "hd": 17
+      "working": 33,
+      "hd": 16
     },
     "Hindi": {
       "total": 696,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 145,
-      "hd": 69
+      "working": 146,
+      "hd": 70
     },
     "Telugu": {
       "total": 170,
@@ -275,11 +275,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Raj Digital Plus (1080p)",
-      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -425,11 +420,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -567,6 +557,11 @@
     {
       "name": "NH BollyGold (1080p)",
       "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -753,6 +748,11 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -1048,6 +1048,11 @@
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Shiksha TV (720p)",
+      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
+      "reason": "empty HLS manifest"
     },
     {
       "name": "Dukhniwaran (576p)",
