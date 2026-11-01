@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 00:28 UTC",
-  "fingerprint": "e2f52bf86c5d6980608f9db0f260d272",
+  "updated_at": "2026-11-01 01:40 UTC",
+  "fingerprint": "82ca53bec1d9474d7897cc8832244be8",
   "total": 1672,
-  "working": 1455,
-  "in_grace_period": 2,
-  "dead": 217,
-  "hd_channels": 629,
+  "working": 1458,
+  "in_grace_period": 34,
+  "dead": 214,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 81,
-      "hd": 41
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 591,
+      "working": 592,
       "hd": 238
     },
     "Kannada": {
       "total": 69,
-      "working": 57,
+      "working": 58,
       "hd": 27
     },
     "Konkani": {
@@ -70,12 +70,12 @@
     "Odia": {
       "total": 30,
       "working": 23,
-      "hd": 10
+      "hd": 9
     },
     "Other": {
       "total": 19,
       "working": 16,
-      "hd": 13
+      "hd": 12
     },
     "Punjabi": {
       "total": 132,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 140,
+      "working": 141,
       "hd": 58
     },
     "Urdu": {
@@ -142,11 +142,6 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Ayush TV (360p) [Not 24/7]",
-      "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -228,11 +223,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -322,7 +312,7 @@
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
       "url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8",
-      "reason": "TimeoutError"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Spondon (1080p)",
@@ -567,7 +557,7 @@
     {
       "name": "News Nation 81 (1080p)",
       "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -773,11 +763,6 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
