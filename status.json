@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 13:58 UTC",
-  "fingerprint": "8e48903149325f8e70dda150567abd5b",
+  "updated_at": "2026-11-01 14:29 UTC",
+  "fingerprint": "fc6829ea68af5d4a25d9a19447f49722",
   "total": 1672,
-  "working": 1459,
-  "in_grace_period": 9,
-  "dead": 213,
-  "hd_channels": 627,
+  "working": 1458,
+  "in_grace_period": 10,
+  "dead": 214,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 82,
+      "working": 81,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 592,
+      "working": 591,
       "hd": 239
     },
     "Kannada": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 147,
-      "hd": 71
+      "working": 148,
+      "hd": 72
     },
     "Telugu": {
       "total": 170,
@@ -285,11 +285,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -413,6 +408,16 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -735,6 +740,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -748,11 +758,6 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
