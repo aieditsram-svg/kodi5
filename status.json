@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-01 01:40 UTC",
-  "fingerprint": "82ca53bec1d9474d7897cc8832244be8",
+  "updated_at": "2026-11-01 02:28 UTC",
+  "fingerprint": "7271bea87f14b5e906f2c7f01f800ebc",
   "total": 1672,
-  "working": 1458,
-  "in_grace_period": 34,
-  "dead": 214,
-  "hd_channels": 628,
+  "working": 1464,
+  "in_grace_period": 30,
+  "dead": 208,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 30,
+      "working": 31,
       "hd": 12
     },
     "Bengali": {
       "total": 111,
-      "working": 81,
+      "working": 83,
       "hd": 42
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 128,
-      "hd": 59
+      "working": 129,
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 592,
-      "hd": 238
+      "working": 594,
+      "hd": 239
     },
     "Kannada": {
       "total": 69,
@@ -125,24 +125,9 @@
       "reason": "URLError"
     },
     {
-      "name": "Aakaash Aath (576p)",
-      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Bansal News (720p)",
@@ -275,11 +260,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 24 (576p)",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "HTTP 403"
@@ -312,7 +292,7 @@
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
       "url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "URLError"
     },
     {
       "name": "Spondon (1080p)",
@@ -322,17 +302,12 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Star Sports Select 2 HD (720p)",
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -513,11 +488,6 @@
       "name": "StarPlus HD (1080p)",
       "url": "http://66.102.126.10:8000/play/a008/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
