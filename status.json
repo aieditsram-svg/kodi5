@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 19:40 UTC",
-  "fingerprint": "e5ee05cc47fe5ab4c7eced72b811e815",
+  "updated_at": "2026-11-01 20:11 UTC",
+  "fingerprint": "99ffe7041a841868081578889e06f5bd",
   "total": 1672,
   "working": 1455,
-  "in_grace_period": 10,
+  "in_grace_period": 7,
   "dead": 217,
-  "hd_channels": 626,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 84,
-      "hd": 43
+      "working": 83,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 589,
-      "hd": 238
+      "working": 591,
+      "hd": 239
     },
     "Kannada": {
       "total": 69,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 145,
-      "hd": 71
+      "working": 144,
+      "hd": 70
     },
     "Telugu": {
       "total": 170,
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -278,6 +273,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Raj Musix Tamil (1080p)",
+      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Raj TV (1080p)",
@@ -445,11 +445,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -528,6 +523,11 @@
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
       "reason": "HTTP 456"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
