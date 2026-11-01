@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 22:21 UTC",
-  "fingerprint": "6f65d2d3f0976cf2a05ab1ceee80f00d",
+  "updated_at": "2026-11-01 22:55 UTC",
+  "fingerprint": "a777cccb49117afbce5f994f966acb98",
   "total": 1672,
-  "working": 1457,
-  "in_grace_period": 5,
-  "dead": 215,
-  "hd_channels": 624,
+  "working": 1456,
+  "in_grace_period": 4,
+  "dead": 216,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 590,
+      "working": 588,
       "hd": 238
     },
     "Kannada": {
@@ -74,8 +74,8 @@
     },
     "Other": {
       "total": 19,
-      "working": 15,
-      "hd": 11
+      "working": 16,
+      "hd": 12
     },
     "Punjabi": {
       "total": 132,
@@ -275,11 +275,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Peques TV (720p)",
-      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Raj Digital Plus (1080p)",
       "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8",
       "reason": "HTTP 404"
@@ -405,6 +400,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Dangal TV (576p)",
       "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
@@ -423,6 +423,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -522,12 +527,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 404"
+      "reason": "HTTP 456"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -743,6 +743,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
