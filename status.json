@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 16:46 UTC",
-  "fingerprint": "eb1983c8d1040de28003fd07bb4b41c4",
+  "updated_at": "2026-11-01 17:16 UTC",
+  "fingerprint": "4e10ebe36b9aa17526f92cead3159c9d",
   "total": 1672,
   "working": 1459,
-  "in_grace_period": 7,
+  "in_grace_period": 4,
   "dead": 213,
-  "hd_channels": 629,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 83,
-      "hd": 43
+      "working": 82,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 130,
-      "hd": 61
+      "working": 129,
+      "hd": 59
     },
     "Gujarati": {
       "total": 34,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 696,
       "working": 590,
-      "hd": 239
+      "hd": 238
     },
     "Kannada": {
       "total": 69,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 147,
+      "working": 148,
       "hd": 72
     },
     "Telugu": {
@@ -395,6 +395,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
       "reason": "HTTP 404"
@@ -403,11 +408,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -735,6 +735,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Q TV (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
@@ -755,14 +760,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Sarv Dharam Sangam (720p)",
-      "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
+      "name": "Sarv Dharam Sangam (720p)",
+      "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1027,11 +1032,6 @@
     {
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 403"
     },
     {
