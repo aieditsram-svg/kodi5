@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 07:10 UTC",
-  "fingerprint": "53bc37609ebda8992737c6f1fb53f4cd",
+  "updated_at": "2026-11-01 08:02 UTC",
+  "fingerprint": "3f75956cc63c563f55a6788066d7bfc9",
   "total": 1672,
-  "working": 1454,
-  "in_grace_period": 14,
-  "dead": 218,
-  "hd_channels": 627,
+  "working": 1458,
+  "in_grace_period": 11,
+  "dead": 214,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 81,
-      "hd": 43
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -30,17 +30,17 @@
     "English": {
       "total": 165,
       "working": 130,
-      "hd": 61
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
-      "working": 33,
-      "hd": 16
+      "working": 34,
+      "hd": 17
     },
     "Hindi": {
       "total": 696,
-      "working": 589,
-      "hd": 238
+      "working": 591,
+      "hd": 239
     },
     "Kannada": {
       "total": 69,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 138,
+      "working": 139,
       "hd": 58
     },
     "Urdu": {
@@ -223,11 +223,6 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -395,11 +390,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -415,8 +405,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -522,7 +512,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -560,11 +550,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Vistaar News (1080p)",
-      "url": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
@@ -572,11 +557,6 @@
     {
       "name": "NH BollyGold (1080p)",
       "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
