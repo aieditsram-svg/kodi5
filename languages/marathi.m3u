@@ -1,13 +1,11 @@
 #EXTM3U
-# Working Marathi channels, updated 2026-11-01 02:28 UTC
+# Working Marathi channels, updated 2026-11-01 03:15 UTC
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="1080",9X Jhakaas (1080p)
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="1080",9X Jhakaas (1080p)
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="720",9X Jhakaas (576p)
 https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
-#EXTINF:-1 tvg-id="9XJhakaas.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="576",9X Jhakaas (576p)
-https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjhakaas.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ABPMajha.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142521_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="1080",ABP Majha (360p)
 https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
 #EXTINF:-1 tvg-id="ABPMajha.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142521_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="1080",ABP Majha (576p)
@@ -21,12 +19,6 @@ https://fta.ektv.in/live/418/master.m3u8
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="ColorsMarathi.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5106/1782291335106-h.jpg" tvg-language="Marathi" group-title="Marathi" height="720",Colors Marathi HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DDGoa.in@SD" x-category="general" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Goa-Logo_2000_X_1125_Transpharent.png" tvg-language="Marathi" group-title="Marathi" height="576",DD Goa (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/367/master.m3u8
-#EXTINF:-1 tvg-id="DDSahyadri.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s142803_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="576",DD Sahyadri (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/187/master.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="720",Discovery Channel (720p)
 https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="FaktMarathi.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143038_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="720",Fakt Marathi (576p)
@@ -45,8 +37,6 @@ https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u
 https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
 #EXTINF:-1 tvg-id="News18Marathi.in@SD" x-category="news" tvg-logo="https://images.news18.com/dlxczavtqcctuei/news18/static/images/marathi/NEWS_18_Marathi_Logo.svg" tvg-language="Marathi" group-title="Marathi" height="1080",News18 Marathi (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Marathi" group-title="Marathi" height="576",Nickelodeon (576p) [Geo-blocked]
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
 #EXTINF:-1 tvg-id="PudhariNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s158328_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="720",Pudhari News (576p)
 https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SaamTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143735_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="720",Saam TV (576p)
