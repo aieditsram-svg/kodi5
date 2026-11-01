@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 18:18 UTC",
-  "fingerprint": "2e6b45a3b035a6cc954975832f29d77e",
+  "updated_at": "2026-11-01 19:04 UTC",
+  "fingerprint": "0b045007cca83a3746c5553b67424eb8",
   "total": 1672,
-  "working": 1459,
-  "in_grace_period": 16,
-  "dead": 213,
-  "hd_channels": 628,
+  "working": 1457,
+  "in_grace_period": 9,
+  "dead": 215,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -34,12 +34,12 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 34,
-      "hd": 17
+      "working": 33,
+      "hd": 16
     },
     "Hindi": {
       "total": 696,
-      "working": 589,
+      "working": 588,
       "hd": 238
     },
     "Kannada": {
@@ -405,13 +405,13 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -558,6 +558,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "News Capital Gujarat (1080p)",
+      "url": "https://newscapital.com/hls/main4/stream.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -740,11 +745,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -768,6 +768,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1053,6 +1058,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9XM (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
