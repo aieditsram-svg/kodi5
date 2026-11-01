@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 20:44 UTC",
-  "fingerprint": "65a34c3ec8a10491fc528e17be6b0a84",
+  "updated_at": "2026-11-01 21:18 UTC",
+  "fingerprint": "8a3c9ab34a3b2204846379991976a0f3",
   "total": 1672,
-  "working": 1459,
-  "in_grace_period": 3,
-  "dead": 213,
-  "hd_channels": 627,
+  "working": 1458,
+  "in_grace_period": 6,
+  "dead": 214,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -34,8 +34,8 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 33,
-      "hd": 16
+      "working": 34,
+      "hd": 17
     },
     "Hindi": {
       "total": 696,
@@ -74,8 +74,8 @@
     },
     "Other": {
       "total": 19,
-      "working": 16,
-      "hd": 12
+      "working": 15,
+      "hd": 11
     },
     "Punjabi": {
       "total": 132,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 147,
-      "hd": 72
+      "working": 146,
+      "hd": 71
     },
     "Telugu": {
       "total": 170,
@@ -272,6 +272,16 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Peques TV (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Raj Digital Plus (1080p)",
+      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -558,11 +568,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "News Capital Gujarat (1080p)",
-      "url": "https://newscapital.com/hls/main4/stream.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "NH BollyGold (1080p)",
