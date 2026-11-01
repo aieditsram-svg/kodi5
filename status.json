@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 22:55 UTC",
-  "fingerprint": "a777cccb49117afbce5f994f966acb98",
+  "updated_at": "2026-11-01 23:24 UTC",
+  "fingerprint": "61c624f1fd2992c8e62fb530a2b47792",
   "total": 1672,
   "working": 1456,
-  "in_grace_period": 4,
+  "in_grace_period": 37,
   "dead": 216,
-  "hd_channels": 625,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 83,
-      "hd": 42
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 129,
-      "hd": 60
+      "hd": 59
     },
     "Gujarati": {
       "total": 34,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 696,
       "working": 588,
-      "hd": 238
+      "hd": 232
     },
     "Kannada": {
       "total": 69,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 45,
       "working": 38,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 5,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 132,
       "working": 125,
-      "hd": 50
+      "hd": 47
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 179,
       "working": 145,
-      "hd": 70
+      "hd": 69
     },
     "Telugu": {
       "total": 170,
       "working": 140,
-      "hd": 58
+      "hd": 57
     },
     "Urdu": {
       "total": 17,
@@ -1032,7 +1032,7 @@
     {
       "name": "India Talkies (360p)",
       "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
