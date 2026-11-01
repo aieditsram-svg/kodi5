@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 11:50 UTC",
-  "fingerprint": "7c55bf034b801571b20ff6b880b1dd8a",
+  "updated_at": "2026-11-01 12:22 UTC",
+  "fingerprint": "78ace1c90711a8eacf7c4dbe54f7be19",
   "total": 1672,
-  "working": 1457,
-  "in_grace_period": 9,
-  "dead": 215,
-  "hd_channels": 626,
+  "working": 1456,
+  "in_grace_period": 11,
+  "dead": 216,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 129,
-      "hd": 60
+      "working": 128,
+      "hd": 59
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 592,
-      "hd": 238
+      "working": 591,
+      "hd": 237
     },
     "Kannada": {
       "total": 69,
@@ -405,11 +405,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -740,6 +735,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Bhagyam TV (576p) [Not 24/7]",
       "url": "https://bhagyam.iptv.pics/bhagyam/index.m3u8",
       "reason": "HTTP 404"
@@ -747,6 +747,11 @@
     {
       "name": "Prarthana Bhawan TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
