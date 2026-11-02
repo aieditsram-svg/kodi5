@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-02 22:41 UTC",
-  "fingerprint": "86e47f60eedc5574937df5e6399cd46e",
+  "updated_at": "2026-11-02 23:19 UTC",
+  "fingerprint": "b0afe23b60c4d766da6f06db4f772789",
   "total": 1675,
-  "working": 1348,
-  "in_grace_period": 5,
-  "dead": 327,
-  "hd_channels": 574,
+  "working": 1350,
+  "in_grace_period": 11,
+  "dead": 325,
+  "hd_channels": 573,
   "languages": {
     "Assamese": {
       "total": 38,
       "working": 27,
-      "hd": 10
+      "hd": 9
     },
     "Bengali": {
       "total": 111,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 551,
+      "working": 553,
       "hd": 221
     },
     "Kannada": {
@@ -635,11 +635,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -737,11 +732,6 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1620,8 +1610,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9XM (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "name": "9X Jalwa (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
       "reason": "not a valid HLS manifest"
     },
     {
