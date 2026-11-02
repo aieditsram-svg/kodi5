@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 20:00 UTC",
-  "fingerprint": "81b4a0994b38d0b2bcc345f95fd2e1d3",
+  "updated_at": "2026-11-02 20:42 UTC",
+  "fingerprint": "7969bc6fa1a59e35de85378a5407f456",
   "total": 1675,
-  "working": 1350,
-  "in_grace_period": 13,
-  "dead": 325,
-  "hd_channels": 575,
+  "working": 1351,
+  "in_grace_period": 11,
+  "dead": 324,
+  "hd_channels": 573,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 77,
-      "hd": 41
+      "working": 76,
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 552,
-      "hd": 222
+      "working": 554,
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -635,16 +635,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -1138,6 +1128,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
