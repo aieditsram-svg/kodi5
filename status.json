@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 09:42 UTC",
-  "fingerprint": "a14b63980d50f4a315361643b9a855f4",
+  "updated_at": "2026-11-02 10:37 UTC",
+  "fingerprint": "55036631933c12118f7eda1a47772557",
   "total": 1675,
-  "working": 1354,
-  "in_grace_period": 9,
-  "dead": 321,
-  "hd_channels": 575,
+  "working": 1353,
+  "in_grace_period": 11,
+  "dead": 322,
+  "hd_channels": 577,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 77,
-      "hd": 41
+      "working": 76,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 122,
-      "hd": 55
+      "hd": 56
     },
     "Gujarati": {
       "total": 34,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 697,
       "working": 553,
-      "hd": 220
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -740,11 +740,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -1125,6 +1120,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -1193,6 +1193,11 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
