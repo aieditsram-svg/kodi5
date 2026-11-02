@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02 17:25 UTC",
-  "fingerprint": "58b1a62b2121bde81341e9bf0cc17a44",
+  "updated_at": "2026-11-02 18:16 UTC",
+  "fingerprint": "e889949a9c8a331dc41f4bdc8a98522d",
   "total": 1675,
-  "working": 1350,
-  "in_grace_period": 12,
-  "dead": 325,
+  "working": 1351,
+  "in_grace_period": 7,
+  "dead": 324,
   "hd_channels": 576,
   "languages": {
     "Assamese": {
@@ -35,12 +35,12 @@
     "Gujarati": {
       "total": 34,
       "working": 29,
-      "hd": 13
+      "hd": 12
     },
     "Hindi": {
       "total": 697,
-      "working": 554,
-      "hd": 221
+      "working": 553,
+      "hd": 222
     },
     "Kannada": {
       "total": 69,
@@ -59,7 +59,7 @@
     },
     "Marathi": {
       "total": 45,
-      "working": 36,
+      "working": 37,
       "hd": 20
     },
     "Nepali": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 116,
+      "working": 117,
       "hd": 49
     },
     "Santali": {
@@ -630,24 +630,29 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -743,11 +748,6 @@
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "TV13 Gujarati (480p)",
-      "url": "https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8",
-      "reason": "empty HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
@@ -943,6 +943,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "News Capital Gujarat (1080p)",
+      "url": "https://newscapital.com/hls/main4/stream.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -1603,16 +1608,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "9X Jhakaas (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjhakaas.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xtashan.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
