@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 01:43 UTC",
-  "fingerprint": "ba024cb60fdf73af5a23c5457f580e01",
+  "updated_at": "2026-11-02 02:32 UTC",
+  "fingerprint": "49a7d1531456f2440aace6efa5f95743",
   "total": 1675,
-  "working": 1433,
-  "in_grace_period": 9,
-  "dead": 242,
-  "hd_channels": 605,
+  "working": 1434,
+  "in_grace_period": 17,
+  "dead": 241,
+  "hd_channels": 604,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 581,
-      "hd": 229
+      "working": 582,
+      "hd": 228
     },
     "Kannada": {
       "total": 69,
@@ -718,11 +718,6 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
