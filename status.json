@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-02 23:19 UTC",
-  "fingerprint": "b0afe23b60c4d766da6f06db4f772789",
+  "updated_at": "2026-11-02 23:53 UTC",
+  "fingerprint": "43c7147e3e754e353e1f78ce965f9a7f",
   "total": 1675,
-  "working": 1350,
-  "in_grace_period": 11,
-  "dead": 325,
-  "hd_channels": 573,
+  "working": 1352,
+  "in_grace_period": 7,
+  "dead": 323,
+  "hd_channels": 574,
   "languages": {
     "Assamese": {
       "total": 38,
       "working": 27,
-      "hd": 9
+      "hd": 10
     },
     "Bengali": {
       "total": 111,
-      "working": 75,
+      "working": 77,
       "hd": 41
     },
     "Bhojpuri": {
@@ -1125,19 +1125,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
