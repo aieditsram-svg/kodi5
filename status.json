@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 22:03 UTC",
-  "fingerprint": "5255cda38af6bf41fdc1e22c9f7591ef",
+  "updated_at": "2026-11-02 22:41 UTC",
+  "fingerprint": "86e47f60eedc5574937df5e6399cd46e",
   "total": 1675,
-  "working": 1347,
-  "in_grace_period": 7,
-  "dead": 328,
-  "hd_channels": 573,
+  "working": 1348,
+  "in_grace_period": 5,
+  "dead": 327,
+  "hd_channels": 574,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 550,
-      "hd": 220
+      "working": 551,
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -158,11 +158,6 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -1175,11 +1170,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rang (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3RANG/index.m3u8",
       "reason": "HTTP 403"
@@ -1628,6 +1618,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9XM (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
