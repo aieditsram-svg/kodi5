@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 03:23 UTC",
-  "fingerprint": "02d1967f03db5e203691f8c5d5d0bdfa",
+  "updated_at": "2026-11-02 04:24 UTC",
+  "fingerprint": "3c8e42bb2d0f375c18f1827fc9ee4418",
   "total": 1675,
-  "working": 1433,
-  "in_grace_period": 14,
-  "dead": 242,
-  "hd_channels": 604,
+  "working": 1467,
+  "in_grace_period": 9,
+  "dead": 208,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 82,
-      "hd": 40
+      "working": 84,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 128,
-      "hd": 59
+      "working": 130,
+      "hd": 61
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 581,
-      "hd": 228
+      "working": 593,
+      "hd": 239
     },
     "Kannada": {
       "total": 69,
@@ -59,8 +59,8 @@
     },
     "Marathi": {
       "total": 45,
-      "working": 37,
-      "hd": 19
+      "working": 38,
+      "hd": 20
     },
     "Nepali": {
       "total": 6,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 114,
-      "hd": 44
+      "working": 127,
+      "hd": 51
     },
     "Santali": {
       "total": 1,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 144,
-      "hd": 70
+      "working": 148,
+      "hd": 72
     },
     "Telugu": {
       "total": 170,
-      "working": 138,
-      "hd": 57
+      "working": 139,
+      "hd": 58
     },
     "Urdu": {
       "total": 17,
@@ -302,7 +302,7 @@
     {
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Star Sports 2 HD (720p)",
@@ -395,19 +395,14 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -720,6 +715,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -735,19 +735,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 404"
+      "name": "Anand Wari TV (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1000,104 +995,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Amrit Gurbani (720p)",
-      "url": "https://samitaorigin.tangotv.in/AMRITGURBANI/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Chhaya Chitram Telugu (360p)",
-      "url": "https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Chintpurni Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Dukhnivaran Patiala Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "India Talkies (360p)",
       "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Kabaddi 24x7 (720p)",
-      "url": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Movie Punjab (720p)",
-      "url": "https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Nanaksar Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Padharo SA (720p)",
-      "url": "https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Pankh (360p)",
-      "url": "https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Punjabi Music HD (720p)",
-      "url": "https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Punjabi TV (720p)",
-      "url": "https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Ragni (360p)",
-      "url": "https://samitaorigin.tangotv.in/RAGNITV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Saang (720p)",
-      "url": "https://samitaorigin.tangotv.in/SAANGTV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Shree Hazur Sahibji (720p)",
-      "url": "https://samitaorigin.tangotv.in/SHREEHAZURSAHIBJI/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sindh TV (720p)",
-      "url": "https://samitaorigin.tangotv.in/SINDHTV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Soneri Cinema (360p)",
-      "url": "https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sonar Bangla (360p)",
-      "url": "https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "BSTV (720p)",
-      "url": "https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "FGN Channel (360p)",
-      "url": "https://samitaorigin.tangotv.in/FGNCHANNEL/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
@@ -1105,49 +1005,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Grace TV (360p)",
-      "url": "https://samitaorigin.tangotv.in/GRACETV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Hindi Hits (720p)",
-      "url": "https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "MH One (360p)",
-      "url": "https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Puthiya Thalaimurai Express (720p)",
-      "url": "https://samitaorigin.tangotv.in/PUTHIYAEXPRESS/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "OM TV (576p)",
-      "url": "https://samitaorigin.tangotv.in/OMTV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Moon TV (576p)",
-      "url": "https://samitaorigin.tangotv.in/ONTV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Shiksha TV (720p)",
-      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
-      "reason": "empty HLS manifest"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -1160,16 +1020,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Fast1 (576p)",
-      "url": "https://samitaorigin.tangotv.in/FAST1/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Khabar Fast (576p)",
-      "url": "https://samitaorigin.tangotv.in/KHABARFAST/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "India News Punjab/Himachal (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8",
       "reason": "HTTP 404"
@@ -1178,26 +1028,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "News India 24x7 (576p)",
-      "url": "https://samitaorigin.tangotv.in/NEWSINDIA24X7/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "DNN (576p)",
-      "url": "https://samitaorigin.tangotv.in/DNN/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Q TV (576p)",
-      "url": "https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "FashionTV (576p)",
