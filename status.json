@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02 18:16 UTC",
-  "fingerprint": "e889949a9c8a331dc41f4bdc8a98522d",
+  "updated_at": "2026-11-02 19:14 UTC",
+  "fingerprint": "394947f4ddbfbdd061de78fbf4bfbcdd",
   "total": 1675,
-  "working": 1351,
-  "in_grace_period": 7,
-  "dead": 324,
+  "working": 1353,
+  "in_grace_period": 11,
+  "dead": 322,
   "hd_channels": 576,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 553,
+      "working": 554,
       "hd": 222
     },
     "Kannada": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
+      "working": 88,
       "hd": 34
     },
     "Marathi": {
@@ -308,11 +308,6 @@
       "name": "Kairali TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Madhimugam TV (576p)",
@@ -638,11 +633,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Movies (576p)",
