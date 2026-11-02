@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 12:21 UTC",
-  "fingerprint": "df2f72872f550ce787126db6b1cabe04",
+  "updated_at": "2026-11-02 13:34 UTC",
+  "fingerprint": "367962446e9282adecd3df04252cee67",
   "total": 1675,
-  "working": 1352,
-  "in_grace_period": 10,
-  "dead": 323,
-  "hd_channels": 576,
+  "working": 1349,
+  "in_grace_period": 14,
+  "dead": 326,
+  "hd_channels": 577,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 76,
-      "hd": 42
+      "working": 75,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 122,
-      "hd": 56
+      "hd": 55
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 553,
-      "hd": 220
+      "working": 551,
+      "hd": 222
     },
     "Kannada": {
       "total": 69,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
+      "working": 88,
       "hd": 34
     },
     "Marathi": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 129,
       "hd": 55
     },
     "Urdu": {
@@ -255,6 +255,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -365,6 +370,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Raftaar Media (240p)",
+      "url": "https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -448,11 +458,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vision (576p)",
-      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "YRF Music (1080p)",
@@ -645,6 +650,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -830,6 +840,11 @@
       "reason": "HTTP 456"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Sandesh News (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -908,11 +923,6 @@
       "name": "Asom Live 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Only Bharat (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Live Times (576p)",
@@ -1127,6 +1137,11 @@
     {
       "name": "Sangeet Bangla (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
