@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-03 08:43 UTC",
-  "fingerprint": "84c52e20b41ff24481380315799317a4",
+  "updated_at": "2026-11-03 09:34 UTC",
+  "fingerprint": "66822e03a3c17a539f027788dabe9a40",
   "total": 1676,
-  "working": 1358,
-  "in_grace_period": 7,
-  "dead": 318,
+  "working": 1357,
+  "in_grace_period": 11,
+  "dead": 319,
   "hd_channels": 577,
   "languages": {
     "Assamese": {
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 77,
-      "hd": 42
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -34,8 +34,8 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 30,
-      "hd": 13
+      "working": 31,
+      "hd": 14
     },
     "Hindi": {
       "total": 697,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
+      "working": 86,
       "hd": 34
     },
     "Marathi": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 129,
       "hd": 55
     },
     "Urdu": {
@@ -243,6 +243,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -442,6 +447,11 @@
     {
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Vision (576p)",
+      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
       "reason": "URLError"
     },
     {
@@ -922,11 +932,6 @@
     {
       "name": "NH BollyGold (1080p)",
       "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
