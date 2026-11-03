@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-03 19:58 UTC",
-  "fingerprint": "5bbf3c2423453ece9fddabc5fd521b02",
+  "updated_at": "2026-11-03 20:39 UTC",
+  "fingerprint": "0d3631eb60881c0ab1fb1addc0bfeffd",
   "total": 1676,
   "working": 1356,
-  "in_grace_period": 11,
+  "in_grace_period": 13,
   "dead": 320,
   "hd_channels": 578,
   "languages": {
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 76,
-      "hd": 41
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 697,
       "working": 549,
-      "hd": 220
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -455,6 +455,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ZB Music (720p)",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee Cine Classic (1080p)",
       "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
@@ -640,6 +645,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -737,11 +747,6 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1107,11 +1112,6 @@
     {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
       "reason": "TimeoutError"
     },
     {
