@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 04:56 UTC",
-  "fingerprint": "2ab71b6f9d1ef9205045d11e04c676a7",
+  "updated_at": "2026-11-03 05:42 UTC",
+  "fingerprint": "ea7d11746704e98740056f5fc9a74f47",
   "total": 1676,
-  "working": 1348,
-  "in_grace_period": 5,
-  "dead": 328,
-  "hd_channels": 570,
+  "working": 1349,
+  "in_grace_period": 10,
+  "dead": 327,
+  "hd_channels": 571,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 76,
-      "hd": 40
+      "working": 77,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 548,
+      "working": 547,
       "hd": 218
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 117,
+      "working": 118,
       "hd": 49
     },
     "Santali": {
@@ -630,11 +630,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -652,6 +647,11 @@
     {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1143,11 +1143,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Q TV (576p) [Geo-blocked]",
