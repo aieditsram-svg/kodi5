@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 22:50 UTC",
-  "fingerprint": "80d0619d515bd02981e2f82c3af8e2f5",
+  "updated_at": "2026-11-03 23:26 UTC",
+  "fingerprint": "2e190f8b016d0649c607eb7444ebb2a6",
   "total": 1676,
-  "working": 1355,
-  "in_grace_period": 10,
-  "dead": 321,
-  "hd_channels": 577,
+  "working": 1352,
+  "in_grace_period": 11,
+  "dead": 324,
+  "hd_channels": 573,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 75,
-      "hd": 39
+      "hd": 38
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 550,
-      "hd": 221
+      "working": 549,
+      "hd": 220
     },
     "Kannada": {
       "total": 69,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 89,
-      "hd": 35
+      "working": 88,
+      "hd": 34
     },
     "Marathi": {
       "total": 45,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 140,
-      "hd": 70
+      "working": 139,
+      "hd": 69
     },
     "Telugu": {
       "total": 170,
@@ -402,7 +402,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -1140,6 +1140,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Rang (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3RANG/index.m3u8",
       "reason": "HTTP 403"
@@ -1432,6 +1437,16 @@
     {
       "name": "Sony Sports Ten 5 (576p)",
       "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Sun TV HD (1080p)",
+      "url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
     },
     {
