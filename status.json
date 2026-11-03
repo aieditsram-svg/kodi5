@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 11:23 UTC",
-  "fingerprint": "c8cd3cbde8de04493c7471b9f81ab639",
+  "updated_at": "2026-11-03 12:08 UTC",
+  "fingerprint": "dfb080443aeca43d83ba5010af7dbde1",
   "total": 1676,
-  "working": 1356,
-  "in_grace_period": 8,
-  "dead": 320,
-  "hd_channels": 578,
+  "working": 1358,
+  "in_grace_period": 20,
+  "dead": 318,
+  "hd_channels": 577,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 77,
-      "hd": 42
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 553,
+      "working": 552,
       "hd": 221
     },
     "Kannada": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 86,
+      "working": 88,
       "hd": 34
     },
     "Marathi": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 131,
       "hd": 55
     },
     "Urdu": {
@@ -315,11 +315,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Madhimugam TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8",
       "reason": "HTTP 403"
@@ -448,11 +443,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vision (576p)",
-      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "YRF Music (1080p)",
@@ -638,6 +628,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -948,11 +943,6 @@
       "name": "ETV Telangana (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "INews (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/INews/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Vanitha TV (576p)",

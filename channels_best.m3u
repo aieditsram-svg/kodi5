@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, one best link per channel, updated 2026-11-03 11:23 UTC
+# Working channels, one best link per channel, updated 2026-11-03 12:08 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="Jonack.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Jonack (576p)
@@ -25,7 +25,7 @@ https://streams.tangotv.in/RANG/ORIGIN/index.m3u8
 https://streams.tangotv.in/RENGONI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Spondon.in@SD" x-category="entertainment" tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png" tvg-language="Assamese" group-title="Assamese" height="720",Spondon (576p)
 https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8
-#EXTINF:-1 tvg-id="AakaashAath.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="720",Aakaash Aath (576p)
+#EXTINF:-1 tvg-id="AakaashAath.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",Aakaash Aath (576p)
 http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8
 #EXTINF:-1 tvg-id="AamarBangla.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" tvg-language="Bengali" group-title="Bengali" height="720",Aamar Bangla (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
@@ -1011,6 +1011,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://streams.tangotv.in/KAIRALI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143248_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Kairali We (576p)
 https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="KalikaTV.in@SD" x-category="music" tvg-logo="https://i.imgur.com/XWXFoJA.png" tvg-language="Malayalam" group-title="Malayalam" height="576",Kalika TV (576p)
+http://server.applelive.in/kalikatv/kalikatv.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in@SD" x-category="lifestyle" tvg-logo="https://i.imgur.com/e9qTjgB.png" tvg-language="Malayalam" group-title="Malayalam" height="576",Kappa TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
 #EXTINF:-1 tvg-id="KCLTV.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/bkp9dIm.png" tvg-language="Malayalam" group-title="Malayalam" height="720",KCL TV (720p)
@@ -1060,6 +1062,8 @@ https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="VCV.in@SD" x-category="general" tvg-logo="https://i.imgur.com/KbU36xI.png" tvg-language="Malayalam" group-title="Malayalam" height="720",VCV (720p) [Not 24/7]
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1 tvg-id="Vision.in@SD" x-category="general" tvg-logo="https://i.imgur.com/YozqNL3.jpg" tvg-language="Malayalam" group-title="Malayalam" height="576",Vision (576p)
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="1080",9X Jhakaas (1080p)
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="ABPMajha.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142521_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="1080",ABP Majha (360p)
