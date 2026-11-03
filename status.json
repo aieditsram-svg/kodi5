@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 12:08 UTC",
-  "fingerprint": "dfb080443aeca43d83ba5010af7dbde1",
+  "updated_at": "2026-11-03 13:02 UTC",
+  "fingerprint": "0f73e62ab7462f5b6fdf651c434a24e7",
   "total": 1676,
   "working": 1358,
-  "in_grace_period": 20,
+  "in_grace_period": 15,
   "dead": 318,
-  "hd_channels": 577,
+  "hd_channels": 578,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 77,
-      "hd": 41
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 552,
-      "hd": 221
+      "working": 553,
+      "hd": 222
     },
     "Kannada": {
       "total": 69,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 139,
-      "hd": 69
+      "working": 138,
+      "hd": 68
     },
     "Telugu": {
       "total": 170,
@@ -158,11 +158,6 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -410,6 +405,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Subin TV (1080p)",
+      "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
@@ -633,6 +633,11 @@
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -1173,11 +1178,6 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
