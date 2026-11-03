@@ -1,5 +1,5 @@
 #EXTM3U
-# Working HD channels (720p+), all languages, updated 2026-11-03 02:25 UTC
+# Working HD channels (720p+), all languages, updated 2026-11-03 03:15 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="NewsLive.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143595_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="1080",News Live (576p)
@@ -60,8 +60,8 @@ https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
 #EXTINF:-1 tvg-id="News18Bangla.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143607_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",News18 Bangla (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="RPlus.in@SD" tvg-logo="https://i.imgur.com/XUnWcZF.png" tvg-language="Bengali" group-title="Bengali" height="720",R Plus (576p)
-https://mumt05.tangotv.in/87NeALx2RPLUS/index.m3u8
+#EXTINF:-1 tvg-id="RPlus.in@SD" tvg-logo="https://i.imgur.com/XUnWcZF.png" tvg-language="Bengali" group-title="Bengali" height="1080",R Plus (768p)
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-id="RPlusGold.in@SD" tvg-logo="https://i.imgur.com/dpI7XPC.png" tvg-language="Bengali" group-title="Bengali" height="1080",R Plus Gold (576p)
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8
 #EXTINF:-1 tvg-id="RaatdinBangla.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/raatdinbangla.png" tvg-language="Bengali" group-title="Bengali" height="720",Raatdin Bangla (720p)
@@ -815,8 +815,6 @@ https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
 https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Shalom.in@Global" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",Shalom Global (1080p)
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="SunSurya.in@HD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",Sun Surya HD (1080p)
-https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="UTVPalakkad.in@SD" x-category="general" tvg-logo="https://utvpkd.in/assets/img/logo.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",UTV Palakkad (1080p)
 https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="VCV.in@SD" x-category="general" tvg-logo="https://i.imgur.com/KbU36xI.png" tvg-language="Malayalam" group-title="Malayalam" height="720",VCV (720p) [Not 24/7]
@@ -1115,8 +1113,6 @@ https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SubinTV.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png" tvg-language="Tamil" group-title="Tamil" height="1080",Subin TV (1080p)
 https://stream.galaxyott.live/live/subintv/index.m3u8
-#EXTINF:-1 tvg-id="SunTV.in@HD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="1080",Sun TV HD (1080p)
-https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="SuriyaTV.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png" tvg-language="Tamil" group-title="Tamil" height="1080",Suriya TV (1080p)
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="SVBC2.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143890_ld_h9_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="1080",SVBC 2 (1080p)
