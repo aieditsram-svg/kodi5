@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 03:15 UTC",
-  "fingerprint": "9dc6d130ea9cce6d5cc631faa8216895",
+  "updated_at": "2026-11-03 04:05 UTC",
+  "fingerprint": "ae7af1f1bbc5d034248e0ef2c3460f72",
   "total": 1676,
-  "working": 1348,
-  "in_grace_period": 10,
-  "dead": 328,
-  "hd_channels": 570,
+  "working": 1346,
+  "in_grace_period": 9,
+  "dead": 330,
+  "hd_channels": 571,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 550,
+      "working": 546,
       "hd": 219
     },
     "Kannada": {
@@ -99,8 +99,8 @@
     },
     "Urdu": {
       "total": 17,
-      "working": 14,
-      "hd": 5
+      "working": 16,
+      "hd": 6
     }
   },
   "dead_channels": [
@@ -650,6 +650,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -752,6 +762,11 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -940,11 +955,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Munsif TV (576p)",
-      "url": "https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Goldmines Action (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8",
       "reason": "HTTP 403"
@@ -1023,11 +1033,6 @@
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Munsif TV (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Win TV (576p)",
@@ -1223,6 +1228,11 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
