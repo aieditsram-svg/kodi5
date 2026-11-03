@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 13:02 UTC",
-  "fingerprint": "0f73e62ab7462f5b6fdf651c434a24e7",
+  "updated_at": "2026-11-03 14:11 UTC",
+  "fingerprint": "43ca3e2df5329a6bba24058f706cac64",
   "total": 1676,
-  "working": 1358,
-  "in_grace_period": 15,
-  "dead": 318,
-  "hd_channels": 578,
+  "working": 1354,
+  "in_grace_period": 14,
+  "dead": 322,
+  "hd_channels": 576,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 77,
-      "hd": 42
+      "working": 75,
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 553,
-      "hd": 222
+      "working": 551,
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 138,
-      "hd": 68
+      "working": 139,
+      "hd": 69
     },
     "Telugu": {
       "total": 170,
-      "working": 131,
+      "working": 130,
       "hd": 55
     },
     "Urdu": {
@@ -245,6 +245,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -392,7 +397,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -403,11 +408,6 @@
       "name": "Studio Yuva (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Subin TV (1080p)",
-      "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -448,6 +448,11 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee Cine Classic (1080p)",
@@ -630,8 +635,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -743,6 +748,11 @@
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
@@ -1108,6 +1118,16 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
