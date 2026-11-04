@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-04 22:14 UTC",
-  "fingerprint": "c1bc232f6de811e46943b6bdf09593f5",
+  "updated_at": "2026-11-04 22:57 UTC",
+  "fingerprint": "b85bdbba83ca63276c0c1a62995294a8",
   "total": 1675,
-  "working": 1325,
-  "in_grace_period": 4,
-  "dead": 350,
+  "working": 1326,
+  "in_grace_period": 7,
+  "dead": 349,
   "hd_channels": 567,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 74,
+      "working": 75,
       "hd": 40
     },
     "Bhojpuri": {
@@ -1548,11 +1548,6 @@
       "name": "Sai TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shiksha TV (720p)",
-      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
-      "reason": "empty HLS manifest"
     },
     {
       "name": "Shaheedan Shahib (576p)",
