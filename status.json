@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 00:02 UTC",
-  "fingerprint": "c1bb54386445993b8d43e745cea658aa",
-  "total": 1676,
-  "working": 1350,
-  "in_grace_period": 6,
-  "dead": 326,
-  "hd_channels": 573,
+  "updated_at": "2026-11-04 00:57 UTC",
+  "fingerprint": "3d9fbe81514ba945ceebd41dd3ef14e3",
+  "total": 1675,
+  "working": 1353,
+  "in_grace_period": 4,
+  "dead": 322,
+  "hd_channels": 572,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 74,
-      "hd": 38
+      "working": 73,
+      "hd": 39
     },
     "Bhojpuri": {
       "total": 32,
@@ -28,7 +28,7 @@
       "hd": 0
     },
     "English": {
-      "total": 165,
+      "total": 164,
       "working": 122,
       "hd": 56
     },
@@ -38,9 +38,9 @@
       "hd": 13
     },
     "Hindi": {
-      "total": 697,
-      "working": 550,
-      "hd": 221
+      "total": 695,
+      "working": 551,
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -73,13 +73,13 @@
       "hd": 9
     },
     "Other": {
-      "total": 20,
-      "working": 17,
+      "total": 21,
+      "working": 18,
       "hd": 12
     },
     "Punjabi": {
       "total": 133,
-      "working": 117,
+      "working": 118,
       "hd": 49
     },
     "Santali": {
@@ -88,13 +88,13 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 179,
+      "total": 178,
       "working": 139,
       "hd": 69
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 131,
       "hd": 55
     },
     "Urdu": {
@@ -245,11 +245,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -360,6 +355,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "R Plus (768p)",
+      "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -397,7 +397,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -637,11 +637,6 @@
     {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -930,14 +925,14 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Vistaar News (1080p)",
+      "url": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "NH BollyGold (1080p)",
-      "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Pradesh24 Gujarati (1080p)",
@@ -1290,11 +1285,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Star Movies HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Sonic (576p)",
       "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
       "reason": "HTTP 403"
@@ -1608,16 +1598,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "9XM (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xtashan.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
