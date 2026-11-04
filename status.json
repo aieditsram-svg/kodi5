@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 19:49 UTC",
-  "fingerprint": "d877e95ea1ef06c7b937e209a324fb81",
+  "updated_at": "2026-11-04 20:36 UTC",
+  "fingerprint": "85d7f3bf0732182143a22860579d6599",
   "total": 1675,
-  "working": 1329,
-  "in_grace_period": 11,
-  "dead": 346,
-  "hd_channels": 572,
+  "working": 1323,
+  "in_grace_period": 9,
+  "dead": 352,
+  "hd_channels": 569,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 76,
-      "hd": 41
+      "working": 74,
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -29,13 +29,13 @@
     },
     "English": {
       "total": 164,
-      "working": 120,
-      "hd": 55
+      "working": 118,
+      "hd": 54
     },
     "Gujarati": {
       "total": 34,
-      "working": 30,
-      "hd": 13
+      "working": 29,
+      "hd": 12
     },
     "Hindi": {
       "total": 695,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 121,
+      "working": 120,
       "hd": 55
     },
     "Urdu": {
@@ -142,6 +142,11 @@
     {
       "name": "Aaj Tak (1080p)",
       "url": "http://103.213.31.109:90/AajtakHD/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Aakaash Aath (576p)",
+      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -255,6 +260,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -282,6 +292,11 @@
     {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -413,6 +428,11 @@
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Star Sports Select 2 HD (720p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Studio Yuva (576p)",
@@ -653,6 +673,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -940,6 +965,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "News Capital Market (1080p)",
+      "url": "https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987",
+      "reason": "HTTP 502"
+    },
+    {
       "name": "Pradesh24 Gujarati (1080p)",
       "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
@@ -1193,11 +1223,6 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1533,6 +1558,11 @@
       "name": "Sai TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shiksha TV (720p)",
+      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
+      "reason": "empty HLS manifest"
     },
     {
       "name": "Shaheedan Shahib (576p)",
