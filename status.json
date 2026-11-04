@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 22:57 UTC",
-  "fingerprint": "b85bdbba83ca63276c0c1a62995294a8",
+  "updated_at": "2026-11-04 23:35 UTC",
+  "fingerprint": "e1b8344620395ddd1aa4dc25a864e439",
   "total": 1675,
-  "working": 1326,
-  "in_grace_period": 7,
-  "dead": 349,
-  "hd_channels": 567,
+  "working": 1325,
+  "in_grace_period": 5,
+  "dead": 350,
+  "hd_channels": 568,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 546,
-      "hd": 216
+      "working": 545,
+      "hd": 217
     },
     "Kannada": {
       "total": 69,
@@ -1213,6 +1213,11 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
