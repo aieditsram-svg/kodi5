@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Kannada channels, updated 2026-11-04 10:40 UTC
+# Working Kannada channels, updated 2026-11-04 11:36 UTC
 #EXTINF:-1 tvg-id="AasthaKannada.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="576",Aastha Kannada
 https://cdn.pishow.tv/ott/live/234/master.m3u8
 #EXTINF:-1 tvg-id="AasthaKannada.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="480",Aastha Kannada (480p)
@@ -8,13 +8,16 @@ https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
 https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="1080",Asianet Suvarna News (1080p) [Not 24/7]
 https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
+#EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="576",Asianet Suvarna News (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/692/master.m3u8
 #EXTINF:-1 tvg-id="AyushTV.in@SD" x-category="lifestyle" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="576",Ayush TV
 https://cdn.pishow.tv/ott/live/221/master.m3u8
 #EXTINF:-1 tvg-id="AyushTV.in@SD" x-category="lifestyle" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="576",Ayush TV (360p) [Not 24/7]
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 tvg-id="AyushTV.in@SD" x-category="lifestyle" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="576",Ayush TV (576p)
 http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8
-#EXTINF:-1 tvg-id="AyushTV.in@SD" x-category="lifestyle" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="720",Ayush TV (576p)
+#EXTINF:-1 tvg-id="AyushTV.in@SD" x-category="lifestyle" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="576",Ayush TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlAYUSHTV/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="720",Cartoon Network (720p)
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
@@ -86,7 +89,7 @@ https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
 https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8
 #EXTINF:-1 tvg-id="SankaraTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/2z0bDRD.png" tvg-language="Kannada" group-title="Kannada" height="720",Sankara TV (576p)
 https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8
-#EXTINF:-1 tvg-id="SiriKannadaAllTime.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/IR0BrEX.jpeg" tvg-language="Kannada" group-title="Kannada" height="720",Siri Kannada All Time (576p)
+#EXTINF:-1 tvg-id="SiriKannadaAllTime.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/IR0BrEX.jpeg" tvg-language="Kannada" group-title="Kannada" height="576",Siri Kannada All Time (576p)
 https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
 #EXTINF:-1 tvg-id="SuvarnaNews.in@SD" x-category="news" tvg-logo="https://i.imgur.com/0H1HObK.png" tvg-language="Kannada" group-title="Kannada" height="720",Suvarna News (576p)
 https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8
@@ -96,7 +99,7 @@ https://mumt04.tangotv.in/m18aqlK4SUVARNANEWS/index.m3u8
 https://cdn.pishow.tv/ott/live/445/master.m3u8
 #EXTINF:-1 tvg-id="SVBC3.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/Ae2PMTu.png" tvg-language="Kannada" group-title="Kannada" height="1080",SVBC 3 (720p)
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5Kannada.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144024_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="720",TV5 Kannada (576p)
+#EXTINF:-1 tvg-id="TV5Kannada.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144024_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="576",TV5 Kannada (576p)
 https://mumt07.tangotv.in/zHjX9OFlTV5KANNADA/index.m3u8
 #EXTINF:-1 tvg-id="TV5Kannada.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144024_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="576",TV5 Kannada (576p)
 https://yuppnimresmum.akamaized.net/050522/tv5kannada/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b

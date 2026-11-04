@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Punjabi channels, updated 2026-11-04 10:40 UTC
+# Working Punjabi channels, updated 2026-11-04 11:36 UTC
 #EXTINF:-1 tvg-id="9XTashan.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="576",9X Tashan
 https://cdn.pishow.tv/ott/live/1613/master.m3u8
 #EXTINF:-1 tvg-id="9XTashan.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="1080",9X Tashan (1080p)
@@ -32,10 +32,13 @@ https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/pla
 https://cdn.pishow.tv/ott/live/1627/master.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142736_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="1080",Chardikla Time TV (1080p)
 https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142736_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="720",Chardikla Time TV (576p)
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142736_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="576",Chardikla Time TV (576p)
 https://streams.tangotv.in/CHARDIKALATIMETV/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142736_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="720",Chardikla Time TV (576p)
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142736_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="576",Chardikla Time TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlCHARDIKALATIMETV/index.m3u8
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142736_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="576",Chardikla Time TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/645/master.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in@SD" x-category="news" tvg-logo="https://i.imgur.com/IUeMFey.jpg" tvg-language="Punjabi" group-title="Punjabi" height="1080",Chardikla Time TV North America (1080p)
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="ChintpurniLive.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/Chintpurni_Live.png" tvg-language="Punjabi" group-title="Punjabi" height="720",Chintpurni Live (720p)
@@ -213,7 +216,7 @@ https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiShorts.in@SD" x-category="movies" tvg-logo="https://www.thegtcnetwork.com/punjabi-shorts.jpg" tvg-language="Punjabi" group-title="Punjabi" height="1080",Punjabi Shorts (1080p)
 https://gtc.ottlive.co.in/punjabshort/index.m3u8
-#EXTINF:-1 tvg-id="PunjabiTV.in@SD" x-category="entertainment" tvg-logo="https://papaji.freetvindia.com/media/PunjabiTV.png" tvg-language="Punjabi" group-title="Punjabi" height="720",Punjabi TV (576p)
+#EXTINF:-1 tvg-id="PunjabiTV.in@SD" x-category="entertainment" tvg-logo="https://papaji.freetvindia.com/media/PunjabiTV.png" tvg-language="Punjabi" group-title="Punjabi" height="576",Punjabi TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlPUNJABITV/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiTV.in@SD" x-category="entertainment" tvg-logo="https://papaji.freetvindia.com/media/PunjabiTV.png" tvg-language="Punjabi" group-title="Punjabi" height="720",Punjabi TV (720p)
 https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8
