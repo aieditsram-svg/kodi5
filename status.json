@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-04 09:32 UTC",
-  "fingerprint": "aef55098205c2b637bfae987276c66e4",
+  "updated_at": "2026-11-04 10:40 UTC",
+  "fingerprint": "fdd9b6d7dc833b2be7eb229848536dce",
   "total": 1675,
-  "working": 1354,
-  "in_grace_period": 35,
-  "dead": 321,
-  "hd_channels": 576,
+  "working": 1333,
+  "in_grace_period": 13,
+  "dead": 342,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 27,
+      "working": 26,
       "hd": 10
     },
     "Bengali": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 164,
-      "working": 122,
+      "working": 120,
       "hd": 56
     },
     "Gujarati": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 552,
-      "hd": 222
+      "working": 551,
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
-      "working": 52,
+      "working": 51,
       "hd": 24
     },
     "Konkani": {
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 88,
+      "working": 82,
       "hd": 34
     },
     "Marathi": {
       "total": 45,
-      "working": 37,
+      "working": 38,
       "hd": 20
     },
     "Nepali": {
@@ -69,7 +69,7 @@
     },
     "Odia": {
       "total": 30,
-      "working": 21,
+      "working": 20,
       "hd": 9
     },
     "Other": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 118,
+      "working": 117,
       "hd": 49
     },
     "Santali": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 131,
+      "working": 122,
       "hd": 55
     },
     "Urdu": {
@@ -308,6 +308,11 @@
       "name": "Kairali TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Kalika TV (576p)",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Madhimugam TV (576p)",
@@ -635,8 +640,13 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1105,11 +1115,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Q TV (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
@@ -1133,11 +1138,6 @@
       "name": "MH One Dil Se (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MHONEDILSE/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Rang (576p)",
@@ -1470,11 +1470,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News Live (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSLIVE24X7/index.m3u8",
       "reason": "HTTP 403"
@@ -1595,6 +1590,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Unique TV (576p)",
+      "url": "https://fta.ektv.in/live/688/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
       "reason": "HTTP 404"
@@ -1625,23 +1625,78 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Bhojpuri Cinema (576p)",
-      "url": "https://fta.ektv.in/live/646/master.m3u8",
+      "name": "Chardikla Time TV (576p)",
+      "url": "https://fta.ektv.in/live/645/master.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Sangeet Marathi (576p)",
-      "url": "https://fta.ektv.in/live/712/master.m3u8",
+      "name": "Pear TV (576p)",
+      "url": "https://fta.ektv.in/live/695/master.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Hi Dost! (576p)",
-      "url": "https://fta.ektv.in/live/713/master.m3u8",
+      "name": "Asianet Middle East (576p)",
+      "url": "https://fta.ektv.in/live/697/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Amrita TV (576p)",
+      "url": "https://fta.ektv.in/live/698/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "CVR English (576p)",
+      "url": "https://fta.ektv.in/live/701/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goodness TV (576p)",
+      "url": "https://fta.ektv.in/live/704/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "CVR OM Spiritual (576p)",
+      "url": "https://fta.ektv.in/live/705/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Nireekshana TV (576p)",
+      "url": "https://fta.ektv.in/live/706/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Mahaa Bhakti (576p)",
+      "url": "https://fta.ektv.in/live/707/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Pasand TV (576p)",
+      "url": "https://fta.ektv.in/live/708/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Madhimugam TV (576p)",
+      "url": "https://fta.ektv.in/live/711/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Enterr 10 Bangla (576p)",
+      "url": "https://fta.ektv.in/live/658/master.m3u8",
       "reason": "HTTP 404"
     },
     {
       "name": "Jonack (576p)",
       "url": "https://fta.ektv.in/live/676/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Mahaa Max (576p)",
+      "url": "https://fta.ektv.in/live/684/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "NDTV (576p)",
+      "url": "https://fta.ektv.in/live/107/107_0.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1660,8 +1715,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Kashish News (576p)",
-      "url": "https://fta.ektv.in/live/597/master.m3u8",
+      "name": "Samachar Plus 24x7 (576p)",
+      "url": "https://fta.ektv.in/live/589/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1672,6 +1727,11 @@
     {
       "name": "DD Tripura (576p)",
       "url": "https://fta.ektv.in/live/661/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "MBC TV (576p)",
+      "url": "https://fta.ektv.in/live/667/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1692,6 +1752,51 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "10 TV (576p)",
+      "url": "https://fta.ektv.in/live/686/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ABN Andhra Jyoti (576p)",
+      "url": "https://fta.ektv.in/live/687/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Mahaa News (576p)",
+      "url": "https://fta.ektv.in/live/689/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Jaihind TV (576p)",
+      "url": "https://fta.ektv.in/live/700/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Asianet Suvarna News (576p)",
+      "url": "https://fta.ektv.in/live/692/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "T News (576p)",
+      "url": "https://fta.ektv.in/live/693/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "V6 News (576p)",
+      "url": "https://fta.ektv.in/live/694/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Hornbill TV (576p)",
+      "url": "https://fta.ektv.in/live/710/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Safari TV (576p)",
+      "url": "https://fta.ektv.in/live/410/master.m3u8",
       "reason": "HTTP 404"
     },
     {
