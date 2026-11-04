@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-04 20:36 UTC",
-  "fingerprint": "85d7f3bf0732182143a22860579d6599",
+  "updated_at": "2026-11-04 21:26 UTC",
+  "fingerprint": "d735418d195bde7ba78fa2e2d9e94334",
   "total": 1675,
-  "working": 1323,
-  "in_grace_period": 9,
-  "dead": 352,
+  "working": 1325,
+  "in_grace_period": 5,
+  "dead": 350,
   "hd_channels": 569,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 545,
+      "working": 546,
       "hd": 218
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 120,
+      "working": 121,
       "hd": 55
     },
     "Urdu": {
@@ -248,11 +248,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -673,11 +668,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
