@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 13:33 UTC",
-  "fingerprint": "7cf284285ae4e436ec8e55502554b81c",
+  "updated_at": "2026-11-04 14:34 UTC",
+  "fingerprint": "305f3c1af738f8ddb9bc0d6071d9b641",
   "total": 1675,
-  "working": 1346,
-  "in_grace_period": 16,
-  "dead": 329,
-  "hd_channels": 573,
+  "working": 1344,
+  "in_grace_period": 9,
+  "dead": 331,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 74,
-      "hd": 39
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 551,
-      "hd": 220
+      "working": 550,
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 118,
+      "working": 117,
       "hd": 49
     },
     "Santali": {
@@ -337,7 +337,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News 24 (576p)",
@@ -407,7 +407,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -493,6 +493,11 @@
       "name": "Zee South Flix (1080p)",
       "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat24 (576p)",
+      "url": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "APN (576p)",
@@ -642,6 +647,11 @@
     {
       "name": "Nagaland TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1125,11 +1135,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -1183,6 +1188,11 @@
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat24 (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
