@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 23:35 UTC",
-  "fingerprint": "e1b8344620395ddd1aa4dc25a864e439",
+  "updated_at": "2026-11-05 00:16 UTC",
+  "fingerprint": "5a9c5315a28a414eef026d0e188fffbd",
   "total": 1675,
-  "working": 1325,
-  "in_grace_period": 5,
-  "dead": 350,
-  "hd_channels": 568,
+  "working": 1323,
+  "in_grace_period": 8,
+  "dead": 352,
+  "hd_channels": 566,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 164,
-      "working": 117,
+      "working": 116,
       "hd": 53
     },
     "Gujarati": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 545,
-      "hd": 217
+      "working": 544,
+      "hd": 215
     },
     "Kannada": {
       "total": 69,
@@ -328,6 +328,11 @@
       "name": "Madhimugam TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mirror Now (720p)",
+      "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "MTV HD (396p)",
@@ -762,6 +767,11 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
