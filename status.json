@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 12:22 UTC",
-  "fingerprint": "843dc384013b2a0d2f094ccba40ccf8c",
+  "updated_at": "2026-11-05 13:38 UTC",
+  "fingerprint": "733d6bbe14fe8294b168551a078a6010",
   "total": 1675,
-  "working": 1362,
-  "in_grace_period": 229,
-  "dead": 313,
-  "hd_channels": 576,
+  "working": 1359,
+  "in_grace_period": 8,
+  "dead": 316,
+  "hd_channels": 577,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 77,
+      "working": 76,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 551,
-      "hd": 220
+      "working": 550,
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 129,
       "hd": 54
     },
     "Urdu": {
@@ -232,7 +232,7 @@
     {
       "name": "B4U Kadak (576p)",
       "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -247,7 +247,7 @@
     {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Bada Khabar (576p)",
@@ -535,6 +535,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -592,7 +597,7 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -827,7 +832,7 @@
     {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Mazhavil Manorama (576p)",
@@ -877,7 +882,7 @@
     {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Nagaland TV (576p)",
@@ -908,6 +913,11 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1012,7 +1022,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1090,6 +1100,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1163,6 +1178,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
@@ -1288,11 +1308,6 @@
       "name": "Sony Pix HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sony SAB (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sony SAB (576p)",
