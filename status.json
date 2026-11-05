@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 23:02 UTC",
-  "fingerprint": "f3c018f44a0a5c4cb1e6a0c6880aaa67",
+  "updated_at": "2026-11-05 23:43 UTC",
+  "fingerprint": "124bc32636b6923c79873467a306b2ff",
   "total": 1675,
-  "working": 1360,
-  "in_grace_period": 5,
-  "dead": 315,
-  "hd_channels": 571,
+  "working": 1358,
+  "in_grace_period": 8,
+  "dead": 317,
+  "hd_channels": 569,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 76,
+      "working": 75,
       "hd": 40
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 164,
       "working": 122,
-      "hd": 55
+      "hd": 54
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 555,
-      "hd": 220
+      "working": 554,
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -975,6 +975,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News State MP & CHG (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSSTATEMPCG/index.m3u8",
       "reason": "HTTP 403"
@@ -1363,6 +1368,11 @@
       "name": "Star Jalsha (576p)",
       "url": "http://103.151.60.162:2122/play/a00w/index.m3u8?hls",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Kiran (576p)",
