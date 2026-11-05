@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 08:29 UTC",
-  "fingerprint": "dcb18614979ec6d8ce40802b444f70cf",
+  "updated_at": "2026-11-05 09:30 UTC",
+  "fingerprint": "dde1964cf3435ab8a8e9ccf91d089a8c",
   "total": 1675,
-  "working": 1355,
-  "in_grace_period": 11,
-  "dead": 320,
-  "hd_channels": 573,
+  "working": 1358,
+  "in_grace_period": 9,
+  "dead": 317,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 30,
-      "hd": 13
+      "working": 31,
+      "hd": 14
     },
     "Hindi": {
       "total": 695,
-      "working": 548,
-      "hd": 218
+      "working": 550,
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -200,6 +200,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Anjan TV (720p)",
+      "url": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Anmol TV (720p)",
       "url": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8",
       "reason": "HTTP 404"
@@ -278,6 +283,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -946,23 +956,8 @@
     },
     {
       "name": "News 24 (576p)",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWS24/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News Capital Market (1080p)",
-      "url": "https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987",
-      "reason": "TimeoutError"
     },
     {
       "name": "News Daily 24 (576p)",
@@ -1110,11 +1105,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1238,11 +1228,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
