@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-05 09:30 UTC",
-  "fingerprint": "dde1964cf3435ab8a8e9ccf91d089a8c",
+  "updated_at": "2026-11-05 10:31 UTC",
+  "fingerprint": "528967d91b43b602ed467c946b960e61",
   "total": 1675,
-  "working": 1358,
+  "working": 1359,
   "in_grace_period": 9,
-  "dead": 317,
-  "hd_channels": 575,
+  "dead": 316,
+  "hd_channels": 574,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 27,
+      "working": 29,
       "hd": 10
     },
     "Bengali": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 123,
-      "hd": 56
+      "working": 122,
+      "hd": 55
     },
     "Gujarati": {
       "total": 34,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 178,
-      "working": 138,
+      "working": 139,
       "hd": 69
     },
     "Telugu": {
       "total": 170,
-      "working": 131,
+      "working": 130,
       "hd": 54
     },
     "Urdu": {
@@ -285,11 +285,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "BRK News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -348,6 +343,11 @@
       "name": "CVR English (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCVRNEWSENGLISH/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "CVR OM Spiritual (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "CVR OM Spiritual (576p)",
@@ -428,11 +428,6 @@
       "name": "Dukhniwaran (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "DY 365 (360p)",
-      "url": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "E-Vidya 4 (576p)",
@@ -572,6 +567,11 @@
     {
       "name": "ETV Telugu HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Eurosport (720p)",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -743,11 +743,6 @@
       "name": "Jonack (576p)",
       "url": "https://fta.ektv.in/live/676/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Jonack TV (360p) [Not 24/7]",
-      "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Joy TV (576p)",
@@ -923,6 +918,11 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1572,11 +1572,6 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Velicham TV (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/Velichamtv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
