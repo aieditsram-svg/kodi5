@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 18:17 UTC",
-  "fingerprint": "c1c6af330a8269db704e7c6b3184b4af",
+  "updated_at": "2026-11-05 19:16 UTC",
+  "fingerprint": "c73efcc3a139c1d06c9052137b358709",
   "total": 1675,
-  "working": 1361,
-  "in_grace_period": 6,
-  "dead": 314,
-  "hd_channels": 576,
+  "working": 1363,
+  "in_grace_period": 11,
+  "dead": 312,
+  "hd_channels": 577,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 77,
+      "working": 76,
       "hd": 42
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 164,
-      "working": 123,
+      "working": 122,
       "hd": 56
     },
     "Gujarati": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 553,
-      "hd": 220
+      "working": 555,
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 178,
-      "working": 138,
+      "working": 139,
       "hd": 69
     },
     "Telugu": {
       "total": 170,
-      "working": 129,
+      "working": 130,
       "hd": 54
     },
     "Urdu": {
@@ -530,11 +530,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -608,11 +603,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -860,6 +850,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Mirror Now (720p)",
+      "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Movie Punjab (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8",
       "reason": "HTTP 403"
@@ -908,11 +903,6 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1168,6 +1158,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
@@ -1438,11 +1433,6 @@
       "name": "Superhitz (576p)",
       "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Suriyan TV (576p)",
-      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Suriyan TV (576p)",
