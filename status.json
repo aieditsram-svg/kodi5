@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 11:27 UTC",
-  "fingerprint": "61697fca440cb8099814b3b2a277764f",
+  "updated_at": "2026-11-05 12:22 UTC",
+  "fingerprint": "843dc384013b2a0d2f094ccba40ccf8c",
   "total": 1675,
-  "working": 1361,
-  "in_grace_period": 11,
-  "dead": 314,
-  "hd_channels": 574,
+  "working": 1362,
+  "in_grace_period": 229,
+  "dead": 313,
+  "hd_channels": 576,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 122,
-      "hd": 55
+      "working": 123,
+      "hd": 56
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 552,
-      "hd": 219
+      "working": 551,
+      "hd": 220
     },
     "Kannada": {
       "total": 69,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 117,
+      "working": 118,
       "hd": 49
     },
     "Santali": {
@@ -128,11 +128,6 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -200,11 +195,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Anmol TV (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Anmol TV (576p)",
       "url": "https://fta.ektv.in/live/256/master.m3u8",
       "reason": "HTTP 404"
@@ -240,6 +230,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -252,7 +247,7 @@
     {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Bada Khabar (576p)",
@@ -565,11 +560,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Eurosport (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
       "reason": "HTTP 404"
@@ -598,6 +588,11 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -832,7 +827,7 @@
     {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Mazhavil Manorama (576p)",
@@ -882,7 +877,7 @@
     {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Nagaland TV (576p)",
@@ -1017,7 +1012,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
