@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-05 17:36 UTC",
-  "fingerprint": "af1ff16142b7fa932bcb343f0755b5d4",
+  "updated_at": "2026-11-05 18:17 UTC",
+  "fingerprint": "c1c6af330a8269db704e7c6b3184b4af",
   "total": 1675,
-  "working": 1363,
-  "in_grace_period": 14,
-  "dead": 312,
+  "working": 1361,
+  "in_grace_period": 6,
+  "dead": 314,
   "hd_channels": 576,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 552,
+      "working": 553,
       "hd": 220
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 118,
+      "working": 117,
       "hd": 49
     },
     "Santali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 178,
-      "working": 139,
+      "working": 138,
       "hd": 69
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 129,
       "hd": 54
     },
     "Urdu": {
@@ -128,6 +128,11 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -168,11 +173,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -528,6 +528,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -905,11 +910,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -1093,6 +1093,11 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1433,6 +1438,11 @@
       "name": "Superhitz (576p)",
       "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Suriyan TV (576p)",
+      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Suriyan TV (576p)",
