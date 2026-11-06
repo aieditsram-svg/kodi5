@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 19:18 UTC",
-  "fingerprint": "e4e0e5d4959265143b42b75e11f9d9a0",
+  "updated_at": "2026-11-06 20:04 UTC",
+  "fingerprint": "52d8762e2aa17a7ca41967ecf7f68f76",
   "total": 1675,
-  "working": 1354,
-  "in_grace_period": 13,
-  "dead": 321,
-  "hd_channels": 568,
+  "working": 1353,
+  "in_grace_period": 12,
+  "dead": 322,
+  "hd_channels": 566,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 73,
-      "hd": 39
+      "hd": 38
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 549,
-      "hd": 215
+      "working": 548,
+      "hd": 214
     },
     "Kannada": {
       "total": 69,
@@ -790,6 +790,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "KBP Times (1080p)",
+      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -1397,7 +1402,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
