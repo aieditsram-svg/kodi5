@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 07:41 UTC",
-  "fingerprint": "c9dbbc4270d5330b687e73fbc9419168",
+  "updated_at": "2026-11-06 08:36 UTC",
+  "fingerprint": "342bef193f738f2d108078a86cb94930",
   "total": 1675,
-  "working": 1354,
-  "in_grace_period": 13,
-  "dead": 321,
-  "hd_channels": 574,
+  "working": 1356,
+  "in_grace_period": 11,
+  "dead": 319,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -34,12 +34,12 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 30,
-      "hd": 13
+      "working": 31,
+      "hd": 14
     },
     "Hindi": {
       "total": 695,
-      "working": 551,
+      "working": 552,
       "hd": 220
     },
     "Kannada": {
@@ -990,11 +990,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "News State MP & CHG (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSSTATEMPCG/index.m3u8",
       "reason": "HTTP 403"
@@ -1078,11 +1073,6 @@
       "name": "Pogo (576p)",
       "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
