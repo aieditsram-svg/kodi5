@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-06 17:33 UTC",
-  "fingerprint": "85416b7e4b80516a0f84fd104baddd2a",
+  "updated_at": "2026-11-06 18:19 UTC",
+  "fingerprint": "79730d385b8408ef18613ccb479f9ea1",
   "total": 1675,
   "working": 1348,
-  "in_grace_period": 11,
+  "in_grace_period": 12,
   "dead": 327,
   "hd_channels": 569,
   "languages": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 178,
-      "working": 137,
+      "working": 138,
       "hd": 69
     },
     "Telugu": {
       "total": 170,
-      "working": 131,
+      "working": 130,
       "hd": 55
     },
     "Urdu": {
@@ -182,11 +182,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -550,6 +545,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -705,6 +705,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "IBC 24 (576p)",
+      "url": "https://ott-prasar.ibc24.in/livestream.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
@@ -848,11 +853,6 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
