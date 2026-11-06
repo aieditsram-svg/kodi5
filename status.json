@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 04:21 UTC",
-  "fingerprint": "b6a465291af500df88018e7b72f00b1d",
+  "updated_at": "2026-11-06 05:21 UTC",
+  "fingerprint": "7941be44bf048fc869a66a9489bd69a3",
   "total": 1675,
-  "working": 1354,
-  "in_grace_period": 19,
-  "dead": 321,
-  "hd_channels": 570,
+  "working": 1352,
+  "in_grace_period": 10,
+  "dead": 323,
+  "hd_channels": 572,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 76,
-      "hd": 40
+      "working": 74,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 551,
-      "hd": 219
+      "hd": 220
     },
     "Kannada": {
       "total": 69,
@@ -210,11 +210,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
@@ -273,6 +268,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -845,11 +845,6 @@
       "reason": "not a valid HLS manifest"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1125,11 +1120,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1200,6 +1190,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sangeet Bhojpuri (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
       "reason": "HTTP 403"
@@ -1248,6 +1243,11 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1645,6 +1645,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Zee Bangla Sonar (576p)",
+      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
       "reason": "HTTP 404"
@@ -1658,6 +1663,11 @@
       "name": "Zee Cine Classic (1080p)",
       "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Zee Cinema (576p)",
+      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Zee Cinema HD (1080p)",
