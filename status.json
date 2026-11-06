@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-06 18:19 UTC",
-  "fingerprint": "79730d385b8408ef18613ccb479f9ea1",
+  "updated_at": "2026-11-06 19:18 UTC",
+  "fingerprint": "e4e0e5d4959265143b42b75e11f9d9a0",
   "total": 1675,
-  "working": 1348,
-  "in_grace_period": 12,
-  "dead": 327,
-  "hd_channels": 569,
+  "working": 1354,
+  "in_grace_period": 13,
+  "dead": 321,
+  "hd_channels": 568,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 28,
+      "working": 29,
       "hd": 10
     },
     "Bengali": {
       "total": 111,
-      "working": 72,
-      "hd": 38
+      "working": 73,
+      "hd": 39
     },
     "Bhojpuri": {
       "total": 32,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 122,
-      "hd": 55
+      "working": 123,
+      "hd": 56
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 547,
-      "hd": 218
+      "working": 549,
+      "hd": 215
     },
     "Kannada": {
       "total": 69,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 131,
       "hd": 55
     },
     "Urdu": {
@@ -140,6 +140,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "&TV (720p)",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
       "reason": "not a valid HLS manifest"
@@ -152,11 +157,6 @@
     {
       "name": "Aaj Tak (1080p)",
       "url": "http://103.213.31.109:90/AajtakHD/playlist.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Aakaash Aath (576p)",
-      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -200,6 +200,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Anmol TV (720p)",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Anmol TV (576p)",
       "url": "https://fta.ektv.in/live/256/master.m3u8",
       "reason": "HTTP 404"
@@ -228,11 +233,6 @@
       "name": "Asom Live 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Awakening TV (576p)",
@@ -277,17 +277,12 @@
     {
       "name": "Bharat AtoZ (720p)",
       "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -545,11 +540,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -630,11 +620,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -703,11 +688,6 @@
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "IBC 24 (576p)",
-      "url": "https://ott-prasar.ibc24.in/livestream.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Ind 24 (576p)",
@@ -978,11 +958,6 @@
       "name": "News 24 (720p)",
       "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "News 24 (576p)",
@@ -1422,7 +1397,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -1443,11 +1418,6 @@
       "name": "Star Sports Select 2 HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Sports Select 2 HD (720p)",
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p)",
