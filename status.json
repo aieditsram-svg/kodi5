@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-05 23:43 UTC",
-  "fingerprint": "124bc32636b6923c79873467a306b2ff",
+  "updated_at": "2026-11-06 00:23 UTC",
+  "fingerprint": "ab9a62b92f3c6bdbc598b7aff0560158",
   "total": 1675,
   "working": 1358,
-  "in_grace_period": 8,
+  "in_grace_period": 4,
   "dead": 317,
   "hd_channels": 569,
   "languages": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 75,
+      "working": 76,
       "hd": 40
     },
     "Bhojpuri": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 118,
+      "working": 117,
       "hd": 49
     },
     "Santali": {
@@ -1370,11 +1370,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Kiran (576p)",
       "url": "http://103.151.60.162:2122/play/a032/index.m3u8?hls",
       "reason": "HTTP 403"
@@ -1597,6 +1592,11 @@
     {
       "name": "Win TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "World Punjabi TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
       "reason": "HTTP 404"
     },
     {
