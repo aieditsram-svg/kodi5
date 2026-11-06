@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 00:23 UTC",
-  "fingerprint": "ab9a62b92f3c6bdbc598b7aff0560158",
+  "updated_at": "2026-11-06 01:38 UTC",
+  "fingerprint": "088166e6c2c6d790274bc70ac20c3cdb",
   "total": 1675,
-  "working": 1358,
-  "in_grace_period": 4,
-  "dead": 317,
-  "hd_channels": 569,
+  "working": 1356,
+  "in_grace_period": 13,
+  "dead": 319,
+  "hd_channels": 571,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 164,
-      "working": 122,
+      "working": 121,
       "hd": 54
     },
     "Gujarati": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 554,
-      "hd": 219
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
+      "working": 86,
       "hd": 33
     },
     "Marathi": {
@@ -207,11 +207,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -645,6 +640,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -765,6 +765,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Kalika TV (576p)",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kalinga TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8",
       "reason": "HTTP 403"
@@ -828,6 +833,11 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1027,7 +1037,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 403"
     },
     {
       "name": "NK TV 24x7 (1080p)",
