@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 11:26 UTC",
-  "fingerprint": "8a77048da7272d3835e0abd61b39b519",
+  "updated_at": "2026-11-06 12:15 UTC",
+  "fingerprint": "1a0486a6c19106f3e8498ab94f63bcf8",
   "total": 1675,
-  "working": 1354,
-  "in_grace_period": 12,
-  "dead": 321,
-  "hd_channels": 575,
+  "working": 1351,
+  "in_grace_period": 7,
+  "dead": 324,
+  "hd_channels": 574,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 548,
-      "hd": 219
+      "working": 546,
+      "hd": 218
     },
     "Kannada": {
       "total": 69,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 129,
       "hd": 55
     },
     "Urdu": {
@@ -223,6 +223,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -505,6 +510,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -603,6 +613,11 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -983,6 +998,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
@@ -1693,11 +1713,6 @@
       "name": "Zee TV (576p)",
       "url": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Zee TV HD (720p) [Geo-blocked]",
-      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
