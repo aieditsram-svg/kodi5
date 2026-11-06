@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 10:32 UTC",
-  "fingerprint": "8986967dc6e810a6079d9b87e0186082",
+  "updated_at": "2026-11-06 11:26 UTC",
+  "fingerprint": "8a77048da7272d3835e0abd61b39b519",
   "total": 1675,
-  "working": 1357,
-  "in_grace_period": 10,
-  "dead": 318,
-  "hd_channels": 577,
+  "working": 1354,
+  "in_grace_period": 12,
+  "dead": 321,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 76,
+      "working": 75,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 549,
-      "hd": 220
+      "working": 548,
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
-      "hd": 34
+      "working": 86,
+      "hd": 33
     },
     "Marathi": {
       "total": 45,
@@ -780,6 +780,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "KCL TV (720p)",
+      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -1370,6 +1375,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Kiran (576p)",
       "url": "http://103.151.60.162:2122/play/a032/index.m3u8?hls",
       "reason": "HTTP 403"
@@ -1683,6 +1693,11 @@
       "name": "Zee TV (576p)",
       "url": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
