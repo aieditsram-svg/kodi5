@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 15:58 UTC",
-  "fingerprint": "8ba926796624407e0c23c10137f7e9da",
+  "updated_at": "2026-11-06 16:44 UTC",
+  "fingerprint": "f3f581cf82b51007036a968d3ecb35af",
   "total": 1675,
-  "working": 1352,
-  "in_grace_period": 12,
-  "dead": 323,
-  "hd_channels": 569,
+  "working": 1350,
+  "in_grace_period": 15,
+  "dead": 325,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 122,
-      "hd": 55
+      "working": 123,
+      "hd": 56
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 547,
-      "hd": 217
+      "working": 545,
+      "hd": 218
     },
     "Kannada": {
       "total": 69,
@@ -168,6 +168,11 @@
       "name": "Akhon Kolkata (478p)",
       "url": "https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -343,6 +348,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -680,11 +690,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
@@ -835,6 +840,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -923,11 +938,6 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1 India (576p)",
