@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 09:30 UTC",
-  "fingerprint": "17a0756a135dad0361b80aac32e70959",
+  "updated_at": "2026-11-07 10:15 UTC",
+  "fingerprint": "1a6a0ca96846a6f787596e867b1cf8b4",
   "total": 1806,
-  "working": 1502,
-  "in_grace_period": 9,
-  "dead": 304,
-  "hd_channels": 601,
+  "working": 1501,
+  "in_grace_period": 11,
+  "dead": 305,
+  "hd_channels": 602,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 774,
       "working": 635,
-      "hd": 232
+      "hd": 233
     },
     "Kannada": {
       "total": 76,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 190,
-      "working": 151,
+      "working": 150,
       "hd": 75
     },
     "Telugu": {
@@ -177,6 +177,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -632,7 +637,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Hi Dost! (576p)",
