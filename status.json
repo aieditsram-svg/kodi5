@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 03:10 UTC",
-  "fingerprint": "1f24f824b05b6f237cafa60c2587e9b0",
+  "updated_at": "2026-11-07 03:54 UTC",
+  "fingerprint": "60ad6b921cc19411ab6b31f738efd1ec",
   "total": 1806,
-  "working": 1489,
-  "in_grace_period": 15,
-  "dead": 317,
-  "hd_channels": 590,
+  "working": 1490,
+  "in_grace_period": 10,
+  "dead": 316,
+  "hd_channels": 596,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 131,
       "working": 95,
-      "hd": 42
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 132,
-      "hd": 60
+      "working": 133,
+      "hd": 61
     },
     "Gujarati": {
       "total": 36,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 625,
-      "hd": 229
+      "working": 626,
+      "hd": 230
     },
     "Kannada": {
       "total": 76,
       "working": 59,
-      "hd": 27
+      "hd": 28
     },
     "Konkani": {
       "total": 3,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 119,
       "working": 96,
-      "hd": 37
+      "hd": 39
     },
     "Marathi": {
       "total": 55,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 190,
-      "working": 151,
+      "working": 150,
       "hd": 75
     },
     "Telugu": {
@@ -170,18 +170,13 @@
       "reason": "URLError"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -240,6 +235,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -283,6 +283,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -628,6 +633,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1255,11 +1265,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1383,11 +1388,6 @@
       "name": "Star Sports 2 (576p)",
       "url": "http://103.151.60.162:2122/play/a019/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Sports Select 2 HD (720p)",
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1667,11 +1667,6 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
     },
     {
