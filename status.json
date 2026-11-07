@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-07 00:30 UTC",
-  "fingerprint": "3d0313b4efff3f29b078bc74bab09179",
+  "updated_at": "2026-11-07 01:34 UTC",
+  "fingerprint": "8ecbed2173cd90a39d24f5474457c793",
   "total": 1806,
-  "working": 1491,
-  "in_grace_period": 14,
-  "dead": 315,
-  "hd_channels": 593,
+  "working": 1495,
+  "in_grace_period": 19,
+  "dead": 311,
+  "hd_channels": 592,
   "languages": {
     "Assamese": {
       "total": 40,
-      "working": 30,
+      "working": 31,
       "hd": 10
     },
     "Bengali": {
       "total": 131,
-      "working": 94,
-      "hd": 42
+      "working": 95,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -30,7 +30,7 @@
     "English": {
       "total": 164,
       "working": 133,
-      "hd": 61
+      "hd": 60
     },
     "Gujarati": {
       "total": 36,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 630,
-      "hd": 230
+      "working": 631,
+      "hd": 229
     },
     "Kannada": {
       "total": 76,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 95,
+      "working": 96,
       "hd": 37
     },
     "Marathi": {
@@ -156,11 +156,6 @@
     },
     {
       "name": "Aakaash Aath (576p)",
-      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -230,11 +225,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
@@ -277,7 +267,7 @@
     {
       "name": "Bharat AtoZ (720p)",
       "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Bharat Samachar (576p)",
@@ -775,11 +765,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kalinga TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8",
       "reason": "HTTP 403"
@@ -968,11 +953,6 @@
       "name": "News 24 (720p)",
       "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "News 24 (576p)",
@@ -1382,7 +1362,7 @@
     {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "StarPlus HD (1080p)",
