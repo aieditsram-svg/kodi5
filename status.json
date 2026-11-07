@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 03:54 UTC",
-  "fingerprint": "60ad6b921cc19411ab6b31f738efd1ec",
+  "updated_at": "2026-11-07 04:38 UTC",
+  "fingerprint": "cd3221cb6e6cfbe44d76979d52858eab",
   "total": 1806,
-  "working": 1490,
-  "in_grace_period": 10,
-  "dead": 316,
-  "hd_channels": 596,
+  "working": 1491,
+  "in_grace_period": 12,
+  "dead": 315,
+  "hd_channels": 597,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 626,
-      "hd": 230
+      "working": 627,
+      "hd": 231
     },
     "Kannada": {
       "total": 76,
@@ -177,7 +177,7 @@
     {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 503"
     },
     {
       "name": "Anand Wari TV (576p)",
@@ -212,11 +212,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -283,11 +278,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -1135,11 +1125,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1263,6 +1248,16 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
