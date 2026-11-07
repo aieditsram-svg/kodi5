@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 17:54 UTC",
-  "fingerprint": "de686b4388157d550dc28a95472e31b4",
+  "updated_at": "2026-11-07 18:24 UTC",
+  "fingerprint": "d8340bcd9058050d85ea937732bea184",
   "total": 1806,
-  "working": 1468,
-  "in_grace_period": 10,
-  "dead": 338,
-  "hd_channels": 599,
+  "working": 1466,
+  "in_grace_period": 15,
+  "dead": 340,
+  "hd_channels": 597,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 131,
-      "working": 93,
+      "working": 92,
       "hd": 42
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 130,
-      "hd": 61
+      "working": 129,
+      "hd": 60
     },
     "Gujarati": {
       "total": 36,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 630,
-      "hd": 235
+      "working": 629,
+      "hd": 233
     },
     "Kannada": {
       "total": 76,
@@ -735,6 +735,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
@@ -1005,6 +1010,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1210,6 +1220,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1285,6 +1300,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sangeet Bhojpuri (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
       "reason": "HTTP 403"
@@ -1333,11 +1353,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1772,11 +1787,6 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
     },
     {
