@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-07 17:20 UTC",
-  "fingerprint": "d598db2087c91f4523c7cdc70d610dd6",
+  "updated_at": "2026-11-07 17:54 UTC",
+  "fingerprint": "de686b4388157d550dc28a95472e31b4",
   "total": 1806,
   "working": 1468,
-  "in_grace_period": 27,
+  "in_grace_period": 10,
   "dead": 338,
   "hd_channels": 599,
   "languages": {
@@ -147,7 +147,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Aadinath TV (576p)",
@@ -175,19 +175,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Amrita TV (576p)",
@@ -227,6 +217,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Arputhar Yesu TV (576p)",
+      "url": "https://account33.livebox.co.in/jesushelpshls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -378,11 +373,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -915,6 +905,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1063,11 +1058,6 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
@@ -1343,6 +1333,11 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1777,6 +1772,11 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
     },
     {
