@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 14:21 UTC",
-  "fingerprint": "e31137ff81db1d62f0cd3b41fb08c634",
+  "updated_at": "2026-11-07 14:59 UTC",
+  "fingerprint": "cb61668de0a44d14320e5e9c97769dfc",
   "total": 1806,
-  "working": 1497,
-  "in_grace_period": 11,
-  "dead": 309,
-  "hd_channels": 600,
+  "working": 1500,
+  "in_grace_period": 14,
+  "dead": 306,
+  "hd_channels": 602,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 131,
-      "working": 97,
+      "working": 98,
       "hd": 46
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 774,
       "working": 634,
-      "hd": 233
+      "hd": 234
     },
     "Kannada": {
       "total": 76,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 127,
-      "hd": 51
+      "working": 129,
+      "hd": 52
     },
     "Santali": {
       "total": 1,
@@ -128,11 +128,6 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -283,11 +278,6 @@
       "name": "Captain (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/captain/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Chintpurni Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Chintpurni Live (360p)",
@@ -967,7 +957,7 @@
     {
       "name": "News Nation 81 (1080p)",
       "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
@@ -1173,11 +1163,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
