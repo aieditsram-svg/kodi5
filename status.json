@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-07 20:58 UTC",
-  "fingerprint": "8165a2945c3c9993813f542cb6231cec",
+  "updated_at": "2026-11-07 21:29 UTC",
+  "fingerprint": "63cb76fbd6ccd2ba582b1834d72c7788",
   "total": 1806,
-  "working": 1472,
+  "working": 1473,
   "in_grace_period": 5,
-  "dead": 334,
+  "dead": 333,
   "hd_channels": 599,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 634,
-      "hd": 234
+      "working": 633,
+      "hd": 233
     },
     "Kannada": {
       "total": 76,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 126,
-      "hd": 51
+      "working": 127,
+      "hd": 52
     },
     "Santali": {
       "total": 1,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 178,
-      "working": 129,
+      "working": 130,
       "hd": 57
     },
     "Urdu": {
@@ -445,11 +445,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dukhnivaran Patiala Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Dukhniwaran (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
       "reason": "HTTP 404"
@@ -578,11 +573,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1068,6 +1058,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
