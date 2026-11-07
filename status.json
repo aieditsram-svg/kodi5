@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 05:27 UTC",
-  "fingerprint": "969c47eee2d1c387817f6101d9b1b067",
+  "updated_at": "2026-11-07 06:12 UTC",
+  "fingerprint": "739fe3feacb22fdf38516802d2cf26a3",
   "total": 1806,
-  "working": 1493,
-  "in_grace_period": 10,
-  "dead": 313,
-  "hd_channels": 597,
+  "working": 1497,
+  "in_grace_period": 9,
+  "dead": 309,
+  "hd_channels": 599,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 131,
-      "working": 94,
-      "hd": 43
+      "working": 97,
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 33,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 190,
-      "working": 150,
+      "working": 151,
       "hd": 75
     },
     "Telugu": {
       "total": 178,
       "working": 140,
-      "hd": 57
+      "hd": 56
     },
     "Urdu": {
       "total": 18,
@@ -165,19 +165,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Akhon Kolkata (478p)",
-      "url": "https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Amrit Gurbani (720p)",
@@ -590,11 +580,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Friends TV (1080p)",
-      "url": "https://server.playontv.in/friendstv/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
@@ -905,11 +890,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Nation News (720p)",
-      "url": "https://server.playontv.in/nationnews/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Naxatra News (576p)",
       "url": "https://fta.ektv.in/live/668/master.m3u8",
       "reason": "HTTP 404"
@@ -928,11 +908,6 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -988,6 +963,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
@@ -1125,11 +1105,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Raatdin Bangla (720p)",
-      "url": "https://server.playontv.in/raatdinbangla/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Raj Musix Kannada (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8",
       "reason": "HTTP 403"
@@ -1248,6 +1223,11 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1433,11 +1413,6 @@
       "name": "Swadesh News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Swastik TV (720p)",
-      "url": "https://server.playontv.in/swastiktv/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "T News (576p)",
@@ -1652,6 +1627,11 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
     },
     {
