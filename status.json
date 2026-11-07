@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 07:09 UTC",
-  "fingerprint": "0794d11073d01dead4eb13d7b3b148ac",
+  "updated_at": "2026-11-07 08:04 UTC",
+  "fingerprint": "78e35e9c9de5ea4d8e8ebf4cf875704e",
   "total": 1806,
-  "working": 1500,
-  "in_grace_period": 17,
-  "dead": 306,
-  "hd_channels": 601,
+  "working": 1502,
+  "in_grace_period": 13,
+  "dead": 304,
+  "hd_channels": 603,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 633,
-      "hd": 233
+      "working": 635,
+      "hd": 235
     },
     "Kannada": {
       "total": 76,
@@ -202,11 +202,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -600,6 +595,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -735,11 +735,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Kabaddi 24x7 (720p)",
-      "url": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kairali Arabia (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8",
       "reason": "HTTP 403"
@@ -818,11 +813,6 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
