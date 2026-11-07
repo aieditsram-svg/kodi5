@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Telugu HD channels (720p+), updated 2026-11-06 23:54 UTC
+# Working Telugu HD channels (720p+), updated 2026-11-07 00:30 UTC
 #EXTINF:-1 tvg-id="10TV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",10 TV (720p)
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="4SiDESTV.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" tvg-language="Telugu" group-title="Telugu" height="1080",4 SiDES TV (1080p)
@@ -20,6 +20,8 @@ https://stream.ottlive.co.in/bigtv/index.m3u8
 https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Cartoon Network (720p)
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@HD" x-category="animation" tvg-logo="https://i.imgur.com/pH6ao2T.png" tvg-language="Telugu" group-title="Telugu" height="1080",Cartoon Network HD+ (1080p)
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ChhayaChitramTelugu.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/channels/Chhaya_Chitram_Telugu.png" tvg-language="Telugu" group-title="Telugu" height="720",Chhaya Chitram Telugu (360p)
 https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="CVRHealth.in@SD" x-category="lifestyle" tvg-logo="https://i.imgur.com/bCyW32I.png" tvg-language="Telugu" group-title="Telugu" height="1080",CVR Health (576p)
@@ -30,8 +32,8 @@ https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8
 https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" x-category="sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="Telugu" group-title="Telugu" height="1080",DD Sports (720p)
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Discovery Channel (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="1080",Discovery Channel HD (1080p)
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in@SD" x-category="kids" tvg-logo="https://dtil.tmsimg.com/assets/s159011_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Discovery Kids (720p)
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="DivyavaniTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png" tvg-language="Telugu" group-title="Telugu" height="1080",Divyavani TV (576p)
@@ -67,6 +69,8 @@ https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlis
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="MojoTV.in@SD" x-category="news" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/MOJO_TV_LOGO.png" tvg-language="Telugu" group-title="Telugu" height="720",Mojo TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD" x-category="documentary" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3329/1786019023329-h.jpg" tvg-language="Telugu" group-title="Telugu" height="1080",National Geographic HD (1080p)
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-id="NTVTelugu.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s154897_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="1080",NTV Telugu (1080p)
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 #EXTINF:-1 tvg-id="PMCTelugu.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" tvg-language="Telugu" group-title="Telugu" height="1080",PMC Telugu (1080p)
@@ -77,8 +81,8 @@ https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
 #EXTINF:-1 tvg-id="RajNewsTelugu.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143712_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Raj News Telugu (576p)
 https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8
-#EXTINF:-1 tvg-id="SakshiTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143744_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Sakshi TV (576p)
-https://mumt07.tangotv.in/zHjX9OFlSAKSHITV/index.m3u8
+#EXTINF:-1 tvg-id="SakshiTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143744_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="1080",Sakshi TV (1080p)
+https://stream.ottlive.co.in/sakshitv/index.m3u8
 #EXTINF:-1 tvg-id="StarMaa.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1759/1782290731759-h.jpg" tvg-language="Telugu" group-title="Telugu" height="720",Star Maa HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" x-category="movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h.jpg" tvg-language="Telugu" group-title="Telugu" height="720",Star Maa Movies HD (720p)

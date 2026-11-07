@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Malayalam channels, updated 2026-11-06 23:54 UTC
+# Working Malayalam channels, updated 2026-11-07 00:30 UTC
 #EXTINF:-1 tvg-id="24News.in@SD" x-category="news" tvg-logo="https://i.imgur.com/xraizkS.png" tvg-language="Malayalam" group-title="Malayalam" height="396",24 News (396p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="24News.in@SD" x-category="news" tvg-logo="https://i.imgur.com/xraizkS.png" tvg-language="Malayalam" group-title="Malayalam" height="720",24 News (576p)
@@ -39,6 +39,8 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="CartoonNetwork.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Cartoon Network (720p)
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@HD" x-category="animation" tvg-logo="https://i.imgur.com/pH6ao2T.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",Cartoon Network HD+ (1080p)
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CCV.in@SD" x-category="general" tvg-logo="https://i.imgur.com/4ss0KfA.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="DarshanaTV.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142774_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="576",Darshana TV (576p)
@@ -52,6 +54,8 @@ https://yuppparoriglin.akamaized.net/181224/smil:darshanatv.smil/playlist.m3u8?h
 https://fta.ektv.in/live/680/master.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Discovery Channel (720p)
 https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",Discovery Channel HD (1080p)
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Discovery Channel HD (720p)
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in@SD" x-category="kids" tvg-logo="https://dtil.tmsimg.com/assets/s159011_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Discovery Kids (720p)
@@ -74,6 +78,8 @@ https://fta.ektv.in/live/700/master.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JaihindTV.m3u8
 #EXTINF:-1 tvg-id="JanamTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143221_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="576",Janam TV (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="JanamTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143221_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="576",Janam TV (576p)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtvdev/playlist.m3u8
 #EXTINF:-1 tvg-id="JeevanTV.in@SD" x-category="general" tvg-logo="https://i.imgur.com/zKDrzDq.png" tvg-language="Malayalam" group-title="Malayalam" height="576",Jeevan TV (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s143247_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Kairali TV (576p)
@@ -132,10 +138,20 @@ https://mumt07.tangotv.in/zHjX9OFlMAZHAVILMANORAMAHD/index.m3u8
 https://livegeoroueu.akamaized.net/120723/smil:mediaone3.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="MediaOne.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143345_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Media One (576p)
 https://streams.tangotv.in/MEDIAONETV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD" x-category="documentary" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3329/1786019023329-h.jpg" tvg-language="Malayalam" group-title="Malayalam" height="1080",National Geographic HD (1080p)
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s166320_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",News Malayalam 24x7 (1080p)
+https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s166320_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",News Malayalam 24x7 (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cdb96065-b754-4c59-93c0-fe73f482439e/index.m3u8
 #EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s166320_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="576",News Malayalam 24x7 (576p)
 https://cdn.pishow.tv/ott/live/1629/master.m3u8
 #EXTINF:-1 tvg-id="News18Kerala.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143613_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",News18 Kerala (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Malayalam" group-title="Malayalam" height="576",Nickelodeon (576p)
+http://103.135.253.32:8080/NICK/index.m3u8
+#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="576",Pogo (576p)
+http://103.135.253.32:8080/POGO/index.m3u8
 #EXTINF:-1 tvg-id="PowervisionTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Powervision TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlPOWERVISION/index.m3u8
 #EXTINF:-1 tvg-id="PowervisionTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",Powervision TV (720p)
