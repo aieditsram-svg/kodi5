@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-07 16:46 UTC",
-  "fingerprint": "e916b0d276c9d3560242450b5ebde984",
+  "updated_at": "2026-11-07 17:20 UTC",
+  "fingerprint": "d598db2087c91f4523c7cdc70d610dd6",
   "total": 1806,
-  "working": 1467,
-  "in_grace_period": 16,
-  "dead": 339,
+  "working": 1468,
+  "in_grace_period": 27,
+  "dead": 338,
   "hd_channels": 599,
   "languages": {
     "Assamese": {
       "total": 40,
-      "working": 29,
+      "working": 30,
       "hd": 10
     },
     "Bengali": {
       "total": 131,
-      "working": 95,
-      "hd": 45
+      "working": 93,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 629,
-      "hd": 233
+      "working": 630,
+      "hd": 235
     },
     "Kannada": {
       "total": 76,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 2,
-      "hd": 1
+      "working": 3,
+      "hd": 2
     },
     "Malayalam": {
       "total": 119,
@@ -147,7 +147,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 403"
     },
     {
       "name": "Aadinath TV (576p)",
@@ -230,11 +230,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asianet Middle East (576p)",
       "url": "https://fta.ektv.in/live/697/master.m3u8",
       "reason": "HTTP 404"
@@ -252,11 +247,6 @@
     {
       "name": "Asom Live 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -288,11 +278,6 @@
       "name": "Bada Khabar (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Bansal News (720p)",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-      "reason": "HTTP 401"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -393,6 +378,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -670,6 +660,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -865,11 +860,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -1018,11 +1008,6 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1258,11 +1243,6 @@
       "name": "Rang (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3RANG/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "RDX Goa (720p) [Geo-blocked]",
-      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "HTTP 401"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -1683,6 +1663,21 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Cinema (1080p)",
+      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Music (720p)",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
