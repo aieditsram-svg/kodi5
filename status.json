@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 03:15 UTC",
-  "fingerprint": "95cfb48c0a71e6db1c29b84c03bde9d5",
+  "updated_at": "2026-11-08 04:06 UTC",
+  "fingerprint": "52ff9a9cf1b8f75f8066e69561681f77",
   "total": 1776,
-  "working": 1472,
-  "in_grace_period": 8,
-  "dead": 304,
-  "hd_channels": 600,
+  "working": 1474,
+  "in_grace_period": 15,
+  "dead": 302,
+  "hd_channels": 598,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 97,
-      "hd": 45
+      "working": 98,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 631,
+      "working": 634,
       "hd": 234
     },
     "Kannada": {
       "total": 75,
       "working": 59,
-      "hd": 29
+      "hd": 28
     },
     "Konkani": {
       "total": 3,
@@ -69,7 +69,7 @@
     },
     "Odia": {
       "total": 34,
-      "working": 24,
+      "working": 22,
       "hd": 10
     },
     "Other": {
@@ -173,11 +173,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -465,6 +460,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Ekamra Bharat Odia (400p)",
+      "url": "https://live.ekamraott.com/bharat/bharat/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Enterr 10 Bangla (576p)",
       "url": "http://103.165.93.31:8095/enter10Bangla/index.m3u8",
       "reason": "URLError"
@@ -603,11 +603,6 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -965,11 +960,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1023,11 +1013,6 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
@@ -1093,6 +1078,11 @@
       "name": "Northeast Live (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "One Paschima (400p)",
+      "url": "https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Pasand TV (576p)",
@@ -1243,11 +1233,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
@@ -1468,6 +1453,11 @@
       "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
       "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "TTN24 (720p)",
+      "url": "https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8",
+      "reason": "empty HLS manifest"
     },
     {
       "name": "TV5 Kannada (576p)",
