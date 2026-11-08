@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 17:29 UTC",
-  "fingerprint": "8d3a1a89fcd25310faefa28f6d5d1455",
+  "updated_at": "2026-11-08 18:02 UTC",
+  "fingerprint": "b174a22be730620aaf78efe0f301390f",
   "total": 1776,
-  "working": 1424,
-  "in_grace_period": 8,
-  "dead": 352,
-  "hd_channels": 580,
+  "working": 1438,
+  "in_grace_period": 10,
+  "dead": 338,
+  "hd_channels": 587,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 79,
-      "hd": 42
+      "working": 86,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 155,
-      "working": 118,
-      "hd": 53
+      "working": 121,
+      "hd": 55
     },
     "Gujarati": {
       "total": 36,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 606,
-      "hd": 220
+      "working": 612,
+      "hd": 226
     },
     "Kannada": {
       "total": 75,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 184,
-      "working": 138,
-      "hd": 69
+      "working": 140,
+      "hd": 71
     },
     "Telugu": {
       "total": 174,
@@ -883,6 +883,11 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1770,83 +1775,8 @@
       "reason": "URLError"
     },
     {
-      "name": "Colors HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Colors Bangla HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Colors Bangla Cinema (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Eurosport HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Enterr 10 Bangla (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Jalsha Movies (720p)",
-      "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Zee Bangla HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Zee Cinema HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Sony Aath (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Star Jalsha HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "StarPlus HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Star Gold HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/StarGold/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Star Movies HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Star Movies Select HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Star Gold Select (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8",
       "reason": "TimeoutError"
     },
     {
