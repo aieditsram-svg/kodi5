@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-08 12:25 UTC",
-  "fingerprint": "12f991b97687a672dcb150af15643360",
+  "updated_at": "2026-11-08 13:21 UTC",
+  "fingerprint": "e868f5f14b0841be8164fdf79b89b395",
   "total": 1776,
-  "working": 1450,
-  "in_grace_period": 14,
-  "dead": 326,
+  "working": 1452,
+  "in_grace_period": 11,
+  "dead": 324,
   "hd_channels": 595,
   "languages": {
     "Assamese": {
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 123,
       "working": 89,
-      "hd": 45
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 623,
+      "working": 625,
       "hd": 232
     },
     "Kannada": {
       "total": 75,
       "working": 59,
-      "hd": 29
+      "hd": 28
     },
     "Konkani": {
       "total": 3,
@@ -55,12 +55,12 @@
     "Malayalam": {
       "total": 119,
       "working": 93,
-      "hd": 40
+      "hd": 39
     },
     "Marathi": {
       "total": 54,
       "working": 49,
-      "hd": 23
+      "hd": 22
     },
     "Nepali": {
       "total": 6,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 34,
       "working": 25,
-      "hd": 11
+      "hd": 10
     },
     "Other": {
       "total": 23,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 184,
       "working": 148,
-      "hd": 75
+      "hd": 74
     },
     "Telugu": {
       "total": 174,
       "working": 133,
-      "hd": 59
+      "hd": 58
     },
     "Urdu": {
       "total": 18,
@@ -625,11 +625,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
@@ -978,11 +973,6 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
