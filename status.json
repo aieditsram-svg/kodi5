@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 21:13 UTC",
-  "fingerprint": "8b1bef16f2994b61b754c51a8f6c8707",
+  "updated_at": "2026-11-08 21:47 UTC",
+  "fingerprint": "9479aa80e6ff90bb1997b5cec4d4b783",
   "total": 1776,
-  "working": 1432,
-  "in_grace_period": 3,
-  "dead": 344,
-  "hd_channels": 583,
+  "working": 1433,
+  "in_grace_period": 2,
+  "dead": 343,
+  "hd_channels": 584,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 84,
+      "working": 85,
       "hd": 41
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 754,
       "working": 609,
-      "hd": 225
+      "hd": 226
     },
     "Kannada": {
       "total": 75,
@@ -268,6 +268,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -635,11 +640,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
@@ -848,11 +848,6 @@
       "name": "Khushboo Bangla (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",

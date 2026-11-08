@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, all languages, updated 2026-11-08 21:13 UTC
+# Working channels, all languages, updated 2026-11-08 21:47 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
 https://cdn.pishow.tv/ott/live/258/master.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
@@ -138,6 +138,8 @@ https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143265_ld_h9_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",Khushboo Bangla (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/375/master.m3u8
+#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143265_ld_h9_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",Khushboo Bangla (576p) [Geo-blocked]
+https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
 #EXTINF:-1 tvg-id="KolkataTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",Kolkata TV (1080p)
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-id="KolkataTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",Kolkata TV (576p)
@@ -833,8 +835,6 @@ https://mumt06.tangotv.in/qYyB8fXVB4UKADAK/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",B4U Kadak (576p)
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",B4U Kadak (576p)
-https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",B4U Kadak (576p)
 http://163.61.226.31:9981/stream/channelid/282021969?profile=pass
 #EXTINF:-1 tvg-id="B4UMovies.in@India" x-category="movies" tvg-logo="https://i.imgur.com/BoJB8P0.png" tvg-language="Hindi" group-title="Hindi" height="1080",B4U Movies (1080p)
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
@@ -1171,6 +1171,8 @@ https://fta.ektv.in/live/584/master.m3u8
 https://fta.ektv.in/live/52/52_0.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" x-category="movies" tvg-logo="https://i.imgur.com/6mNQ9mM.png" tvg-language="Hindi" group-title="Hindi" height="720",Goldmines Bollywood (576p)
 https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" x-category="movies" tvg-logo="https://i.imgur.com/6mNQ9mM.png" tvg-language="Hindi" group-title="Hindi" height="576",Goldmines Bollywood (576p)
+https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" x-category="movies" tvg-logo="https://i.imgur.com/6mNQ9mM.png" tvg-language="Hindi" group-title="Hindi" height="576",Goldmines Bollywood (576p)
 http://163.61.226.31:9981/stream/channelid/1436412639?profile=pass
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Goldmines Movies (576p)
@@ -1610,7 +1612,7 @@ https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
 #EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Peace of Mind TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/170/master.m3u8
-#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Peace of Mind TV (576p)
+#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Peace of Mind TV (576p)
 https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
 #EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Peace of Mind TV (576p)
 https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -2006,7 +2008,7 @@ https://cdn.pishow.tv/ott/live/234/master.m3u8
 https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="1080",Asianet Suvarna News (1080p) [Not 24/7]
 https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
-#EXTINF:-1 tvg-id="AyushTV.in@SD" x-category="lifestyle" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="576",Ayush TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="AyushTV.in@SD" x-category="lifestyle" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="720",Ayush TV (360p) [Not 24/7]
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 tvg-id="AyushTV.in@SD" x-category="lifestyle" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="576",Ayush TV (576p)
 http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8
@@ -2783,7 +2785,7 @@ https://cdn.pishow.tv/ott/live/453/master.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:angeltv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="AngelTV.in@India" x-category="religious" tvg-logo="https://i.imgur.com/qKLEGU7.png" tvg-language="Tamil" group-title="Tamil" height="1080",Angel TV (720p)
 https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@India" x-category="religious" tvg-logo="https://i.imgur.com/qKLEGU7.png" tvg-language="Tamil" group-title="Tamil" height="720",Angel TV (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@India" x-category="religious" tvg-logo="https://i.imgur.com/qKLEGU7.png" tvg-language="Tamil" group-title="Tamil" height="1080",Angel TV (720p)
 https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@America" x-category="religious" tvg-logo="https://i.imgur.com/qKLEGU7.png" tvg-language="Tamil" group-title="Tamil" height="720",Angel TV America (720p)
 https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8
