@@ -1,5 +1,5 @@
 #EXTM3U
-# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-11-07 23:46 UTC
+# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-11-08 00:18 UTC
 #EXTINF:-1 tvg-id="AsomLive24.in@SD" x-category="news" tvg-logo="https://papaji.freetvindia.com/media/channels/asom_live_24x7.png" tvg-language="Assamese" group-title="Assamese",Asom Live 24
 https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks
@@ -36,8 +36,8 @@ https://streams.tangotv.in/RANG/ORIGIN/index.m3u8
 https://mumt05.tangotv.in/87NeALx2RENGONI/index.m3u8
 #EXTINF:-1 tvg-id="Spondon.in@SD" x-category="entertainment" tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png" tvg-language="Assamese" group-title="Assamese" height="720",Spondon
 https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8
-#EXTINF:-1 tvg-id="AakaashAath.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" tvg-language="Bengali" group-title="Bengali",Aakaash Aath
-http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8
+#EXTINF:-1 tvg-id="AakaashAath.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",Aakaash Aath
+https://cdn.pishow.tv/ott/live/969/master.m3u8
 #EXTINF:-1 tvg-id="AamarBangla.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" tvg-language="Bengali" group-title="Bengali" height="720",Aamar Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ABPAnanda.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142518_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",ABP Ananda
@@ -123,7 +123,7 @@ http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
 #EXTINF:-1 tvg-id="SonarBangla.in@SD" x-category="movies" tvg-logo="https://papaji.freetvindia.com/media/1518_FreeTV_Sonar_Bangla.png" tvg-language="Bengali" group-title="Bengali" height="720",Sonar Bangla
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Sonic.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" tvg-language="Bengali" group-title="Bengali",Sonic
-http://103.151.60.162:2122/play/a02v/index.m3u8?hls
+http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",Sony Aath
 http://103.135.253.32:8080/SONY_AATH/index.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali",Sony Yay!
@@ -220,8 +220,6 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="CNNNews18.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142747_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="1080",CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="ColorsInfinity.in@HD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s158150_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English",Colors Infinity HD
-http://103.151.60.162:2122/play/a02r/index.m3u8?hls
 #EXTINF:-1 tvg-id="CVREnglish.in@SD" x-category="news" tvg-logo="https://i.imgur.com/k0WTQKi.png" tvg-language="English" group-title="English" height="1080",CVR English
 https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English",DD Assam
@@ -250,10 +248,6 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" tvg-language="English" group-title="English",Disney Channel HD
 http://66.102.126.10:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" x-category="kids" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/FAoDDiaq0WPescE65173/image.png" tvg-language="English" group-title="English",Disney International HD
-http://103.151.60.162:2122/play/a018/index.m3u8?hls
-#EXTINF:-1 tvg-id="DisneyJunior.in@SD" x-category="kids" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/kDx5CloMCE4tFekQtkOQ/image.png" tvg-language="English" group-title="English",Disney Junior
-http://103.151.60.162:2122/play/a016/index.m3u8?hls
 #EXTINF:-1 tvg-id="DocuBayTV.in@SD" x-category="documentary" tvg-logo="https://i.imgur.com/OGyeLLR.png" tvg-language="English" group-title="English" height="1080",DocuBay TV
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 #EXTINF:-1 tvg-id="ETNow.in@SD" x-category="business" tvg-logo="https://dtil.tmsimg.com/assets/s143021_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English",ET Now
@@ -341,14 +335,10 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 #EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" x-category="documentary" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English",Sony BBC Earth HD
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English",Sony Pix HD
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarMovies.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="1080",Star Movies HD
 http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="1080",Star Movies Select HD
 https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@SD" x-category="sports" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg" tvg-language="English" group-title="English",Star Sports 2
-http://103.151.60.162:2122/play/a019/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" x-category="sports" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h.jpg" tvg-language="English" group-title="English",Star Sports Select 2 HD
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in@UK" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/698/1782289770698-h.jpg" tvg-language="English" group-title="English" height="720",Star Vijay
@@ -364,8 +354,6 @@ https://live.sli.ke/live/npnhm84gz9/master.m3u8
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@HD" x-category="travel" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-language="English" group-title="English" height="1080",Travelxp HD
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="Unite8Sports2.in@SD" x-category="sports" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00358PGT.png?lock=720x540" tvg-language="English" group-title="English",Unite8 Sports 2
-http://103.151.60.162:2122/play/a01m/index.m3u8?hls
 #EXTINF:-1 tvg-id="VyasChannel.in@SD" x-category="education" tvg-logo="https://www.yupptv.com/seo_img/UGC_GEC_big.jpg" tvg-language="English" group-title="English" height="1080",Vyas NIC
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="WION.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="720",WION
@@ -488,7 +476,7 @@ https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:aradanatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ArgusNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142650_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Argus News
 https://stream.ottlive.co.in/argus/index.m3u8
-#EXTINF:-1 tvg-id="AryanTVNational.in@SD" tvg-logo="https://i.imgur.com/3tePHES.png" tvg-language="Hindi" group-title="Hindi" height="720",Aryan TV National
+#EXTINF:-1 tvg-id="AryanTVNational.in@SD" tvg-logo="https://i.imgur.com/3tePHES.png" tvg-language="Hindi" group-title="Hindi",Aryan TV National
 https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="AsianNews.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png" tvg-language="Hindi" group-title="Hindi" height="1080",Asian News
 https://stream.ottlive.co.in/asiannews/index.m3u8
@@ -627,8 +615,6 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" tvg-language="Hindi" group-title="Hindi",Disney Channel HD
 http://66.102.126.10:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.in@SD" x-category="kids" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/kDx5CloMCE4tFekQtkOQ/image.png" tvg-language="Hindi" group-title="Hindi",Disney Junior
-http://103.151.60.162:2122/play/a016/index.m3u8?hls
 #EXTINF:-1 tvg-id="DNN.in@SD" x-category="news" tvg-logo="https://i.imgur.com/H5Kd0k6.png" tvg-language="Hindi" group-title="Hindi" height="1080",DNN
 https://stream.ottlive.co.in/dnnnews/index.m3u8
 #EXTINF:-1 tvg-id="E24.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/vCaPNTe.png" tvg-language="Hindi" group-title="Hindi" height="720",E 24
@@ -663,8 +649,6 @@ https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@Digital" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Epic Music Digital
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
-#EXTINF:-1 tvg-id="EpicParivar.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVZH.png?lock=720x540" tvg-language="Hindi" group-title="Hindi",Epic Parivar
-http://103.151.60.162:2122/play/a01p/index.m3u8?hls
 #EXTINF:-1 tvg-id="EpicTV.in@Digital" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032DV5H.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Epic TV Digital
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 #EXTINF:-1 tvg-id="FatehTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/c4ItNkB.png" tvg-language="Hindi" group-title="Hindi" height="1080",Fateh TV
@@ -901,8 +885,8 @@ https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
 https://fta.ektv.in/live/170/master.m3u8
 #EXTINF:-1 tvg-id="PocketFilms.in@SD" x-category="movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" tvg-language="Hindi" group-title="Hindi",Pocket Films
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
-#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Pogo
-http://103.135.253.32:8080/POGO/index.m3u8
+#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="PrarthanaBhawanTV.in@SD" tvg-logo="https://i.imgur.com/1OUfPzr.png" tvg-language="Hindi" group-title="Hindi" height="576",Prarthana Bhawan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/623/master.m3u8
@@ -980,7 +964,7 @@ https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8
 #EXTINF:-1 tvg-id="SongdewTV.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Songdew TV
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="Sonic.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" tvg-language="Hindi" group-title="Hindi",Sonic
-http://103.151.60.162:2122/play/a02v/index.m3u8?hls
+http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" x-category="documentary" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi",Sony BBC Earth HD
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Sony Entertainment Television HD
@@ -989,12 +973,8 @@ http://38.96.178.205/SONYHD/index.m3u8
 http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi",Sony Pal
 http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass
-#EXTINF:-1 tvg-id="SonyPix.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi",Sony Pix HD
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonySAB.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/70954ffc9bae055e09e48393b47570ea.png" tvg-language="Hindi" group-title="Hindi" height="720",Sony SAB
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" x-category="sports" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" tvg-language="Hindi" group-title="Hindi",Sony Sports Ten 3 Hindi
-http://103.151.60.162:2122/play/a01t/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyWah.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi",Sony Wah
 http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 #EXTINF:-1 tvg-id="SonyYay.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi",Sony Yay!
@@ -1005,8 +985,6 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="StarBharat.in@HD" x-category="news" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8704/1782288318704-h.jpg" tvg-language="Hindi" group-title="Hindi" height="1080",Star Bharat HD
 http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
-#EXTINF:-1 tvg-id="StarGold2.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi",Star Gold 2 HD
-http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarGold.in@HD" x-category="movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6567/1784547656567-h.jpg" tvg-language="Hindi" group-title="Hindi" height="1080",Star Gold HD
 http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Star Gold Select
@@ -1015,8 +993,6 @@ https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
 http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Star Movies Select HD
 https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@SD" x-category="sports" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg" tvg-language="Hindi" group-title="Hindi",Star Sports 2
-http://103.151.60.162:2122/play/a019/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarUtsav.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159132_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi",Star Utsav
 http://163.61.226.31:9981/stream/channelid/894286890?profile=pass
 #EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143856_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi",Star Utsav Movies
@@ -1030,8 +1006,6 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 https://fta.ektv.in/live/607/master.m3u8
 #EXTINF:-1 tvg-id="SudarshanNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143870_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi",Sudarshan News
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="Superhitz.in@SD" tvg-logo="https://i.imgur.com/aRNBvTU.png" tvg-language="Hindi" group-title="Hindi",Superhitz
-http://103.151.60.162:2122/play/a02f/index.m3u8?hls
 #EXTINF:-1 tvg-id="SuryaSamachar.in@SD" x-category="news" tvg-logo="https://i.imgur.com/vxs1kRB.png" tvg-language="Hindi" group-title="Hindi" height="396",Surya Samachar
 https://d1msejlow1t3l4.cloudfront.net/fta/suryasamachar/playlist.m3u8
 #EXTINF:-1 tvg-id="SVBC4.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/vCFdZny.png" tvg-language="Hindi" group-title="Hindi" height="1080",SVBC 4
@@ -1078,7 +1052,7 @@ https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8
 #EXTINF:-1 tvg-id="TV100.in@SD" tvg-logo="https://i.imgur.com/EFpH8Ae.png" tvg-language="Hindi" group-title="Hindi" height="576",TV 100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/310/master.m3u8
-#EXTINF:-1 tvg-id="TV27News.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV27_News.png" tvg-language="Hindi" group-title="Hindi",TV27 News
+#EXTINF:-1 tvg-id="TV27News.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV27_News.png" tvg-language="Hindi" group-title="Hindi" height="1080",TV27 News
 https://stream.ottlive.co.in/tv27/index.m3u8
 #EXTINF:-1 tvg-id="TV30India.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV30India.png" tvg-language="Hindi" group-title="Hindi",TV30 India
 https://stream.tv30bharat.com/hls/shree/bhattji.m3u8
@@ -1189,8 +1163,8 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/mas
 http://103.135.253.32:8080/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NKRTVKannada.in@SD" x-category="general" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" tvg-language="Kannada" group-title="Kannada" height="1080",NKR TV Kannada
 https://stream.ottlive.co.in/nkrtv/index.m3u8
-#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="576",Pogo
-http://103.135.253.32:8080/POGO/index.m3u8
+#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="720",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="PowerTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143669_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="720",Power TV
 https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8
 #EXTINF:-1 tvg-id="PublicMovies.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143686_ld_h9_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="720",Public Movies
@@ -1212,7 +1186,7 @@ https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
 #EXTINF:-1 tvg-id="SiriKannadaAllTime.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/IR0BrEX.jpeg" tvg-language="Kannada" group-title="Kannada" height="720",Siri Kannada All Time
 https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
 #EXTINF:-1 tvg-id="Sonic.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" tvg-language="Kannada" group-title="Kannada",Sonic
-http://103.151.60.162:2122/play/a02v/index.m3u8?hls
+http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 #EXTINF:-1 tvg-id="SuvarnaNews.in@SD" x-category="news" tvg-logo="https://i.imgur.com/0H1HObK.png" tvg-language="Kannada" group-title="Kannada" height="720",Suvarna News
@@ -1314,8 +1288,8 @@ https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/mast
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Malayalam" group-title="Malayalam" height="576",Nickelodeon
 http://103.135.253.32:8080/NICK/index.m3u8
-#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="576",Pogo
-http://103.135.253.32:8080/POGO/index.m3u8
+#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="PowervisionTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",Powervision TV
 https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8
 #EXTINF:-1 tvg-id="PravasiChannel.in@SD" tvg-logo="https://i.imgur.com/1dHarb7.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",Pravasi Channel
@@ -1339,7 +1313,7 @@ https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="ShekinahTV.in@SD" tvg-logo="https://i.imgur.com/6hTshsG.png" tvg-language="Malayalam" group-title="Malayalam" height="576",Shekinah TV
 https://cdn.pishow.tv/ott/live/447/master.m3u8
 #EXTINF:-1 tvg-id="Sonic.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" tvg-language="Malayalam" group-title="Malayalam",Sonic
-http://103.151.60.162:2122/play/a02v/index.m3u8?hls
+http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 #EXTINF:-1 tvg-id="Starnet.in@SD" x-category="general" tvg-logo="https://i.imgur.com/J3jB7Kr.png" tvg-language="Malayalam" group-title="Malayalam" height="480",Starnet
@@ -1387,8 +1361,8 @@ https://stream.ottlive.co.in/newsmarathi/index.m3u8
 https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Marathi" group-title="Marathi" height="576",Nickelodeon
 http://103.135.253.32:8080/NICK/index.m3u8
-#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="576",Pogo
-http://103.135.253.32:8080/POGO/index.m3u8
+#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="720",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="PudhariNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s158328_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="720",Pudhari News
 https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SaamTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143735_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="720",Saam TV
@@ -1400,7 +1374,7 @@ https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u
 #EXTINF:-1 tvg-id="SoneriCinema.in@SD" x-category="movies" tvg-logo="https://papaji.freetvindia.com/media/1056_FreeTV_Soneri_Cinema.png" tvg-language="Marathi" group-title="Marathi" height="720",Soneri Cinema
 https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Sonic.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" tvg-language="Marathi" group-title="Marathi",Sonic
-http://103.151.60.162:2122/play/a02v/index.m3u8?hls
+http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5780/1782291675780-h.jpg" tvg-language="Marathi" group-title="Marathi",Star Pravah HD
@@ -1453,8 +1427,6 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" tvg-language="Odia" group-title="Odia",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
-#EXTINF:-1 tvg-id="StarKiran.in@SD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7412/1782282697412-h.jpg" tvg-language="Odia" group-title="Odia",Star Kiran
-http://103.151.60.162:2122/play/a032/index.m3u8?hls
 #EXTINF:-1 tvg-id="TarangMusic.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s143926_ld_h15_aa.png?lock=720x540" tvg-language="Odia" group-title="Odia" height="720",Tarang Music
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TarangTV.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143927_ld_h15_aa.png?lock=720x540" tvg-language="Odia" group-title="Odia" height="720",Tarang TV
@@ -1666,8 +1638,6 @@ http://103.135.253.32:8080/DISCOVERY/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" tvg-language="Tamil" group-title="Tamil",Disney Channel HD
 http://66.102.126.10:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.in@SD" x-category="kids" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/kDx5CloMCE4tFekQtkOQ/image.png" tvg-language="Tamil" group-title="Tamil",Disney Junior
-http://103.151.60.162:2122/play/a016/index.m3u8?hls
 #EXTINF:-1 tvg-id="HebronTV.in@SD" x-category="religious" tvg-logo="https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512" tvg-language="Tamil" group-title="Tamil",Hebron TV
 https://account20.livebox.co.in/charleshls/live.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" x-category="documentary" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="1080",History TV18 HD
@@ -1740,8 +1710,8 @@ https://live.olidigital.in/olitv/olitv/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 #EXTINF:-1 tvg-id="PeppersTV.in@SD" x-category="music" tvg-logo="https://i.imgur.com/5PyJj2n.png" tvg-language="Tamil" group-title="Tamil" height="720",Peppers TV
 https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
-#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="576",Pogo
-http://103.135.253.32:8080/POGO/index.m3u8
+#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="720",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="PolimerNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="720",Polimer News
 https://mumt05.tangotv.in/87NeALx2POLIMERNEWS/index.m3u8
 #EXTINF:-1 tvg-id="PolimerTV.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143665_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="720",Polimer TV
@@ -1773,19 +1743,15 @@ https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
 #EXTINF:-1 tvg-id="SirippoliTV.in@SD" x-category="comedy" tvg-logo="https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="396",Sirippoli TV
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 tvg-id="Sonic.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" tvg-language="Tamil" group-title="Tamil",Sonic
-http://103.151.60.162:2122/play/a02v/index.m3u8?hls
+http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" x-category="documentary" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil",Sony BBC Earth HD
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil",Sony Pix HD
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyYay.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="1080",Star Movies HD
 http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="1080",Star Movies Select HD
 https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@SD" x-category="sports" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg" tvg-language="Tamil" group-title="Tamil",Star Sports 2
-http://103.151.60.162:2122/play/a019/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarVijay.in@UK" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/698/1782289770698-h.jpg" tvg-language="Tamil" group-title="Tamil" height="720",Star Vijay
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SubinTV.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png" tvg-language="Tamil" group-title="Tamil" height="1080",Subin TV
@@ -1885,8 +1851,6 @@ http://103.135.253.32:8080/DISCOVERY/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" tvg-language="Telugu" group-title="Telugu",Disney Channel HD
 http://66.102.126.10:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.in@SD" x-category="kids" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/kDx5CloMCE4tFekQtkOQ/image.png" tvg-language="Telugu" group-title="Telugu",Disney Junior
-http://103.151.60.162:2122/play/a016/index.m3u8?hls
 #EXTINF:-1 tvg-id="DivyavaniTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png" tvg-language="Telugu" group-title="Telugu" height="720",Divyavani TV
 https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143024_ld_h9_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu",ETV Andhra Pradesh
@@ -1952,8 +1916,8 @@ https://fta.ektv.in/live/706/master.m3u8
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 #EXTINF:-1 tvg-id="PMCTelugu.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" tvg-language="Telugu" group-title="Telugu" height="720",PMC Telugu
 https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
-#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="576",Pogo
-http://103.135.253.32:8080/POGO/index.m3u8
+#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="Prime9News.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_9_News.png" tvg-language="Telugu" group-title="Telugu" height="1080",Prime9 News
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
 #EXTINF:-1 tvg-id="RajMusixTelugu.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s143708_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Raj Musix Telugu
@@ -1963,19 +1927,15 @@ https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8
 #EXTINF:-1 tvg-id="SakshiTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143744_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="1080",Sakshi TV
 https://stream.ottlive.co.in/sakshitv/index.m3u8
 #EXTINF:-1 tvg-id="Sonic.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" tvg-language="Telugu" group-title="Telugu",Sonic
-http://103.151.60.162:2122/play/a02v/index.m3u8?hls
+http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" x-category="documentary" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu",Sony BBC Earth HD
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu",Sony Pix HD
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyYay.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 #EXTINF:-1 tvg-id="StarMaa.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1759/1782290731759-h.jpg" tvg-language="Telugu" group-title="Telugu",Star Maa HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" x-category="movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h.jpg" tvg-language="Telugu" group-title="Telugu",Star Maa Movies HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@SD" x-category="sports" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg" tvg-language="Telugu" group-title="Telugu",Star Sports 2
-http://103.151.60.162:2122/play/a019/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" x-category="sports" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2716/1783000912716-h.jpg" tvg-language="Telugu" group-title="Telugu" height="576",Star Sports 2 Telugu HD
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" x-category="movies" tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-language="Telugu" group-title="Telugu" height="720",Studio One +

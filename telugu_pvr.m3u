@@ -1,5 +1,5 @@
 #EXTM3U
-# One link per channel for Kodi IPTV Simple Client, Telugu, updated 2026-11-07 23:46 UTC
+# One link per channel for Kodi IPTV Simple Client, Telugu, updated 2026-11-08 00:18 UTC
 #EXTINF:-1 tvg-id="10TV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",10 TV
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="4SiDESTV.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" tvg-language="Telugu" group-title="Telugu" height="1080",4 SiDES TV
@@ -49,8 +49,6 @@ http://103.135.253.32:8080/DISCOVERY/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" tvg-language="Telugu" group-title="Telugu",Disney Channel HD
 http://66.102.126.10:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.in@SD" x-category="kids" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/kDx5CloMCE4tFekQtkOQ/image.png" tvg-language="Telugu" group-title="Telugu",Disney Junior
-http://103.151.60.162:2122/play/a016/index.m3u8?hls
 #EXTINF:-1 tvg-id="DivyavaniTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png" tvg-language="Telugu" group-title="Telugu" height="720",Divyavani TV
 https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143024_ld_h9_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu",ETV Andhra Pradesh
@@ -116,8 +114,8 @@ https://fta.ektv.in/live/706/master.m3u8
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 #EXTINF:-1 tvg-id="PMCTelugu.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" tvg-language="Telugu" group-title="Telugu" height="720",PMC Telugu
 https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
-#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="576",Pogo
-http://103.135.253.32:8080/POGO/index.m3u8
+#EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="Prime9News.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_9_News.png" tvg-language="Telugu" group-title="Telugu" height="1080",Prime9 News
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
 #EXTINF:-1 tvg-id="RajMusixTelugu.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s143708_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Raj Musix Telugu
@@ -127,19 +125,15 @@ https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8
 #EXTINF:-1 tvg-id="SakshiTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143744_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="1080",Sakshi TV
 https://stream.ottlive.co.in/sakshitv/index.m3u8
 #EXTINF:-1 tvg-id="Sonic.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" tvg-language="Telugu" group-title="Telugu",Sonic
-http://103.151.60.162:2122/play/a02v/index.m3u8?hls
+http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" x-category="documentary" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu",Sony BBC Earth HD
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu",Sony Pix HD
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyYay.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 #EXTINF:-1 tvg-id="StarMaa.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1759/1782290731759-h.jpg" tvg-language="Telugu" group-title="Telugu",Star Maa HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" x-category="movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h.jpg" tvg-language="Telugu" group-title="Telugu",Star Maa Movies HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@SD" x-category="sports" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg" tvg-language="Telugu" group-title="Telugu",Star Sports 2
-http://103.151.60.162:2122/play/a019/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" x-category="sports" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2716/1783000912716-h.jpg" tvg-language="Telugu" group-title="Telugu" height="576",Star Sports 2 Telugu HD
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" x-category="movies" tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-language="Telugu" group-title="Telugu" height="720",Studio One +
