@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-08 22:20 UTC",
-  "fingerprint": "bb932449b7e1e705bdbaea77df0f3b36",
+  "updated_at": "2026-11-08 22:56 UTC",
+  "fingerprint": "8a43de5368fc7013d56d52e9b4777d22",
   "total": 1776,
-  "working": 1434,
+  "working": 1436,
   "in_grace_period": 4,
-  "dead": 342,
+  "dead": 340,
   "hd_channels": 584,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 85,
+      "working": 86,
       "hd": 41
     },
     "Bhojpuri": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 174,
-      "working": 125,
+      "working": 126,
       "hd": 56
     },
     "Urdu": {
@@ -270,11 +270,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -430,6 +425,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Deewana HD (540p)",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Dhamaal (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8",
       "reason": "TimeoutError"
@@ -563,11 +563,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1408,11 +1403,6 @@
       "name": "Star Gold HD (1080p)",
       "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
