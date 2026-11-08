@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 22:56 UTC",
-  "fingerprint": "8a43de5368fc7013d56d52e9b4777d22",
+  "updated_at": "2026-11-08 23:26 UTC",
+  "fingerprint": "bac87acafa4b0839d8bf37a8f0b543a4",
   "total": 1776,
-  "working": 1436,
-  "in_grace_period": 4,
-  "dead": 340,
-  "hd_channels": 584,
+  "working": 1435,
+  "in_grace_period": 2,
+  "dead": 341,
+  "hd_channels": 583,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 610,
-      "hd": 225
+      "working": 609,
+      "hd": 224
     },
     "Kannada": {
       "total": 75,
@@ -1573,6 +1573,11 @@
       "name": "Vistaar News (576p)",
       "url": "https://vistaarnews.com/livetv-stream/test.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "VTU (1080p)",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Win TV (576p)",
