@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 20:02 UTC",
-  "fingerprint": "1aa54a766dc1e041bb33db76902d96eb",
+  "updated_at": "2026-11-08 20:36 UTC",
+  "fingerprint": "9345f3a2e77159cc3ee5c63d8d353204",
   "total": 1776,
-  "working": 1426,
-  "in_grace_period": 9,
-  "dead": 350,
-  "hd_channels": 584,
+  "working": 1427,
+  "in_grace_period": 3,
+  "dead": 349,
+  "hd_channels": 582,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 85,
-      "hd": 42
+      "working": 84,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 602,
-      "hd": 225
+      "working": 604,
+      "hd": 224
     },
     "Kannada": {
       "total": 75,
@@ -178,6 +178,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -320,11 +325,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "BRK News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -388,11 +388,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -630,11 +625,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -648,6 +638,11 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -865,6 +860,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -1018,11 +1018,6 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1830,8 +1825,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "name": "SRK TV (1080p)",
+      "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
