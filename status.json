@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 16:23 UTC",
-  "fingerprint": "bb92f71a8006bb1d4b88886df9eaecf2",
+  "updated_at": "2026-11-08 16:59 UTC",
+  "fingerprint": "b46c3dbd2a8ba9e24599da8f9d13db35",
   "total": 1776,
-  "working": 1446,
-  "in_grace_period": 37,
-  "dead": 330,
-  "hd_channels": 592,
+  "working": 1442,
+  "in_grace_period": 32,
+  "dead": 334,
+  "hd_channels": 591,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 89,
+      "working": 87,
       "hd": 44
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 155,
-      "working": 126,
-      "hd": 58
+      "working": 124,
+      "hd": 57
     },
     "Gujarati": {
       "total": 36,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 622,
-      "hd": 230
+      "working": 619,
+      "hd": 229
     },
     "Kannada": {
       "total": 75,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 184,
-      "working": 146,
-      "hd": 74
+      "working": 145,
+      "hd": 73
     },
     "Telugu": {
       "total": 174,
-      "working": 131,
+      "working": 132,
       "hd": 58
     },
     "Urdu": {
@@ -232,6 +232,11 @@
     {
       "name": "Arputhar Yesu TV (576p)",
       "url": "https://account33.livebox.co.in/jesushelpshls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -383,6 +388,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -565,11 +575,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -643,11 +648,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -793,6 +793,11 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "JTBS Classic",
+      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
+      "reason": "HTTP 429"
     },
     {
       "name": "K News India (720p)",
@@ -1658,6 +1663,21 @@
       "name": "Zee Tamil HD (1080p)",
       "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Star Movies HD (1080p)",
+      "url": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Zee TV HD (1080p)",
+      "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Zee Bangla Sonar (576p)",
+      "url": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Colors HD (1080p)",
