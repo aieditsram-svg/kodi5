@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 18:02 UTC",
-  "fingerprint": "b174a22be730620aaf78efe0f301390f",
+  "updated_at": "2026-11-08 18:40 UTC",
+  "fingerprint": "9a04e8aca63ec4bb1acb8f77d82c0b11",
   "total": 1776,
-  "working": 1438,
-  "in_grace_period": 10,
-  "dead": 338,
-  "hd_channels": 587,
+  "working": 1437,
+  "in_grace_period": 19,
+  "dead": 339,
+  "hd_channels": 586,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 612,
+      "working": 611,
       "hd": 226
     },
     "Kannada": {
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 87,
-      "hd": 37
+      "working": 86,
+      "hd": 36
     },
     "Marathi": {
       "total": 54,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 184,
-      "working": 140,
+      "working": 141,
       "hd": 71
     },
     "Telugu": {
@@ -258,6 +258,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -1436,11 +1441,6 @@
     },
     {
       "name": "Suriyan TV (576p)",
-      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
-      "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
     },
@@ -1552,6 +1552,11 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "VCV (720p) [Not 24/7]",
+      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
