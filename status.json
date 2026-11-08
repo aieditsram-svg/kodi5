@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-08 15:53 UTC",
-  "fingerprint": "d247c403fba4adeb163e768e0d0efd4a",
+  "updated_at": "2026-11-08 16:23 UTC",
+  "fingerprint": "bb92f71a8006bb1d4b88886df9eaecf2",
   "total": 1776,
-  "working": 1441,
-  "in_grace_period": 12,
-  "dead": 335,
+  "working": 1446,
+  "in_grace_period": 37,
+  "dead": 330,
   "hd_channels": 592,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 88,
+      "working": 89,
       "hd": 44
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 155,
-      "working": 125,
+      "working": 126,
       "hd": 58
     },
     "Gujarati": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 618,
+      "working": 622,
       "hd": 230
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 126,
+      "working": 124,
       "hd": 51
     },
     "Santali": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 174,
-      "working": 130,
+      "working": 131,
       "hd": 58
     },
     "Urdu": {
@@ -128,6 +128,11 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -265,11 +270,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -318,6 +318,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -540,11 +545,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -623,11 +623,6 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -850,11 +845,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -910,11 +900,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -953,11 +938,6 @@
       "name": "MH One Shraddha (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mirror Now (720p)",
-      "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Movie Punjab (720p)",
@@ -1170,6 +1150,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Pitaara (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Power TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
       "reason": "HTTP 404"
@@ -1223,11 +1208,6 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1758,11 +1738,6 @@
       "name": "Star Gold Select (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",

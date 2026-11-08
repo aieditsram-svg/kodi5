@@ -1,5 +1,5 @@
 #EXTM3U
-# One link per channel for Kodi IPTV Simple Client, Telugu, updated 2026-11-08 15:53 UTC
+# One link per channel for Kodi IPTV Simple Client, Telugu, updated 2026-11-08 16:23 UTC
 #EXTINF:-1 tvg-id="10TV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",10 TV
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="4SiDESTV.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" tvg-language="Telugu" group-title="Telugu" height="1080",4 SiDES TV
@@ -26,7 +26,7 @@ https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 https://cdn.pishow.tv/ott/live/963/master.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Cartoon Network
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@HD" x-category="animation" tvg-logo="https://i.imgur.com/pH6ao2T.png" tvg-language="Telugu" group-title="Telugu" height="1080",Cartoon Network HD+
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@HD" x-category="animation" tvg-logo="https://i.imgur.com/pH6ao2T.png" tvg-language="Telugu" group-title="Telugu",Cartoon Network HD+
 http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ChhayaChitramTelugu.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/channels/Chhaya_Chitram_Telugu.png" tvg-language="Telugu" group-title="Telugu" height="720",Chhaya Chitram Telugu
 https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8
@@ -43,7 +43,7 @@ https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 #EXTINF:-1 tvg-id="DDYadagiri.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s142810_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="576",DD Yadagiri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/678/master.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="1080",Discovery Channel HD
+#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu",Discovery Channel HD
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in@SD" x-category="kids" tvg-logo="https://dtil.tmsimg.com/assets/s159011_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Discovery Kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
@@ -55,8 +55,8 @@ https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
 https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="ETVBeats.in@HD" x-category="music" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/etvimages/etvbeats/LG/Logowithtransparentbackground400%C3%97200.png" tvg-language="Telugu" group-title="Telugu" height="1080",ETV Beats
 https://jmp2.uk/stvp-IN4900002RV
-#EXTINF:-1 tvg-id="ETVCinema.in@HD" x-category="movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png" tvg-language="Telugu" group-title="Telugu",ETV Cinema HD
-https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+#EXTINF:-1 tvg-id="ETVCinema.in@SD" x-category="movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png" tvg-language="Telugu" group-title="Telugu" height="396",ETV Cinema
+https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ETVComedy.in@HD" x-category="comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Comedy.png" tvg-language="Telugu" group-title="Telugu" height="1080",ETV Comedy
 https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVJosh.in@HD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" tvg-language="Telugu" group-title="Telugu" height="1080",ETV Josh
@@ -85,7 +85,7 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/p
 https://mumbai-edge.smartplaytv.in/HMTV/index.m3u8
 #EXTINF:-1 tvg-id="HMTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143136_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="576",HMTV (India)
 https://cdn.pishow.tv/ott/live/280/master.m3u8
-#EXTINF:-1 tvg-id="HungamaTV.in@SD" x-category="kids" tvg-logo="https://dtil.tmsimg.com/assets/s143150_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="576",Hungama TV
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" x-category="kids" tvg-logo="https://dtil.tmsimg.com/assets/s143150_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu",Hungama TV
 http://103.135.253.32:8080/HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-id="INews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/I_News.png" tvg-language="Telugu" group-title="Telugu" height="576",INews
 https://cdn.pishow.tv/ott/live/411/master.m3u8
@@ -101,11 +101,11 @@ https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlis
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="MojoTV.in@SD" x-category="news" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/MOJO_TV_LOGO.png" tvg-language="Telugu" group-title="Telugu" height="720",Mojo TV
 https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in@HD" x-category="documentary" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3329/1786019023329-h.jpg" tvg-language="Telugu" group-title="Telugu" height="1080",National Geographic HD
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD" x-category="documentary" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3329/1786019023329-h.jpg" tvg-language="Telugu" group-title="Telugu",National Geographic HD
 http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-name="News18 Telugu" tvg-logo="https://i.imgur.com/NsieorM.jpeg" tvg-id="News18.com" tvg-chno="26" tvg-country="IN" tvg-language="Telugu" group-title="Telugu",News18 Telugu Ⓨ
 https://www.youtube.com/@News18Telugu/live
-#EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Telugu" group-title="Telugu" height="576",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Telugu" group-title="Telugu",Nickelodeon
 http://103.135.253.32:8080/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NireekshanaTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/nGJv6QR.png" tvg-language="Telugu" group-title="Telugu",Nireekshana TV
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
