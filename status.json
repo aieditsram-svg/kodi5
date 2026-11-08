@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-08 14:06 UTC",
-  "fingerprint": "c1e9613b3ee27288270a8b49bafbb238",
+  "updated_at": "2026-11-08 14:42 UTC",
+  "fingerprint": "7c936ae142dbe5ba5b4709a3865427fe",
   "total": 1776,
-  "working": 1448,
+  "working": 1445,
   "in_grace_period": 17,
-  "dead": 328,
+  "dead": 331,
   "hd_channels": 593,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 89,
+      "working": 88,
       "hd": 45
     },
     "Bhojpuri": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 621,
-      "hd": 230
+      "working": 618,
+      "hd": 229
     },
     "Kannada": {
       "total": 75,
-      "working": 59,
+      "working": 58,
       "hd": 28
     },
     "Konkani": {
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 93,
+      "working": 92,
       "hd": 39
     },
     "Marathi": {
       "total": 54,
-      "working": 49,
+      "working": 48,
       "hd": 22
     },
     "Nepali": {
@@ -69,7 +69,7 @@
     },
     "Odia": {
       "total": 34,
-      "working": 25,
+      "working": 24,
       "hd": 10
     },
     "Other": {
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 126,
-      "hd": 51
+      "working": 127,
+      "hd": 52
     },
     "Santali": {
       "total": 1,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 184,
-      "working": 148,
+      "working": 146,
       "hd": 74
     },
     "Telugu": {
       "total": 174,
-      "working": 133,
+      "working": 132,
       "hd": 58
     },
     "Urdu": {
@@ -128,11 +128,6 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -195,6 +190,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
       "name": "Amrita TV (576p)",
       "url": "https://fta.ektv.in/live/698/master.m3u8",
       "reason": "HTTP 404"
@@ -213,6 +213,11 @@
       "name": "Angel TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Anmol TV (720p)",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Anmol TV (576p)",
@@ -1200,6 +1205,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1688,6 +1698,11 @@
       "name": "Zee Cinema HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sony Yay! (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sony Aath (576p)",
