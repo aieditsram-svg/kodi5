@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 23:59 UTC",
-  "fingerprint": "50baa4f980337adc75ec4fbeb02b8477",
-  "total": 1776,
-  "working": 1435,
-  "in_grace_period": 4,
-  "dead": 341,
-  "hd_channels": 584,
+  "updated_at": "2026-11-09 00:51 UTC",
+  "fingerprint": "b8abe26a9249c15b4e1f584b069e10fb",
+  "total": 1768,
+  "working": 1432,
+  "in_grace_period": 7,
+  "dead": 336,
+  "hd_channels": 579,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 86,
-      "hd": 41
+      "working": 87,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -28,9 +28,9 @@
       "hd": 0
     },
     "English": {
-      "total": 155,
-      "working": 121,
-      "hd": 55
+      "total": 152,
+      "working": 120,
+      "hd": 54
     },
     "Gujarati": {
       "total": 36,
@@ -38,9 +38,9 @@
       "hd": 14
     },
     "Hindi": {
-      "total": 754,
-      "working": 609,
-      "hd": 225
+      "total": 746,
+      "working": 604,
+      "hd": 219
     },
     "Kannada": {
       "total": 75,
@@ -88,12 +88,12 @@
       "hd": 0
     },
     "Tamil": {
-      "total": 184,
-      "working": 140,
-      "hd": 71
+      "total": 181,
+      "working": 139,
+      "hd": 69
     },
     "Telugu": {
-      "total": 174,
+      "total": 173,
       "working": 126,
       "hd": 56
     },
@@ -182,11 +182,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -785,11 +780,6 @@
       "reason": "URLError"
     },
     {
-      "name": "JTBS Classic",
-      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
-      "reason": "HTTP 429"
-    },
-    {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
@@ -1380,11 +1370,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sony BBC Earth HD (1080p)",
-      "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Sony Pal (576p)",
       "url": "http://59.103.38.46:8000/play/a0ac/index.m3u8",
       "reason": "HTTP 403"
@@ -1397,11 +1382,6 @@
     {
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Gold HD (1080p)",
-      "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -1628,11 +1608,6 @@
       "name": "Zee Cine Classic (1080p)",
       "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Zee Cinema (576p)",
-      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Zee Comedy Nation (1080p)",
