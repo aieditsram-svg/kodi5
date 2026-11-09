@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 10:58 UTC",
-  "fingerprint": "37222983ae5ca901e38c9352fc5ef60c",
+  "updated_at": "2026-11-09 11:49 UTC",
+  "fingerprint": "dcb78aac83281a5bfd05004a0ae0edd6",
   "total": 1768,
-  "working": 1447,
-  "in_grace_period": 16,
-  "dead": 321,
-  "hd_channels": 571,
+  "working": 1445,
+  "in_grace_period": 13,
+  "dead": 323,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 597,
+      "working": 596,
       "hd": 212
     },
     "Kannada": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 133,
-      "hd": 64
+      "working": 132,
+      "hd": 63
     },
     "Telugu": {
       "total": 173,
@@ -895,6 +895,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "MTV (576p)",
+      "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -1042,7 +1047,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1058,6 +1063,11 @@
       "name": "Northeast Live (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Pasand TV (576p)",
