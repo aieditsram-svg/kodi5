@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 20:22 UTC",
-  "fingerprint": "fe30b74bd75cece38d1766fa53d30b6a",
+  "updated_at": "2026-11-09 21:13 UTC",
+  "fingerprint": "1907753990a90e2a62a27d63f1d92112",
   "total": 1768,
-  "working": 1445,
-  "in_grace_period": 6,
-  "dead": 323,
-  "hd_channels": 572,
+  "working": 1446,
+  "in_grace_period": 7,
+  "dead": 322,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 597,
-      "hd": 214
+      "working": 598,
+      "hd": 212
     },
     "Kannada": {
       "total": 75,
@@ -628,11 +628,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1307,7 +1302,7 @@
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
       "url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8",
-      "reason": "TimeoutError"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Spondon (1080p)",
