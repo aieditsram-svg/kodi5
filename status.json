@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-09 02:43 UTC",
-  "fingerprint": "f8450e3b5de13e19e872a6337747aae6",
+  "updated_at": "2026-11-09 03:36 UTC",
+  "fingerprint": "8d9ae24c323798bb74ec1b71d0554bad",
   "total": 1768,
   "working": 1431,
-  "in_grace_period": 10,
+  "in_grace_period": 15,
   "dead": 337,
   "hd_channels": 581,
   "languages": {
@@ -183,6 +183,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -638,6 +643,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1330,11 +1340,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1768,11 +1773,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
