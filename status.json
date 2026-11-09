@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-09 17:42 UTC",
-  "fingerprint": "60cc2cb69a41451735640a9f9cfe07d2",
+  "updated_at": "2026-11-09 18:30 UTC",
+  "fingerprint": "7245dbd8c39f2c6c2ebaedf527ba0194",
   "total": 1768,
   "working": 1441,
-  "in_grace_period": 10,
+  "in_grace_period": 13,
   "dead": 327,
   "hd_channels": 572,
   "languages": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 592,
+      "working": 591,
       "hd": 212
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 127,
+      "working": 128,
       "hd": 51
     },
     "Urdu": {
@@ -288,6 +288,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -528,11 +533,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
