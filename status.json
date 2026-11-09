@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-09 11:49 UTC",
-  "fingerprint": "dcb78aac83281a5bfd05004a0ae0edd6",
+  "updated_at": "2026-11-09 12:44 UTC",
+  "fingerprint": "75e5c8e454e8b24df15e411374ee98bc",
   "total": 1768,
-  "working": 1445,
-  "in_grace_period": 13,
-  "dead": 323,
+  "working": 1443,
+  "in_grace_period": 16,
+  "dead": 325,
   "hd_channels": 570,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 596,
+      "working": 595,
       "hd": 212
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 127,
+      "working": 126,
       "hd": 52
     },
     "Santali": {
@@ -130,6 +130,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
@@ -178,11 +183,6 @@
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ANB News (720p)",
-      "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Andy Haryana (576p)",
@@ -248,6 +248,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -608,6 +613,11 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -1047,7 +1057,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1695,8 +1705,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ANB News (1080p)",
-      "url": "https://stream.ottlive.co.in/anb/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
       "reason": "HTTP 404"
     },
     {
