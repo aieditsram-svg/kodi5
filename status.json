@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-09 23:20 UTC",
-  "fingerprint": "e983b7256aac5eb63584be8300734029",
+  "updated_at": "2026-11-09 23:56 UTC",
+  "fingerprint": "796c7a1eae49efb8014197fd9d660b54",
   "total": 1768,
-  "working": 1449,
-  "in_grace_period": 6,
-  "dead": 319,
+  "working": 1448,
+  "in_grace_period": 15,
+  "dead": 320,
   "hd_channels": 571,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 598,
+      "working": 597,
       "hd": 212
     },
     "Kannada": {
@@ -848,6 +848,11 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1677,7 +1682,7 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Taaza TV (576p)",
