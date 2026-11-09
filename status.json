@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 00:51 UTC",
-  "fingerprint": "b8abe26a9249c15b4e1f584b069e10fb",
+  "updated_at": "2026-11-09 01:55 UTC",
+  "fingerprint": "1dbbeb710070b71b1faa0610cf9d0797",
   "total": 1768,
   "working": 1432,
-  "in_grace_period": 7,
+  "in_grace_period": 12,
   "dead": 336,
-  "hd_channels": 579,
+  "hd_channels": 581,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,12 +40,12 @@
     "Hindi": {
       "total": 746,
       "working": 604,
-      "hd": 219
+      "hd": 220
     },
     "Kannada": {
       "total": 75,
-      "working": 53,
-      "hd": 26
+      "working": 54,
+      "hd": 27
     },
     "Konkani": {
       "total": 3,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 126,
+      "working": 125,
       "hd": 52
     },
     "Santali": {
@@ -128,6 +128,11 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -1147,11 +1152,6 @@
     {
       "name": "Pitaara (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Power TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
