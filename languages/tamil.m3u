@@ -1,7 +1,10 @@
 #EXTM3U
-# Working Tamil channels, updated 2026-11-10 11:26 UTC
+# Working Tamil channels, updated 2026-11-10 12:13 UTC
 #EXTINF:-1 tvg-id="7SMusic.in@SD" x-category="music" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-language="Tamil" group-title="Tamil" height="576",7S Music (576p)
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
+#EXTINF:-1 tvg-id="7SMusic.in@SD" x-category="music" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-language="Tamil" group-title="Tamil" height="576",7S Music (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/771/master.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" x-category="music" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-language="Tamil" group-title="Tamil" height="720",7S Music (576p)
 https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
 #EXTINF:-1 tvg-id="AaryaaTV.in@SD" x-category="music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" tvg-language="Tamil" group-title="Tamil" height="1080",Aaryaa TV (1080p)
@@ -38,6 +41,12 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" x-category="sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="Tamil" group-title="Tamil" height="1080",DD Sports HD (1080p)
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
+#EXTINF:-1 tvg-id="DDSports.in@HD" x-category="sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="Tamil" group-title="Tamil" height="1080",DD Sports HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/280/master.m3u8
+#EXTINF:-1 tvg-id="DDTamil.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s142797_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="576",DD Tamil (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/679/master.m3u8
 #EXTINF:-1 tvg-id="DDTamil.in@HD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s142797_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="1080",DD Tamil HD (1080p)
 https://cdn.pishow.tv/ott/live/1737/master.m3u8
 #EXTINF:-1 tvg-id="DhoolTV.in@SD" x-category="music" tvg-logo="https://i.ibb.co/Rk78p2LB/dhooltv.png" tvg-language="Tamil" group-title="Tamil" height="576",Dhool TV (576p)
@@ -78,6 +87,9 @@ https://cdn.pishow.tv/ott/live/1265/master.m3u8
 https://mumt07.tangotv.in/zHjX9OFlMADHATV/index.m3u8
 #EXTINF:-1 tvg-id="MadhaTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="576",Madha TV (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MadhaTV.m3u8
+#EXTINF:-1 tvg-id="MadhimugamTV.in@SD" x-category="news" tvg-logo="https://i.imgur.com/YKCo0hU.png" tvg-language="Tamil" group-title="Tamil" height="576",Madhimugam TV (576p)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/711/master.m3u8
 #EXTINF:-1 tvg-id="MadhimugamTV.in@SD" x-category="news" tvg-logo="https://i.imgur.com/YKCo0hU.png" tvg-language="Tamil" group-title="Tamil" height="720",Madhimugam TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
 #EXTINF:-1 tvg-id="MadhimugamTV.in@SD" x-category="news" tvg-logo="https://i.imgur.com/YKCo0hU.png" tvg-language="Tamil" group-title="Tamil" height="576",Madhimugam TV (576p)

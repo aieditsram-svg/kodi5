@@ -1,7 +1,10 @@
 #EXTM3U
-# Working Assamese channels, updated 2026-11-10 11:26 UTC
+# Working Assamese channels, updated 2026-11-10 12:13 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
 https://cdn.pishow.tv/ott/live/258/master.m3u8
+#EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/675/master.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="DY365.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="360",DY 365 (360p)
@@ -20,8 +23,14 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/out
 https://d2gvyg6lvauoko.cloudfront.net/230226/nktv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="NKTV24x7.in@SD" x-category="news" tvg-logo="https://i.imgur.com/xMJ2bv9.png" tvg-language="Assamese" group-title="Assamese" height="720",NK TV 24x7 (576p)
 https://mumt05.tangotv.in/87NeALx2NKTVPLUS/index.m3u8
+#EXTINF:-1 tvg-id="PearTV.in@SD" x-category="entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png" tvg-language="Assamese" group-title="Assamese" height="576",Pear TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/695/master.m3u8
 #EXTINF:-1 tvg-id="PearTV.in@SD" x-category="entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png" tvg-language="Assamese" group-title="Assamese" height="720",Pear TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
+#EXTINF:-1 tvg-id="PragNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Prag News (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/336/master.m3u8
 #EXTINF:-1 tvg-id="PragNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Prag News (576p)
 https://hls.pragnews.com/master.m3u8
 #EXTINF:-1 tvg-id="PragNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Prag News (576p)
@@ -37,6 +46,9 @@ https://cdn.pishow.tv/ott/live/1437/master.m3u8
 #EXTINF:-1 tvg-id="PratidinTime.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143674_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Pratidin Time (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/protidintime/playlist.m3u8
 #EXTINF:-1 tvg-id="PratidinTime.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143674_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Pratidin Time (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/682/master.m3u8
+#EXTINF:-1 tvg-id="PratidinTime.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143674_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Pratidin Time (576p)
 https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="PratidinTime.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143674_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Pratidin Time (576p)
 https://streams.tangotv.in/PROTIDINTIME/ORIGIN/index.m3u8
@@ -44,12 +56,18 @@ https://streams.tangotv.in/PROTIDINTIME/ORIGIN/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/index.m3u8
 #EXTINF:-1 tvg-id="Rang.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143718_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Rang (576p)
 https://cdn.pishow.tv/ott/live/10017/master.m3u8
+#EXTINF:-1 tvg-id="Rang.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143718_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Rang (576p)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/673/master.m3u8
 #EXTINF:-1 tvg-id="Rang.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143718_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Rang (576p)
 https://mumt01.tangotv.in/O5aw8Zn3RANG/index.m3u8
 #EXTINF:-1 tvg-id="Rang.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143718_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Rang (576p)
 https://streams.tangotv.in/RANG/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Rengoni.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143722_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="396",Rengoni (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/rengonitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Rengoni.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143722_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Rengoni (576p)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/709/master.m3u8
 #EXTINF:-1 tvg-id="Rengoni.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143722_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Rengoni (576p)
 https://mumt05.tangotv.in/87NeALx2RENGONI/index.m3u8
 #EXTINF:-1 tvg-id="Rengoni.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143722_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Rengoni (576p)
