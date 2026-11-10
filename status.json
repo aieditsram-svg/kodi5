@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10 22:41 UTC",
-  "fingerprint": "7ae24746dca1bed806670c9134c692e1",
+  "updated_at": "2026-11-10 23:16 UTC",
+  "fingerprint": "6b123f9f2b8b0cfa555510dd3f39b8a6",
   "total": 1752,
-  "working": 1476,
-  "in_grace_period": 7,
-  "dead": 276,
+  "working": 1475,
+  "in_grace_period": 4,
+  "dead": 277,
   "hd_channels": 590,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 89,
+      "working": 88,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 594,
+      "working": 593,
       "hd": 218
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 132,
+      "working": 133,
       "hd": 52
     },
     "Santali": {
@@ -202,6 +202,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -795,11 +800,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Namdhari (404p) [Not 24/7]",
-      "url": "https://namdhari.tv/live/sbs1.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Naxatra News (576p)",
       "url": "https://fta.ektv.in/live/668/master.m3u8",
       "reason": "HTTP 404"
@@ -985,6 +985,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1132,7 +1137,7 @@
     {
       "name": "SVBC 4 (1080p)",
       "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Swadesh News (576p)",
