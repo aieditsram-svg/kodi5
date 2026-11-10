@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10 10:36 UTC",
-  "fingerprint": "4bf482142a26d180cdfff94b90f16fbb",
+  "updated_at": "2026-11-10 11:26 UTC",
+  "fingerprint": "635a4ba63806abaa88531de0ac3466cf",
   "total": 1752,
-  "working": 1262,
-  "in_grace_period": 9,
-  "dead": 490,
+  "working": 1265,
+  "in_grace_period": 8,
+  "dead": 487,
   "hd_channels": 593,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 70,
+      "working": 71,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 478,
+      "working": 480,
       "hd": 217
     },
     "Kannada": {
@@ -1017,7 +1017,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -1477,11 +1477,6 @@
     {
       "name": "Network 10 (576p)",
       "url": "https://fta.ektv.in/live/611/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2040,11 +2035,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "HTTP 404"
@@ -2528,11 +2518,6 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
