@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 04:14 UTC",
-  "fingerprint": "124e2f83a3c8b3bdb9437187a8f1f279",
+  "updated_at": "2026-11-10 05:06 UTC",
+  "fingerprint": "140ebce93fda702c84d64841443f4f5f",
   "total": 1752,
-  "working": 1428,
-  "in_grace_period": 8,
-  "dead": 324,
-  "hd_channels": 565,
+  "working": 1430,
+  "in_grace_period": 27,
+  "dead": 322,
+  "hd_channels": 564,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 123,
       "working": 80,
-      "hd": 40
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 152,
-      "working": 110,
-      "hd": 44
+      "working": 111,
+      "hd": 45
     },
     "Gujarati": {
       "total": 36,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 584,
-      "hd": 208
+      "working": 586,
+      "hd": 209
     },
     "Kannada": {
       "total": 75,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 119,
       "working": 88,
-      "hd": 33
+      "hd": 32
     },
     "Marathi": {
       "total": 54,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 181,
       "working": 133,
-      "hd": 64
+      "hd": 63
     },
     "Telugu": {
       "total": 173,
       "working": 128,
-      "hd": 51
+      "hd": 50
     },
     "Urdu": {
       "total": 18,
@@ -168,11 +168,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -517,7 +512,7 @@
     {
       "name": "ETV Plus HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVPLUS/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "ETV Telangana (1080p)",
@@ -562,7 +557,7 @@
     {
       "name": "Food Food (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Food Food (576p)",
@@ -627,7 +622,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -662,11 +657,6 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -717,7 +707,7 @@
     {
       "name": "Jaya Plus (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Jinvani Channel (576p)",
@@ -812,7 +802,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "Makkal TV (576p)",
@@ -910,11 +900,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -927,7 +912,7 @@
     {
       "name": "News18 Kannada (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News18 Kerala (1080p) [Geo-blocked]",
@@ -1352,12 +1337,12 @@
     {
       "name": "Tarang TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tarang/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Thanthi One (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Thanthi TV (576p)",
@@ -1397,7 +1382,7 @@
     {
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Vaanavil TV (576p)",
@@ -1442,7 +1427,7 @@
     {
       "name": "Win TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Win TV (576p)",
@@ -1703,6 +1688,11 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
