@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 12:13 UTC",
-  "fingerprint": "39edeb0609dbcae0e6729c9ac9ea4279",
+  "updated_at": "2026-11-10 13:16 UTC",
+  "fingerprint": "046d5b4aee99f1c757319e973105001d",
   "total": 1752,
-  "working": 1482,
-  "in_grace_period": 12,
-  "dead": 270,
-  "hd_channels": 597,
+  "working": 1481,
+  "in_grace_period": 15,
+  "dead": 271,
+  "hd_channels": 598,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 89,
+      "working": 88,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 596,
+      "working": 595,
       "hd": 220
     },
     "Kannada": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 138,
-      "hd": 67
+      "working": 139,
+      "hd": 68
     },
     "Telugu": {
       "total": 173,
@@ -745,6 +745,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -930,11 +935,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Raj Musix Tamil (1080p)",
-      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -973,6 +973,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
