@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10 20:00 UTC",
-  "fingerprint": "a04773f7343ea43024c0b2dd59358cbc",
+  "updated_at": "2026-11-10 20:40 UTC",
+  "fingerprint": "bf8b7d038786a512f1eee12b9d9ef6e4",
   "total": 1752,
-  "working": 1477,
-  "in_grace_period": 8,
-  "dead": 275,
+  "working": 1474,
+  "in_grace_period": 4,
+  "dead": 278,
   "hd_channels": 592,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 594,
-      "hd": 218
+      "working": 593,
+      "hd": 219
     },
     "Kannada": {
       "total": 75,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 89,
-      "hd": 31
+      "working": 87,
+      "hd": 30
     },
     "Marathi": {
       "total": 54,
@@ -297,6 +297,11 @@
     {
       "name": "Cartoon Network HD+ (720p)",
       "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "CCV (480p)",
+      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -825,6 +830,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1232,6 +1242,11 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "VCV (720p) [Not 24/7]",
+      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
