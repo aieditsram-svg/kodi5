@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 22:02 UTC",
-  "fingerprint": "0d342285e013b2041f8ed7facfecbfef",
+  "updated_at": "2026-11-10 22:41 UTC",
+  "fingerprint": "7ae24746dca1bed806670c9134c692e1",
   "total": 1752,
-  "working": 1477,
+  "working": 1476,
   "in_grace_period": 7,
-  "dead": 275,
-  "hd_channels": 591,
+  "dead": 276,
+  "hd_channels": 590,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 595,
-      "hd": 219
+      "working": 594,
+      "hd": 218
     },
     "Kannada": {
       "total": 75,
@@ -1132,7 +1132,7 @@
     {
       "name": "SVBC 4 (1080p)",
       "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Swadesh News (576p)",
@@ -1458,6 +1458,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
