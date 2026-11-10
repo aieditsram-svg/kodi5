@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 00:36 UTC",
-  "fingerprint": "0ce19ece6cbe6438258f3450b2845eca",
+  "updated_at": "2026-11-10 01:43 UTC",
+  "fingerprint": "e443e0c91c57df3536a69103d9598c60",
   "total": 1752,
-  "working": 1439,
-  "in_grace_period": 16,
-  "dead": 313,
-  "hd_channels": 571,
+  "working": 1428,
+  "in_grace_period": 17,
+  "dead": 324,
+  "hd_channels": 565,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 85,
-      "hd": 40
+      "working": 79,
+      "hd": 39
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 152,
-      "working": 112,
-      "hd": 46
+      "working": 111,
+      "hd": 45
     },
     "Gujarati": {
       "total": 36,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 588,
-      "hd": 212
+      "working": 585,
+      "hd": 209
     },
     "Kannada": {
       "total": 75,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 3,
-      "hd": 2
+      "working": 2,
+      "hd": 1
     },
     "Malayalam": {
       "total": 119,
@@ -157,7 +157,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -237,7 +237,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Awakening TV (576p)",
@@ -273,6 +273,11 @@
       "name": "Bada Khabar (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Bansal News (720p)",
+      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
+      "reason": "HTTP 401"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -937,7 +942,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News 24 (576p)",
@@ -1120,6 +1125,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "RDX Goa (720p) [Geo-blocked]",
+      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+      "reason": "HTTP 401"
+    },
+    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -1262,7 +1272,7 @@
     {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1640,6 +1650,41 @@
       "reason": "URLError"
     },
     {
+      "name": "Colors HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Colors Bangla HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Colors Bangla Cinema (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Eurosport HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Enterr 10 Bangla (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Jalsha Movies (720p)",
+      "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Zee Bangla HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "URLError"
@@ -1647,6 +1692,16 @@
     {
       "name": "Sony Aath (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "StarPlus HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "URLError"
     },
     {
