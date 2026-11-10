@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 21:23 UTC",
-  "fingerprint": "763ef1997d6daa70400170b3efbe4136",
+  "updated_at": "2026-11-10 22:02 UTC",
+  "fingerprint": "0d342285e013b2041f8ed7facfecbfef",
   "total": 1752,
-  "working": 1478,
-  "in_grace_period": 4,
-  "dead": 274,
-  "hd_channels": 592,
+  "working": 1477,
+  "in_grace_period": 7,
+  "dead": 275,
+  "hd_channels": 591,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 138,
-      "hd": 68
+      "working": 137,
+      "hd": 67
     },
     "Telugu": {
       "total": 173,
@@ -1120,6 +1120,11 @@
       "reason": "URLError"
     },
     {
+      "name": "SVBC 2 (1080p)",
+      "url": "https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "SVBC 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSVBC2TAMIL/index.m3u8",
       "reason": "HTTP 403"
@@ -1127,7 +1132,7 @@
     {
       "name": "SVBC 4 (1080p)",
       "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Swadesh News (576p)",
