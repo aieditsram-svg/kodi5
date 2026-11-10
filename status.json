@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10 01:43 UTC",
-  "fingerprint": "e443e0c91c57df3536a69103d9598c60",
+  "updated_at": "2026-11-10 02:33 UTC",
+  "fingerprint": "52506a41d203e4a3653338d22e8f98e6",
   "total": 1752,
-  "working": 1428,
-  "in_grace_period": 17,
-  "dead": 324,
+  "working": 1427,
+  "in_grace_period": 13,
+  "dead": 325,
   "hd_channels": 565,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 585,
+      "working": 584,
       "hd": 209
     },
     "Kannada": {
@@ -908,6 +908,11 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
