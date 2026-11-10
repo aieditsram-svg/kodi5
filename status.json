@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-09 23:56 UTC",
-  "fingerprint": "796c7a1eae49efb8014197fd9d660b54",
-  "total": 1768,
-  "working": 1448,
-  "in_grace_period": 15,
-  "dead": 320,
+  "updated_at": "2026-11-10 00:36 UTC",
+  "fingerprint": "0ce19ece6cbe6438258f3450b2845eca",
+  "total": 1752,
+  "working": 1439,
+  "in_grace_period": 16,
+  "dead": 313,
   "hd_channels": 571,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 86,
+      "working": 85,
       "hd": 40
     },
     "Bhojpuri": {
@@ -38,8 +38,8 @@
       "hd": 14
     },
     "Hindi": {
-      "total": 746,
-      "working": 597,
+      "total": 730,
+      "working": 588,
       "hd": 212
     },
     "Kannada": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 132,
+      "working": 133,
       "hd": 64
     },
     "Telugu": {
@@ -175,11 +175,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
@@ -253,6 +248,16 @@
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "B4U Movies (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "B4U Movies (576p)",
+      "url": "https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Music (576p)",
@@ -440,51 +445,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "E-Vidya 4 (576p)",
-      "url": "http://103.72.101.252:8080/live/406.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "E-Vidya 5 (576p)",
-      "url": "http://103.72.101.252:8080/live/407.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "E-Vidya 6 (576p)",
-      "url": "http://103.72.101.252:8080/live/408.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "E-Vidya 7 (576p)",
-      "url": "http://103.72.101.252:8080/live/404.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "E-Vidya 8 (576p)",
-      "url": "http://103.72.101.252:8080/live/409.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "E-Vidya 9 (576p)",
-      "url": "http://103.72.101.252:8080/live/410.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "E-Vidya 10 (576p)",
-      "url": "http://103.72.101.252:8080/live/411.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "E-Vidya 11 (576p)",
-      "url": "http://103.72.101.252:8080/live/1410.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "E-Vidya 12 (576p)",
-      "url": "http://103.72.101.252:8080/live/1532.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Enterr 10 Bangla (576p)",
       "url": "http://103.165.93.31:8095/enter10Bangla/index.m3u8",
       "reason": "URLError"
@@ -662,7 +622,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -1682,6 +1642,11 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sony Aath (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
       "reason": "URLError"
     },
     {
