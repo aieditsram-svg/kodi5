@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-10 16:44 UTC",
-  "fingerprint": "94c561004cf8bb47c2191360a3875f3f",
+  "updated_at": "2026-11-10 17:31 UTC",
+  "fingerprint": "28ab93912066e343115b1bf6008978ac",
   "total": 1752,
   "working": 1475,
-  "in_grace_period": 6,
+  "in_grace_period": 7,
   "dead": 277,
   "hd_channels": 596,
   "languages": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 592,
+      "working": 593,
       "hd": 219
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 133,
+      "working": 132,
       "hd": 54
     },
     "Urdu": {
@@ -163,11 +163,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -488,6 +483,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -950,6 +950,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1138,6 +1143,11 @@
       "name": "SVBC 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSVBC2TAMIL/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "SVBC 4 (1080p)",
+      "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Swadesh News (576p)",
@@ -1458,16 +1468,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",

@@ -1,5 +1,5 @@
 #EXTM3U
-# Working HD channels (720p+), all languages, updated 2026-11-10 16:44 UTC
+# Working HD channels (720p+), all languages, updated 2026-11-10 17:31 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="NewsLive.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143595_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="1080",News Live (576p)
@@ -102,7 +102,7 @@ https://server.zillarbarta.com/zbbhakti/index.m3u8
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="ZBCinema.in@HD" x-category="classic" tvg-logo="https://i.imgur.com/kUg6WSk.jpeg" tvg-language="Bengali" group-title="Bengali" height="1080",ZB Cinema (1080p)
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1 tvg-id="ZBMusic.in@HD" x-category="music" tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" tvg-language="Bengali" group-title="Bengali" height="720",ZB Music (720p)
+#EXTINF:-1 tvg-id="ZBMusic.in@HD" x-category="music" tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" tvg-language="Bengali" group-title="Bengali" height="1080",ZB Music (720p)
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in@HD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",Zee Bangla HD (1080p)
 https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
@@ -636,8 +636,8 @@ https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="SudarshanNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143870_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Sudarshan News (1080p)
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="SVBC4.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/vCFdZny.png" tvg-language="Hindi" group-title="Hindi" height="1080",SVBC 4 (1080p)
-https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SVBC4.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/vCFdZny.png" tvg-language="Hindi" group-title="Hindi" height="720",SVBC 4 (576p)
+https://mumt05.tangotv.in/87NeALx2SVBC4HINDI/index.m3u8
 #EXTINF:-1 tvg-id="SwastikTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/swastiktv.png" tvg-language="Hindi" group-title="Hindi" height="720",Swastik TV (720p)
 https://server.playontv.in/swastiktv/index.m3u8
 #EXTINF:-1 tvg-id="TaazaTV.in@SD" tvg-logo="https://i.imgur.com/4nTpQLC.png" tvg-language="Hindi" group-title="Hindi" height="1080",Taaza TV (720p)
