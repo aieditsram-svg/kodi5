@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 05:56 UTC",
-  "fingerprint": "551612eeb8c4be85b691895b57f580b9",
+  "updated_at": "2026-11-10 06:49 UTC",
+  "fingerprint": "6dbc8ee0c48b2a0f076cca272d667932",
   "total": 1752,
-  "working": 1428,
-  "in_grace_period": 7,
-  "dead": 324,
-  "hd_channels": 567,
+  "working": 1431,
+  "in_grace_period": 18,
+  "dead": 321,
+  "hd_channels": 569,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 36,
-      "working": 32,
-      "hd": 14
+      "working": 33,
+      "hd": 15
     },
     "Hindi": {
       "total": 730,
-      "working": 586,
-      "hd": 209
+      "working": 588,
+      "hd": 210
     },
     "Kannada": {
       "total": 75,
@@ -157,7 +157,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -242,7 +242,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Awakening TV (576p)",
@@ -262,7 +262,7 @@
     {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Bada Khabar (576p)",
@@ -627,7 +627,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -817,7 +817,7 @@
     {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Mazhavil Manorama (576p)",
@@ -867,7 +867,7 @@
     {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Nagaland TV (576p)",
@@ -905,11 +905,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -942,7 +937,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News 24 (576p)",
@@ -1045,11 +1040,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -1093,11 +1083,6 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1277,7 +1262,7 @@
     {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p)",
