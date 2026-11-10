@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10 20:40 UTC",
-  "fingerprint": "bf8b7d038786a512f1eee12b9d9ef6e4",
+  "updated_at": "2026-11-10 21:23 UTC",
+  "fingerprint": "763ef1997d6daa70400170b3efbe4136",
   "total": 1752,
-  "working": 1474,
+  "working": 1478,
   "in_grace_period": 4,
-  "dead": 278,
+  "dead": 274,
   "hd_channels": 592,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 88,
+      "working": 89,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 593,
+      "working": 595,
       "hd": 219
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 133,
+      "working": 134,
       "hd": 54
     },
     "Urdu": {
@@ -383,11 +383,6 @@
       "name": "DD Urdu (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "DD Yadagiri (576p)",
-      "url": "https://fta.ektv.in/live/678/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Deewana HD (540p)",
@@ -740,11 +735,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -758,11 +748,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -828,11 +813,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
