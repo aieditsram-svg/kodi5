@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-11 05:04 UTC",
-  "fingerprint": "ba8dbb8093003ef1310a1a962278ca83",
+  "updated_at": "2026-11-11 05:59 UTC",
+  "fingerprint": "b9b4b07030668dc22fef1be5c43dfbf5",
   "total": 1736,
-  "working": 1423,
-  "in_grace_period": 9,
-  "dead": 313,
-  "hd_channels": 590,
+  "working": 1467,
+  "in_grace_period": 5,
+  "dead": 269,
+  "hd_channels": 595,
   "languages": {
     "Assamese": {
       "total": 40,
-      "working": 33,
+      "working": 34,
       "hd": 12
     },
     "Bengali": {
       "total": 121,
-      "working": 86,
-      "hd": 42
+      "working": 89,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
-      "working": 30,
+      "working": 31,
       "hd": 13
     },
     "Chhattisgarhi": {
@@ -29,37 +29,37 @@
     },
     "English": {
       "total": 141,
-      "working": 111,
+      "working": 115,
       "hd": 49
     },
     "Gujarati": {
       "total": 36,
-      "working": 32,
+      "working": 33,
       "hd": 16
     },
     "Hindi": {
       "total": 717,
-      "working": 579,
-      "hd": 218
+      "working": 588,
+      "hd": 219
     },
     "Kannada": {
       "total": 71,
-      "working": 52,
+      "working": 53,
       "hd": 24
     },
     "Konkani": {
       "total": 3,
-      "working": 1,
+      "working": 2,
       "hd": 1
     },
     "Malayalam": {
       "total": 114,
-      "working": 81,
-      "hd": 30
+      "working": 87,
+      "hd": 29
     },
     "Marathi": {
       "total": 51,
-      "working": 39,
+      "working": 41,
       "hd": 18
     },
     "Nepali": {
@@ -69,18 +69,18 @@
     },
     "Odia": {
       "total": 34,
-      "working": 24,
-      "hd": 9
+      "working": 26,
+      "hd": 10
     },
     "Other": {
       "total": 22,
-      "working": 18,
+      "working": 19,
       "hd": 11
     },
     "Punjabi": {
       "total": 144,
-      "working": 129,
-      "hd": 51
+      "working": 132,
+      "hd": 53
     },
     "Santali": {
       "total": 1,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 136,
+      "working": 138,
       "hd": 68
     },
     "Telugu": {
       "total": 168,
-      "working": 123,
-      "hd": 54
+      "working": 132,
+      "hd": 55
     },
     "Urdu": {
       "total": 18,
@@ -135,11 +135,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "10 TV (576p)",
-      "url": "https://fta.ektv.in/live/686/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
       "reason": "not a valid HLS manifest"
@@ -160,19 +155,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "ABN Andhra Jyoti (576p)",
-      "url": "https://fta.ektv.in/live/687/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -183,11 +168,6 @@
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Amrita TV (576p)",
-      "url": "https://fta.ektv.in/live/698/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Anand Wari TV (576p)",
@@ -216,18 +196,8 @@
     },
     {
       "name": "Asianet Middle East (576p)",
-      "url": "https://fta.ektv.in/live/697/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Asianet Suvarna News (576p)",
-      "url": "https://fta.ektv.in/live/692/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
@@ -315,11 +285,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Chardikla Time TV (576p)",
-      "url": "https://fta.ektv.in/live/645/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
       "reason": "HTTP 403"
@@ -341,11 +306,6 @@
     },
     {
       "name": "CVR English (576p)",
-      "url": "https://fta.ektv.in/live/701/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "CVR English (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCVRNEWSENGLISH/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -353,11 +313,6 @@
       "name": "CVR News (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "CVR OM Spiritual (576p)",
-      "url": "https://fta.ektv.in/live/705/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Dangal 2 (576p)",
@@ -375,38 +330,8 @@
       "reason": "URLError"
     },
     {
-      "name": "DD Arun Prabha (576p)",
-      "url": "https://fta.ektv.in/live/203/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Bangla (576p)",
-      "url": "https://fta.ektv.in/live/197/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Bihar (576p)",
-      "url": "https://fta.ektv.in/live/172/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Girnar (576p)",
-      "url": "https://fta.ektv.in/live/368/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Goa (576p)",
-      "url": "https://fta.ektv.in/live/367/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Himachal Pradesh (576p)",
-      "url": "https://fta.ektv.in/live/575/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -415,23 +340,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "DD Madhya Pradesh (576p)",
-      "url": "https://fta.ektv.in/live/578/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Malayalam (576p)",
-      "url": "https://fta.ektv.in/live/680/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Manipur (576p)",
       "url": "https://fta.ektv.in/live/671/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Mizoram (576p)",
-      "url": "https://fta.ektv.in/live/381/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -445,23 +355,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "DD Odia (576p)",
-      "url": "https://fta.ektv.in/live/384/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Punjabi (576p)",
       "url": "https://fta.ektv.in/live/177/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Sahyadri (576p)",
-      "url": "https://fta.ektv.in/live/187/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Tamil (576p)",
-      "url": "https://fta.ektv.in/live/679/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -473,16 +368,6 @@
       "name": "DD Urdu (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "DD Uttar Pradesh (576p)",
-      "url": "https://fta.ektv.in/live/263/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Yadagiri (576p)",
-      "url": "https://fta.ektv.in/live/678/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Deewana HD (540p)",
@@ -510,11 +395,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Dukhnivaran Patiala Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Dukhniwaran (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
       "reason": "HTTP 404"
@@ -528,11 +408,6 @@
       "name": "Enterr 10 Bangla (576p)",
       "url": "http://103.185.24.134:3001/ENTER10-BANGLA/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Enterr 10 Bangla (576p)",
-      "url": "https://fta.ektv.in/live/658/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Epic Music (576p)",
@@ -558,6 +433,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -670,11 +550,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goodness TV (576p)",
-      "url": "https://fta.ektv.in/live/704/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Gospel TV India (576p)",
       "url": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8",
       "reason": "HTTP 404"
@@ -712,7 +587,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -728,11 +603,6 @@
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Hornbill TV (576p)",
-      "url": "https://fta.ektv.in/live/710/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -798,11 +668,6 @@
       "name": "INews (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Jaihind TV (576p)",
-      "url": "https://fta.ektv.in/live/700/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Jaihind TV (576p)",
@@ -875,29 +740,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Madhimugam TV (576p)",
-      "url": "https://fta.ektv.in/live/711/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Mahaa Bhakti (576p)",
-      "url": "https://fta.ektv.in/live/707/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Mahaa Max (576p)",
-      "url": "https://fta.ektv.in/live/684/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mahaa Max (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mahaa News (576p)",
-      "url": "https://fta.ektv.in/live/689/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mahimai TV (576p)",
@@ -913,11 +758,6 @@
       "name": "Mazhavil Manorama (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "MBC TV (576p)",
-      "url": "https://fta.ektv.in/live/667/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "MBC TV (576p)",
@@ -957,11 +797,6 @@
     {
       "name": "Naxatra News (576p)",
       "url": "https://fta.ektv.in/live/668/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "NDTV (576p)",
-      "url": "https://fta.ektv.in/live/107/107_0.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1055,11 +890,6 @@
       "reason": "HTTP 456"
     },
     {
-      "name": "Nireekshana TV (576p)",
-      "url": "https://fta.ektv.in/live/706/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -1070,19 +900,9 @@
       "reason": "URLError"
     },
     {
-      "name": "Pasand TV (576p)",
-      "url": "https://fta.ektv.in/live/708/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Pear TV (576p)",
-      "url": "https://fta.ektv.in/live/695/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
@@ -1105,11 +925,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -1128,11 +943,6 @@
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Ragni (360p)",
-      "url": "https://samitaorigin.tangotv.in/RAGNITV/SAMITAORIGIN/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Raj News Kannada (576p)",
@@ -1155,11 +965,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Safari TV (576p)",
-      "url": "https://fta.ektv.in/live/410/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sahana News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSAHANANEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -1172,11 +977,6 @@
     {
       "name": "Sai TV",
       "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Samachar Plus 24x7 (576p)",
-      "url": "https://fta.ektv.in/live/589/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1326,11 +1126,6 @@
     },
     {
       "name": "T News (576p)",
-      "url": "https://fta.ektv.in/live/693/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -1385,11 +1180,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Unique TV (576p)",
-      "url": "https://fta.ektv.in/live/688/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "UTV Palakkad (1080p)",
       "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -1398,11 +1188,6 @@
       "name": "UTV Palakkad (1080p)",
       "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "V6 News (576p)",
-      "url": "https://fta.ektv.in/live/694/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Valam TV Dayro (576p)",
@@ -1453,11 +1238,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
