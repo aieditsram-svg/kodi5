@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-11 05:59 UTC",
-  "fingerprint": "b9b4b07030668dc22fef1be5c43dfbf5",
+  "updated_at": "2026-11-11 07:00 UTC",
+  "fingerprint": "83dc9c04aabb1539d6b071668bcfb829",
   "total": 1736,
-  "working": 1467,
-  "in_grace_period": 5,
-  "dead": 269,
+  "working": 1472,
+  "in_grace_period": 12,
+  "dead": 264,
   "hd_channels": 595,
   "languages": {
     "Assamese": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 141,
-      "working": 115,
+      "working": 117,
       "hd": 49
     },
     "Gujarati": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 717,
       "working": 588,
-      "hd": 219
+      "hd": 218
     },
     "Kannada": {
       "total": 71,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
-      "hd": 29
+      "working": 88,
+      "hd": 30
     },
     "Marathi": {
       "total": 51,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 168,
-      "working": 132,
+      "working": 134,
       "hd": 55
     },
     "Urdu": {
@@ -435,11 +435,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -458,11 +453,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -580,14 +570,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Harvest TV Keralam (720p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -850,16 +835,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "NewsX (576p)",
-      "url": "https://fta.ektv.in/live/603/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "NewsX World (576p)",
-      "url": "https://fta.ektv.in/live/610/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "NewsX World (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8",
       "reason": "HTTP 403"
@@ -932,11 +907,6 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1433,6 +1403,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
