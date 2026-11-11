@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 17:28 UTC",
-  "fingerprint": "b88dc50262b9a0b95afa5c25bb346ad3",
+  "updated_at": "2026-11-11 18:18 UTC",
+  "fingerprint": "182a30568a712aeb4039cbf2a0e446c9",
   "total": 1736,
-  "working": 1475,
-  "in_grace_period": 24,
-  "dead": 261,
-  "hd_channels": 589,
+  "working": 1476,
+  "in_grace_period": 6,
+  "dead": 260,
+  "hd_channels": 592,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -30,7 +30,7 @@
     "English": {
       "total": 141,
       "working": 117,
-      "hd": 48
+      "hd": 49
     },
     "Gujarati": {
       "total": 36,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 717,
       "working": 592,
-      "hd": 216
+      "hd": 217
     },
     "Kannada": {
       "total": 71,
@@ -90,11 +90,11 @@
     "Tamil": {
       "total": 174,
       "working": 138,
-      "hd": 67
+      "hd": 68
     },
     "Telugu": {
       "total": 168,
-      "working": 132,
+      "working": 133,
       "hd": 54
     },
     "Urdu": {
@@ -247,7 +247,7 @@
     {
       "name": "Bansal News (720p)",
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 401"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -355,6 +355,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "DD Sports (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Tripura (576p)",
       "url": "https://fta.ektv.in/live/661/master.m3u8",
       "reason": "HTTP 404"
@@ -428,11 +433,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -612,7 +612,7 @@
     {
       "name": "Indywood TV (720p)",
       "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "INews (576p)",
@@ -622,7 +622,7 @@
     {
       "name": "INH 24x7 (360p)",
       "url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Jaihind TV (576p)",
@@ -902,7 +902,7 @@
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 401"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -1388,11 +1388,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
