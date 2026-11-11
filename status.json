@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-11 22:38 UTC",
-  "fingerprint": "b82317b26721f8d117138223cefe598f",
+  "updated_at": "2026-11-11 23:29 UTC",
+  "fingerprint": "d9e8388c130111a6c4a25e8169dd09c6",
   "total": 1736,
-  "working": 1481,
-  "in_grace_period": 6,
-  "dead": 255,
+  "working": 1479,
+  "in_grace_period": 8,
+  "dead": 257,
   "hd_channels": 593,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 121,
-      "working": 89,
+      "working": 88,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 595,
+      "working": 594,
       "hd": 217
     },
     "Kannada": {
@@ -192,6 +192,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -670,6 +675,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -1022,7 +1032,7 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "STV Haryana News (576p)",
