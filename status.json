@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-10 23:50 UTC",
-  "fingerprint": "ef570290bfe25a27fae0c27f0095f78d",
-  "total": 1752,
+  "updated_at": "2026-11-11 00:24 UTC",
+  "fingerprint": "8c675d4710fbb1da61faeb089120dec5",
+  "total": 1736,
   "working": 1476,
-  "in_grace_period": 32,
-  "dead": 276,
-  "hd_channels": 591,
+  "in_grace_period": 38,
+  "dead": 260,
+  "hd_channels": 586,
   "languages": {
     "Assamese": {
       "total": 40,
       "working": 34,
-      "hd": 12
+      "hd": 10
     },
     "Bengali": {
-      "total": 123,
-      "working": 88,
+      "total": 121,
+      "working": 89,
       "hd": 42
     },
     "Bhojpuri": {
@@ -28,9 +28,9 @@
       "hd": 0
     },
     "English": {
-      "total": 152,
-      "working": 117,
-      "hd": 49
+      "total": 141,
+      "working": 116,
+      "hd": 48
     },
     "Gujarati": {
       "total": 36,
@@ -38,12 +38,12 @@
       "hd": 15
     },
     "Hindi": {
-      "total": 730,
-      "working": 595,
-      "hd": 220
+      "total": 717,
+      "working": 594,
+      "hd": 217
     },
     "Kannada": {
-      "total": 75,
+      "total": 71,
       "working": 53,
       "hd": 24
     },
@@ -53,12 +53,12 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 119,
+      "total": 114,
       "working": 87,
       "hd": 30
     },
     "Marathi": {
-      "total": 54,
+      "total": 51,
       "working": 41,
       "hd": 18
     },
@@ -73,7 +73,7 @@
       "hd": 9
     },
     "Other": {
-      "total": 23,
+      "total": 22,
       "working": 19,
       "hd": 11
     },
@@ -88,12 +88,12 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 181,
+      "total": 174,
       "working": 137,
       "hd": 67
     },
     "Telugu": {
-      "total": 173,
+      "total": 168,
       "working": 133,
       "hd": 54
     },
@@ -178,21 +178,6 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Animal Planet (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Animal Planet HD (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Anmol TV (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Anmol TV (576p)",
@@ -288,16 +273,6 @@
       "name": "Captain (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/captain/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Cartoon Network (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Cartoon Network HD+ (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "CCV (480p)",
@@ -405,31 +380,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Discovery Channel (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Discovery Channel HD (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Discovery Kids (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Discovery Science (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Discovery Turbo (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Disney Channel HD (1080p)",
       "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
       "reason": "URLError"
@@ -522,11 +472,6 @@
     {
       "name": "ETV Telugu HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Eurosport (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -650,6 +595,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
@@ -673,11 +623,6 @@
       "name": "INews (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Investigation Discovery (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Jaihind TV (576p)",
@@ -985,11 +930,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1068,11 +1008,6 @@
       "name": "Sony Pal (576p)",
       "url": "http://59.103.38.46:8000/play/a0ac/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sony SAB (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
@@ -1188,16 +1123,6 @@
       "name": "Times Now Navbharat (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/navbharat_master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "TLC (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "TLC HD (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
@@ -1468,11 +1393,6 @@
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Pogo (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
