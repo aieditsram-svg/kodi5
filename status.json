@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-11 11:06 UTC",
-  "fingerprint": "3d2d625e2ee2cc9334361bc6e63b81a8",
+  "updated_at": "2026-11-11 11:58 UTC",
+  "fingerprint": "2808ffb1d38a29fbef29de6ea0a17bfd",
   "total": 1736,
-  "working": 1480,
-  "in_grace_period": 8,
-  "dead": 256,
+  "working": 1477,
+  "in_grace_period": 10,
+  "dead": 259,
   "hd_channels": 597,
   "languages": {
     "Assamese": {
@@ -24,7 +24,7 @@
     },
     "Chhattisgarhi": {
       "total": 3,
-      "working": 3,
+      "working": 2,
       "hd": 0
     },
     "English": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 594,
+      "working": 593,
       "hd": 219
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 168,
-      "working": 134,
+      "working": 132,
       "hd": 55
     },
     "Urdu": {
@@ -132,7 +132,7 @@
     {
       "name": "9XM (1080p)",
       "url": "https://epiconvh.akamaized.net/live/9XM/master.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "&TV International (1080p)",
@@ -187,6 +187,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -420,6 +425,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -438,6 +448,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -600,6 +615,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "INH 24x7 (360p)",
+      "url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Jaihind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8",
       "reason": "HTTP 403"
@@ -735,8 +755,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -767,11 +787,6 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
       "reason": "HTTP 404"
     },
     {
