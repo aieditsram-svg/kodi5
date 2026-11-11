@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Bengali channels, updated 2026-11-11 14:53 UTC
+# Working Bengali channels, updated 2026-11-11 15:34 UTC
 #EXTINF:-1 tvg-id="AakaashAath.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",Aakaash Aath (576p)
 https://cdn.pishow.tv/ott/live/969/master.m3u8
 #EXTINF:-1 tvg-id="AamarBangla.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" tvg-language="Bengali" group-title="Bengali" height="720",Aamar Bangla (720p)
@@ -53,7 +53,7 @@ https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
 https://fta.ektv.in/live/658/master.m3u8
 #EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/uQbYTbh.png" tvg-language="Bengali" group-title="Bengali" height="720",Enterr 10 Bangla (576p)
 https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
-#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/uQbYTbh.png" tvg-language="Bengali" group-title="Bengali" height="720",Enterr 10 Bangla (576p)
+#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/uQbYTbh.png" tvg-language="Bengali" group-title="Bengali" height="576",Enterr 10 Bangla (576p)
 https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8
 #EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/uQbYTbh.png" tvg-language="Bengali" group-title="Bengali" height="720",Enterr 10 Bangla (720p)
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -78,8 +78,6 @@ https://jtbsclassic.dpdns.org/live.m3u8
 https://fta.ektv.in/live/375/master.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143265_ld_h9_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="720",Khushboo Bangla (576p)
 https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
-#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143265_ld_h9_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",Khushboo Bangla (576p) [Geo-blocked]
-https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
 #EXTINF:-1 tvg-id="KolkataTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",Kolkata TV (1080p)
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-id="KolkataTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",Kolkata TV (576p)
@@ -143,6 +141,8 @@ https://mumbai-edge.smartplaytv.in/SamayKolkata/index.m3u8
 https://fta.ektv.in/live/379/master.m3u8
 #EXTINF:-1 tvg-id="SangeetBangla.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="720",Sangeet Bangla (576p)
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="SangeetBangla.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",Sangeet Bangla (576p) [Geo-blocked]
+https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 #EXTINF:-1 tvg-id="ShikshaTV.in@SD" x-category="culture" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shiksha_TV.png" tvg-language="Bengali" group-title="Bengali" height="1080",Shiksha TV (720p)
 http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
 #EXTINF:-1 tvg-id="SonarBangla.in@SD" x-category="movies" tvg-logo="https://papaji.freetvindia.com/media/1518_FreeTV_Sonar_Bangla.png" tvg-language="Bengali" group-title="Bengali" height="720",Sonar Bangla (360p)
