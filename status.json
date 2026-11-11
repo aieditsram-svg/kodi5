@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 01:31 UTC",
-  "fingerprint": "1f481556aaafb52f98f9f42835f7f001",
+  "updated_at": "2026-11-11 02:23 UTC",
+  "fingerprint": "9950666c077d0684ed31b55021949926",
   "total": 1736,
-  "working": 1454,
-  "in_grace_period": 37,
-  "dead": 282,
-  "hd_channels": 591,
+  "working": 1451,
+  "in_grace_period": 69,
+  "dead": 285,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 121,
       "working": 88,
-      "hd": 42
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -30,7 +30,7 @@
     "English": {
       "total": 141,
       "working": 114,
-      "hd": 49
+      "hd": 48
     },
     "Gujarati": {
       "total": 36,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 583,
-      "hd": 218
+      "working": 580,
+      "hd": 213
     },
     "Kannada": {
       "total": 71,
       "working": 53,
-      "hd": 24
+      "hd": 23
     },
     "Konkani": {
       "total": 3,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 51,
       "working": 39,
-      "hd": 18
+      "hd": 17
     },
     "Nepali": {
       "total": 6,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 144,
       "working": 131,
-      "hd": 52
+      "hd": 49
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 174,
       "working": 137,
-      "hd": 68
+      "hd": 66
     },
     "Telugu": {
       "total": 168,
       "working": 133,
-      "hd": 54
+      "hd": 52
     },
     "Urdu": {
       "total": 18,
@@ -187,6 +187,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -562,7 +567,7 @@
     {
       "name": "Fast1 (576p)",
       "url": "https://samitaorigin.tangotv.in/FAST1/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "First India News (576p)",
@@ -992,7 +997,7 @@
     {
       "name": "Public First (576p)",
       "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Public Music (576p)",
@@ -1002,6 +1007,11 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1498,6 +1508,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
