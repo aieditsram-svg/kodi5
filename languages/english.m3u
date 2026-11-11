@@ -1,5 +1,5 @@
 #EXTM3U
-# Working English channels, updated 2026-11-11 00:24 UTC
+# Working English channels, updated 2026-11-11 01:31 UTC
 #EXTINF:-1 tvg-id="ABPNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="1080",ABP News (1080p)
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="1080",ABP News (1080p)
@@ -64,9 +64,6 @@ https://mumt05.tangotv.in/87NeALx2DDINDIA/index.m3u8
 https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
 #EXTINF:-1 tvg-id="DDIndia.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="720",DD India (720p)
 https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="DDMizoram.in@SD" x-category="news" tvg-logo="https://i.imgur.com/I5zT1DG.png" tvg-language="English" group-title="English" height="576",DD Mizoram (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/381/master.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" x-category="sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="English" group-title="English" height="1080",DD Sports (720p)
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" x-category="sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="English" group-title="English" height="1080",DD Sports HD (1080p)
@@ -107,6 +104,8 @@ https://fta.ektv.in/live/710/master.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
 #EXTINF:-1 tvg-id="HosannaTV.in@Global" x-category="religious" tvg-logo="https://i.imgur.com/VYorU1L.png" tvg-language="English" group-title="English",Hosanna TV Global
 https://ktismaservers.in:3349/live/hosannatvlive.m3u8
+#EXTINF:-1 tvg-id="HSTV.in@SD" tvg-logo="https://ibb.co/Ng5nkX6F" tvg-language="English" group-title="English" height="720",HSTV (720p)
+https://live.castmaxcloud.com/live/hstv.m3u8
 #EXTINF:-1 tvg-id="IndiaAhead.in@SD" x-category="news" tvg-logo="https://i.imgur.com/hBkTmf9.png" tvg-language="English" group-title="English" height="576",India Ahead (576p)
 https://cdn.pishow.tv/ott/live/269/master.m3u8
 #EXTINF:-1 tvg-id="IndiaAhead.in@SD" x-category="news" tvg-logo="https://i.imgur.com/hBkTmf9.png" tvg-language="English" group-title="English" height="720",India Ahead (576p)
@@ -167,16 +166,10 @@ https://mumt01.tangotv.in/O5aw8Zn3NEWS9/index.m3u8
 https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8
 #EXTINF:-1 tvg-id="NewsX.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143624_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="576",NewsX (576p)
 https://cdn.pishow.tv/ott/live/1765/master.m3u8
-#EXTINF:-1 tvg-id="NewsX.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143624_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="576",NewsX (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/603/master.m3u8
 #EXTINF:-1 tvg-id="NewsX.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143624_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="720",NewsX (576p)
 https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
 #EXTINF:-1 tvg-id="NewsXWorld.in@HD" x-category="news" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/NewsX%20World_Transparent_f60e2692-58f4-43f7-b254-4a64c64cc253.png" tvg-language="English" group-title="English" height="576",NewsX World (576p)
 https://cdn.pishow.tv/ott/live/1049/master.m3u8
-#EXTINF:-1 tvg-id="NewsXWorld.in@HD" x-category="news" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/NewsX%20World_Transparent_f60e2692-58f4-43f7-b254-4a64c64cc253.png" tvg-language="English" group-title="English" height="576",NewsX World (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/610/master.m3u8
 #EXTINF:-1 tvg-id="NortheastLive.in@HD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143633_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="576",Northeast Live (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/674/master.m3u8
