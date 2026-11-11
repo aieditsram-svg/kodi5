@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 18:18 UTC",
-  "fingerprint": "182a30568a712aeb4039cbf2a0e446c9",
+  "updated_at": "2026-11-11 19:23 UTC",
+  "fingerprint": "b7c4ec58c8352f38427fb3fd991bd079",
   "total": 1736,
-  "working": 1476,
-  "in_grace_period": 6,
-  "dead": 260,
-  "hd_channels": 592,
+  "working": 1478,
+  "in_grace_period": 8,
+  "dead": 258,
+  "hd_channels": 595,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 121,
-      "working": 87,
-      "hd": 41
+      "working": 89,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 592,
-      "hd": 217
+      "working": 591,
+      "hd": 218
     },
     "Kannada": {
       "total": 71,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 168,
-      "working": 133,
-      "hd": 54
+      "working": 134,
+      "hd": 55
     },
     "Urdu": {
       "total": 18,
@@ -162,6 +162,11 @@
     {
       "name": "All Time Movies (576p)",
       "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -578,11 +583,6 @@
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Hindu Dharmam (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -1042,7 +1042,7 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "STV Haryana News (576p)",
@@ -1183,16 +1183,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ZB Cinema (1080p)",
-      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ZB Music (720p)",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
