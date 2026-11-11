@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 07:00 UTC",
-  "fingerprint": "83dc9c04aabb1539d6b071668bcfb829",
+  "updated_at": "2026-11-11 08:17 UTC",
+  "fingerprint": "27e526dcf1b392b0a960c29b7150ad89",
   "total": 1736,
-  "working": 1472,
-  "in_grace_period": 12,
-  "dead": 264,
-  "hd_channels": 595,
+  "working": 1480,
+  "in_grace_period": 17,
+  "dead": 256,
+  "hd_channels": 596,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 36,
-      "working": 33,
+      "working": 34,
       "hd": 16
     },
     "Hindi": {
       "total": 717,
-      "working": 588,
-      "hd": 218
+      "working": 594,
+      "hd": 219
     },
     "Kannada": {
       "total": 71,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 132,
+      "working": 134,
       "hd": 53
     },
     "Santali": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 138,
+      "working": 137,
       "hd": 68
     },
     "Telugu": {
@@ -335,11 +335,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "DD Kashir (576p)",
-      "url": "https://fta.ektv.in/live/248/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Manipur (576p)",
       "url": "https://fta.ektv.in/live/671/master.m3u8",
       "reason": "HTTP 404"
@@ -560,11 +555,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Gulistan News (576p)",
-      "url": "https://fta.ektv.in/live/427/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
       "reason": "HTTP 404"
@@ -606,47 +596,12 @@
     },
     {
       "name": "India News (576p)",
-      "url": "https://fta.ektv.in/live/297/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "India News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8",
       "reason": "HTTP 403"
     },
     {
-      "name": "India News Gujarati (576p)",
-      "url": "https://fta.ektv.in/live/653/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "India News Haryana (576p)",
-      "url": "https://fta.ektv.in/live/590/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "India News Madhya Pradesh/Chhattisgarh (576p)",
-      "url": "https://fta.ektv.in/live/600/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "India News Punjab/Himachal (576p)",
-      "url": "https://fta.ektv.in/live/642/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "India News Punjab/Himachal (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "India News Rajasthan (576p)",
-      "url": "https://fta.ektv.in/live/601/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "India News Uttar Pradesh (576p)",
-      "url": "https://fta.ektv.in/live/304/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -668,11 +623,6 @@
       "name": "Janam TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Janta TV (576p)",
-      "url": "https://fta.ektv.in/live/106/106_0.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Jaya Plus (576p)",
@@ -1125,6 +1075,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Thendral TV (576p)",
+      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Times Now (720p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8",
       "reason": "HTTP 403"
@@ -1403,6 +1358,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shemaroo TV (576p)",
