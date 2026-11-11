@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 14:02 UTC",
-  "fingerprint": "3eab81e4bcabe9a00f243ee7f82e0327",
+  "updated_at": "2026-11-11 14:53 UTC",
+  "fingerprint": "32a721cec7a120d225efa62d8357ba67",
   "total": 1736,
   "working": 1476,
-  "in_grace_period": 8,
+  "in_grace_period": 11,
   "dead": 260,
-  "hd_channels": 596,
+  "hd_channels": 594,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 121,
-      "working": 85,
+      "working": 86,
       "hd": 41
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 717,
       "working": 592,
-      "hd": 220
+      "hd": 218
     },
     "Kannada": {
       "total": 71,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 134,
+      "working": 133,
       "hd": 53
     },
     "Santali": {
@@ -123,6 +123,11 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -1008,11 +1013,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
