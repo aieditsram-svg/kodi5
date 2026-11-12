@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 01:35 UTC",
-  "fingerprint": "dfa27636205575624cfd1511d74064ee",
+  "updated_at": "2026-11-12 02:29 UTC",
+  "fingerprint": "0b8be81b063de80bfa27d6aa0754e4ef",
   "total": 1838,
-  "working": 1589,
-  "in_grace_period": 20,
-  "dead": 249,
-  "hd_channels": 624,
+  "working": 1586,
+  "in_grace_period": 41,
+  "dead": 252,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 93,
+      "working": 94,
       "hd": 43
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 144,
       "working": 125,
-      "hd": 49
+      "hd": 50
     },
     "Gujarati": {
       "total": 47,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 747,
       "working": 632,
-      "hd": 228
+      "hd": 227
     },
     "Kannada": {
       "total": 76,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 144,
-      "hd": 70
+      "working": 140,
+      "hd": 67
     },
     "Telugu": {
       "total": 172,
@@ -565,6 +565,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -602,11 +607,6 @@
     {
       "name": "India News Punjab/Himachal (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Indywood TV (720p)",
-      "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -673,11 +673,6 @@
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -890,9 +885,29 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Raj Digital Plus (1080p)",
+      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Raj Musix Tamil (1080p)",
+      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Raj TV (1080p)",
+      "url": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8",
+      "reason": "HTTP 504"
+    },
+    {
+      "name": "Raj TV (1080p)",
+      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
