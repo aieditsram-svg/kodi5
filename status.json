@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 15:34 UTC",
-  "fingerprint": "2b895150fc288cb65d5a107765bcafc3",
+  "updated_at": "2026-11-12 16:36 UTC",
+  "fingerprint": "042840df1a308bfd21ca8335b4e0aafa",
   "total": 1838,
-  "working": 1591,
-  "in_grace_period": 24,
-  "dead": 247,
-  "hd_channels": 622,
+  "working": 1588,
+  "in_grace_period": 11,
+  "dead": 250,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 631,
-      "hd": 226
+      "working": 629,
+      "hd": 227
     },
     "Kannada": {
       "total": 76,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 165,
-      "working": 154,
+      "working": 153,
       "hd": 56
     },
     "Santali": {
@@ -158,6 +158,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -483,6 +488,11 @@
       "name": "Fast1 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Fast1 (576p)",
+      "url": "https://samitaorigin.tangotv.in/FAST1/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "First India News (576p)",
@@ -860,6 +870,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1032,7 +1047,7 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "STV Haryana News (576p)",
@@ -1327,7 +1342,7 @@
     {
       "name": "Sony Max 1 (720p)",
       "url": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
