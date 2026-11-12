@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 21:37 UTC",
-  "fingerprint": "c1fdc372f9c39eef27fd1b6ce16e3564",
+  "updated_at": "2026-11-12 22:25 UTC",
+  "fingerprint": "771aa67a13825868888f898de863181a",
   "total": 1838,
-  "working": 1561,
-  "in_grace_period": 9,
-  "dead": 277,
-  "hd_channels": 620,
+  "working": 1559,
+  "in_grace_period": 2,
+  "dead": 279,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 93,
+      "working": 92,
       "hd": 43
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 747,
       "working": 626,
-      "hd": 225
+      "hd": 226
     },
     "Kannada": {
       "total": 76,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 117,
-      "working": 91,
+      "working": 90,
       "hd": 34
     },
     "Marathi": {
@@ -715,6 +715,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Kalika TV (576p)",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kanak News (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8",
       "reason": "TimeoutError"
@@ -1055,6 +1060,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1262,7 +1272,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "V6 News (576p)",
