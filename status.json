@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 00:17 UTC",
-  "fingerprint": "2ae3db14c863eabc2909f6acf910c3d9",
+  "updated_at": "2026-11-12 01:35 UTC",
+  "fingerprint": "dfa27636205575624cfd1511d74064ee",
   "total": 1838,
   "working": 1589,
-  "in_grace_period": 7,
+  "in_grace_period": 20,
   "dead": 249,
-  "hd_channels": 623,
+  "hd_channels": 624,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -19,8 +19,8 @@
     },
     "Bhojpuri": {
       "total": 33,
-      "working": 30,
-      "hd": 12
+      "working": 31,
+      "hd": 13
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 140,
+      "working": 139,
       "hd": 57
     },
     "Urdu": {
@@ -448,6 +448,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -923,11 +928,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bhojpuri (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
