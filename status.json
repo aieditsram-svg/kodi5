@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 08:43 UTC",
-  "fingerprint": "d0e59419e6d49a13b68b76ad008bcbc1",
+  "updated_at": "2026-11-12 09:38 UTC",
+  "fingerprint": "d85f776e661f1dfd9ca17e9c73a7c0c3",
   "total": 1838,
-  "working": 1586,
-  "in_grace_period": 7,
-  "dead": 252,
-  "hd_channels": 621,
+  "working": 1590,
+  "in_grace_period": 10,
+  "dead": 248,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 144,
-      "working": 125,
-      "hd": 50
+      "working": 126,
+      "hd": 51
     },
     "Gujarati": {
       "total": 47,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 631,
+      "working": 632,
       "hd": 227
     },
     "Kannada": {
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 117,
-      "working": 94,
-      "hd": 33
+      "working": 96,
+      "hd": 34
     },
     "Marathi": {
       "total": 52,
@@ -555,11 +555,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -875,11 +870,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1138,16 +1128,6 @@
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "UTV Palakkad (1080p)",
-      "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "UTV Palakkad (1080p)",
-      "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Valam TV Dayro (576p)",
