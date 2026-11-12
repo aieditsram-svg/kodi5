@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 14:39 UTC",
-  "fingerprint": "9c57b5644f814f15c1d2f73eda40ef8d",
+  "updated_at": "2026-11-12 15:34 UTC",
+  "fingerprint": "2b895150fc288cb65d5a107765bcafc3",
   "total": 1838,
-  "working": 1590,
-  "in_grace_period": 11,
-  "dead": 248,
-  "hd_channels": 624,
+  "working": 1591,
+  "in_grace_period": 24,
+  "dead": 247,
+  "hd_channels": 622,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 93,
+      "working": 94,
       "hd": 44
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 747,
       "working": 631,
-      "hd": 228
+      "hd": 226
     },
     "Kannada": {
       "total": 76,
@@ -1015,11 +1015,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "HTTP 404"
@@ -1037,7 +1032,7 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "STV Haryana News (576p)",
@@ -1332,7 +1327,7 @@
     {
       "name": "Sony Max 1 (720p)",
       "url": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
