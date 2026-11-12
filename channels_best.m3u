@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, one best link per channel, updated 2026-11-12 02:29 UTC
+# Working channels, one best link per channel, updated 2026-11-12 03:19 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="DY365.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="360",DY 365 (360p)
@@ -107,8 +107,8 @@ http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",Sony Aath (1080p)
 http://27.124.71.27/Sony_Aath/index.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in@SD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4452/1782290464452-h.jpg" tvg-language="Bengali" group-title="Bengali" height="1080",Star Jalsha (1080p) [Geo-blocked]
-http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
+#EXTINF:-1 tvg-id="StarJalsha.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4452/1782290464452-h.jpg" tvg-language="Bengali" group-title="Bengali" height="1080",Star Jalsha HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@HD" x-category="travel" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-language="Bengali" group-title="Bengali" height="1080",Travelxp HD (1080p) [Geo-blocked]
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Bangla.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144026_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",TV9 Bangla (1080p)
@@ -382,8 +382,6 @@ https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:aradanatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ArgusNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142650_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Argus News (576p)
 https://stream.ottlive.co.in/argus/index.m3u8
-#EXTINF:-1 tvg-id="AryanTVNational.in@SD" tvg-logo="https://i.imgur.com/3tePHES.png" tvg-language="Hindi" group-title="Hindi" height="576",Aryan TV National (576p)
-https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="AsianNews.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png" tvg-language="Hindi" group-title="Hindi" height="1080",Asian News (1080p)
 https://stream.ottlive.co.in/asiannews/index.m3u8
 #EXTINF:-1 tvg-id="Astroscience.in@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/bvwquh.png" tvg-language="Hindi" group-title="Hindi" height="576",Astroscience (576p)
@@ -1071,6 +1069,8 @@ https://samitaorigin.tangotv.in/SHEKINAHTV/SAMITAORIGIN/index.m3u8
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 tvg-id="VCV.in@SD" x-category="general" tvg-logo="https://i.imgur.com/KbU36xI.png" tvg-language="Malayalam" group-title="Malayalam" height="720",VCV (720p) [Not 24/7]
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1 tvg-id="Vision.in@SD" x-category="general" tvg-logo="https://i.imgur.com/YozqNL3.jpg" tvg-language="Malayalam" group-title="Malayalam" height="576",Vision (576p)
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="1080",9X Jhakaas (1080p)
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="ABPMajha.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142521_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="1080",ABP Majha (576p)
@@ -1195,7 +1195,7 @@ https://mumt05.tangotv.in/87NeALx2ANANDPURLIVE/index.m3u8
 #EXTINF:-1 tvg-id="ChardiklaGurbaaniTV.in@SD" x-category="news" tvg-logo="https://i.imgur.com/NXD8CPq.png" tvg-language="Punjabi" group-title="Punjabi" height="1080",Chardikla Gurbaani TV (1080p)
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142736_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="1080",Chardikla Time TV (1080p)
-https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
+https://chardiklatimetv.akamaized.net/chardiklatimetv/master.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in@SD" x-category="news" tvg-logo="https://i.imgur.com/IUeMFey.jpg" tvg-language="Punjabi" group-title="Punjabi" height="1080",Chardikla Time TV North America (1080p)
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="ChintpurniLive.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/Chintpurni_Live.png" tvg-language="Punjabi" group-title="Punjabi" height="720",Chintpurni Live (720p)

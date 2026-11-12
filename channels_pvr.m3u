@@ -1,5 +1,5 @@
 #EXTM3U
-# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-11-12 02:29 UTC
+# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-11-12 03:19 UTC
 #EXTINF:-1 tvg-id="AsomLive24.in@SD" x-category="news" tvg-logo="https://papaji.freetvindia.com/media/channels/asom_live_24x7.png" tvg-language="Assamese" group-title="Assamese",Asom Live 24
 https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks
@@ -125,8 +125,8 @@ http://103.185.24.134:3001/SONIC/index.m3u8
 http://27.124.71.27/Sony_Aath/index.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali",Sony Yay!
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in@SD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4452/1782290464452-h.jpg" tvg-language="Bengali" group-title="Bengali",Star Jalsha
-http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
+#EXTINF:-1 tvg-id="StarJalsha.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4452/1782290464452-h.jpg" tvg-language="Bengali" group-title="Bengali" height="1080",Star Jalsha HD
+https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@4KHDR" x-category="travel" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-language="Bengali" group-title="Bengali",Travelxp 4K HDR
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@HD" x-category="travel" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-language="Bengali" group-title="Bengali" height="1080",Travelxp HD
@@ -1237,7 +1237,7 @@ https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="VCV.in@SD" x-category="general" tvg-logo="https://i.imgur.com/KbU36xI.png" tvg-language="Malayalam" group-title="Malayalam" height="720",VCV
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
-#EXTINF:-1 tvg-id="Vision.in@SD" x-category="general" tvg-logo="https://i.imgur.com/YozqNL3.jpg" tvg-language="Malayalam" group-title="Malayalam",Vision
+#EXTINF:-1 tvg-id="Vision.in@SD" x-category="general" tvg-logo="https://i.imgur.com/YozqNL3.jpg" tvg-language="Malayalam" group-title="Malayalam" height="576",Vision
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="1080",9X Jhakaas
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
@@ -1383,8 +1383,8 @@ https://samitaorigin.tangotv.in/AMRITGURBANI/SAMITAORIGIN/index.m3u8
 https://mumt05.tangotv.in/87NeALx2ANANDPURLIVE/index.m3u8
 #EXTINF:-1 tvg-id="ChardiklaGurbaaniTV.in@SD" x-category="news" tvg-logo="https://i.imgur.com/NXD8CPq.png" tvg-language="Punjabi" group-title="Punjabi" height="1080",Chardikla Gurbaani TV
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142736_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi",Chardikla Time TV
-https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142736_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="1080",Chardikla Time TV
+https://chardiklatimetv.akamaized.net/chardiklatimetv/master.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in@SD" x-category="news" tvg-logo="https://i.imgur.com/IUeMFey.jpg" tvg-language="Punjabi" group-title="Punjabi" height="1080",Chardikla Time TV North America
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="ChintpurniLive.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/Chintpurni_Live.png" tvg-language="Punjabi" group-title="Punjabi" height="720",Chintpurni Live

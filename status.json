@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-12 02:29 UTC",
-  "fingerprint": "0b8be81b063de80bfa27d6aa0754e4ef",
+  "updated_at": "2026-11-12 03:19 UTC",
+  "fingerprint": "8abe670c6961e9ecac90860293c5214e",
   "total": 1838,
-  "working": 1586,
-  "in_grace_period": 41,
-  "dead": 252,
+  "working": 1579,
+  "in_grace_period": 1,
+  "dead": 259,
   "hd_channels": 621,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 94,
+      "working": 93,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 632,
+      "working": 627,
       "hd": 227
     },
     "Kannada": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 117,
-      "working": 93,
+      "working": 94,
       "hd": 33
     },
     "Marathi": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 165,
-      "working": 154,
+      "working": 152,
       "hd": 57
     },
     "Santali": {
@@ -125,6 +125,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
@@ -147,7 +152,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -162,6 +167,11 @@
     {
       "name": "All Time Movies (576p)",
       "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -195,6 +205,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
@@ -207,7 +222,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Awakening TV (576p)",
@@ -278,6 +293,11 @@
       "name": "Captain (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/captain/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Chardikla Time TV (1080p)",
+      "url": "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Chintpurni Live (360p)",
@@ -755,6 +775,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -782,7 +812,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
@@ -1035,9 +1065,14 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1168,11 +1203,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vision (576p)",
-      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
@@ -1343,6 +1373,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
