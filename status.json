@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 07:45 UTC",
-  "fingerprint": "5e068c4f62a3106d58a8a047f0685adc",
+  "updated_at": "2026-11-12 08:43 UTC",
+  "fingerprint": "d0e59419e6d49a13b68b76ad008bcbc1",
   "total": 1838,
-  "working": 1585,
-  "in_grace_period": 9,
-  "dead": 253,
-  "hd_channels": 622,
+  "working": 1586,
+  "in_grace_period": 7,
+  "dead": 252,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 93,
+      "working": 94,
       "hd": 44
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 747,
       "working": 631,
-      "hd": 228
+      "hd": 227
     },
     "Kannada": {
       "total": 76,
@@ -282,7 +282,7 @@
     {
       "name": "Chardikla Time TV (1080p)",
       "url": "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Chintpurni Live (360p)",
@@ -750,11 +750,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1040,11 +1035,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "HTTP 404"
@@ -1232,7 +1222,7 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee Cine Classic (1080p)",
@@ -1358,6 +1348,11 @@
       "name": "Raj Pariwar (576p)",
       "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sony Max 1 (720p)",
+      "url": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV",
+      "reason": "HTTP 403"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
