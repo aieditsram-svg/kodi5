@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 00:30 UTC",
-  "fingerprint": "b958af4a6bb361c29b5b288ed8b11cf0",
+  "updated_at": "2026-11-13 01:43 UTC",
+  "fingerprint": "e7a45d00a27df851ad1610397797d62a",
   "total": 1850,
-  "working": 1554,
-  "in_grace_period": 2,
-  "dead": 296,
-  "hd_channels": 617,
+  "working": 1565,
+  "in_grace_period": 8,
+  "dead": 285,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 126,
-      "working": 86,
-      "hd": 42
+      "working": 93,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 145,
-      "working": 121,
-      "hd": 48
+      "working": 122,
+      "hd": 49
     },
     "Gujarati": {
       "total": 47,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 628,
-      "hd": 224
+      "working": 631,
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -207,11 +207,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1307,7 +1302,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "V6 News (576p)",
@@ -1505,59 +1500,9 @@
       "reason": "URLError"
     },
     {
-      "name": "Colors HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Colors Bangla HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Colors Bangla Cinema (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Eurosport HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Enterr 10 Bangla (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Jalsha Movies (720p)",
-      "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Zee Bangla HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sony Aath (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "StarPlus HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Taaza TV (576p)",
