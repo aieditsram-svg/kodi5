@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 19:28 UTC",
-  "fingerprint": "8a988dbd7488bfdaeb86be0286a757aa",
+  "updated_at": "2026-11-13 20:22 UTC",
+  "fingerprint": "8c8e871188cdf0502d9cf5bdf8fab2d2",
   "total": 1850,
   "working": 1602,
-  "in_grace_period": 19,
+  "in_grace_period": 24,
   "dead": 248,
-  "hd_channels": 626,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 126,
       "working": 95,
-      "hd": 44
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 754,
       "working": 639,
-      "hd": 229
+      "hd": 231
     },
     "Kannada": {
       "total": 77,
@@ -187,6 +187,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -857,11 +862,6 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
