@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 02:29 UTC",
-  "fingerprint": "f167dfc3139b63475bb861567a2412f8",
+  "updated_at": "2026-11-13 03:18 UTC",
+  "fingerprint": "625d2057855100517004cb667561f5d8",
   "total": 1850,
-  "working": 1568,
-  "in_grace_period": 5,
-  "dead": 282,
-  "hd_channels": 625,
+  "working": 1567,
+  "in_grace_period": 4,
+  "dead": 283,
+  "hd_channels": 624,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 633,
-      "hd": 229
+      "working": 632,
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -850,6 +850,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -1075,11 +1080,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1168,6 +1168,11 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
