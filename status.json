@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 09:35 UTC",
-  "fingerprint": "86cb264e57e331301e07064c33fbedb0",
+  "updated_at": "2026-11-13 10:34 UTC",
+  "fingerprint": "ecb35593676ddd9b21409afe9f58554b",
   "total": 1850,
   "working": 1586,
-  "in_grace_period": 9,
+  "in_grace_period": 8,
   "dead": 264,
-  "hd_channels": 621,
+  "hd_channels": 622,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 126,
-      "working": 87,
+      "working": 86,
       "hd": 43
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 145,
-      "working": 125,
+      "working": 126,
       "hd": 50
     },
     "Gujarati": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 632,
-      "hd": 225
+      "working": 633,
+      "hd": 226
     },
     "Kannada": {
       "total": 77,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 142,
+      "working": 141,
       "hd": 56
     },
     "Urdu": {
@@ -450,6 +450,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -573,11 +578,6 @@
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Hosanna TV Global",
-      "url": "https://ktismaservers.in:3349/live/hosannatvlive.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -1040,6 +1040,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "URLError"
@@ -1138,11 +1143,6 @@
       "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
       "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "TTN24 (720p)",
-      "url": "https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8",
-      "reason": "empty HLS manifest"
     },
     {
       "name": "TV5 Kannada (576p)",
