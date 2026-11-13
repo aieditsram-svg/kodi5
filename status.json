@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 21:55 UTC",
-  "fingerprint": "5d7a407b8acb278af512f14e05ec7dd1",
+  "updated_at": "2026-11-13 22:35 UTC",
+  "fingerprint": "2966b4c97cb3023724f10d851577dad7",
   "total": 1850,
-  "working": 1588,
+  "working": 1589,
   "in_grace_period": 5,
-  "dead": 262,
-  "hd_channels": 622,
+  "dead": 261,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 636,
-      "hd": 229
+      "working": 637,
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -777,7 +777,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
@@ -1027,7 +1027,7 @@
     {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1373,11 +1373,6 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
