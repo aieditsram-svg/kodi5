@@ -1,5 +1,5 @@
 #EXTM3U
-# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-11-13 22:35 UTC
+# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-11-13 23:18 UTC
 #EXTINF:-1 tvg-id="AsomLive24.in@SD" x-category="news" tvg-logo="https://papaji.freetvindia.com/media/channels/asom_live_24x7.png" tvg-language="Assamese" group-title="Assamese",Asom Live 24
 https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks
@@ -53,10 +53,10 @@ https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
 https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
 #EXTINF:-1 tvg-id="CineJomjomat.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png" tvg-language="Bengali" group-title="Bengali" height="1080",Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
-#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD" x-category="movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4599/1782289524599-h.jpg" tvg-language="Bengali" group-title="Bengali",Colors Bangla Cinema
-http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8049/1782291598049-h.jpg" tvg-language="Bengali" group-title="Bengali",Colors Bangla HD
-http://103.165.93.31:8095/colorsBangla/index.m3u8
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD" x-category="movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4599/1782289524599-h.jpg" tvg-language="Bengali" group-title="Bengali" height="576",Colors Bangla Cinema
+https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8049/1782291598049-h.jpg" tvg-language="Bengali" group-title="Bengali" height="1080",Colors Bangla HD
+https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142754_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",CTVN AKD Plus
 https://live.legitpro.co.in/ctvnakdplus/index.m3u8
 #EXTINF:-1 tvg-id="DDBangla.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",DD Bangla
@@ -70,8 +70,8 @@ https://fta.ektv.in/live/661/master.m3u8
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali",Discovery Channel HD
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/uQbYTbh.png" tvg-language="Bengali" group-title="Bengali" height="720",Enterr 10 Bangla
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/uQbYTbh.png" tvg-language="Bengali" group-title="Bengali" height="1080",Enterr 10 Bangla
+https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8
 #EXTINF:-1 tvg-id="FriendsTV.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Friends_TV.png" tvg-language="Bengali" group-title="Bengali" height="1080",Friends TV
 https://server.playontv.in/friendstv/index.m3u8
 #EXTINF:-1 tvg-id="GlobeTV.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Globe_TV.png" tvg-language="Bengali" group-title="Bengali" height="720",Globe TV
@@ -80,8 +80,8 @@ https://mumbai-edge.smartplaytv.in/GlobeTV/index.m3u8
 https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8
 #EXTINF:-1 tvg-id="HighNews.in@SD" x-category="news" tvg-logo="https://pbs.twimg.com/profile_images/1104268476858937351/USUT4ykS_400x400.png" tvg-language="Bengali" group-title="Bengali",High News
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
-#EXTINF:-1 tvg-id="JalshaMovies.in@SD" x-category="movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1445/1782291521445-h.jpg" tvg-language="Bengali" group-title="Bengali",Jalsha Movies
-https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in@SD" x-category="movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1445/1782291521445-h.jpg" tvg-language="Bengali" group-title="Bengali" height="1080",Jalsha Movies
+https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8
 #EXTINF:-1 tvg-id="JTBSClassic.in@Main" x-category="religious" tvg-logo="https://jtbsclassic.dpdns.org/logo.png" tvg-language="Bengali" group-title="Bengali",JTBS Classic
 https://jtbsclassic.dpdns.org/live.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143265_ld_h9_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="720",Khushboo Bangla
@@ -144,8 +144,8 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="Zee24Ghanta.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KGXP.png?lock=720x540" tvg-language="Bengali" group-title="Bengali",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in@HD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="720",Zee Bangla HD
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in@HD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",Zee Bangla HD
+https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" tvg-language="Bengali" group-title="Bengali",Zee Bangla Sonar
 http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="ZillarBartaNews.in@HD" x-category="news" tvg-logo="https://i.imgur.com/6uestzY.jpeg" tvg-language="Bengali" group-title="Bengali" height="720",ZillarBarta News
@@ -239,7 +239,7 @@ https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 #EXTINF:-1 tvg-id="ETNowSwadesh.in@SD" x-category="business" tvg-logo="https://dtil.tmsimg.com/assets/s143022_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English",ET Now Swadesh
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8
-#EXTINF:-1 tvg-id="Eurosport.in@HD" x-category="sports" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" tvg-language="English" group-title="English",Eurosport HD
+#EXTINF:-1 tvg-id="Eurosport.in@HD" x-category="sports" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" tvg-language="English" group-title="English" height="1080",Eurosport HD
 https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 #EXTINF:-1 tvg-id="GoodNewsTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/ZrvoGqS.png" tvg-language="English" group-title="English" height="360",GoodNews TV
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
@@ -496,14 +496,14 @@ https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="CnewsBharat.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/C_News_Bharat.png" tvg-language="Hindi" group-title="Hindi" height="720",Cnews Bharat
 https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="Colors.in@SD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/108/1782291760108-h.jpg" tvg-language="Hindi" group-title="Hindi" height="396",Colors
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" x-category="movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3042/1782291173042-h.jpg" tvg-language="Hindi" group-title="Hindi" height="396",Colors Cineplex
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" x-category="movies" tvg-logo="https://i.imgur.com/EbHSQAJ.png" tvg-language="Hindi" group-title="Hindi",Colors Cineplex Bollywood
 http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" x-category="movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" tvg-language="Hindi" group-title="Hindi",Colors Cineplex Superhits
 http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass
+#EXTINF:-1 tvg-id="Colors.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/108/1782291760108-h.jpg" tvg-language="Hindi" group-title="Hindi" height="1080",Colors HD
+https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8
 #EXTINF:-1 tvg-id="ColorsMENA.in@HD" x-category="entertainment" tvg-logo="https://i.imgur.com/LjNFTdC.png" tvg-language="Hindi" group-title="Hindi" height="720",Colors MENA HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsRishtey.in@SD" x-category="general" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9097/1782290579097-h.jpg" tvg-language="Hindi" group-title="Hindi",Colors Rishtey
@@ -601,7 +601,7 @@ https://samitaorigin.tangotv.in/FGNCHANNEL/SAMITAORIGIN/index.m3u8
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in@SD" x-category="cooking" tvg-logo="https://i.imgur.com/J930pA1.png" tvg-language="Hindi" group-title="Hindi" height="504",Food Food
 https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8
-#EXTINF:-1 tvg-id="GangaurTV.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png" tvg-language="Hindi" group-title="Hindi" height="1080",Gangaur TV
+#EXTINF:-1 tvg-id="GangaurTV.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png" tvg-language="Hindi" group-title="Hindi",Gangaur TV
 https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 #EXTINF:-1 tvg-id="GlobalIndia.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Global_India.png" tvg-language="Hindi" group-title="Hindi" height="720",Global India
 https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8
@@ -674,7 +674,7 @@ https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8
 https://fta.ektv.in/live/99/99_0.m3u8
 #EXTINF:-1 tvg-id="Insync.in@SD" x-category="music" tvg-logo="https://i.imgur.com/fAJdazJ.png" tvg-language="Hindi" group-title="Hindi" height="720",Insync
 https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
-#EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143213_ld_h9_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Ishwar Bhakti TV
+#EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143213_ld_h9_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="360",Ishwar Bhakti TV
 https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JanTV.in@SD" x-category="general" tvg-logo="https://i.imgur.com/RfJBuf5.png" tvg-language="Hindi" group-title="Hindi" height="396",Jan TV
 https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
@@ -929,8 +929,8 @@ http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
 http://163.61.226.31:9981/stream/channelid/894286890?profile=pass
 #EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s143856_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi",Star Utsav Movies
 http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
-#EXTINF:-1 tvg-id="StarPlus.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2384/1782291852384-h.jpg" tvg-language="Hindi" group-title="Hindi",StarPlus HD
-http://66.102.126.10:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2384/1782291852384-h.jpg" tvg-language="Hindi" group-title="Hindi" height="1080",StarPlus HD
+https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD" x-category="music" tvg-logo="https://i.imgur.com/Egijzx3.png" tvg-language="Hindi" group-title="Hindi",Steelbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="STVHaryanaNews.in@SD" x-category="news" tvg-logo="https://i.imgur.com/TJRZo9e.png" tvg-language="Hindi" group-title="Hindi",STV Haryana News
@@ -949,7 +949,7 @@ https://fta.ektv.in/live/588/master.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8
 #EXTINF:-1 tvg-id="SwastikStories.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swastik_Stories.png" tvg-language="Hindi" group-title="Hindi" height="1080",Swastik Stories
 https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8
-#EXTINF:-1 tvg-id="SwastikTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/swastiktv.png" tvg-language="Hindi" group-title="Hindi" height="720",Swastik TV
+#EXTINF:-1 tvg-id="SwastikTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/swastiktv.png" tvg-language="Hindi" group-title="Hindi" height="360",Swastik TV
 https://server.playontv.in/swastiktv/index.m3u8
 #EXTINF:-1 tvg-id="TaazaTV.in@SD" tvg-logo="https://i.imgur.com/4nTpQLC.png" tvg-language="Hindi" group-title="Hindi" height="1080",Taaza TV
 https://live.we2live.in/taazatv/live/playlist.m3u8
