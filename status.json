@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 05:19 UTC",
-  "fingerprint": "fb5a96e499bea94c7cc22e6a141e9dac",
+  "updated_at": "2026-11-13 06:20 UTC",
+  "fingerprint": "e4ac5414df261f2d7b8a5d6d27946efa",
   "total": 1850,
-  "working": 1571,
-  "in_grace_period": 14,
-  "dead": 279,
-  "hd_channels": 624,
+  "working": 1568,
+  "in_grace_period": 5,
+  "dead": 282,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 126,
       "working": 94,
-      "hd": 43
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 145,
-      "working": 124,
+      "working": 123,
       "hd": 51
     },
     "Gujarati": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 632,
+      "working": 630,
       "hd": 227
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 154,
+      "working": 153,
       "hd": 57
     },
     "Santali": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 132,
+      "working": 133,
       "hd": 56
     },
     "Urdu": {
@@ -152,7 +152,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -237,7 +237,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Awakening TV (576p)",
@@ -475,11 +475,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -635,6 +630,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Hosanna TV Global",
+      "url": "https://ktismaservers.in:3349/live/hosannatvlive.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
       "reason": "HTTP 404"
@@ -770,6 +770,16 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -840,11 +850,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -872,7 +877,12 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 24 (576p)",
+      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
@@ -945,6 +955,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Pitaara (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Pradesh24 Gujarati (1080p)",
       "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
@@ -972,7 +987,7 @@
     {
       "name": "Public First (576p)",
       "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Public Music (576p)",
@@ -1157,7 +1172,7 @@
     {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1272,7 +1287,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "V6 News (576p)",
