@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 04:18 UTC",
-  "fingerprint": "fa68246f5058296c8f57647fccb130df",
+  "updated_at": "2026-11-13 05:19 UTC",
+  "fingerprint": "fb5a96e499bea94c7cc22e6a141e9dac",
   "total": 1850,
-  "working": 1569,
-  "in_grace_period": 11,
-  "dead": 281,
-  "hd_channels": 622,
+  "working": 1571,
+  "in_grace_period": 14,
+  "dead": 279,
+  "hd_channels": 624,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 126,
-      "working": 93,
+      "working": 94,
       "hd": 43
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 754,
       "working": 632,
-      "hd": 226
+      "hd": 227
     },
     "Kannada": {
       "total": 77,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 153,
-      "hd": 56
+      "working": 154,
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -207,6 +207,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -395,11 +400,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "DD Sports (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Tripura (576p)",
       "url": "https://fta.ektv.in/live/661/master.m3u8",
       "reason": "HTTP 404"
@@ -538,11 +538,6 @@
       "name": "Fast1 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Fast1 (576p)",
-      "url": "https://samitaorigin.tangotv.in/FAST1/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "First India News (576p)",
@@ -1160,11 +1155,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "URLError"
@@ -1282,7 +1272,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "V6 News (576p)",
