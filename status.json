@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-13 07:42 UTC",
-  "fingerprint": "831e7c52ce8041b64375923a67bf713f",
+  "updated_at": "2026-11-13 08:39 UTC",
+  "fingerprint": "7c4dfbdadafa6d1fe4cc410d7e7aa699",
   "total": 1850,
-  "working": 1568,
-  "in_grace_period": 24,
-  "dead": 282,
-  "hd_channels": 623,
+  "working": 1571,
+  "in_grace_period": 25,
+  "dead": 279,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 42,
       "working": 35,
-      "hd": 12
+      "hd": 13
     },
     "Bengali": {
       "total": 126,
@@ -30,16 +30,16 @@
     "English": {
       "total": 145,
       "working": 123,
-      "hd": 50
+      "hd": 51
     },
     "Gujarati": {
       "total": 47,
       "working": 44,
-      "hd": 19
+      "hd": 20
     },
     "Hindi": {
       "total": 754,
-      "working": 629,
+      "working": 632,
       "hd": 228
     },
     "Kannada": {
@@ -152,7 +152,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -237,7 +237,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Awakening TV (576p)",
@@ -775,11 +775,6 @@
       "reason": "not a valid HLS manifest"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -850,11 +845,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -882,7 +872,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News 24 (576p)",
@@ -1172,7 +1162,7 @@
     {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1403,11 +1393,6 @@
       "name": "Zee Tamil HD (1080p)",
       "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Zoom (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Star Bharat HD (1080p)",
