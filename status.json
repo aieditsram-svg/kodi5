@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-13 21:13 UTC",
-  "fingerprint": "7c2f5112f50fd07a2ab51daa4ef30059",
+  "updated_at": "2026-11-13 21:55 UTC",
+  "fingerprint": "5d7a407b8acb278af512f14e05ec7dd1",
   "total": 1850,
-  "working": 1589,
-  "in_grace_period": 6,
-  "dead": 261,
+  "working": 1588,
+  "in_grace_period": 5,
+  "dead": 262,
   "hd_channels": 622,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 126,
-      "working": 87,
+      "working": 88,
       "hd": 42
     },
     "Bhojpuri": {
@@ -34,12 +34,12 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 44,
+      "working": 43,
       "hd": 20
     },
     "Hindi": {
       "total": 754,
-      "working": 635,
+      "working": 636,
       "hd": 229
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 141,
+      "working": 139,
       "hd": 55
     },
     "Urdu": {
@@ -187,11 +187,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -540,6 +535,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "GS TV (576p)",
+      "url": "https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "GTC News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -750,11 +750,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -782,7 +777,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
@@ -940,11 +935,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1037,7 +1027,7 @@
     {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1385,6 +1375,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -1398,6 +1393,16 @@
       "name": "Sony Max 1 (720p)",
       "url": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Prime9 News (1080p)",
+      "url": "https://stream.ottlive.co.in/prime9news/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Prime9 News (1080p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/25259c4f-6592-4611-b1cd-8955943617c6/index.m3u8",
+      "reason": "HTTP 504"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
