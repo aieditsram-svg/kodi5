@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 09:16 UTC",
-  "fingerprint": "cc8be15eff9849e8e5af7c81c517109f",
+  "updated_at": "2026-11-14 10:01 UTC",
+  "fingerprint": "953b52297528a90825484e7d62d307e1",
   "total": 1844,
-  "working": 1596,
-  "in_grace_period": 11,
-  "dead": 248,
-  "hd_channels": 627,
+  "working": 1597,
+  "in_grace_period": 14,
+  "dead": 247,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 90,
+      "working": 91,
       "hd": 43
     },
     "Bhojpuri": {
@@ -35,7 +35,7 @@
     "Gujarati": {
       "total": 47,
       "working": 45,
-      "hd": 21
+      "hd": 20
     },
     "Hindi": {
       "total": 751,
@@ -160,11 +160,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -197,6 +192,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -948,11 +948,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
