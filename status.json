@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-14 17:55 UTC",
-  "fingerprint": "c8f92d4eb822273bdcf3bc5ec847a169",
+  "updated_at": "2026-11-14 18:27 UTC",
+  "fingerprint": "3f57398fcc9dcc6f1d598cda830566d1",
   "total": 1844,
   "working": 1606,
-  "in_grace_period": 6,
+  "in_grace_period": 22,
   "dead": 238,
   "hd_channels": 624,
   "languages": {
@@ -1262,12 +1262,12 @@
     {
       "name": "Zee TV HD (1080p)",
       "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Zee Bangla Sonar (576p)",
       "url": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sony Yay! (576p)",
