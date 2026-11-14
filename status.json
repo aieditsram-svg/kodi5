@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14 19:55 UTC",
-  "fingerprint": "150f9349b4ae2a1d730e7a0e5a4beb40",
+  "updated_at": "2026-11-14 20:25 UTC",
+  "fingerprint": "05d78f7504d85ca66c2fba0a12fc1723",
   "total": 1844,
-  "working": 1591,
+  "working": 1590,
   "in_grace_period": 4,
-  "dead": 253,
+  "dead": 254,
   "hd_channels": 620,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 92,
+      "working": 91,
       "hd": 43
     },
     "Bhojpuri": {
@@ -963,6 +963,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
