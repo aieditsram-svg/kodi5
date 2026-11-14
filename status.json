@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 10:40 UTC",
-  "fingerprint": "0d2cad93e13fe6c8d9bc67157f44fe6c",
+  "updated_at": "2026-11-14 11:16 UTC",
+  "fingerprint": "dd36b1ea01c3f90e47285171e52fac10",
   "total": 1844,
-  "working": 1600,
-  "in_grace_period": 11,
-  "dead": 244,
-  "hd_channels": 625,
+  "working": 1595,
+  "in_grace_period": 16,
+  "dead": 249,
+  "hd_channels": 622,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -30,17 +30,17 @@
     "English": {
       "total": 144,
       "working": 127,
-      "hd": 51
+      "hd": 50
     },
     "Gujarati": {
       "total": 47,
-      "working": 45,
+      "working": 43,
       "hd": 20
     },
     "Hindi": {
       "total": 751,
-      "working": 637,
-      "hd": 228
+      "working": 634,
+      "hd": 227
     },
     "Kannada": {
       "total": 77,
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 173,
       "working": 142,
-      "hd": 56
+      "hd": 55
     },
     "Urdu": {
       "total": 22,
@@ -680,6 +680,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -857,6 +862,11 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1125,6 +1135,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "TV13 Gujarati (480p)",
+      "url": "https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8",
+      "reason": "empty HLS manifest"
+    },
+    {
       "name": "Valam TV Dayro (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8",
       "reason": "HTTP 403"
@@ -1305,6 +1320,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -1313,6 +1333,11 @@
       "name": "Raj Pariwar (576p)",
       "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Valam TV Dayro (576p)",
+      "url": "https://samitaorigin.tangotv.in/VALAMDAIRO/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
