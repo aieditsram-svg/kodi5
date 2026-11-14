@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 01:43 UTC",
-  "fingerprint": "30a03a630b61fa53d879fd01efcb1180",
+  "updated_at": "2026-11-14 02:29 UTC",
+  "fingerprint": "78fcc63271e43fe803ecf3169b602985",
   "total": 1844,
-  "working": 1596,
-  "in_grace_period": 14,
-  "dead": 248,
-  "hd_channels": 627,
+  "working": 1600,
+  "in_grace_period": 9,
+  "dead": 244,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 636,
+      "working": 637,
       "hd": 230
     },
     "Kannada": {
       "total": 77,
       "working": 60,
-      "hd": 26
+      "hd": 25
     },
     "Konkani": {
       "total": 3,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 139,
+      "working": 142,
       "hd": 56
     },
     "Urdu": {
@@ -165,11 +165,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -197,11 +192,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -453,11 +443,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1245,6 +1230,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
@@ -1323,16 +1313,6 @@
       "name": "Raj Pariwar (576p)",
       "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Prime9 News (1080p)",
-      "url": "https://stream.ottlive.co.in/prime9news/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Prime9 News (1080p)",
-      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/25259c4f-6592-4611-b1cd-8955943617c6/index.m3u8",
-      "reason": "HTTP 504"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
