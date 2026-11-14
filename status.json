@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 07:40 UTC",
-  "fingerprint": "a4e72f9b9cdd1f1490bb265d3e350675",
+  "updated_at": "2026-11-14 08:28 UTC",
+  "fingerprint": "4b922f310ba783a476ea1d605fbff278",
   "total": 1844,
-  "working": 1595,
-  "in_grace_period": 8,
-  "dead": 249,
-  "hd_channels": 628,
+  "working": 1593,
+  "in_grace_period": 6,
+  "dead": 251,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 634,
-      "hd": 230
+      "working": 632,
+      "hd": 229
     },
     "Kannada": {
       "total": 77,
@@ -178,6 +178,11 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Anjan TV (720p)",
+      "url": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Anmol TV (576p)",
@@ -748,6 +753,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
