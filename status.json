@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 20:25 UTC",
-  "fingerprint": "05d78f7504d85ca66c2fba0a12fc1723",
+  "updated_at": "2026-11-14 21:02 UTC",
+  "fingerprint": "b5413fc8fcd552bdb7c2da3115459639",
   "total": 1844,
   "working": 1590,
-  "in_grace_period": 4,
+  "in_grace_period": 3,
   "dead": 254,
-  "hd_channels": 620,
+  "hd_channels": 619,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 91,
+      "working": 92,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 632,
-      "hd": 225
+      "working": 631,
+      "hd": 224
     },
     "Kannada": {
       "total": 77,
@@ -115,6 +115,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "7X Music (360p)",
+      "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "9X Jalwa (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8",
       "reason": "HTTP 403"
@@ -147,7 +152,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -207,7 +212,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Awaaz India TV (720p) [Not 24/7]",
@@ -765,11 +770,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -797,7 +797,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
@@ -965,11 +965,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1077,6 +1072,11 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Steelbird Music (720p) [Not 24/7]",
+      "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
