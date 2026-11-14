@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 10:01 UTC",
-  "fingerprint": "953b52297528a90825484e7d62d307e1",
+  "updated_at": "2026-11-14 10:40 UTC",
+  "fingerprint": "0d2cad93e13fe6c8d9bc67157f44fe6c",
   "total": 1844,
-  "working": 1597,
-  "in_grace_period": 14,
-  "dead": 247,
-  "hd_channels": 626,
+  "working": 1600,
+  "in_grace_period": 11,
+  "dead": 244,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 91,
+      "working": 92,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 635,
-      "hd": 229
+      "working": 637,
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -178,11 +178,6 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Anjan TV (720p)",
-      "url": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Anmol TV (576p)",
@@ -670,11 +665,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -688,11 +678,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
