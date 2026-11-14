@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 00:35 UTC",
-  "fingerprint": "cdc4945e91b8549d5a556aa93d9c9e48",
+  "updated_at": "2026-11-14 01:43 UTC",
+  "fingerprint": "30a03a630b61fa53d879fd01efcb1180",
   "total": 1844,
-  "working": 1595,
-  "in_grace_period": 3,
-  "dead": 249,
-  "hd_channels": 626,
+  "working": 1596,
+  "in_grace_period": 14,
+  "dead": 248,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -34,8 +34,8 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 43,
-      "hd": 20
+      "working": 44,
+      "hd": 21
     },
     "Hindi": {
       "total": 751,
@@ -848,11 +848,6 @@
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
