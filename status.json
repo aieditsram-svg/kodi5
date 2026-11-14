@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 19:15 UTC",
-  "fingerprint": "f060043c1203b3de0862ae6a0e9a303c",
+  "updated_at": "2026-11-14 19:55 UTC",
+  "fingerprint": "150f9349b4ae2a1d730e7a0e5a4beb40",
   "total": 1844,
-  "working": 1602,
-  "in_grace_period": 19,
-  "dead": 242,
-  "hd_channels": 624,
+  "working": 1591,
+  "in_grace_period": 4,
+  "dead": 253,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 97,
-      "hd": 44
+      "working": 92,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 144,
-      "working": 130,
-      "hd": 53
+      "working": 127,
+      "hd": 51
     },
     "Gujarati": {
       "total": 47,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 641,
-      "hd": 229
+      "working": 632,
+      "hd": 225
     },
     "Kannada": {
       "total": 77,
-      "working": 64,
-      "hd": 28
+      "working": 60,
+      "hd": 26
     },
     "Konkani": {
       "total": 3,
@@ -54,13 +54,13 @@
     },
     "Malayalam": {
       "total": 117,
-      "working": 97,
-      "hd": 34
+      "working": 93,
+      "hd": 32
     },
     "Marathi": {
       "total": 52,
-      "working": 46,
-      "hd": 20
+      "working": 43,
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 144,
-      "hd": 69
+      "working": 140,
+      "hd": 67
     },
     "Telugu": {
       "total": 173,
-      "working": 144,
-      "hd": 58
+      "working": 141,
+      "hd": 56
     },
     "Urdu": {
       "total": 22,
@@ -210,6 +210,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Awaaz India TV (720p) [Not 24/7]",
+      "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
@@ -292,6 +297,11 @@
     {
       "name": "Colors Bangla HD (1080p)",
       "url": "http://103.165.93.31:8095/colorsBangla/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Colors HD (1080p)",
+      "url": "http://103.135.253.32:8080/Color-HD/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -443,11 +453,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1050,11 +1055,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Starnet (480p)",
       "url": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8",
       "reason": "HTTP 404"
@@ -1280,6 +1280,41 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Star Bharat HD (1080p)",
+      "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Nickelodeon (576p)",
+      "url": "http://103.135.253.32:8080/NICK/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Nick Jr. (576p)",
+      "url": "http://103.135.253.32:8080/NICK-Jr/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Colors Bangla HD (1080p)",
+      "url": "http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Colors Bangla Cinema (576p)",
+      "url": "http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "StarPlus HD (1080p)",
+      "url": "http://103.135.253.32:8080/STAR-PLUS/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha HD (1080p)",
+      "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Zee TV HD (1080p)",
       "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
       "reason": "URLError"
@@ -1287,6 +1322,26 @@
     {
       "name": "Zee Bangla Sonar (576p)",
       "url": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Discovery Channel HD (1080p)",
+      "url": "http://103.135.253.32:8080/DISCOVERY/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Cartoon Network HD+ (1080p)",
+      "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Pogo (576p)",
+      "url": "http://103.135.253.32:8080/POGO/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sony Aath (576p)",
+      "url": "http://103.135.253.32:8080/SONY_AATH/index.m3u8",
       "reason": "URLError"
     },
     {
