@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 23:55 UTC",
-  "fingerprint": "073332348e021e24356007d166c4b578",
-  "total": 1850,
+  "updated_at": "2026-11-14 00:35 UTC",
+  "fingerprint": "cdc4945e91b8549d5a556aa93d9c9e48",
+  "total": 1844,
   "working": 1595,
-  "in_grace_period": 9,
-  "dead": 255,
-  "hd_channels": 625,
+  "in_grace_period": 3,
+  "dead": 249,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -13,8 +13,8 @@
       "hd": 13
     },
     "Bengali": {
-      "total": 126,
-      "working": 95,
+      "total": 124,
+      "working": 94,
       "hd": 43
     },
     "Bhojpuri": {
@@ -28,7 +28,7 @@
       "hd": 0
     },
     "English": {
-      "total": 145,
+      "total": 144,
       "working": 126,
       "hd": 50
     },
@@ -38,7 +38,7 @@
       "hd": 20
     },
     "Hindi": {
-      "total": 754,
+      "total": 751,
       "working": 636,
       "hd": 230
     },
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 138,
-      "hd": 55
+      "working": 139,
+      "hd": 56
     },
     "Urdu": {
       "total": 22,
@@ -147,7 +147,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -217,7 +217,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Awakening TV (576p)",
@@ -273,11 +273,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "BRK News (720p)",
-      "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "BRK News (576p)",
@@ -582,7 +577,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -797,7 +792,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
@@ -912,7 +907,7 @@
     {
       "name": "Raj TV (1080p)",
       "url": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8",
-      "reason": "HTTP 504"
+      "reason": "HTTP 400"
     },
     {
       "name": "Raj TV (1080p)",
@@ -1043,11 +1038,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Sports Select 2 HD (720p)",
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1200,11 +1190,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Zee Action (576p)",
-      "url": "https://fta.ektv.in/live/270/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee Bangla Sonar (576p)",
       "url": "http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8",
       "reason": "URLError"
@@ -1295,11 +1280,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Jalsha Movies HD (1080p)",
-      "url": "http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1335,11 +1315,6 @@
       "reason": "URLError"
     },
     {
-      "name": "B4U Movies (1080p)",
-      "url": "http://103.135.253.32:8080/B4U-MOVIES/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
@@ -1353,11 +1328,6 @@
       "name": "Raj Pariwar (576p)",
       "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sony Max 1 (720p)",
-      "url": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV",
-      "reason": "HTTP 403"
     },
     {
       "name": "Prime9 News (1080p)",
