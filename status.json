@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-14 14:55 UTC",
-  "fingerprint": "417ff48e5dc64beaa2a9a7e8c1436fea",
+  "updated_at": "2026-11-14 15:27 UTC",
+  "fingerprint": "baa53758e5c2a8b077dc1140a77a56af",
   "total": 1844,
   "working": 1580,
-  "in_grace_period": 10,
+  "in_grace_period": 7,
   "dead": 264,
   "hd_channels": 619,
   "languages": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 144,
-      "working": 125,
-      "hd": 49
+      "working": 126,
+      "hd": 50
     },
     "Gujarati": {
       "total": 47,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 631,
-      "hd": 226
+      "working": 630,
+      "hd": 225
     },
     "Kannada": {
       "total": 77,
@@ -152,7 +152,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -217,7 +217,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Awakening TV (576p)",
@@ -580,11 +580,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -672,6 +667,11 @@
     {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Kabaddi 24x7 (720p)",
+      "url": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -797,7 +797,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
