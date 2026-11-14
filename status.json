@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14 11:55 UTC",
-  "fingerprint": "832081232717b3599118e413bd71b6ba",
+  "updated_at": "2026-11-14 12:29 UTC",
+  "fingerprint": "60f367b52bd47106f9af537a8e8685bc",
   "total": 1844,
-  "working": 1594,
-  "in_grace_period": 4,
-  "dead": 250,
+  "working": 1595,
+  "in_grace_period": 9,
+  "dead": 249,
   "hd_channels": 625,
   "languages": {
     "Assamese": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 144,
-      "working": 127,
+      "working": 126,
       "hd": 50
     },
     "Gujarati": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 634,
-      "hd": 228
+      "working": 635,
+      "hd": 229
     },
     "Kannada": {
       "total": 77,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 117,
       "working": 96,
-      "hd": 34
+      "hd": 33
     },
     "Marathi": {
       "total": 52,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 154,
+      "working": 155,
       "hd": 57
     },
     "Santali": {
@@ -125,11 +125,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
@@ -163,11 +158,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -562,6 +552,11 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
