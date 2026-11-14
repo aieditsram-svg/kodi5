@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 12:29 UTC",
-  "fingerprint": "60f367b52bd47106f9af537a8e8685bc",
+  "updated_at": "2026-11-14 13:27 UTC",
+  "fingerprint": "f205cc83ce36e83d7b585f6131fd7835",
   "total": 1844,
-  "working": 1595,
-  "in_grace_period": 9,
-  "dead": 249,
-  "hd_channels": 625,
+  "working": 1597,
+  "in_grace_period": 29,
+  "dead": 247,
+  "hd_channels": 622,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 44,
-      "hd": 21
+      "working": 45,
+      "hd": 20
     },
     "Hindi": {
       "total": 751,
-      "working": 635,
-      "hd": 229
+      "working": 636,
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 166,
       "working": 155,
-      "hd": 57
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -147,7 +147,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -207,7 +207,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Awakening TV (576p)",
@@ -750,11 +750,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -782,7 +777,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
@@ -1145,11 +1140,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "TV13 Gujarati (480p)",
-      "url": "https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8",
-      "reason": "empty HLS manifest"
-    },
-    {
       "name": "Valam TV Dayro (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8",
       "reason": "HTTP 403"
@@ -1327,7 +1317,7 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Taaza TV (576p)",
