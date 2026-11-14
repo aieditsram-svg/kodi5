@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 02:29 UTC",
-  "fingerprint": "78fcc63271e43fe803ecf3169b602985",
+  "updated_at": "2026-11-14 03:18 UTC",
+  "fingerprint": "f089181b85c3daefcf1175e83ea3445a",
   "total": 1844,
-  "working": 1600,
-  "in_grace_period": 9,
-  "dead": 244,
-  "hd_channels": 626,
+  "working": 1599,
+  "in_grace_period": 14,
+  "dead": 245,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -29,23 +29,23 @@
     },
     "English": {
       "total": 144,
-      "working": 126,
-      "hd": 50
+      "working": 125,
+      "hd": 49
     },
     "Gujarati": {
       "total": 47,
-      "working": 44,
+      "working": 45,
       "hd": 21
     },
     "Hindi": {
       "total": 751,
-      "working": 637,
-      "hd": 230
+      "working": 636,
+      "hd": 226
     },
     "Kannada": {
       "total": 77,
       "working": 60,
-      "hd": 25
+      "hd": 26
     },
     "Konkani": {
       "total": 3,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 142,
+      "working": 141,
       "hd": 56
     },
     "Urdu": {
@@ -425,6 +425,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -535,11 +540,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "GS TV (576p)",
-      "url": "https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "GTC News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -582,6 +582,11 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
