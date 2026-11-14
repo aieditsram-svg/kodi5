@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 21:36 UTC",
-  "fingerprint": "8255d2f4622f1eb00035898afab90c3a",
+  "updated_at": "2026-11-14 22:14 UTC",
+  "fingerprint": "02e97865827b031d4cc028da2be070e8",
   "total": 1844,
-  "working": 1590,
-  "in_grace_period": 6,
-  "dead": 254,
-  "hd_channels": 620,
+  "working": 1592,
+  "in_grace_period": 1,
+  "dead": 252,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 632,
-      "hd": 225
+      "working": 634,
+      "hd": 226
     },
     "Kannada": {
       "total": 77,
@@ -610,11 +610,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "India Voice (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "INews (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -698,11 +693,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
