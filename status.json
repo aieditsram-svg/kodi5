@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-14 23:54 UTC",
-  "fingerprint": "a0c1ee720357432a939f96fcb1428108",
-  "total": 1844,
-  "working": 1595,
-  "in_grace_period": 10,
-  "dead": 249,
-  "hd_channels": 620,
+  "updated_at": "2026-11-15 00:30 UTC",
+  "fingerprint": "e496667f2cc5306a352e67740d57350a",
+  "total": 1840,
+  "working": 1590,
+  "in_grace_period": 6,
+  "dead": 250,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
-      "total": 42,
+      "total": 40,
       "working": 36,
       "hd": 13
     },
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 144,
-      "working": 127,
+      "working": 126,
       "hd": 50
     },
     "Gujarati": {
@@ -38,9 +38,9 @@
       "hd": 20
     },
     "Hindi": {
-      "total": 751,
-      "working": 635,
-      "hd": 226
+      "total": 750,
+      "working": 633,
+      "hd": 227
     },
     "Kannada": {
       "total": 77,
@@ -93,8 +93,8 @@
       "hd": 67
     },
     "Telugu": {
-      "total": 173,
-      "working": 143,
+      "total": 172,
+      "working": 141,
       "hd": 56
     },
     "Urdu": {
@@ -152,7 +152,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -163,11 +163,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "AmarUjala (1080p)",
-      "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -198,16 +193,6 @@
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Asom Live 24 (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Awakening TV (576p)",
@@ -425,6 +410,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -560,6 +550,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -685,6 +680,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -772,7 +772,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
@@ -863,6 +863,11 @@
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Raftaar Media (240p)",
+      "url": "https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Raj Digital Plus (1080p)",
@@ -1062,7 +1067,7 @@
     {
       "name": "Sun TV HD (1080p)",
       "url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 400"
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
