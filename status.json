@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 17:20 UTC",
-  "fingerprint": "0447243458f805b16e2d185479c970ce",
+  "updated_at": "2026-11-15 17:55 UTC",
+  "fingerprint": "a60f47cdf3d99763907599491206d615",
   "total": 1840,
-  "working": 1595,
-  "in_grace_period": 16,
-  "dead": 245,
-  "hd_channels": 623,
+  "working": 1597,
+  "in_grace_period": 22,
+  "dead": 243,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 144,
-      "working": 126,
-      "hd": 50
+      "working": 125,
+      "hd": 49
     },
     "Gujarati": {
       "total": 47,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 636,
-      "hd": 226
+      "working": 639,
+      "hd": 225
     },
     "Kannada": {
       "total": 77,
@@ -233,11 +233,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -740,11 +735,6 @@
       "reason": "URLError"
     },
     {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
@@ -832,11 +822,6 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1283,6 +1268,11 @@
       "name": "Sony Aath (576p)",
       "url": "http://103.135.253.32:8080/SONY_AATH/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Eurosport HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Sony Yay! (576p)",
