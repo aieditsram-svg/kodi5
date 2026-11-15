@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-15 09:36 UTC",
-  "fingerprint": "8af3e1dbd0133da2367d3ac55a938485",
+  "updated_at": "2026-11-15 10:22 UTC",
+  "fingerprint": "7985e2b8791336d47152fb492e61e222",
   "total": 1840,
   "working": 1590,
-  "in_grace_period": 9,
+  "in_grace_period": 20,
   "dead": 250,
   "hd_channels": 621,
   "languages": {
@@ -152,7 +152,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -297,12 +297,12 @@
     {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Dangal TV (576p)",
       "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -762,7 +762,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
