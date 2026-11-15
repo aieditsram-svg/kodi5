@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 11:41 UTC",
-  "fingerprint": "498819d46af57736e07f6a76903969fb",
+  "updated_at": "2026-11-15 12:19 UTC",
+  "fingerprint": "79ea92af3f066922caeaae85c618f3ab",
   "total": 1840,
-  "working": 1580,
-  "in_grace_period": 14,
-  "dead": 260,
-  "hd_channels": 621,
+  "working": 1579,
+  "in_grace_period": 15,
+  "dead": 261,
+  "hd_channels": 619,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 631,
-      "hd": 227
+      "working": 632,
+      "hd": 226
     },
     "Kannada": {
       "total": 77,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 151,
-      "hd": 57
+      "working": 149,
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -152,7 +152,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -163,11 +163,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -203,6 +198,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -262,7 +262,7 @@
     {
       "name": "Channel Divya (1080p)",
       "url": "https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Channel Divya (720p)",
@@ -358,6 +358,11 @@
       "name": "Dhool TV (576p)",
       "url": "https://fta.ektv.in/live/631/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Divya Bhajan (1080p)",
+      "url": "https://jmp2.uk/stvp-IN1600002IQ",
+      "reason": "HTTP 504"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -680,11 +685,6 @@
       "reason": "not a valid HLS manifest"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -772,7 +772,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
@@ -832,6 +832,11 @@
     {
       "name": "Pitaara (1080p)",
       "url": "https://d3i5c1nmken8bh.cloudfront.net/Live/Pitaara_TV_SCTE/playlist.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Pitaara (1080p)",
+      "url": "https://pitaara-lg.vgcdn.net/v1/vglive-sk-326599/playlist.m3u8",
       "reason": "TimeoutError"
     },
     {
