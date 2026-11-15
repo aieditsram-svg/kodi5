@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 06:06 UTC",
-  "fingerprint": "08f4d42cf1eb7b22d6c7b3642cb92826",
+  "updated_at": "2026-11-15 07:04 UTC",
+  "fingerprint": "9fd8c1270763fb36540c03f78320a09a",
   "total": 1840,
-  "working": 1586,
-  "in_grace_period": 10,
-  "dead": 254,
-  "hd_channels": 623,
+  "working": 1583,
+  "in_grace_period": 8,
+  "dead": 257,
+  "hd_channels": 622,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -34,12 +34,12 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 44,
-      "hd": 21
+      "working": 42,
+      "hd": 20
     },
     "Hindi": {
       "total": 750,
-      "working": 631,
+      "working": 630,
       "hd": 227
     },
     "Kannada": {
@@ -157,7 +157,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -415,11 +415,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -438,6 +433,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -782,7 +782,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
@@ -878,6 +878,11 @@
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Raftaar Media (240p)",
+      "url": "https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Raj Digital Plus (1080p)",
@@ -1077,7 +1082,7 @@
     {
       "name": "Sun TV HD (1080p)",
       "url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 400"
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -1363,6 +1368,16 @@
       "name": "Raj Pariwar (576p)",
       "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Shri Shyam TV (1080p)",
+      "url": "https://7xshreeshyam.akamaized.net/shreeshyamtv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shri Shyam TV (1080p)",
+      "url": "https://cloudcdn.in/live/shreeshyamtv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
