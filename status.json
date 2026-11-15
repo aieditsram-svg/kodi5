@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 19:15 UTC",
-  "fingerprint": "b6e952113c65a9d6effab98deeff4f27",
+  "updated_at": "2026-11-15 19:55 UTC",
+  "fingerprint": "020473758bc582d81748592f4279763a",
   "total": 1840,
-  "working": 1585,
-  "in_grace_period": 8,
-  "dead": 255,
-  "hd_channels": 614,
+  "working": 1584,
+  "in_grace_period": 10,
+  "dead": 256,
+  "hd_channels": 615,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 84,
+      "working": 83,
       "hd": 39
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 750,
       "working": 637,
-      "hd": 223
+      "hd": 224
     },
     "Kannada": {
       "total": 77,
@@ -555,11 +555,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "HNN 24x7 (576p)",
-      "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
       "reason": "HTTP 404"
@@ -677,7 +672,7 @@
     {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Mazhavil Manorama (576p)",
@@ -712,7 +707,7 @@
     {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Nagaland TV (576p)",
@@ -733,6 +728,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -928,6 +928,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
