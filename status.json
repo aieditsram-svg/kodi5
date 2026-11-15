@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 08:08 UTC",
-  "fingerprint": "72fefc4962688b72e94ddd4e80771565",
-  "total": 1840,
+  "updated_at": "2026-11-15 08:55 UTC",
+  "fingerprint": "885eceeeead9ec855fb0850982c7a995",
+  "total": 1838,
   "working": 1589,
   "in_grace_period": 6,
-  "dead": 251,
-  "hd_channels": 622,
+  "dead": 249,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 89,
+      "working": 88,
       "hd": 41
     },
     "Bhojpuri": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 635,
+      "working": 636,
       "hd": 227
     },
     "Kannada": {
       "total": 77,
-      "working": 61,
+      "working": 60,
       "hd": 26
     },
     "Konkani": {
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 117,
-      "working": 97,
-      "hd": 35
+      "working": 95,
+      "hd": 34
     },
     "Marathi": {
       "total": 52,
-      "working": 44,
+      "working": 43,
       "hd": 19
     },
     "Nepali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 141,
+      "working": 140,
       "hd": 67
     },
     "Telugu": {
-      "total": 172,
-      "working": 141,
+      "total": 170,
+      "working": 140,
       "hd": 56
     },
     "Urdu": {
@@ -500,11 +500,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -770,11 +765,6 @@
       "reason": "URLError"
     },
     {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
@@ -808,6 +798,11 @@
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1058,6 +1053,11 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Sun TV HD (1080p)",
@@ -1348,16 +1348,6 @@
       "name": "Shri Shyam TV (1080p)",
       "url": "https://cloudcdn.in/live/shreeshyamtv/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Asianet News Telugu Ⓨ",
-      "url": "https://www.youtube.com/@AsianetNewsTelugu/live",
-      "reason": "returned HTML page"
-    },
-    {
-      "name": "News18 Telugu Ⓨ",
-      "url": "https://www.youtube.com/@News18Telugu/live",
-      "reason": "returned HTML page"
     }
   ]
 }
