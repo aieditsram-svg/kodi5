@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 20:27 UTC",
-  "fingerprint": "7a85a31ce82e320a7c30a30d13a846e1",
+  "updated_at": "2026-11-15 21:07 UTC",
+  "fingerprint": "930c3b436ec5d48a0e0b665cc8d6f227",
   "total": 1840,
   "working": 1585,
-  "in_grace_period": 3,
+  "in_grace_period": 7,
   "dead": 255,
-  "hd_channels": 614,
+  "hd_channels": 616,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 750,
       "working": 637,
-      "hd": 223
+      "hd": 225
     },
     "Kannada": {
       "total": 77,
@@ -147,7 +147,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -757,7 +757,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
