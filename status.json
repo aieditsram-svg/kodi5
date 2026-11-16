@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 22:32 UTC",
-  "fingerprint": "72ceb5a2a4d1349255c17d6e5de0f48e",
+  "updated_at": "2026-11-16 23:18 UTC",
+  "fingerprint": "8eaa94d037faf72f96ab65c012aadc04",
   "total": 1840,
-  "working": 1593,
-  "in_grace_period": 6,
-  "dead": 247,
-  "hd_channels": 618,
+  "working": 1590,
+  "in_grace_period": 3,
+  "dead": 250,
+  "hd_channels": 616,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 641,
-      "hd": 225
+      "working": 639,
+      "hd": 224
     },
     "Kannada": {
       "total": 77,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 156,
-      "hd": 57
+      "working": 155,
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -343,6 +343,11 @@
       "name": "Dhool TV (576p)",
       "url": "https://fta.ektv.in/live/631/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Dukhnivaran Patiala Live (720p)",
+      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -608,6 +613,11 @@
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Kabaddi 24x7 (720p)",
+      "url": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Kairali Arabia (576p)",
@@ -1043,6 +1053,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Tabbar Hits (576p)",
