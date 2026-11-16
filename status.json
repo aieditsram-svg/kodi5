@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-16 02:43 UTC",
-  "fingerprint": "bd9e4e13c1e5ef835e1ec136ba5d609c",
+  "updated_at": "2026-11-16 03:47 UTC",
+  "fingerprint": "f4d08c8d315c7028f750767d544f04ad",
   "total": 1840,
-  "working": 1593,
-  "in_grace_period": 15,
-  "dead": 247,
+  "working": 1591,
+  "in_grace_period": 16,
+  "dead": 249,
   "hd_channels": 617,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 84,
+      "working": 82,
       "hd": 39
     },
     "Bhojpuri": {
@@ -34,12 +34,12 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 44,
+      "working": 45,
       "hd": 20
     },
     "Hindi": {
       "total": 750,
-      "working": 641,
+      "working": 640,
       "hd": 226
     },
     "Kannada": {
@@ -490,11 +490,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "GS TV (576p)",
-      "url": "https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "GTC News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -623,6 +618,11 @@
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -825,6 +825,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -898,6 +903,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
