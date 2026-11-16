@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 05:11 UTC",
-  "fingerprint": "c73d9984ec0190107e33ac21d9bbae65",
+  "updated_at": "2026-11-16 06:27 UTC",
+  "fingerprint": "47203c7adfc9e258313d761763c9c213",
   "total": 1840,
-  "working": 1587,
-  "in_grace_period": 17,
-  "dead": 253,
-  "hd_channels": 616,
+  "working": 1588,
+  "in_grace_period": 12,
+  "dead": 252,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 82,
-      "hd": 40
+      "working": 83,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 637,
-      "hd": 225
+      "working": 638,
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 142,
+      "working": 141,
       "hd": 56
     },
     "Urdu": {
@@ -173,11 +173,6 @@
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Ananda Barta (720p)",
-      "url": "https://account19.livebox.co.in/Anandabarta2hls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Andy Haryana (576p)",
@@ -395,6 +390,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -488,6 +488,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -725,6 +730,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -830,11 +840,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -918,11 +923,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1010,6 +1010,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Starnet (480p)",
       "url": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8",
       "reason": "HTTP 404"
@@ -1027,11 +1032,6 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Steelbird Music (720p) [Not 24/7]",
-      "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1115,11 +1115,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "TV27 News (360p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Valam TV Dayro (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8",
       "reason": "HTTP 403"
@@ -1187,7 +1182,7 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Zee Cine Classic (1080p)",
@@ -1208,11 +1203,6 @@
       "name": "Zee Horror Nights (1080p)",
       "url": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Zee News (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlZEENEWS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee South Flix (1080p)",
@@ -1348,6 +1338,11 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",

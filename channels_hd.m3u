@@ -1,5 +1,5 @@
 #EXTM3U
-# Working HD channels (720p+), all languages, updated 2026-11-16 05:11 UTC
+# Working HD channels (720p+), all languages, updated 2026-11-16 06:27 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="Jonack.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Jonack (576p)
@@ -32,6 +32,8 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
 https://live.legitpro.co.in/cnnnews/index.m3u8
 #EXTINF:-1 tvg-id="AkhonKolkata.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ekhonkolkata.png" tvg-language="Bengali" group-title="Bengali" height="1080",Akhon Kolkata (478p)
 https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
+#EXTINF:-1 tvg-id="AnandaBarta.in@SD" x-category="news" tvg-logo="https://i.imgur.com/yWo4RaV.jpeg" tvg-language="Bengali" group-title="Bengali" height="720",Ananda Barta (720p)
+https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
 #EXTINF:-1 tvg-id="BanglaJago.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bangla_Jago.png" tvg-language="Bengali" group-title="Bengali" height="720",Bangla Jago (720p)
 https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
 #EXTINF:-1 tvg-id="BHIChannel.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHI.png" tvg-language="Bengali" group-title="Bengali" height="720",BHI Channel (720p)
@@ -84,8 +86,8 @@ http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",Sony Aath (1080p)
 http://27.124.71.27/Sony_Aath/index.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in@SD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4452/1782290464452-h.jpg" tvg-language="Bengali" group-title="Bengali" height="1080",Star Jalsha (1080p) [Geo-blocked]
-http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
+#EXTINF:-1 tvg-id="StarJalsha.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4452/1782290464452-h.jpg" tvg-language="Bengali" group-title="Bengali" height="720",Star Jalsha HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@HD" x-category="travel" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-language="Bengali" group-title="Bengali" height="1080",Travelxp HD (1080p) [Geo-blocked]
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Bangla.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144026_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",TV9 Bangla (1080p)
@@ -581,10 +583,14 @@ https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8
 https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ParasGold.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143642_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Paras Gold (576p)
 https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
+#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Peace of Mind TV (576p)
+https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
 #EXTINF:-1 tvg-id="PrathamNews.in@SD" x-category="news" tvg-logo="https://papaji.freetvindia.com/media/channels/Pratham_news.png" tvg-language="Hindi" group-title="Hindi" height="720",Pratham News (576p)
 https://samitaorigin.tangotv.in/PRATHAMNEWS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PrimeNews.in@SD" x-category="news" tvg-logo="https://i.imgur.com/RQoDzpN.png" tvg-language="Hindi" group-title="Hindi" height="1080",Prime News (1080p)
 https://stream.ottlive.co.in/primenews/index.m3u8
+#EXTINF:-1 tvg-id="PublicFirst.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png" tvg-language="Hindi" group-title="Hindi" height="720",Public First (576p)
+https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="QTV.in@SD" x-category="entertainment" tvg-logo="https://www.theq.tv/wp-content/uploads/2023/10/The-Q-new-Logo.png" tvg-language="Hindi" group-title="Hindi" height="720",Q TV (576p)
 https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="RaftaarMedia.in@SD" tvg-logo="https://i.imgur.com/05B5USY.png" tvg-language="Hindi" group-title="Hindi" height="720",Raftaar Media (576p)
@@ -652,6 +658,8 @@ http://38.96.178.205/SONYHD/index.m3u8
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 tvg-id="SRKTV.in@SD" x-category="entertainment" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnail_backgrounds_01b5b56aa2e80823f23cc9d708141d1a_goplay_srk_tv_landscape.jpg" tvg-language="Hindi" group-title="Hindi" height="1080",SRK TV (1080p)
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SteelbirdMusic.in@SD" x-category="music" tvg-logo="https://i.imgur.com/Egijzx3.png" tvg-language="Hindi" group-title="Hindi" height="720",Steelbird Music (720p) [Not 24/7]
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="SudarshanNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143870_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Sudarshan News (1080p)
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="SVBC4.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/vCFdZny.png" tvg-language="Hindi" group-title="Hindi" height="1080",SVBC 4 (1080p)
@@ -774,7 +782,7 @@ https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
 https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SuvarnaNews.in@SD" x-category="news" tvg-logo="https://i.imgur.com/0H1HObK.png" tvg-language="Kannada" group-title="Kannada" height="720",Suvarna News SD (576p)
 https://mumt04.tangotv.in/m18aqlK4SUVARNANEWS/index.m3u8
-#EXTINF:-1 tvg-id="SVBC3.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/Ae2PMTu.png" tvg-language="Kannada" group-title="Kannada" height="720",SVBC 3 (720p)
+#EXTINF:-1 tvg-id="SVBC3.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/Ae2PMTu.png" tvg-language="Kannada" group-title="Kannada" height="1080",SVBC 3 (720p)
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5Kannada.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144024_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="720",TV5 Kannada (576p)
 https://mumt07.tangotv.in/zHjX9OFlTV5KANNADA/index.m3u8
@@ -1281,7 +1289,7 @@ https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8
 #EXTINF:-1 tvg-id="SubhavaarthaTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143869_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",Subhavaartha TV (720p)
 https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SVBC.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",SVBC (720p)
+#EXTINF:-1 tvg-id="SVBC.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="1080",SVBC (720p)
 https://mumbai-edge.smartplaytv.in/SVBC/index.m3u8
 #EXTINF:-1 tvg-id="SVBC.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="1080",SVBC Sri Venkateswara Bhakti Channel (1080p)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
