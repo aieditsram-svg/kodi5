@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 01:53 UTC",
-  "fingerprint": "b27fe10af1fbabc12e9785099d284c68",
+  "updated_at": "2026-11-16 02:43 UTC",
+  "fingerprint": "bd9e4e13c1e5ef835e1ec136ba5d609c",
   "total": 1840,
-  "working": 1587,
-  "in_grace_period": 8,
-  "dead": 253,
-  "hd_channels": 616,
+  "working": 1593,
+  "in_grace_period": 15,
+  "dead": 247,
+  "hd_channels": 617,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 83,
+      "working": 84,
       "hd": 39
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 638,
-      "hd": 225
+      "working": 641,
+      "hd": 226
     },
     "Kannada": {
       "total": 77,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 140,
+      "working": 142,
       "hd": 56
     },
     "Urdu": {
@@ -192,11 +192,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -448,11 +443,6 @@
       "name": "Fast1 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Fateh TV (1080p) [Not 24/7]",
-      "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "First India News (576p)",
@@ -995,11 +985,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Starnet (480p)",
       "url": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8",
       "reason": "HTTP 404"
@@ -1123,11 +1108,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vistaar News (1080p)",
-      "url": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
@@ -1348,16 +1328,6 @@
       "name": "Raj Pariwar (576p)",
       "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Prime9 News (1080p)",
-      "url": "https://stream.ottlive.co.in/prime9news/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Prime9 News (1080p)",
-      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/25259c4f-6592-4611-b1cd-8955943617c6/index.m3u8",
-      "reason": "HTTP 504"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
