@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 16:17 UTC",
-  "fingerprint": "b58a5b9f9d1ccd527c56d2f3f4b51293",
+  "updated_at": "2026-11-16 17:30 UTC",
+  "fingerprint": "8fdf61ca1df4eb9888c3bc5b213f290e",
   "total": 1840,
   "working": 1591,
-  "in_grace_period": 13,
+  "in_grace_period": 11,
   "dead": 249,
-  "hd_channels": 622,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 82,
+      "working": 83,
       "hd": 41
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 144,
       "working": 126,
-      "hd": 50
+      "hd": 49
     },
     "Gujarati": {
       "total": 47,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 640,
+      "working": 639,
       "hd": 227
     },
     "Kannada": {
@@ -290,8 +290,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -390,11 +390,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -413,6 +408,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -488,6 +488,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -630,11 +635,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -713,11 +713,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1 India (576p)",
@@ -1282,52 +1277,57 @@
     {
       "name": "Colors HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Colors Bangla HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Colors Bangla Cinema (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Enterr 10 Bangla (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Jalsha Movies (720p)",
       "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-      "reason": "URLError"
+      "reason": "RemoteDisconnected"
     },
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sony Aath (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
