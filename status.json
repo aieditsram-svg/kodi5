@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 02:47 UTC",
-  "fingerprint": "3c504bdbce7c7cd2dfd8df515ff5c29a",
+  "updated_at": "2026-11-17 03:37 UTC",
+  "fingerprint": "af152cdef2e61dabfbf7185ea648468a",
   "total": 1835,
-  "working": 1590,
-  "in_grace_period": 14,
-  "dead": 245,
-  "hd_channels": 619,
+  "working": 1588,
+  "in_grace_period": 12,
+  "dead": 247,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 123,
       "working": 84,
-      "hd": 40
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 639,
-      "hd": 228
+      "working": 636,
+      "hd": 227
     },
     "Kannada": {
       "total": 77,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 155,
-      "hd": 56
+      "working": 156,
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -153,6 +153,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -275,6 +280,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -328,11 +338,6 @@
       "name": "Dhool TV (576p)",
       "url": "https://fta.ektv.in/live/631/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Dukhnivaran Patiala Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -522,7 +527,7 @@
     {
       "name": "HNN 24x7 (576p)",
       "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -593,11 +598,6 @@
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Kabaddi 24x7 (720p)",
-      "url": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Kairali Arabia (576p)",
@@ -933,6 +933,11 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1308,6 +1313,11 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
