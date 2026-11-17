@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-17 13:38 UTC",
-  "fingerprint": "9402084e69fee70ffbc5fd56beb3a176",
+  "updated_at": "2026-11-17 14:37 UTC",
+  "fingerprint": "87c1d2dafe0336b2267eebda45984942",
   "total": 1827,
-  "working": 1588,
-  "in_grace_period": 5,
-  "dead": 239,
+  "working": 1589,
+  "in_grace_period": 13,
+  "dead": 238,
   "hd_channels": 624,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 741,
-      "working": 638,
-      "hd": 228
+      "working": 639,
+      "hd": 229
     },
     "Kannada": {
       "total": 77,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 164,
       "working": 155,
-      "hd": 58
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -492,7 +492,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -660,11 +660,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -692,7 +687,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
