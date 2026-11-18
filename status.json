@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 20:23 UTC",
-  "fingerprint": "848b9cfc494cac4df74966a0c7479fe0",
+  "updated_at": "2026-11-18 21:16 UTC",
+  "fingerprint": "b0bfef65c987f1f0e162eaf93e15785d",
   "total": 1827,
-  "working": 1573,
-  "in_grace_period": 7,
-  "dead": 254,
-  "hd_channels": 619,
+  "working": 1572,
+  "in_grace_period": 11,
+  "dead": 255,
+  "hd_channels": 618,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 626,
-      "hd": 228
+      "working": 625,
+      "hd": 227
     },
     "Kannada": {
       "total": 78,
@@ -330,6 +330,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Kisan (576p)",
       "url": "https://fta.ektv.in/live/148/148_0.m3u8",
       "reason": "HTTP 404"
@@ -422,7 +427,7 @@
     {
       "name": "Enterr 10 Bangla (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Epic Music (576p)",
@@ -497,7 +502,7 @@
     {
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "FashionTV (576p)",
@@ -622,7 +627,7 @@
     {
       "name": "Jalsha Movies (720p)",
       "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Jan TV (576p)",
