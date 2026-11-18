@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 01:56 UTC",
-  "fingerprint": "525c48344e7672f29af9d53f22fefd39",
+  "updated_at": "2026-11-18 02:45 UTC",
+  "fingerprint": "196fae0535861308b5e18c81155cd343",
   "total": 1828,
-  "working": 1592,
-  "in_grace_period": 11,
-  "dead": 236,
-  "hd_channels": 622,
+  "working": 1587,
+  "in_grace_period": 12,
+  "dead": 241,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 638,
-      "hd": 229
+      "working": 634,
+      "hd": 230
     },
     "Kannada": {
       "total": 78,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 164,
-      "working": 156,
+      "working": 155,
       "hd": 57
     },
     "Santali": {
@@ -120,6 +120,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
@@ -148,6 +153,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -233,6 +243,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -485,6 +500,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -503,6 +523,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
