@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 04:39 UTC",
-  "fingerprint": "bf39c643cd9395e5e1616ab7ae65d76b",
+  "updated_at": "2026-11-18 05:40 UTC",
+  "fingerprint": "fbe0c0e9225e0f52894306510ef2a615",
   "total": 1827,
-  "working": 1582,
-  "in_grace_period": 8,
-  "dead": 245,
-  "hd_channels": 623,
+  "working": 1583,
+  "in_grace_period": 13,
+  "dead": 244,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 124,
       "working": 85,
-      "hd": 42
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 631,
-      "hd": 230
+      "working": 632,
+      "hd": 231
     },
     "Kannada": {
       "total": 78,
@@ -140,11 +140,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "22Scope News (1080p)",
-      "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
       "reason": "not a valid HLS manifest"
@@ -158,11 +153,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -748,6 +738,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
