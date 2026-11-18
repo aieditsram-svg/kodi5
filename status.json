@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 13:53 UTC",
-  "fingerprint": "a7ffb1ac442ebb2b94fccac80a4db201",
+  "updated_at": "2026-11-18 14:40 UTC",
+  "fingerprint": "23cf5089de6e2d20e8c1a05fad32d32b",
   "total": 1827,
-  "working": 1595,
-  "in_grace_period": 12,
-  "dead": 232,
-  "hd_channels": 621,
+  "working": 1597,
+  "in_grace_period": 17,
+  "dead": 230,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
-      "hd": 42
+      "working": 87,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 743,
       "working": 643,
-      "hd": 228
+      "hd": 229
     },
     "Kannada": {
       "total": 78,
@@ -565,11 +565,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Jalsha Movies (1080p)",
-      "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Jalsha Movies (720p)",
       "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
       "reason": "HTTP 403"
@@ -905,11 +900,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -987,7 +977,7 @@
     {
       "name": "Sony Aath (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sony Pal (576p)",
@@ -1002,7 +992,7 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Spondon (1080p)",
@@ -1027,7 +1017,7 @@
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Starnet (480p)",
@@ -1052,7 +1042,7 @@
     {
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "STV Haryana News (576p)",
