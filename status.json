@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 16:39 UTC",
-  "fingerprint": "d3e84fc1ecb1bdb4980935c9131f7544",
+  "updated_at": "2026-11-18 17:37 UTC",
+  "fingerprint": "0d8645c54fb058b49a48ab7b9b76e686",
   "total": 1827,
-  "working": 1592,
-  "in_grace_period": 25,
-  "dead": 235,
-  "hd_channels": 625,
+  "working": 1594,
+  "in_grace_period": 32,
+  "dead": 233,
+  "hd_channels": 624,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 53,
       "working": 45,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 141,
+      "working": 142,
       "hd": 68
     },
     "Telugu": {
       "total": 171,
-      "working": 143,
+      "working": 144,
       "hd": 57
     },
     "Urdu": {
@@ -143,11 +143,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -300,11 +295,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -398,11 +388,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -805,11 +790,6 @@
       "reason": "URLError"
     },
     {
-      "name": "OM TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -963,6 +943,16 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
