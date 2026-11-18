@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 22:06 UTC",
-  "fingerprint": "191bd91455cab7d2a3d49f8d4b1fbefe",
+  "updated_at": "2026-11-18 22:55 UTC",
+  "fingerprint": "b8638242706f4f5f5ca50e3bedb91a38",
   "total": 1827,
-  "working": 1571,
-  "in_grace_period": 8,
-  "dead": 256,
-  "hd_channels": 619,
+  "working": 1565,
+  "in_grace_period": 3,
+  "dead": 262,
+  "hd_channels": 618,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 626,
-      "hd": 228
+      "working": 623,
+      "hd": 227
     },
     "Kannada": {
       "total": 78,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 142,
+      "working": 139,
       "hd": 57
     },
     "Urdu": {
@@ -108,6 +108,11 @@
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "7X Music (360p)",
+      "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9X Jalwa (576p)",
@@ -450,6 +455,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -468,6 +478,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -693,6 +708,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1158,6 +1178,16 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Steelbird Music (720p) [Not 24/7]",
+      "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Studio One + (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "STV Haryana News (576p)",
