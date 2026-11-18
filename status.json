@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 15:36 UTC",
-  "fingerprint": "ed98f3615e480cdbe9bd8e3933306f59",
+  "updated_at": "2026-11-18 16:39 UTC",
+  "fingerprint": "d3e84fc1ecb1bdb4980935c9131f7544",
   "total": 1827,
-  "working": 1593,
-  "in_grace_period": 13,
-  "dead": 234,
-  "hd_channels": 623,
+  "working": 1592,
+  "in_grace_period": 25,
+  "dead": 235,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 86,
+      "working": 87,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 641,
-      "hd": 228
+      "working": 639,
+      "hd": 229
     },
     "Kannada": {
       "total": 78,
@@ -59,8 +59,8 @@
     },
     "Marathi": {
       "total": 53,
-      "working": 44,
-      "hd": 19
+      "working": 45,
+      "hd": 20
     },
     "Nepali": {
       "total": 6,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 144,
+      "working": 143,
       "hd": 57
     },
     "Urdu": {
@@ -143,6 +143,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -395,6 +400,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -445,11 +455,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Fakt Marathi (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
       "reason": "HTTP 404"
@@ -478,6 +483,11 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -1023,11 +1033,6 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
