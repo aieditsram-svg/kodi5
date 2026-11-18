@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-18 14:40 UTC",
-  "fingerprint": "23cf5089de6e2d20e8c1a05fad32d32b",
+  "updated_at": "2026-11-18 15:36 UTC",
+  "fingerprint": "ed98f3615e480cdbe9bd8e3933306f59",
   "total": 1827,
-  "working": 1597,
-  "in_grace_period": 17,
-  "dead": 230,
+  "working": 1593,
+  "in_grace_period": 13,
+  "dead": 234,
   "hd_channels": 623,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 87,
+      "working": 86,
       "hd": 43
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 144,
-      "working": 125,
-      "hd": 49
+      "working": 126,
+      "hd": 50
     },
     "Gujarati": {
       "total": 47,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 643,
-      "hd": 229
+      "working": 641,
+      "hd": 228
     },
     "Kannada": {
       "total": 78,
@@ -59,7 +59,7 @@
     },
     "Marathi": {
       "total": 53,
-      "working": 45,
+      "working": 44,
       "hd": 19
     },
     "Nepali": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 142,
+      "working": 141,
       "hd": 68
     },
     "Telugu": {
@@ -295,6 +295,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -440,6 +445,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Fakt Marathi (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
       "reason": "HTTP 404"
@@ -512,11 +522,6 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -635,6 +640,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -725,6 +735,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News Live Bangla (1080p)",
+      "url": "https://stream.ottlive.co.in/newslivebangla/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
@@ -778,6 +793,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "OM TV (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -977,7 +997,7 @@
     {
       "name": "Sony Aath (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sony Pal (576p)",
@@ -992,7 +1012,7 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Spondon (1080p)",
@@ -1017,7 +1037,7 @@
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Starnet (480p)",
@@ -1042,7 +1062,7 @@
     {
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "STV Haryana News (576p)",
