@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-18 10:44 UTC",
-  "fingerprint": "cca50225ecb8c93b4dd42bb371205f9f",
+  "updated_at": "2026-11-18 11:39 UTC",
+  "fingerprint": "80c08c391500f9152fa65e6d21e7a897",
   "total": 1827,
-  "working": 1588,
-  "in_grace_period": 18,
-  "dead": 239,
+  "working": 1591,
+  "in_grace_period": 7,
+  "dead": 236,
   "hd_channels": 622,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 86,
+      "working": 87,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 637,
-      "hd": 229
+      "working": 639,
+      "hd": 228
     },
     "Kannada": {
       "total": 78,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 36,
       "working": 28,
-      "hd": 11
+      "hd": 12
     },
     "Other": {
       "total": 24,
@@ -297,11 +297,6 @@
     {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -640,11 +635,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -658,11 +648,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
