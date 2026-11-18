@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 22:55 UTC",
-  "fingerprint": "b8638242706f4f5f5ca50e3bedb91a38",
+  "updated_at": "2026-11-18 23:40 UTC",
+  "fingerprint": "0dbe5783659808dd4a6380dc47b21d4c",
   "total": 1827,
-  "working": 1565,
-  "in_grace_period": 3,
-  "dead": 262,
-  "hd_channels": 618,
+  "working": 1567,
+  "in_grace_period": 6,
+  "dead": 260,
+  "hd_channels": 617,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 743,
       "working": 623,
-      "hd": 227
+      "hd": 226
     },
     "Kannada": {
       "total": 78,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 139,
+      "working": 141,
       "hd": 57
     },
     "Urdu": {
@@ -453,11 +453,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1182,11 +1177,6 @@
     {
       "name": "Steelbird Music (720p) [Not 24/7]",
       "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Studio One + (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
