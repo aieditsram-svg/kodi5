@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 12:37 UTC",
-  "fingerprint": "135c985464cb193a35c2b26ac883fc6d",
+  "updated_at": "2026-11-18 13:53 UTC",
+  "fingerprint": "a7ffb1ac442ebb2b94fccac80a4db201",
   "total": 1827,
-  "working": 1593,
-  "in_grace_period": 15,
-  "dead": 234,
-  "hd_channels": 622,
+  "working": 1595,
+  "in_grace_period": 12,
+  "dead": 232,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 87,
-      "hd": 43
+      "working": 85,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 640,
+      "working": 643,
       "hd": 228
     },
     "Kannada": {
       "total": 78,
-      "working": 61,
+      "working": 62,
       "hd": 27
     },
     "Konkani": {
@@ -54,13 +54,13 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 96,
-      "hd": 35
+      "working": 98,
+      "hd": 36
     },
     "Marathi": {
       "total": 53,
-      "working": 44,
-      "hd": 20
+      "working": 45,
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 141,
+      "working": 142,
       "hd": 68
     },
     "Telugu": {
       "total": 171,
-      "working": 142,
+      "working": 144,
       "hd": 57
     },
     "Urdu": {
@@ -390,11 +390,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -495,11 +490,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -573,6 +563,11 @@
       "name": "Jaihind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Jalsha Movies (1080p)",
+      "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Jalsha Movies (720p)",
@@ -780,11 +775,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -833,11 +823,6 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -918,6 +903,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1025,6 +1015,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1063,11 +1058,6 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
