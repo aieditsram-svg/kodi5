@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 18:26 UTC",
-  "fingerprint": "75fdb9c0e9b0ce1d8679557e1233488b",
+  "updated_at": "2026-11-18 19:26 UTC",
+  "fingerprint": "d70d60c445445c799d83b0a2ee52027e",
   "total": 1827,
-  "working": 1580,
-  "in_grace_period": 17,
-  "dead": 247,
-  "hd_channels": 624,
+  "working": 1579,
+  "in_grace_period": 12,
+  "dead": 248,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 629,
-      "hd": 229
+      "working": 628,
+      "hd": 228
     },
     "Kannada": {
       "total": 78,
@@ -690,11 +690,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -938,6 +933,16 @@
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
+    },
+    {
+      "name": "Republic Bharat (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVREPUBLICBHARAT/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Republic Bharat (576p)",
+      "url": "https://streams.tangotv.in/REPUBLICBHARAT/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
