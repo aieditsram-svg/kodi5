@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 01:52 UTC",
-  "fingerprint": "098d9c2ec36339640f632c9620b8086a",
-  "total": 1827,
-  "working": 1569,
-  "in_grace_period": 16,
-  "dead": 258,
-  "hd_channels": 618,
+  "updated_at": "2026-11-19 02:39 UTC",
+  "fingerprint": "ae478265de704216d11695e9ef9a9e25",
+  "total": 1870,
+  "working": 1608,
+  "in_grace_period": 14,
+  "dead": 262,
+  "hd_channels": 636,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -28,19 +28,19 @@
       "hd": 0
     },
     "English": {
-      "total": 144,
-      "working": 122,
-      "hd": 50
+      "total": 145,
+      "working": 123,
+      "hd": 51
     },
     "Gujarati": {
-      "total": 47,
-      "working": 44,
-      "hd": 20
+      "total": 48,
+      "working": 45,
+      "hd": 21
     },
     "Hindi": {
-      "total": 743,
-      "working": 624,
-      "hd": 226
+      "total": 757,
+      "working": 635,
+      "hd": 233
     },
     "Kannada": {
       "total": 78,
@@ -78,9 +78,9 @@
       "hd": 12
     },
     "Punjabi": {
-      "total": 164,
-      "working": 153,
-      "hd": 55
+      "total": 166,
+      "working": 155,
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -88,14 +88,14 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 174,
-      "working": 141,
-      "hd": 68
+      "total": 175,
+      "working": 142,
+      "hd": 69
     },
     "Telugu": {
-      "total": 171,
-      "working": 142,
-      "hd": 57
+      "total": 195,
+      "working": 165,
+      "hd": 64
     },
     "Urdu": {
       "total": 22,
@@ -218,6 +218,11 @@
       "name": "Bhakthi Siri (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Bhakti Play (1080p)",
+      "url": "https://onetakemedia.vgcdn.net/vglive-sk-548610/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bharat Samachar (576p)",
@@ -453,6 +458,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1075,6 +1085,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Sikh Ratnavali (1080p)",
+      "url": "https://livetv.kableone.com/hls/live/2111218/SikhRatnavali/master.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Siri Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1198,6 +1213,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
