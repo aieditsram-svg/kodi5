@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-19 06:34 UTC",
-  "fingerprint": "9281b2e51d3b03d2659961cb35232600",
+  "updated_at": "2026-11-19 07:54 UTC",
+  "fingerprint": "2201f086d6fdf647f8e98a923758f5d2",
   "total": 1870,
-  "working": 1627,
+  "working": 1628,
   "in_grace_period": 10,
-  "dead": 243,
+  "dead": 242,
   "hd_channels": 641,
   "languages": {
     "Assamese": {
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
-      "hd": 43
+      "working": 83,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 645,
-      "hd": 234
+      "working": 648,
+      "hd": 235
     },
     "Kannada": {
       "total": 78,
@@ -108,11 +108,6 @@
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "7X Music (360p)",
-      "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9X Jalwa (576p)",
@@ -188,11 +183,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -842,12 +832,12 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -955,6 +945,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -988,6 +983,11 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shiksha TV (720p)",
+      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
+      "reason": "empty HLS manifest"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1098,11 +1098,6 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Steelbird Music (720p) [Not 24/7]",
-      "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "STV Haryana News (576p)",
