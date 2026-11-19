@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 12:38 UTC",
-  "fingerprint": "f6bebbce35178b92f275f21fa7fae7ed",
+  "updated_at": "2026-11-19 13:55 UTC",
+  "fingerprint": "58b033357c0d7a4881095b07fdbb79e6",
   "total": 1870,
-  "working": 1633,
-  "in_grace_period": 11,
-  "dead": 237,
-  "hd_channels": 644,
+  "working": 1631,
+  "in_grace_period": 15,
+  "dead": 239,
+  "hd_channels": 643,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 650,
+      "working": 648,
       "hd": 236
     },
     "Kannada": {
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 53,
       "working": 44,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
@@ -143,6 +143,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -302,11 +307,6 @@
     {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -865,6 +865,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1103,6 +1108,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
