@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 13:55 UTC",
-  "fingerprint": "58b033357c0d7a4881095b07fdbb79e6",
+  "updated_at": "2026-11-19 14:43 UTC",
+  "fingerprint": "188dac4c26f42e0a43985e64f03e59cc",
   "total": 1870,
   "working": 1631,
-  "in_grace_period": 15,
+  "in_grace_period": 10,
   "dead": 239,
-  "hd_channels": 643,
+  "hd_channels": 642,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 145,
-      "working": 126,
-      "hd": 50
+      "working": 127,
+      "hd": 51
     },
     "Gujarati": {
       "total": 48,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 757,
       "working": 648,
-      "hd": 236
+      "hd": 235
     },
     "Kannada": {
       "total": 78,
@@ -74,8 +74,8 @@
     },
     "Other": {
       "total": 24,
-      "working": 21,
-      "hd": 12
+      "working": 20,
+      "hd": 11
     },
     "Punjabi": {
       "total": 166,
@@ -515,6 +515,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -537,11 +542,6 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -757,7 +757,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -863,11 +863,6 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1157,6 +1152,11 @@
     {
       "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
       "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Travelxp Russia (1080p)",
+      "url": "http://stream.mcquack.net/451/index.m3u8",
       "reason": "HTTP 403"
     },
     {
