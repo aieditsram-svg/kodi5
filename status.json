@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 22:12 UTC",
-  "fingerprint": "f74df05bf65c8a7559f19d156e169bc9",
+  "updated_at": "2026-11-19 22:57 UTC",
+  "fingerprint": "32a5b4927fbe11883b874172474c9ee5",
   "total": 1870,
-  "working": 1632,
-  "in_grace_period": 13,
-  "dead": 238,
-  "hd_channels": 638,
+  "working": 1627,
+  "in_grace_period": 6,
+  "dead": 243,
+  "hd_channels": 636,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 651,
-      "hd": 232
+      "working": 647,
+      "hd": 230
     },
     "Kannada": {
       "total": 78,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 158,
+      "working": 157,
       "hd": 58
     },
     "Santali": {
@@ -1110,6 +1110,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Tabbar Hits (576p)",
+      "url": "https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Tarang TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tarang/index.m3u8",
       "reason": "TimeoutError"
@@ -1153,6 +1158,26 @@
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "TV7 Bharat (1080p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/797fcff8-10d6-4c9c-a409-8d0c4fa5c8dd/index.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
+      "name": "TV7 Bharat (576p)",
+      "url": "https://stream.ottlive.co.in/tv7bharat/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "TV7 National (1080p)",
+      "url": "https://stream.ottlive.co.in/tv7national/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "TV7 National (1080p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/05ceedc9-7ebd-4417-ba99-654f805a6b9a/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Valam TV Dayro (576p)",
