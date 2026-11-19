@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 21:21 UTC",
-  "fingerprint": "e152122216143a30aceb2d61e1c020e4",
+  "updated_at": "2026-11-19 22:12 UTC",
+  "fingerprint": "f74df05bf65c8a7559f19d156e169bc9",
   "total": 1870,
-  "working": 1630,
-  "in_grace_period": 12,
-  "dead": 240,
-  "hd_channels": 637,
+  "working": 1632,
+  "in_grace_period": 13,
+  "dead": 238,
+  "hd_channels": 638,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 650,
+      "working": 651,
       "hd": 232
     },
     "Kannada": {
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 195,
-      "working": 165,
-      "hd": 63
+      "working": 166,
+      "hd": 64
     },
     "Urdu": {
       "total": 22,
@@ -655,11 +655,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1047,11 +1042,6 @@
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Sports 2 Telugu HD (576p)",
-      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
       "reason": "URLError"
     },
     {
