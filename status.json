@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-19 00:33 UTC",
-  "fingerprint": "7589b88ac668a1a8e7d7e36918069087",
+  "updated_at": "2026-11-19 01:52 UTC",
+  "fingerprint": "098d9c2ec36339640f632c9620b8086a",
   "total": 1827,
-  "working": 1568,
-  "in_grace_period": 8,
-  "dead": 259,
+  "working": 1569,
+  "in_grace_period": 16,
+  "dead": 258,
   "hd_channels": 618,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 623,
+      "working": 624,
       "hd": 226
     },
     "Kannada": {
@@ -403,11 +403,6 @@
       "name": "Dharsan TV (720p)",
       "url": "https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dheeran TV (576p)",
-      "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Dhool TV (576p)",
