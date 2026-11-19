@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 15:40 UTC",
-  "fingerprint": "0aa13b38f262670dc3e495e218ba2dd1",
+  "updated_at": "2026-11-19 16:42 UTC",
+  "fingerprint": "7e1587abf0bfa3f9f312b07041509c10",
   "total": 1870,
-  "working": 1639,
-  "in_grace_period": 6,
-  "dead": 231,
-  "hd_channels": 643,
+  "working": 1640,
+  "in_grace_period": 22,
+  "dead": 230,
+  "hd_channels": 641,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -30,7 +30,7 @@
     "English": {
       "total": 145,
       "working": 126,
-      "hd": 51
+      "hd": 50
     },
     "Gujarati": {
       "total": 48,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 655,
-      "hd": 235
+      "working": 654,
+      "hd": 234
     },
     "Kannada": {
       "total": 78,
@@ -59,7 +59,7 @@
     },
     "Marathi": {
       "total": 53,
-      "working": 44,
+      "working": 45,
       "hd": 19
     },
     "Nepali": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 175,
-      "working": 145,
+      "working": 146,
       "hd": 72
     },
     "Telugu": {
@@ -445,11 +445,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Fakt Marathi (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
       "reason": "HTTP 404"
@@ -700,11 +695,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 7 Tamil (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWS7TAMIL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News18 Kannada (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8",
       "reason": "HTTP 404"
@@ -822,6 +812,11 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
