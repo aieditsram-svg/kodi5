@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 07:54 UTC",
-  "fingerprint": "2201f086d6fdf647f8e98a923758f5d2",
+  "updated_at": "2026-11-19 08:51 UTC",
+  "fingerprint": "01d5487d2622aa5c13ed1a82228b000a",
   "total": 1870,
-  "working": 1628,
-  "in_grace_period": 10,
-  "dead": 242,
-  "hd_channels": 641,
+  "working": 1630,
+  "in_grace_period": 17,
+  "dead": 240,
+  "hd_channels": 642,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 175,
-      "working": 143,
-      "hd": 71
+      "working": 145,
+      "hd": 72
     },
     "Telugu": {
       "total": 195,
@@ -828,16 +828,6 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
