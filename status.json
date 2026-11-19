@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 16:42 UTC",
-  "fingerprint": "7e1587abf0bfa3f9f312b07041509c10",
+  "updated_at": "2026-11-19 17:37 UTC",
+  "fingerprint": "dc3a7646a7c3c0d529726279dc05d250",
   "total": 1870,
-  "working": 1640,
-  "in_grace_period": 22,
-  "dead": 230,
-  "hd_channels": 641,
+  "working": 1641,
+  "in_grace_period": 17,
+  "dead": 229,
+  "hd_channels": 642,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 145,
-      "working": 126,
+      "working": 127,
       "hd": 50
     },
     "Gujarati": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 654,
+      "working": 655,
       "hd": 234
     },
     "Kannada": {
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 53,
       "working": 45,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 6,
@@ -817,7 +817,7 @@
     {
       "name": "Public First (576p)",
       "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Public Music (576p)",
@@ -888,11 +888,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sansad TV 1 HD (1080p)",
-      "url": "https://fta.ektv.in/live/718/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
