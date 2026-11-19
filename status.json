@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 23:40 UTC",
-  "fingerprint": "0dbe5783659808dd4a6380dc47b21d4c",
+  "updated_at": "2026-11-19 00:33 UTC",
+  "fingerprint": "7589b88ac668a1a8e7d7e36918069087",
   "total": 1827,
-  "working": 1567,
-  "in_grace_period": 6,
-  "dead": 260,
-  "hd_channels": 617,
+  "working": 1568,
+  "in_grace_period": 8,
+  "dead": 259,
+  "hd_channels": 618,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 83,
+      "working": 84,
       "hd": 41
     },
     "Bhojpuri": {
@@ -44,7 +44,7 @@
     },
     "Kannada": {
       "total": 78,
-      "working": 60,
+      "working": 61,
       "hd": 27
     },
     "Konkani": {
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 95,
-      "hd": 35
+      "working": 97,
+      "hd": 36
     },
     "Marathi": {
       "total": 53,
-      "working": 44,
+      "working": 45,
       "hd": 20
     },
     "Nepali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 140,
+      "working": 141,
       "hd": 68
     },
     "Telugu": {
       "total": 171,
-      "working": 141,
+      "working": 142,
       "hd": 57
     },
     "Urdu": {
@@ -257,7 +257,7 @@
     {
       "name": "Colors Bangla Cinema (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Colors Bangla HD (1080p)",
@@ -272,7 +272,7 @@
     {
       "name": "Colors Bangla HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Colors HD (1080p)",
@@ -282,7 +282,7 @@
     {
       "name": "Colors HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "CTVN AKD Plus (576p)",
@@ -405,6 +405,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Dheeran TV (576p)",
+      "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Dhool TV (576p)",
       "url": "https://fta.ektv.in/live/631/master.m3u8",
       "reason": "HTTP 404"
@@ -427,7 +432,7 @@
     {
       "name": "Enterr 10 Bangla (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Epic Music (576p)",
@@ -507,7 +512,7 @@
     {
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "FashionTV (576p)",
@@ -632,7 +637,7 @@
     {
       "name": "Jalsha Movies (720p)",
       "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Jan TV (576p)",
@@ -848,11 +853,6 @@
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1107,7 +1107,7 @@
     {
       "name": "Sony Aath (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sony Pal (576p)",
@@ -1122,7 +1122,7 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Spondon (1080p)",
@@ -1147,7 +1147,7 @@
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Starnet (480p)",
@@ -1172,7 +1172,7 @@
     {
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Steelbird Music (720p) [Not 24/7]",
@@ -1183,11 +1183,6 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
