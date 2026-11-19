@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 22:57 UTC",
-  "fingerprint": "32a5b4927fbe11883b874172474c9ee5",
+  "updated_at": "2026-11-19 23:36 UTC",
+  "fingerprint": "4b584bd96144c590cb32bb3174788303",
   "total": 1870,
-  "working": 1627,
-  "in_grace_period": 6,
-  "dead": 243,
-  "hd_channels": 636,
+  "working": 1624,
+  "in_grace_period": 4,
+  "dead": 246,
+  "hd_channels": 634,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 86,
-      "hd": 42
+      "working": 84,
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 33,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 195,
-      "working": 166,
+      "working": 165,
       "hd": 64
     },
     "Urdu": {
@@ -143,6 +143,11 @@
       "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Aamar Bangla (720p)",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AKD Calcutta News (576p)",
@@ -403,6 +408,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -958,6 +968,11 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shiksha TV (720p)",
+      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
+      "reason": "empty HLS manifest"
     },
     {
       "name": "Shubh Cinema TV (576p)",
