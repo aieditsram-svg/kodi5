@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 18:31 UTC",
-  "fingerprint": "f90d7a8fdffceae4aa5a17f6b5ab4124",
+  "updated_at": "2026-11-19 19:36 UTC",
+  "fingerprint": "cc59fd83f5caab2247c95ea96a4ddce3",
   "total": 1870,
-  "working": 1631,
-  "in_grace_period": 9,
-  "dead": 239,
-  "hd_channels": 641,
+  "working": 1629,
+  "in_grace_period": 13,
+  "dead": 241,
+  "hd_channels": 639,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 650,
-      "hd": 234
+      "working": 648,
+      "hd": 232
     },
     "Kannada": {
       "total": 78,
@@ -64,8 +64,8 @@
     },
     "Nepali": {
       "total": 6,
-      "working": 6,
-      "hd": 3
+      "working": 5,
+      "hd": 2
     },
     "Odia": {
       "total": 36,
@@ -138,6 +138,11 @@
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
       "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "Aagaaz Times (1080p)",
+      "url": "https://live1.ottlive.co.in/aagaaztimes/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -532,7 +537,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -1183,6 +1188,11 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Vision Beats (720p)",
+      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
