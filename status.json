@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 04:18 UTC",
-  "fingerprint": "3ba05f3bb55ba6f2100a72be05acdcde",
+  "updated_at": "2026-11-20 05:22 UTC",
+  "fingerprint": "f71268fc869b6d6d3861bfeb9d2c9392",
   "total": 1895,
-  "working": 1643,
-  "in_grace_period": 15,
-  "dead": 252,
-  "hd_channels": 650,
+  "working": 1648,
+  "in_grace_period": 13,
+  "dead": 247,
+  "hd_channels": 653,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 88,
-      "hd": 44
+      "working": 89,
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 656,
-      "hd": 242
+      "working": 660,
+      "hd": 244
     },
     "Kannada": {
       "total": 83,
@@ -173,6 +173,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -680,11 +685,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -1005,11 +1005,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Shiksha TV (720p)",
-      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
-      "reason": "empty HLS manifest"
-    },
-    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1208,26 +1203,6 @@
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "TV7 Bharat (1080p)",
-      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/797fcff8-10d6-4c9c-a409-8d0c4fa5c8dd/index.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
-      "name": "TV7 Bharat (576p)",
-      "url": "https://stream.ottlive.co.in/tv7bharat/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "TV7 National (1080p)",
-      "url": "https://stream.ottlive.co.in/tv7national/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "TV7 National (1080p)",
-      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/05ceedc9-7ebd-4417-ba99-654f805a6b9a/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Valam TV Dayro (576p)",
