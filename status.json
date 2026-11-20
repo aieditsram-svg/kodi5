@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 03:20 UTC",
-  "fingerprint": "ad3f50c488023f5fb31d931ce961baf1",
+  "updated_at": "2026-11-20 04:18 UTC",
+  "fingerprint": "3ba05f3bb55ba6f2100a72be05acdcde",
   "total": 1895,
-  "working": 1649,
-  "in_grace_period": 14,
-  "dead": 246,
-  "hd_channels": 652,
+  "working": 1643,
+  "in_grace_period": 15,
+  "dead": 252,
+  "hd_channels": 650,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 164,
-      "working": 144,
+      "working": 145,
       "hd": 62
     },
     "Gujarati": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 663,
-      "hd": 244
+      "working": 656,
+      "hd": 242
     },
     "Kannada": {
       "total": 83,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 187,
-      "working": 156,
+      "working": 157,
       "hd": 81
     },
     "Telugu": {
@@ -315,6 +315,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -488,6 +493,11 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -675,6 +685,11 @@
       "reason": "not a valid HLS manifest"
     },
     {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -690,6 +705,16 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Mercy TV (1080p)",
+      "url": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Mercy TV (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mercy TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8",
       "reason": "HTTP 403"
@@ -698,11 +723,6 @@
       "name": "MH One Movies (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Movies Now HD (576p)",
-      "url": "http://27.124.71.27/Movies_Now/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "MTV (576p)",
@@ -735,6 +755,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -762,7 +787,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -870,11 +895,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -973,6 +993,16 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shiksha TV (720p)",
