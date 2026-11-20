@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 21:12 UTC",
-  "fingerprint": "3586287d940559e99405aa03a405c17b",
+  "updated_at": "2026-11-20 21:57 UTC",
+  "fingerprint": "3fe3f84ac9152b49c89857fc03de12c3",
   "total": 1895,
-  "working": 1655,
-  "in_grace_period": 7,
-  "dead": 240,
-  "hd_channels": 652,
+  "working": 1657,
+  "in_grace_period": 9,
+  "dead": 238,
+  "hd_channels": 653,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 667,
+      "working": 670,
       "hd": 245
     },
     "Kannada": {
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 203,
-      "working": 175,
-      "hd": 68
+      "working": 174,
+      "hd": 69
     },
     "Urdu": {
       "total": 22,
@@ -148,11 +148,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -320,11 +315,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -418,6 +408,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -518,11 +513,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
