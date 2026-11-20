@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-20 15:36 UTC",
-  "fingerprint": "f0f9fdd6e708e9c6740305c7f882c1e3",
+  "updated_at": "2026-11-20 16:33 UTC",
+  "fingerprint": "624560c69cfefa50ddd69672c52cb0af",
   "total": 1895,
   "working": 1649,
-  "in_grace_period": 18,
+  "in_grace_period": 11,
   "dead": 246,
   "hd_channels": 653,
   "languages": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 143,
-      "hd": 62
+      "working": 145,
+      "hd": 63
     },
     "Gujarati": {
       "total": 48,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 667,
-      "hd": 246
+      "working": 665,
+      "hd": 245
     },
     "Kannada": {
       "total": 83,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 187,
-      "working": 156,
+      "working": 157,
       "hd": 81
     },
     "Telugu": {
@@ -108,6 +108,11 @@
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "7X Music (1080p)",
+      "url": "https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9X Jalwa (576p)",
@@ -183,11 +188,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -545,11 +545,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -830,11 +825,6 @@
       "reason": "URLError"
     },
     {
-      "name": "OM TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -868,6 +858,11 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -946,11 +941,6 @@
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
-      "url": "https://fta.ektv.in/live/718/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
     },
@@ -983,6 +973,16 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
