@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 11:34 UTC",
-  "fingerprint": "58f6e4d87cc13df3c8587267323db8dd",
+  "updated_at": "2026-11-20 12:32 UTC",
+  "fingerprint": "237514406c3f02ecbab996ae5ddc02b3",
   "total": 1895,
-  "working": 1656,
-  "in_grace_period": 14,
-  "dead": 239,
-  "hd_channels": 656,
+  "working": 1654,
+  "in_grace_period": 15,
+  "dead": 241,
+  "hd_channels": 654,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 91,
+      "working": 90,
       "hd": 46
     },
     "Bhojpuri": {
@@ -44,8 +44,8 @@
     },
     "Kannada": {
       "total": 83,
-      "working": 67,
-      "hd": 31
+      "working": 65,
+      "hd": 30
     },
     "Konkani": {
       "total": 3,
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 123,
-      "working": 102,
-      "hd": 40
+      "working": 100,
+      "hd": 39
     },
     "Marathi": {
       "total": 56,
-      "working": 48,
+      "working": 47,
       "hd": 23
     },
     "Nepali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 187,
-      "working": 158,
+      "working": 157,
       "hd": 81
     },
     "Telugu": {
       "total": 203,
-      "working": 175,
+      "working": 174,
       "hd": 69
     },
     "Urdu": {
@@ -167,6 +167,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Ashwaveega News 24x7 (720p)",
+      "url": "https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -480,6 +485,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -645,11 +655,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -708,11 +713,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -798,6 +798,11 @@
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1088,6 +1093,11 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
