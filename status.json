@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-20 14:39 UTC",
-  "fingerprint": "838224c1cddbc79b5ddf9b7d0b0be322",
+  "updated_at": "2026-11-20 15:36 UTC",
+  "fingerprint": "f0f9fdd6e708e9c6740305c7f882c1e3",
   "total": 1895,
-  "working": 1652,
-  "in_grace_period": 13,
-  "dead": 243,
+  "working": 1649,
+  "in_grace_period": 18,
+  "dead": 246,
   "hd_channels": 653,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 87,
+      "working": 86,
       "hd": 44
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 164,
-      "working": 144,
+      "working": 143,
       "hd": 62
     },
     "Gujarati": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 187,
-      "working": 157,
+      "working": 156,
       "hd": 81
     },
     "Telugu": {
@@ -99,7 +99,7 @@
     },
     "Urdu": {
       "total": 22,
-      "working": 21,
+      "working": 20,
       "hd": 6
     }
   },
@@ -650,6 +650,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -823,6 +828,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "OM TV (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1223,6 +1233,11 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Zainabia Channel",
+      "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "ZB Cinema (1080p)",
