@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-19 23:36 UTC",
-  "fingerprint": "4b584bd96144c590cb32bb3174788303",
-  "total": 1870,
-  "working": 1624,
-  "in_grace_period": 4,
+  "updated_at": "2026-11-20 00:22 UTC",
+  "fingerprint": "c6615186210c0937f5f19b91e4b8d8d9",
+  "total": 1895,
+  "working": 1649,
+  "in_grace_period": 3,
   "dead": 246,
-  "hd_channels": 634,
+  "hd_channels": 651,
   "languages": {
     "Assamese": {
-      "total": 40,
-      "working": 36,
+      "total": 42,
+      "working": 38,
       "hd": 13
     },
     "Bengali": {
-      "total": 124,
-      "working": 84,
-      "hd": 40
+      "total": 129,
+      "working": 89,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -28,9 +28,9 @@
       "hd": 0
     },
     "English": {
-      "total": 145,
-      "working": 125,
-      "hd": 50
+      "total": 164,
+      "working": 144,
+      "hd": 62
     },
     "Gujarati": {
       "total": 48,
@@ -38,14 +38,14 @@
       "hd": 21
     },
     "Hindi": {
-      "total": 757,
-      "working": 647,
-      "hd": 230
+      "total": 774,
+      "working": 665,
+      "hd": 243
     },
     "Kannada": {
-      "total": 78,
-      "working": 61,
-      "hd": 27
+      "total": 83,
+      "working": 66,
+      "hd": 31
     },
     "Konkani": {
       "total": 3,
@@ -53,14 +53,14 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 118,
-      "working": 96,
-      "hd": 35
+      "total": 123,
+      "working": 101,
+      "hd": 39
     },
     "Marathi": {
-      "total": 53,
-      "working": 44,
-      "hd": 20
+      "total": 56,
+      "working": 47,
+      "hd": 23
     },
     "Nepali": {
       "total": 6,
@@ -78,8 +78,8 @@
       "hd": 11
     },
     "Punjabi": {
-      "total": 166,
-      "working": 157,
+      "total": 167,
+      "working": 158,
       "hd": 58
     },
     "Santali": {
@@ -88,14 +88,14 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 175,
-      "working": 144,
-      "hd": 72
+      "total": 187,
+      "working": 156,
+      "hd": 81
     },
     "Telugu": {
-      "total": 195,
-      "working": 165,
-      "hd": 64
+      "total": 203,
+      "working": 172,
+      "hd": 70
     },
     "Urdu": {
       "total": 22,
@@ -123,16 +123,6 @@
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9XM (1080p)",
-      "url": "https://epiconvh.akamaized.net/live/9XM/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "&TV International (1080p)",
-      "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Aagaaz Times (1080p)",
@@ -435,6 +425,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -663,6 +658,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
