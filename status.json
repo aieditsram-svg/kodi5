@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-20 07:46 UTC",
-  "fingerprint": "b2978f5c366f0ed59db96bb1a32aed6a",
+  "updated_at": "2026-11-20 08:45 UTC",
+  "fingerprint": "21cbed7a4c5e5b310ed3d501a4280edb",
   "total": 1895,
-  "working": 1653,
-  "in_grace_period": 10,
-  "dead": 242,
+  "working": 1654,
+  "in_grace_period": 14,
+  "dead": 241,
   "hd_channels": 656,
   "languages": {
     "Assamese": {
@@ -19,7 +19,7 @@
     },
     "Bhojpuri": {
       "total": 33,
-      "working": 30,
+      "working": 31,
       "hd": 13
     },
     "Chhattisgarhi": {
@@ -223,11 +223,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bhojpuri Cinema (576p)",
-      "url": "https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
