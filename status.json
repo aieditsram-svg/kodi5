@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-20 08:45 UTC",
-  "fingerprint": "21cbed7a4c5e5b310ed3d501a4280edb",
+  "updated_at": "2026-11-20 09:41 UTC",
+  "fingerprint": "8ba576f38114d4ad240f8527def5df4e",
   "total": 1895,
-  "working": 1654,
-  "in_grace_period": 14,
-  "dead": 241,
+  "working": 1650,
+  "in_grace_period": 7,
+  "dead": 245,
   "hd_channels": 656,
   "languages": {
     "Assamese": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 664,
-      "hd": 246
+      "working": 663,
+      "hd": 245
     },
     "Kannada": {
       "total": 83,
-      "working": 66,
+      "working": 67,
       "hd": 31
     },
     "Konkani": {
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 123,
-      "working": 101,
-      "hd": 39
+      "working": 102,
+      "hd": 40
     },
     "Marathi": {
       "total": 56,
-      "working": 47,
+      "working": 48,
       "hd": 23
     },
     "Nepali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 187,
-      "working": 157,
+      "working": 158,
       "hd": 81
     },
     "Telugu": {
       "total": 203,
-      "working": 174,
+      "working": 173,
       "hd": 69
     },
     "Urdu": {
@@ -223,6 +223,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -410,6 +415,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -428,6 +438,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -665,6 +680,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -673,6 +693,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Mathrubhumi News (240p)",
+      "url": "https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Mazhavil Manorama (576p)",
@@ -813,11 +838,6 @@
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1010,6 +1030,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sony Aath (1080p)",
+      "url": "http://27.124.71.27/Sony_Aath/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Sony Aath (576p)",
       "url": "http://103.135.253.32:8080/SONY_AATH/index.m3u8",
       "reason": "URLError"
@@ -1093,11 +1118,6 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
