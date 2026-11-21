@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 18:40 UTC",
-  "fingerprint": "f073d90883c30a13338e7f6536f0fdc3",
+  "updated_at": "2026-11-21 19:29 UTC",
+  "fingerprint": "6d37d4e6049e2a4fb4639857650db8bb",
   "total": 1969,
   "working": 1723,
-  "in_grace_period": 12,
+  "in_grace_period": 14,
   "dead": 246,
-  "hd_channels": 691,
+  "hd_channels": 690,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 134,
       "working": 94,
-      "hd": 48
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 34,
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 702,
+      "working": 703,
       "hd": 265
     },
     "Kannada": {
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
+      "working": 179,
       "hd": 72
     },
     "Urdu": {
@@ -408,6 +408,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -745,11 +750,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Network 10",
       "url": "https://network10.livebox.co.in/network10hls/live.m3u8",
       "reason": "HTTP 404"
@@ -952,7 +952,7 @@
     {
       "name": "Sai TV",
       "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Samay Kolkata (1080p)",
