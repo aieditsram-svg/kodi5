@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 00:14 UTC",
-  "fingerprint": "23969c0847253675ba1c13c4dd9254c7",
+  "updated_at": "2026-11-21 01:26 UTC",
+  "fingerprint": "4666753b34282ac6a36256976388f8e6",
   "total": 1969,
-  "working": 1727,
-  "in_grace_period": 13,
-  "dead": 242,
-  "hd_channels": 689,
+  "working": 1722,
+  "in_grace_period": 15,
+  "dead": 247,
+  "hd_channels": 687,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 93,
-      "hd": 44
+      "working": 90,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 34,
@@ -44,13 +44,13 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 706,
-      "hd": 264
+      "working": 703,
+      "hd": 263
     },
     "Kannada": {
       "total": 88,
-      "working": 70,
-      "hd": 34
+      "working": 71,
+      "hd": 35
     },
     "Konkani": {
       "total": 3,
@@ -69,8 +69,8 @@
     },
     "Nepali": {
       "total": 6,
-      "working": 6,
-      "hd": 3
+      "working": 5,
+      "hd": 2
     },
     "Odia": {
       "total": 38,
@@ -165,6 +165,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "ANB News (720p)",
+      "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
@@ -177,11 +182,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Ashwaveega News 24x7 (720p)",
-      "url": "https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -860,6 +860,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -1195,6 +1200,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Vision Beats (720p)",
+      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Vistaar News (576p)",
       "url": "https://vistaarnews.com/livetv-stream/test.m3u8",
       "reason": "HTTP 404"
@@ -1227,6 +1237,16 @@
     {
       "name": "Zainabia Channel",
       "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Bhakti (720p)",
+      "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1308,6 +1328,11 @@
       "name": "Zee TV HD (1080p)",
       "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZillarBarta News",
+      "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
