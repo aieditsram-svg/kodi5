@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 07:54 UTC",
-  "fingerprint": "b7ea6b4c9f16812ee59bb569505a665e",
+  "updated_at": "2026-11-21 08:39 UTC",
+  "fingerprint": "7df61f533657e8fde41a20b89abad4a0",
   "total": 1969,
-  "working": 1722,
-  "in_grace_period": 10,
-  "dead": 247,
-  "hd_channels": 691,
+  "working": 1721,
+  "in_grace_period": 13,
+  "dead": 248,
+  "hd_channels": 688,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 93,
+      "working": 92,
       "hd": 47
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 176,
       "working": 158,
-      "hd": 71
+      "hd": 72
     },
     "Gujarati": {
       "total": 49,
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 700,
-      "hd": 265
+      "working": 699,
+      "hd": 263
     },
     "Kannada": {
       "total": 88,
@@ -65,7 +65,7 @@
     "Marathi": {
       "total": 59,
       "working": 50,
-      "hd": 25
+      "hd": 24
     },
     "Nepali": {
       "total": 6,
@@ -75,7 +75,7 @@
     "Odia": {
       "total": 38,
       "working": 30,
-      "hd": 13
+      "hd": 12
     },
     "Other": {
       "total": 24,
@@ -85,7 +85,7 @@
     "Punjabi": {
       "total": 168,
       "working": 159,
-      "hd": 58
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 179,
+      "working": 180,
       "hd": 72
     },
     "Urdu": {
@@ -450,11 +450,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -675,6 +670,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Kolkata TV (576p)",
+      "url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mahaa Max (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8",
       "reason": "HTTP 403"
@@ -753,6 +753,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
