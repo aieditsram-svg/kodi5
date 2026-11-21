@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 13:32 UTC",
-  "fingerprint": "9fde7571a99a094b0b3db37c3f89a87a",
+  "updated_at": "2026-11-21 14:24 UTC",
+  "fingerprint": "d6f0dc3f57ff00112dfbc46cce78928e",
   "total": 1969,
-  "working": 1704,
-  "in_grace_period": 10,
-  "dead": 265,
-  "hd_channels": 680,
+  "working": 1711,
+  "in_grace_period": 13,
+  "dead": 258,
+  "hd_channels": 682,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 91,
+      "working": 92,
       "hd": 46
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 176,
-      "working": 157,
-      "hd": 72
+      "working": 158,
+      "hd": 73
     },
     "Gujarati": {
       "total": 49,
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 688,
+      "working": 691,
       "hd": 257
     },
     "Kannada": {
@@ -79,8 +79,8 @@
     },
     "Other": {
       "total": 24,
-      "working": 19,
-      "hd": 10
+      "working": 20,
+      "hd": 11
     },
     "Punjabi": {
       "total": 168,
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 179,
+      "working": 180,
       "hd": 72
     },
     "Urdu": {
@@ -193,11 +193,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -465,11 +460,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -590,11 +580,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -698,11 +683,6 @@
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -925,11 +905,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Peques TV (720p)",
-      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
-      "reason": "HTTP 504"
-    },
-    {
       "name": "Pogo (576p)",
       "url": "http://103.135.253.32:8080/POGO/index.m3u8",
       "reason": "URLError"
@@ -1073,16 +1048,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
