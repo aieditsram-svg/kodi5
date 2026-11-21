@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 02:25 UTC",
-  "fingerprint": "7e99363a6b2cb792a097e97f9e575c66",
+  "updated_at": "2026-11-21 03:12 UTC",
+  "fingerprint": "b8b9affc9b2ce28f883c278c7f8a1a94",
   "total": 1969,
-  "working": 1720,
-  "in_grace_period": 15,
-  "dead": 249,
-  "hd_channels": 688,
+  "working": 1718,
+  "in_grace_period": 11,
+  "dead": 251,
+  "hd_channels": 691,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 90,
-      "hd": 43
+      "working": 94,
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 34,
@@ -44,13 +44,13 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 701,
+      "working": 697,
       "hd": 263
     },
     "Kannada": {
       "total": 88,
       "working": 71,
-      "hd": 35
+      "hd": 34
     },
     "Konkani": {
       "total": 3,
@@ -59,7 +59,7 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 107,
+      "working": 106,
       "hd": 43
     },
     "Marathi": {
@@ -84,7 +84,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 160,
+      "working": 159,
       "hd": 58
     },
     "Santali": {
@@ -128,6 +128,11 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -640,6 +645,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Kalika TV (576p)",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kanak News (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8",
       "reason": "TimeoutError"
@@ -673,6 +683,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -762,7 +777,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -880,6 +895,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -985,6 +1005,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1062,7 +1092,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 429"
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1250,21 +1280,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ZB Bhakti (720p)",
-      "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ZB Music (720p)",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -1338,11 +1353,6 @@
       "name": "Zee TV HD (1080p)",
       "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ZillarBarta News",
-      "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
