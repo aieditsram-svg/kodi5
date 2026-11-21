@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 16:33 UTC",
-  "fingerprint": "87e76adf17e780450b1a3c05f312f251",
+  "updated_at": "2026-11-21 17:19 UTC",
+  "fingerprint": "eb183b33ac6756fb03b104d161950c4c",
   "total": 1969,
-  "working": 1708,
-  "in_grace_period": 6,
-  "dead": 261,
-  "hd_channels": 681,
+  "working": 1719,
+  "in_grace_period": 10,
+  "dead": 250,
+  "hd_channels": 688,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 693,
-      "hd": 258
+      "working": 702,
+      "hd": 265
     },
     "Kannada": {
       "total": 88,
@@ -84,7 +84,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 156,
+      "working": 157,
       "hd": 57
     },
     "Santali": {
@@ -94,7 +94,7 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 160,
+      "working": 161,
       "hd": 84
     },
     "Telugu": {
@@ -168,11 +168,6 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Angel TV (720p)",
-      "url": "https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Anmol TV (576p)",
@@ -253,16 +248,6 @@
       "name": "BRK News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "BVG (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "C-10 (576p)",
-      "url": "https://samitaorigin.tangotv.in/C10/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Captain (576p)",
@@ -515,11 +500,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -558,11 +538,6 @@
       "name": "Gujarat First (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Har Khabar (576p)",
-      "url": "https://samitaorigin.tangotv.in/HARKHABAR/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Harvest TV (1080p)",
@@ -695,11 +670,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mantavya News (576p)",
       "url": "https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8",
       "reason": "HTTP 404"
@@ -815,16 +785,6 @@
       "reason": "URLError"
     },
     {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News Hour (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWSHOUR/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "News India 24x7 (1080p)",
       "url": "https://stream.ottlive.co.in/newsindia/index.m3u8",
       "reason": "HTTP 404"
@@ -905,11 +865,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Only Bharat (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -933,11 +888,6 @@
       "name": "Pratham News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Pratham News (576p)",
-      "url": "https://samitaorigin.tangotv.in/PRATHAMNEWS/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Public First (576p)",
@@ -1137,7 +1087,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 429"
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1302,11 +1252,6 @@
     {
       "name": "Win TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "World Punjabi TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
       "reason": "HTTP 404"
     },
     {
