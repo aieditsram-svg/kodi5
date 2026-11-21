@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, one best link per channel, updated 2026-11-21 01:26 UTC
+# Working channels, one best link per channel, updated 2026-11-21 02:25 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="DY365.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="360",DY 365 (360p)
@@ -68,6 +68,8 @@ https://mumbai-edge.smartplaytv.in/GlobeTV/index.m3u8
 https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8
 #EXTINF:-1 tvg-id="HighNews.in@SD" x-category="news" tvg-logo="https://pbs.twimg.com/profile_images/1104268476858937351/USUT4ykS_400x400.png" tvg-language="Bengali" group-title="Bengali" height="480",High News (480p)
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in@SD" x-category="movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1445/1782291521445-h.jpg" tvg-language="Bengali" group-title="Bengali" height="1080",Jalsha Movies (1080p)
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="JTBSClassic.in@Main" x-category="religious" tvg-logo="https://jtbsclassic.dpdns.org/logo.png" tvg-language="Bengali" group-title="Bengali",JTBS Classic
 https://jtbsclassic.dpdns.org/live.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143265_ld_h9_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="720",Khushboo Bangla (576p)
@@ -935,8 +937,8 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="SuryaSamachar.in@SD" x-category="news" tvg-logo="https://i.imgur.com/vxs1kRB.png" tvg-language="Hindi" group-title="Hindi" height="576",Surya Samachar (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/suryasamachar/playlist.m3u8
-#EXTINF:-1 tvg-id="SVBC4.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/vCFdZny.png" tvg-language="Hindi" group-title="Hindi" height="720",SVBC 4 (576p)
-https://mumt05.tangotv.in/87NeALx2SVBC4HINDI/index.m3u8
+#EXTINF:-1 tvg-id="SVBC4.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/vCFdZny.png" tvg-language="Hindi" group-title="Hindi" height="1080",SVBC 4 (1080p)
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SwadeshNews.in@SD" x-category="news" tvg-logo="https://i.imgur.com/iQ2CYsn.png" tvg-language="Hindi" group-title="Hindi" height="576",Swadesh News (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/588/master.m3u8

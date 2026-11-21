@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 01:26 UTC",
-  "fingerprint": "4666753b34282ac6a36256976388f8e6",
+  "updated_at": "2026-11-21 02:25 UTC",
+  "fingerprint": "7e99363a6b2cb792a097e97f9e575c66",
   "total": 1969,
-  "working": 1722,
+  "working": 1720,
   "in_grace_period": 15,
-  "dead": 247,
-  "hd_channels": 687,
+  "dead": 249,
+  "hd_channels": 688,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 134,
       "working": 90,
-      "hd": 42
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 34,
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 703,
+      "working": 701,
       "hd": 263
     },
     "Kannada": {
@@ -163,11 +163,6 @@
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ANB News (720p)",
-      "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Andy Haryana (576p)",
@@ -318,6 +313,16 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -500,6 +505,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -590,11 +600,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Jalsha Movies (1080p)",
-      "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Jalsha Movies (720p)",
       "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
       "reason": "URLError"
@@ -648,6 +653,11 @@
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -752,7 +762,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -1052,7 +1062,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1110,11 +1120,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "SVBC 4 (1080p)",
-      "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Swadesh News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -1123,6 +1128,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
