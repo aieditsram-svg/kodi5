@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 15:12 UTC",
-  "fingerprint": "5b18b5d08930c77232a65e94d98d59d4",
+  "updated_at": "2026-11-21 15:54 UTC",
+  "fingerprint": "fbf89a9f3b1e7d2d7a3cbe67f40eea01",
   "total": 1969,
-  "working": 1709,
-  "in_grace_period": 16,
-  "dead": 260,
+  "working": 1708,
+  "in_grace_period": 9,
+  "dead": 261,
   "hd_channels": 681,
   "languages": {
     "Assamese": {
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 691,
-      "hd": 257
+      "working": 693,
+      "hd": 258
     },
     "Kannada": {
       "total": 88,
@@ -84,7 +84,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 157,
+      "working": 156,
       "hd": 57
     },
     "Santali": {
@@ -94,8 +94,8 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 162,
-      "hd": 85
+      "working": 160,
+      "hd": 84
     },
     "Telugu": {
       "total": 209,
@@ -115,11 +115,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "7X Music (1080p)",
-      "url": "https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "9X Jalwa (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8",
       "reason": "HTTP 403"
@@ -128,6 +123,11 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -153,11 +153,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -812,7 +807,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News 24 (576p)",
@@ -893,6 +888,16 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Only Bharat (576p)",
@@ -1132,7 +1137,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha HD (1080p)",
