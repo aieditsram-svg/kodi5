@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 21:27 UTC",
-  "fingerprint": "51ba327f5ea5d0815ba371039e0cdbcf",
+  "updated_at": "2026-11-21 22:08 UTC",
+  "fingerprint": "9be2c67a9b410b7b9509dc1a655e3e70",
   "total": 1969,
-  "working": 1716,
+  "working": 1713,
   "in_grace_period": 6,
-  "dead": 253,
+  "dead": 256,
   "hd_channels": 688,
   "languages": {
     "Assamese": {
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 697,
+      "working": 694,
       "hd": 264
     },
     "Kannada": {
@@ -238,6 +238,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -765,6 +770,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -918,6 +928,11 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
