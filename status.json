@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 20:54 UTC",
-  "fingerprint": "8acdbecf5d28bc6c365e8157947483f4",
+  "updated_at": "2026-11-21 21:27 UTC",
+  "fingerprint": "51ba327f5ea5d0815ba371039e0cdbcf",
   "total": 1969,
-  "working": 1717,
-  "in_grace_period": 7,
-  "dead": 252,
+  "working": 1716,
+  "in_grace_period": 6,
+  "dead": 253,
   "hd_channels": 688,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 95,
+      "working": 94,
       "hd": 47
     },
     "Bhojpuri": {
@@ -89,7 +89,7 @@
     },
     "Santali": {
       "total": 2,
-      "working": 2,
+      "working": 1,
       "hd": 1
     },
     "Tamil": {
@@ -155,11 +155,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "TimeoutError"
@@ -193,6 +188,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -658,6 +658,11 @@
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "KTV Bangla (720p)",
+      "url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mahaa Max (576p)",
