@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 19:29 UTC",
-  "fingerprint": "6d37d4e6049e2a4fb4639857650db8bb",
+  "updated_at": "2026-11-21 20:13 UTC",
+  "fingerprint": "274cbda93e7d6d5519ba4727450a4066",
   "total": 1969,
-  "working": 1723,
+  "working": 1719,
   "in_grace_period": 14,
-  "dead": 246,
-  "hd_channels": 690,
+  "dead": 250,
+  "hd_channels": 689,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 94,
+      "working": 93,
       "hd": 47
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 176,
-      "working": 158,
+      "working": 157,
       "hd": 73
     },
     "Gujarati": {
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 703,
-      "hd": 265
+      "working": 700,
+      "hd": 264
     },
     "Kannada": {
       "total": 88,
@@ -178,6 +178,11 @@
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Awaaz India TV (720p) [Not 24/7]",
+      "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Awakening TV (576p)",
@@ -665,6 +670,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mantavya News (576p)",
       "url": "https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8",
       "reason": "HTTP 404"
@@ -952,7 +962,7 @@
     {
       "name": "Sai TV",
       "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Samay Kolkata (1080p)",
@@ -968,6 +978,16 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sansad TV 1 HD (1080p)",
+      "url": "https://fta.ektv.in/live/718/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
