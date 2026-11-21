@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Telugu HD channels (720p+), updated 2026-11-20 23:27 UTC
+# Working Telugu HD channels (720p+), updated 2026-11-21 00:14 UTC
 #EXTINF:-1 tvg-id="10TV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",10 TV (720p)
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in@SD" x-category="news" tvg-logo="https://i.imgur.com/l3EcRnZ.png" tvg-language="Telugu" group-title="Telugu" height="1080",6 TV Telugu (576p)
@@ -18,6 +18,8 @@ https://mumbai-edge.smartplaytv.in/AnjaliTV/index.m3u8
 https://cdn.pishow.tv/ott/live/397/master.m3u8
 #EXTINF:-1 tvg-id="BIGTV.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" tvg-language="Telugu" group-title="Telugu" height="1080",BIG TV (1080p)
 https://stream.ottlive.co.in/bigtv/index.m3u8
+#EXTINF:-1 tvg-id="BRKNews.in@SD" x-category="news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png" tvg-language="Telugu" group-title="Telugu" height="720",BRK News (576p)
+https://samitaorigin.tangotv.in/BRKNEWS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@HD" x-category="animation" tvg-logo="https://i.imgur.com/pH6ao2T.png" tvg-language="Telugu" group-title="Telugu" height="1080",Cartoon Network HD+ (1080p)
 http://116.90.120.149:8000/play/a114/index.m3u8
 #EXTINF:-1 tvg-id="ChhayaChitramTelugu.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/channels/Chhaya_Chitram_Telugu.png" tvg-language="Telugu" group-title="Telugu" height="720",Chhaya Chitram Telugu (360p)
@@ -62,10 +64,12 @@ https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8
 http://116.90.120.149:8000/play/a12z/index.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" x-category="documentary" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="1080",History TV18 HD Hindi (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="HMTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143136_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",HMTV (576p)
+https://mumt04.tangotv.in/m18aqlK4HMTV/index.m3u8
 #EXTINF:-1 tvg-id="HMTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143136_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",HMTV (India) (720p)
 https://cdn.pishow.tv/ott/live/280/master.m3u8
-#EXTINF:-1 tvg-id="INews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/I_News.png" tvg-language="Telugu" group-title="Telugu" height="720",INews (720p)
-https://cdn.pishow.tv/ott/live/411/master.m3u8
+#EXTINF:-1 tvg-id="INews.in@SD" x-category="news" tvg-logo="https://i.imgur.com/IV1O11i.png" tvg-language="Telugu" group-title="Telugu" height="720",INews (576p)
+https://samitaorigin.tangotv.in/INEWS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MahaaBhakti.in@SD" x-category="religious" tvg-logo="https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj" tvg-language="Telugu" group-title="Telugu" height="1080",Mahaa Bhakti (1080p)
 https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
 #EXTINF:-1 tvg-id="MahaaMax.in@SD" x-category="entertainment" tvg-logo="https://objectstorage.ap-mumbai-1.oraclecloud.com/p/7Eg7LPw1gBcncVDrfwf__7yyrg13awaU6DmMk4gutavGYZgoAuAziv8e0aSEdU4G/n/bmaqqlwez184/b/GTPL_CHANNEL_LOGO/o/gtpl/MAHAA+MAX+LOGO.png" tvg-language="Telugu" group-title="Telugu" height="1080",Mahaa Max (1080p)
@@ -106,6 +110,8 @@ https://r2.amml.in/sony-yay/live.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" x-category="movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h.jpg" tvg-language="Telugu" group-title="Telugu" height="720",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@HD" x-category="sports" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg" tvg-language="Telugu" group-title="Telugu" height="1080",Star Sports 2 HD (1080p)
+http://116.90.120.149:8000/play/a120/index.m3u8
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" x-category="movies" tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-language="Telugu" group-title="Telugu" height="720",Studio One + (576p)
 https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8
 #EXTINF:-1 tvg-id="StudioYuva.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/BOhgz2T.png" tvg-language="Telugu" group-title="Telugu" height="720",Studio Yuva (576p)
