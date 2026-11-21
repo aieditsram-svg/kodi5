@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 22:08 UTC",
-  "fingerprint": "9be2c67a9b410b7b9509dc1a655e3e70",
+  "updated_at": "2026-11-21 22:46 UTC",
+  "fingerprint": "ca16684098db2576fe43955f0310998b",
   "total": 1969,
-  "working": 1713,
-  "in_grace_period": 6,
-  "dead": 256,
-  "hd_channels": 688,
+  "working": 1715,
+  "in_grace_period": 11,
+  "dead": 254,
+  "hd_channels": 684,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 94,
+      "working": 93,
       "hd": 47
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 176,
       "working": 157,
-      "hd": 73
+      "hd": 71
     },
     "Gujarati": {
       "total": 49,
@@ -44,13 +44,13 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 694,
-      "hd": 264
+      "working": 697,
+      "hd": 263
     },
     "Kannada": {
       "total": 88,
       "working": 71,
-      "hd": 35
+      "hd": 34
     },
     "Konkani": {
       "total": 3,
@@ -190,11 +190,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -238,11 +233,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -680,6 +670,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mantavya News (576p)",
       "url": "https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8",
       "reason": "HTTP 404"
@@ -1000,6 +995,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://fta.ektv.in/live/718/master.m3u8",
       "reason": "HTTP 404"
@@ -1038,16 +1038,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
