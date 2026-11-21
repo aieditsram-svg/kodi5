@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-21 15:54 UTC",
-  "fingerprint": "fbf89a9f3b1e7d2d7a3cbe67f40eea01",
+  "updated_at": "2026-11-21 16:33 UTC",
+  "fingerprint": "87e76adf17e780450b1a3c05f312f251",
   "total": 1969,
   "working": 1708,
-  "in_grace_period": 9,
+  "in_grace_period": 6,
   "dead": 261,
   "hd_channels": 681,
   "languages": {
@@ -238,6 +238,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -535,11 +540,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -775,8 +775,13 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "name": "Network 10 (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/Network10/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (720p)",
+      "url": "https://network10.livebox.co.in/network10outhls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -807,7 +812,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News 24 (576p)",
@@ -902,7 +907,7 @@
     {
       "name": "Only Bharat (576p)",
       "url": "https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -983,11 +988,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sadhna News Madhya Pradesh/Chhattisgarh (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sadhna Plus News (576p)",
@@ -1307,7 +1307,7 @@
     {
       "name": "World Punjabi TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "YRF Music (1080p)",
