@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 17:59 UTC",
-  "fingerprint": "ead52c0c679c68698625fc05242f93b5",
+  "updated_at": "2026-11-21 18:40 UTC",
+  "fingerprint": "f073d90883c30a13338e7f6536f0fdc3",
   "total": 1969,
-  "working": 1720,
-  "in_grace_period": 15,
-  "dead": 249,
-  "hd_channels": 687,
+  "working": 1723,
+  "in_grace_period": 12,
+  "dead": 246,
+  "hd_channels": 691,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 91,
-      "hd": 44
+      "working": 94,
+      "hd": 48
     },
     "Bhojpuri": {
       "total": 34,
@@ -148,11 +148,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -750,6 +745,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10",
+      "url": "https://network10.livebox.co.in/network10hls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -898,11 +903,6 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1253,21 +1253,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ZB Cinema (1080p)",
-      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ZB Music (720p)",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
