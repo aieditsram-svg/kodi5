@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-21 03:12 UTC",
-  "fingerprint": "b8b9affc9b2ce28f883c278c7f8a1a94",
+  "updated_at": "2026-11-21 04:00 UTC",
+  "fingerprint": "3e6045c8bac0ee992ceeadd683220e3a",
   "total": 1969,
-  "working": 1718,
-  "in_grace_period": 11,
-  "dead": 251,
-  "hd_channels": 691,
+  "working": 1720,
+  "in_grace_period": 59,
+  "dead": 249,
+  "hd_channels": 671,
   "languages": {
     "Assamese": {
       "total": 44,
       "working": 40,
-      "hd": 13
+      "hd": 12
     },
     "Bengali": {
       "total": 134,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 176,
-      "working": 157,
-      "hd": 73
+      "working": 156,
+      "hd": 71
     },
     "Gujarati": {
       "total": 49,
@@ -45,12 +45,12 @@
     "Hindi": {
       "total": 811,
       "working": 697,
-      "hd": 263
+      "hd": 262
     },
     "Kannada": {
       "total": 88,
       "working": 71,
-      "hd": 34
+      "hd": 30
     },
     "Konkani": {
       "total": 3,
@@ -60,7 +60,7 @@
     "Malayalam": {
       "total": 130,
       "working": 106,
-      "hd": 43
+      "hd": 37
     },
     "Marathi": {
       "total": 59,
@@ -74,7 +74,7 @@
     },
     "Odia": {
       "total": 38,
-      "working": 28,
+      "working": 30,
       "hd": 13
     },
     "Other": {
@@ -84,7 +84,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 159,
+      "working": 160,
       "hd": 58
     },
     "Santali": {
@@ -95,12 +95,12 @@
     "Tamil": {
       "total": 193,
       "working": 163,
-      "hd": 85
+      "hd": 78
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
-      "hd": 72
+      "working": 179,
+      "hd": 71
     },
     "Urdu": {
       "total": 22,
@@ -130,11 +130,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
@@ -158,6 +153,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -385,11 +385,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Ekamra Bharat Odia (400p)",
-      "url": "https://live.ekamraott.com/bharat/bharat/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Enterr 10 Bangla (576p)",
       "url": "http://103.165.93.31:8095/enter10Bangla/index.m3u8",
       "reason": "URLError"
@@ -450,6 +445,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -508,11 +508,6 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -577,6 +572,11 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -850,11 +850,6 @@
       "reason": "URLError"
     },
     {
-      "name": "One Paschima (400p)",
-      "url": "https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -893,11 +888,6 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
