@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 04:00 UTC",
-  "fingerprint": "3e6045c8bac0ee992ceeadd683220e3a",
+  "updated_at": "2026-11-21 04:53 UTC",
+  "fingerprint": "54ea0909de4fb1854667be79931f31ef",
   "total": 1969,
   "working": 1720,
-  "in_grace_period": 59,
+  "in_grace_period": 52,
   "dead": 249,
-  "hd_channels": 671,
+  "hd_channels": 672,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 94,
-      "hd": 47
+      "working": 95,
+      "hd": 48
     },
     "Bhojpuri": {
       "total": 34,
@@ -44,13 +44,13 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 697,
+      "working": 698,
       "hd": 262
     },
     "Kannada": {
       "total": 88,
-      "working": 71,
-      "hd": 30
+      "working": 72,
+      "hd": 31
     },
     "Konkani": {
       "total": 3,
@@ -59,12 +59,12 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 106,
-      "hd": 37
+      "working": 108,
+      "hd": 38
     },
     "Marathi": {
       "total": 59,
-      "working": 50,
+      "working": 51,
       "hd": 25
     },
     "Nepali": {
@@ -74,8 +74,8 @@
     },
     "Odia": {
       "total": 38,
-      "working": 30,
-      "hd": 13
+      "working": 28,
+      "hd": 11
     },
     "Other": {
       "total": 24,
@@ -94,12 +94,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 163,
-      "hd": 78
+      "working": 164,
+      "hd": 79
     },
     "Telugu": {
       "total": 209,
-      "working": 179,
+      "working": 180,
       "hd": 71
     },
     "Urdu": {
@@ -155,6 +155,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Alankar TV (720p)",
+      "url": "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "All Time Movies (576p)",
       "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
@@ -193,6 +198,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -835,11 +845,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -1125,11 +1130,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
@@ -1151,17 +1151,17 @@
     },
     {
       "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
     },
     {
       "name": "Tabbar Hits (576p)",
       "url": "https://fta.ektv.in/live/179/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Tarang Music (720p)",
+      "url": "https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
