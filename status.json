@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 09:28 UTC",
-  "fingerprint": "814e53628a86c646b713ee04691ef8e0",
+  "updated_at": "2026-11-21 10:17 UTC",
+  "fingerprint": "b11a857b1b67998bca86b33d4c1ce8d5",
   "total": 1969,
-  "working": 1718,
-  "in_grace_period": 9,
-  "dead": 251,
-  "hd_channels": 691,
+  "working": 1715,
+  "in_grace_period": 17,
+  "dead": 254,
+  "hd_channels": 683,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -35,7 +35,7 @@
     "Gujarati": {
       "total": 49,
       "working": 46,
-      "hd": 21
+      "hd": 20
     },
     "Haryanvi": {
       "total": 1,
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 697,
-      "hd": 265
+      "working": 696,
+      "hd": 258
     },
     "Kannada": {
       "total": 88,
@@ -84,7 +84,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 159,
+      "working": 157,
       "hd": 57
     },
     "Santali": {
@@ -730,6 +730,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Mh 1 News (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4MHONENEWS/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Mh 1 News (576p)",
+      "url": "https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "MH One Movies (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
       "reason": "HTTP 403"
@@ -767,6 +777,11 @@
     {
       "name": "Network 10 (576p)",
       "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
