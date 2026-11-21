@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Hindi channels, updated 2026-11-21 06:42 UTC
+# Working Hindi channels, updated 2026-11-21 07:54 UTC
 #EXTINF:-1 tvg-id="Andpictures.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",&pictures HD (1080p)
 http://116.90.120.149:8000/play/a132/index.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",&TV HD (1080p)
@@ -122,6 +122,8 @@ https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
 https://fta.ektv.in/live/54/54_0.m3u8
 #EXTINF:-1 tvg-id="AllTimeMovies.in@SD" x-category="movies" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" tvg-language="Hindi" group-title="Hindi" height="720",All Time Movies (576p)
 https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" x-category="movies" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" tvg-language="Hindi" group-title="Hindi" height="576",All Time Movies (576p)
+https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1 tvg-id="AlrightTV.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/alrght.png" tvg-language="Hindi" group-title="Hindi" height="1080",Alright! TV (1080p)
 https://d3c7vdfq3tyeyw.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/v1/channel/ruskmedia/germane.m3u8
 #EXTINF:-1 tvg-id="AnandTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anand_TV.png" tvg-language="Hindi" group-title="Hindi" height="1080",Anand TV (1080p)
@@ -1043,8 +1045,6 @@ https://jmp2.uk/stvp-IN46000140Q
 https://jmp2.uk/stvp-IN460001373
 #EXTINF:-1 tvg-id="NickJr.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1730/1785252911730-h.jpg" tvg-language="Hindi" group-title="Hindi" height="576",Nick Jr. (576p)
 http://116.90.120.149:8000/play/a12d/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Hindi" group-title="Hindi" height="576",Nickelodeon (576p) [Geo-blocked]
-http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848
 #EXTINF:-1 tvg-id="NonStopBharat.in@SD" x-category="news" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nonstop-bharat-in.png" tvg-language="Hindi" group-title="Hindi" height="720",Non Stop Bharat (576p)
 https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8
 #EXTINF:-1 tvg-id="NonStopBharat.in@SD" x-category="news" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nonstop-bharat-in.png" tvg-language="Hindi" group-title="Hindi" height="720",Non Stop Bharat (576p)
@@ -1142,6 +1142,8 @@ https://stream.ottlive.co.in/rongeentv/index.m3u8
 https://fta.ektv.in/live/650/master.m3u8
 #EXTINF:-1 tvg-id="SaamTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143735_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Saam TV (576p)
 https://streams.tangotv.in/SAAMTV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="SachBedhadak.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s158864_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Sach Bedhadak (576p)
+https://sbnews.nexcdn.online/sbnews/live/index.m3u8
 #EXTINF:-1 tvg-id="Sadhna.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/x13iiuI.png" tvg-language="Hindi" group-title="Hindi" height="576",Sadhna (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/340/master.m3u8
