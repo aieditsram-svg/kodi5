@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 08:39 UTC",
-  "fingerprint": "7df61f533657e8fde41a20b89abad4a0",
+  "updated_at": "2026-11-21 09:28 UTC",
+  "fingerprint": "814e53628a86c646b713ee04691ef8e0",
   "total": 1969,
-  "working": 1721,
-  "in_grace_period": 13,
-  "dead": 248,
-  "hd_channels": 688,
+  "working": 1718,
+  "in_grace_period": 9,
+  "dead": 251,
+  "hd_channels": 691,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 92,
-      "hd": 47
+      "working": 93,
+      "hd": 48
     },
     "Bhojpuri": {
       "total": 34,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 176,
-      "working": 158,
+      "working": 157,
       "hd": 72
     },
     "Gujarati": {
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 699,
-      "hd": 263
+      "working": 697,
+      "hd": 265
     },
     "Kannada": {
       "total": 88,
@@ -65,7 +65,7 @@
     "Marathi": {
       "total": 59,
       "working": 50,
-      "hd": 24
+      "hd": 25
     },
     "Nepali": {
       "total": 6,
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
+      "working": 179,
       "hd": 72
     },
     "Urdu": {
@@ -430,6 +430,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -557,6 +562,11 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1010,6 +1020,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1258,11 +1278,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
