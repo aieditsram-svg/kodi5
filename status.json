@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22 15:30 UTC",
-  "fingerprint": "aaad1c035a97cfc9b3ef4bc101248c9d",
+  "updated_at": "2026-11-22 16:17 UTC",
+  "fingerprint": "42afcb7880ae64364bae67bc6cb05c3e",
   "total": 1969,
-  "working": 1667,
-  "in_grace_period": 7,
-  "dead": 302,
+  "working": 1673,
+  "in_grace_period": 15,
+  "dead": 296,
   "hd_channels": 655,
   "languages": {
     "Assamese": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 176,
-      "working": 126,
+      "working": 127,
       "hd": 52
     },
     "Gujarati": {
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 661,
+      "working": 667,
       "hd": 240
     },
     "Kannada": {
@@ -255,11 +255,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "BRK News (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
       "reason": "TimeoutError"
@@ -348,11 +343,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -560,11 +550,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -743,11 +728,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1010,11 +990,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1078,11 +1053,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sansad TV 1 HD (1080p)",
-      "url": "https://fta.ektv.in/live/718/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
