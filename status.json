@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22 04:35 UTC",
-  "fingerprint": "7069a1f56fe7a3162597cb9629406605",
+  "updated_at": "2026-11-22 05:32 UTC",
+  "fingerprint": "179b84a3c062e00850d653fa1a5ebcf9",
   "total": 1969,
-  "working": 1712,
-  "in_grace_period": 9,
-  "dead": 257,
+  "working": 1718,
+  "in_grace_period": 12,
+  "dead": 251,
   "hd_channels": 689,
   "languages": {
     "Assamese": {
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 134,
       "working": 95,
-      "hd": 47
+      "hd": 48
     },
     "Bhojpuri": {
       "total": 34,
@@ -30,7 +30,7 @@
     "English": {
       "total": 176,
       "working": 157,
-      "hd": 73
+      "hd": 72
     },
     "Gujarati": {
       "total": 49,
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 691,
+      "working": 697,
       "hd": 264
     },
     "Kannada": {
@@ -158,11 +158,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -780,26 +775,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (720p)",
-      "url": "https://mumbai-edge.smartplaytv.in/Network10/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (720p)",
-      "url": "https://network10.livebox.co.in/network10outhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10",
-      "url": "https://network10.livebox.co.in/network10hls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -827,7 +802,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -1193,11 +1168,6 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
