@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 17:02 UTC",
-  "fingerprint": "c8e7c50236738289f4fd935845ee8c98",
+  "updated_at": "2026-11-22 17:42 UTC",
+  "fingerprint": "9ba5812b998550c3c0d500c35eb6d455",
   "total": 1969,
-  "working": 1669,
-  "in_grace_period": 15,
-  "dead": 300,
-  "hd_channels": 654,
+  "working": 1668,
+  "in_grace_period": 11,
+  "dead": 301,
+  "hd_channels": 653,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 664,
+      "working": 665,
       "hd": 239
     },
     "Kannada": {
@@ -59,8 +59,8 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 100,
-      "hd": 38
+      "working": 99,
+      "hd": 37
     },
     "Marathi": {
       "total": 59,
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 169,
+      "working": 168,
       "hd": 64
     },
     "Urdu": {
@@ -163,11 +163,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -465,6 +460,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -707,6 +707,11 @@
     {
       "name": "Kashish News (720p)",
       "url": "https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "KCL TV (720p)",
+      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
