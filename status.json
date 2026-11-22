@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 18:22 UTC",
-  "fingerprint": "6edc243aa76b23eeeab8e0e7e5ba17fe",
+  "updated_at": "2026-11-22 19:17 UTC",
+  "fingerprint": "491e68cb514f2ab0f7d25f0a97f68eb5",
   "total": 1969,
-  "working": 1673,
-  "in_grace_period": 9,
-  "dead": 296,
-  "hd_channels": 653,
+  "working": 1670,
+  "in_grace_period": 16,
+  "dead": 299,
+  "hd_channels": 652,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 92,
-      "hd": 45
+      "working": 90,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 34,
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 668,
+      "working": 667,
       "hd": 239
     },
     "Kannada": {
@@ -730,6 +730,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1053,6 +1058,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1472,6 +1482,11 @@
     {
       "name": "Zainabia Channel",
       "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Music (720p)",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
       "reason": "HTTP 404"
     },
     {
