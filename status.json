@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 00:52 UTC",
-  "fingerprint": "03590590d045aeec43215d26e3c1acb0",
+  "updated_at": "2026-11-22 01:55 UTC",
+  "fingerprint": "251b6ad241e0e75c446d19d606835158",
   "total": 1969,
-  "working": 1720,
-  "in_grace_period": 9,
-  "dead": 249,
-  "hd_channels": 687,
+  "working": 1723,
+  "in_grace_period": 24,
+  "dead": 246,
+  "hd_channels": 689,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 176,
-      "working": 156,
-      "hd": 72
+      "working": 157,
+      "hd": 73
     },
     "Gujarati": {
       "total": 49,
@@ -44,13 +44,13 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 701,
-      "hd": 264
+      "working": 700,
+      "hd": 263
     },
     "Kannada": {
       "total": 88,
-      "working": 71,
-      "hd": 34
+      "working": 72,
+      "hd": 35
     },
     "Konkani": {
       "total": 3,
@@ -84,8 +84,8 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 157,
-      "hd": 56
+      "working": 158,
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
+      "working": 181,
       "hd": 72
     },
     "Urdu": {
@@ -410,11 +410,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -495,11 +490,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Global Punjab (1080p)",
-      "url": "https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -518,6 +508,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -568,11 +563,6 @@
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "India Ahead (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "India News (576p)",
@@ -868,11 +858,6 @@
       "name": "Pogo (576p)",
       "url": "http://103.135.253.32:8080/POGO/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Power TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Pradesh24 Gujarati (1080p)",
