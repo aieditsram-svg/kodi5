@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 16:17 UTC",
-  "fingerprint": "42afcb7880ae64364bae67bc6cb05c3e",
+  "updated_at": "2026-11-22 17:02 UTC",
+  "fingerprint": "c8e7c50236738289f4fd935845ee8c98",
   "total": 1969,
-  "working": 1673,
+  "working": 1669,
   "in_grace_period": 15,
-  "dead": 296,
-  "hd_channels": 655,
+  "dead": 300,
+  "hd_channels": 654,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 91,
+      "working": 90,
       "hd": 45
     },
     "Bhojpuri": {
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 667,
-      "hd": 240
+      "working": 664,
+      "hd": 239
     },
     "Kannada": {
       "total": 88,
@@ -69,8 +69,8 @@
     },
     "Nepali": {
       "total": 6,
-      "working": 6,
-      "hd": 3
+      "working": 5,
+      "hd": 2
     },
     "Odia": {
       "total": 38,
@@ -1090,6 +1090,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1238,6 +1248,11 @@
       "name": "Star Gold Select HD (1080p)",
       "url": "http://116.90.120.149:8000/play/a131/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1438,6 +1453,11 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Vision Beats (720p)",
+      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
