@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 11:30 UTC",
-  "fingerprint": "0383681f4b89a547fd294e838b7ee453",
+  "updated_at": "2026-11-22 12:14 UTC",
+  "fingerprint": "72b523fab4c8e7e5e69b6ab43ddc2114",
   "total": 1969,
-  "working": 1724,
-  "in_grace_period": 90,
-  "dead": 245,
-  "hd_channels": 691,
+  "working": 1723,
+  "in_grace_period": 60,
+  "dead": 246,
+  "hd_channels": 690,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 96,
+      "working": 94,
       "hd": 48
     },
     "Bhojpuri": {
@@ -44,12 +44,12 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 699,
+      "working": 700,
       "hd": 263
     },
     "Kannada": {
       "total": 88,
-      "working": 72,
+      "working": 71,
       "hd": 35
     },
     "Konkani": {
@@ -59,12 +59,12 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 109,
-      "hd": 44
+      "working": 107,
+      "hd": 43
     },
     "Marathi": {
       "total": 59,
-      "working": 51,
+      "working": 50,
       "hd": 25
     },
     "Nepali": {
@@ -94,12 +94,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 164,
+      "working": 163,
       "hd": 85
     },
     "Telugu": {
       "total": 209,
-      "working": 181,
+      "working": 180,
       "hd": 72
     },
     "Urdu": {
@@ -320,11 +320,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Dangal TV (576p)",
       "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
@@ -503,11 +498,6 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -855,6 +845,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -1080,6 +1075,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1123,6 +1123,11 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
