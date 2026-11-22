@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 10:08 UTC",
-  "fingerprint": "b8edc274bbb0d9fd009bdc89aadd52a3",
+  "updated_at": "2026-11-22 10:51 UTC",
+  "fingerprint": "0de9b2a41beae7e14bfb24e5887aa5aa",
   "total": 1969,
-  "working": 1723,
-  "in_grace_period": 14,
-  "dead": 246,
-  "hd_channels": 683,
+  "working": 1725,
+  "in_grace_period": 39,
+  "dead": 244,
+  "hd_channels": 691,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 176,
-      "working": 156,
-      "hd": 71
+      "working": 157,
+      "hd": 72
     },
     "Gujarati": {
       "total": 49,
@@ -45,7 +45,7 @@
     "Hindi": {
       "total": 811,
       "working": 700,
-      "hd": 255
+      "hd": 263
     },
     "Kannada": {
       "total": 88,
@@ -94,12 +94,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 163,
+      "working": 164,
       "hd": 85
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
+      "working": 181,
       "hd": 72
     },
     "Urdu": {
@@ -430,11 +430,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -582,11 +577,6 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -863,11 +853,6 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "OM TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1148,6 +1133,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
