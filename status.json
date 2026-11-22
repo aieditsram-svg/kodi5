@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 13:11 UTC",
-  "fingerprint": "78654dadffac40ed2571f6f2248d9e74",
+  "updated_at": "2026-11-22 14:03 UTC",
+  "fingerprint": "0de48641e40bf514a4096e265836d6b9",
   "total": 1969,
-  "working": 1674,
-  "in_grace_period": 15,
-  "dead": 295,
-  "hd_channels": 655,
+  "working": 1673,
+  "in_grace_period": 21,
+  "dead": 296,
+  "hd_channels": 656,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 176,
-      "working": 128,
+      "working": 127,
       "hd": 52
     },
     "Gujarati": {
@@ -45,7 +45,7 @@
     "Hindi": {
       "total": 811,
       "working": 666,
-      "hd": 239
+      "hd": 240
     },
     "Kannada": {
       "total": 88,
@@ -94,7 +94,7 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 148,
+      "working": 147,
       "hd": 72
     },
     "Telugu": {
@@ -573,11 +573,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1066,6 +1061,11 @@
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
+      "url": "https://fta.ektv.in/live/718/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
     },
@@ -1327,6 +1327,11 @@
     {
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Suriyan TV (576p)",
+      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
