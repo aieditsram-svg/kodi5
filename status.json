@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 20:44 UTC",
-  "fingerprint": "3a91ee77bad3151f77aa436357fc32d5",
-  "total": 1969,
-  "working": 1662,
-  "in_grace_period": 3,
-  "dead": 307,
-  "hd_channels": 652,
+  "updated_at": "2026-11-23 01:09 UTC",
+  "fingerprint": "507d342d217c37a75709a190acd6fe26",
+  "total": 1917,
+  "working": 1671,
+  "in_grace_period": 15,
+  "dead": 246,
+  "hd_channels": 655,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -13,12 +13,12 @@
       "hd": 13
     },
     "Bengali": {
-      "total": 134,
+      "total": 123,
       "working": 89,
       "hd": 43
     },
     "Bhojpuri": {
-      "total": 34,
+      "total": 33,
       "working": 31,
       "hd": 13
     },
@@ -28,7 +28,7 @@
       "hd": 1
     },
     "English": {
-      "total": 176,
+      "total": 144,
       "working": 127,
       "hd": 52
     },
@@ -37,20 +37,15 @@
       "working": 46,
       "hd": 21
     },
-    "Haryanvi": {
-      "total": 1,
-      "working": 0,
-      "hd": 0
-    },
     "Hindi": {
-      "total": 811,
-      "working": 660,
-      "hd": 240
+      "total": 771,
+      "working": 664,
+      "hd": 241
     },
     "Kannada": {
-      "total": 88,
+      "total": 74,
       "working": 64,
-      "hd": 29
+      "hd": 28
     },
     "Konkani": {
       "total": 3,
@@ -58,12 +53,12 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 130,
-      "working": 100,
-      "hd": 38
+      "total": 116,
+      "working": 101,
+      "hd": 39
     },
     "Marathi": {
-      "total": 59,
+      "total": 46,
       "working": 44,
       "hd": 20
     },
@@ -93,13 +88,13 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 193,
-      "working": 145,
-      "hd": 71
+      "total": 170,
+      "working": 148,
+      "hd": 73
     },
     "Telugu": {
-      "total": 209,
-      "working": 169,
+      "total": 191,
+      "working": 170,
       "hd": 64
     },
     "Urdu": {
@@ -138,21 +133,6 @@
       "name": "22Scope News (1080p)",
       "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "&pictures HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a132/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "&TV HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a133/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "&xplor HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a11o/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Aagaaz Times (1080p)",
@@ -210,11 +190,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -265,11 +240,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "BRK News (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
       "reason": "TimeoutError"
@@ -288,16 +258,6 @@
       "name": "Captain (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/captain/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Cartoon Network HD+ (1080p)",
-      "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Cartoon Network HD+ (1080p)",
-      "url": "http://116.90.120.149:8000/play/a114/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Chintpurni Live (360p)",
@@ -410,36 +370,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Discovery Channel HD (1080p)",
-      "url": "http://103.135.253.32:8080/DISCOVERY/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Discovery Channel HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a11a/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Discovery Science (576p)",
-      "url": "http://116.90.120.149:8000/play/a11b/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Discovery Turbo (576p)",
-      "url": "http://116.90.120.149:8000/play/a11d/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Disney Channel (576p)",
-      "url": "http://116.90.120.149:8000/play/a124/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Disney Channel HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a11r/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Enterr 10 Bangla (576p)",
       "url": "http://103.165.93.31:8095/enter10Bangla/index.m3u8",
       "reason": "URLError"
@@ -523,16 +453,6 @@
       "name": "ETV Telugu HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Eurosport HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a118/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Eurosport HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "FashionTV (576p)",
@@ -640,11 +560,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "History TV18 HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a12z/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
       "reason": "HTTP 404"
@@ -670,11 +585,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Investigation Discovery (576p)",
-      "url": "http://116.90.120.149:8000/play/a119/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Jaihind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8",
       "reason": "HTTP 403"
@@ -693,11 +603,6 @@
       "name": "Janam TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Jaya Plus (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Jinvani Channel (576p)",
@@ -805,59 +710,19 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "MNTV (1080p)",
-      "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "MNX (576p)",
-      "url": "http://116.90.120.149:8000/play/a11e/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "MNX HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a11m/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Movies Now + (1080p)",
-      "url": "http://116.90.120.149:8000/play/a11k/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Movies Now HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a11f/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "MTV (576p)",
-      "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "MTV HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a136/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
     },
     {
+      "name": "MTV International (576p)",
+      "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "National Geographic HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a115/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "National Geographic Wild HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a11h/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Naxatra News (576p)",
@@ -873,11 +738,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -940,46 +800,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Nick Jr. (576p)",
-      "url": "http://103.135.253.32:8080/NICK-Jr/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Nick Jr. (576p)",
-      "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Nick Jr. (576p)",
-      "url": "http://116.90.120.149:8000/play/a12d/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Nick Jr. (576p)",
-      "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Nickelodeon (576p)",
-      "url": "http://103.135.253.32:8080/NICK/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Nickelodeon (576p)",
-      "url": "http://103.185.24.134:3001/NICK/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Nickelodeon (576p)",
-      "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 429"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -997,11 +817,6 @@
     {
       "name": "Pitaara (576p)",
       "url": "http://116.90.120.149:8000/play/a0ky/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Pogo (576p)",
-      "url": "http://103.135.253.32:8080/POGO/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -1033,11 +848,6 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus (768p)",
@@ -1145,6 +955,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1175,16 +995,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Sonic (576p)",
-      "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sonic (576p)",
-      "url": "http://116.90.120.149:8000/play/a12e/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Sony Aath (576p)",
       "url": "http://103.135.253.32:8080/SONY_AATH/index.m3u8",
       "reason": "URLError"
@@ -1200,18 +1010,8 @@
       "reason": "URLError"
     },
     {
-      "name": "Sony BBC Earth HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a130/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Sony Entertainment Television HD (1080p)",
       "url": "http://116.90.120.149:8000/play/a11u/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sony Max HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a123/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -1220,33 +1020,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Sony Pix HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a138/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Sony SAB HD (1080p)",
       "url": "http://116.90.120.149:8000/play/a128/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sony Sports Ten 1 (576p)",
-      "url": "http://116.90.120.149:8000/play/a126/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sony Sports Ten 1 HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a11t/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sony Sports Ten 2 HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a137/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sony Sports Ten 5 (576p)",
-      "url": "http://116.90.120.149:8000/play/a117/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -1275,26 +1050,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Gold 2 (576p)",
-      "url": "http://116.90.120.149:8000/play/a12b/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Gold HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a12a/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Gold Romance (576p)",
-      "url": "http://116.90.120.149:8000/play/a12c/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Gold Select HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a131/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1307,26 +1062,6 @@
     {
       "name": "Star Movies HD (1080p)",
       "url": "http://116.90.120.149:8000/play/a13a/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Movies Select HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a139/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Sports 1 HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a11x/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Sports 1 Hindi HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a122/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Sports 2 HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a120/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -1367,11 +1102,6 @@
     {
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Suriyan TV (576p)",
-      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1435,11 +1165,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "TLC HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a11g/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
       "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
       "reason": "HTTP 403"
@@ -1453,21 +1178,6 @@
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Unite8 Sports 1 (576p)",
-      "url": "http://116.90.120.149:8000/play/a11l/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Unite8 Sports 1 HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a125/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Unite8 Sports 2 HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a129/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Valam TV Dayro (576p)",
@@ -1565,11 +1275,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Zee Classic (576p)",
-      "url": "http://116.90.120.149:8000/play/a121/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Zee Comedy Nation (1080p)",
       "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
@@ -1600,11 +1305,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Zee Talkies HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a116/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
       "reason": "HTTP 403"
@@ -1615,11 +1315,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Zee Thirai HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a11q/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Zee TV HD (1080p)",
       "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
       "reason": "URLError"
@@ -1628,11 +1323,6 @@
       "name": "Zee TV HD (1080p)",
       "url": "http://116.90.120.149:8000/play/a11v/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Zee TV HD (720p) [Geo-blocked]",
-      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
