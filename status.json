@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-24 05:07 UTC",
-  "fingerprint": "61d34eea6610ed3f0f2ecc07f87d6195",
+  "updated_at": "2026-11-24 15:47 UTC",
+  "fingerprint": "10fc41a4d39b9cc1f59eb2026c58fdca",
   "total": 1841,
-  "working": 1675,
-  "in_grace_period": 47,
-  "dead": 166,
+  "working": 1671,
+  "in_grace_period": 17,
+  "dead": 170,
   "hd_channels": 656,
   "languages": {
     "Assamese": {
@@ -20,7 +20,7 @@
     "Bhojpuri": {
       "total": 31,
       "working": 31,
-      "hd": 12
+      "hd": 13
     },
     "Chhattisgarhi": {
       "total": 4,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 733,
-      "working": 661,
-      "hd": 241
+      "working": 658,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -55,12 +55,12 @@
     "Malayalam": {
       "total": 119,
       "working": 105,
-      "hd": 41
+      "hd": 42
     },
     "Marathi": {
       "total": 45,
       "working": 44,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 34,
       "working": 30,
-      "hd": 11
+      "hd": 12
     },
     "Other": {
       "total": 24,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 187,
-      "working": 171,
-      "hd": 64
+      "working": 170,
+      "hd": 63
     },
     "Urdu": {
       "total": 22,
@@ -160,8 +160,23 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "B4U Kadak (1080p)",
+      "url": "https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "B4U Movies (1080p)",
+      "url": "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "B4U Music (1080p)",
+      "url": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8",
       "reason": "URLError"
     },
     {
@@ -228,11 +243,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -308,6 +318,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -535,6 +550,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Mathrubhumi News (240p)",
+      "url": "https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mazhavil Manorama (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8",
       "reason": "HTTP 403"
@@ -570,11 +590,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "N Vision (1080p)",
-      "url": "https://ipcloud.live/nvision/nvisionhd/index.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
       "name": "NDTV India (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVINDIA/index.m3u8",
       "reason": "HTTP 403"
@@ -583,11 +598,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -728,6 +738,16 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
