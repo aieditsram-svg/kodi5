@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-25 08:23 UTC",
-  "fingerprint": "51775c43391fa7ef547de196b7030543",
+  "updated_at": "2026-11-25 18:43 UTC",
+  "fingerprint": "c0603c018f7ea6a6ab1126b3d8717906",
   "total": 1858,
   "working": 1690,
-  "in_grace_period": 16,
+  "in_grace_period": 19,
   "dead": 168,
-  "hd_channels": 669,
+  "hd_channels": 674,
   "languages": {
     "Assamese": {
       "total": 43,
@@ -34,18 +34,18 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 44,
+      "working": 45,
       "hd": 20
     },
     "Hindi": {
       "total": 733,
       "working": 662,
-      "hd": 239
+      "hd": 241
     },
     "Kannada": {
       "total": 70,
       "working": 64,
-      "hd": 28
+      "hd": 29
     },
     "Konkani": {
       "total": 3,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 136,
-      "working": 120,
-      "hd": 52
+      "working": 122,
+      "hd": 54
     },
     "Marathi": {
       "total": 45,
@@ -74,7 +74,7 @@
     },
     "Other": {
       "total": 24,
-      "working": 20,
+      "working": 18,
       "hd": 11
     },
     "Punjabi": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 187,
-      "working": 170,
+      "working": 169,
       "hd": 64
     },
     "Urdu": {
@@ -300,6 +300,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -343,6 +348,16 @@
       "name": "ETV Telugu HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "FashionTV (576p)",
+      "url": "http://163.61.226.31:9981/stream/channelid/448803688?profile=pass",
+      "reason": "RemoteDisconnected"
+    },
+    {
+      "name": "FashionTV (576p)",
+      "url": "http://163.61.226.31:9981/stream/channelid/943090988?profile=pass",
+      "reason": "RemoteDisconnected"
     },
     {
       "name": "FashionTV (576p)",
@@ -397,11 +412,6 @@
     {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "GS TV (576p)",
-      "url": "https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -528,11 +538,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Malabar Plus (720p)",
-      "url": "http://cloud.logichost.in:1935/live/mplus/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mangalmay TV (576p)",
@@ -818,11 +823,6 @@
       "name": "Tarang TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tarang/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Thanima (1080p)",
-      "url": "https://live.skystream.in/live/thanimatvtvm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Thanthi TV (576p)",
