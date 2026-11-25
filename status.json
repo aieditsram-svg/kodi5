@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-25 00:09 UTC",
-  "fingerprint": "c7aa2043c86b3195acb03c64c693e9c2",
-  "total": 1841,
-  "working": 1672,
-  "in_grace_period": 10,
-  "dead": 169,
-  "hd_channels": 658,
+  "updated_at": "2026-11-25 08:23 UTC",
+  "fingerprint": "51775c43391fa7ef547de196b7030543",
+  "total": 1858,
+  "working": 1690,
+  "in_grace_period": 16,
+  "dead": 168,
+  "hd_channels": 669,
   "languages": {
     "Assamese": {
       "total": 43,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 101,
       "working": 89,
-      "hd": 43
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 31,
@@ -29,23 +29,23 @@
     },
     "English": {
       "total": 140,
-      "working": 127,
-      "hd": 52
+      "working": 128,
+      "hd": 53
     },
     "Gujarati": {
       "total": 47,
-      "working": 45,
+      "working": 44,
       "hd": 20
     },
     "Hindi": {
       "total": 733,
-      "working": 660,
-      "hd": 240
+      "working": 662,
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
       "working": 64,
-      "hd": 29
+      "hd": 28
     },
     "Konkani": {
       "total": 3,
@@ -53,9 +53,9 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 119,
-      "working": 105,
-      "hd": 42
+      "total": 136,
+      "working": 120,
+      "hd": 52
     },
     "Marathi": {
       "total": 45,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 34,
       "working": 30,
-      "hd": 12
+      "hd": 13
     },
     "Other": {
       "total": 24,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 187,
-      "working": 169,
+      "working": 170,
       "hd": 64
     },
     "Urdu": {
@@ -191,18 +191,13 @@
     },
     {
       "name": "B4U Music (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4B4UMUSIC/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
       "name": "Bansal News (720p)",
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-      "reason": "HTTP 401"
+      "reason": "URLError"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -252,11 +247,6 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Kashir (576p)",
-      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -328,11 +318,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -415,6 +400,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "GS TV (576p)",
+      "url": "https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "GTC News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -432,11 +422,6 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -543,6 +528,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Malabar Plus (720p)",
+      "url": "http://cloud.logichost.in:1935/live/mplus/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mangalmay TV (576p)",
@@ -828,6 +818,11 @@
       "name": "Tarang TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tarang/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Thanima (1080p)",
+      "url": "https://live.skystream.in/live/thanimatvtvm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Thanthi TV (576p)",
