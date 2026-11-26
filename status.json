@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-26 10:29 UTC",
-  "fingerprint": "99df972dfb3633d7e6e2243d11318120",
+  "updated_at": "2026-11-26 19:46 UTC",
+  "fingerprint": "8d6b3d5902f8536023dd650cf0e373a2",
   "total": 1873,
   "working": 1706,
-  "in_grace_period": 32,
+  "in_grace_period": 43,
   "dead": 167,
   "hd_channels": 678,
   "languages": {
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 103,
       "working": 90,
-      "hd": 45
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 31,
@@ -30,7 +30,7 @@
     "English": {
       "total": 140,
       "working": 128,
-      "hd": 52
+      "hd": 53
     },
     "Gujarati": {
       "total": 48,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 739,
-      "working": 668,
-      "hd": 244
+      "working": 669,
+      "hd": 245
     },
     "Kannada": {
       "total": 71,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 34,
       "working": 30,
-      "hd": 13
+      "hd": 12
     },
     "Other": {
       "total": 27,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 165,
-      "working": 148,
+      "working": 147,
       "hd": 73
     },
     "Telugu": {
@@ -133,6 +133,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -400,11 +405,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -585,11 +585,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -623,6 +618,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "OM TV (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
