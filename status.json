@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-25 18:43 UTC",
-  "fingerprint": "c0603c018f7ea6a6ab1126b3d8717906",
-  "total": 1858,
-  "working": 1690,
-  "in_grace_period": 19,
-  "dead": 168,
-  "hd_channels": 674,
+  "updated_at": "2026-11-26 01:57 UTC",
+  "fingerprint": "ccb22e58f249d6d95b860fce89056e78",
+  "total": 1873,
+  "working": 1703,
+  "in_grace_period": 17,
+  "dead": 170,
+  "hd_channels": 682,
   "languages": {
     "Assamese": {
-      "total": 43,
-      "working": 40,
-      "hd": 13
+      "total": 44,
+      "working": 42,
+      "hd": 14
     },
     "Bengali": {
-      "total": 101,
-      "working": 89,
-      "hd": 44
+      "total": 103,
+      "working": 91,
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 31,
@@ -33,19 +33,19 @@
       "hd": 53
     },
     "Gujarati": {
-      "total": 47,
-      "working": 45,
-      "hd": 20
+      "total": 48,
+      "working": 46,
+      "hd": 19
     },
     "Hindi": {
-      "total": 733,
-      "working": 662,
-      "hd": 241
+      "total": 739,
+      "working": 665,
+      "hd": 247
     },
     "Kannada": {
-      "total": 70,
-      "working": 64,
-      "hd": 29
+      "total": 71,
+      "working": 65,
+      "hd": 28
     },
     "Konkani": {
       "total": 3,
@@ -73,9 +73,9 @@
       "hd": 13
     },
     "Other": {
-      "total": 24,
-      "working": 18,
-      "hd": 11
+      "total": 27,
+      "working": 21,
+      "hd": 13
     },
     "Punjabi": {
       "total": 167,
@@ -93,8 +93,8 @@
       "hd": 73
     },
     "Telugu": {
-      "total": 187,
-      "working": 169,
+      "total": 188,
+      "working": 170,
       "hd": 64
     },
     "Urdu": {
@@ -180,11 +180,6 @@
       "reason": "URLError"
     },
     {
-      "name": "B4U Music (1080p)",
-      "url": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "http://66.102.126.10:8000/play/a01e/index.m3u8",
       "reason": "URLError"
@@ -243,6 +238,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -495,11 +495,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Jonack (576p)",
-      "url": "https://fta.ektv.in/live/676/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
@@ -598,6 +593,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -738,6 +738,16 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
