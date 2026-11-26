@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-26 01:57 UTC",
-  "fingerprint": "ccb22e58f249d6d95b860fce89056e78",
+  "updated_at": "2026-11-26 10:29 UTC",
+  "fingerprint": "99df972dfb3633d7e6e2243d11318120",
   "total": 1873,
-  "working": 1703,
-  "in_grace_period": 17,
-  "dead": 170,
-  "hd_channels": 682,
+  "working": 1706,
+  "in_grace_period": 32,
+  "dead": 167,
+  "hd_channels": 678,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 103,
-      "working": 91,
+      "working": 90,
       "hd": 45
     },
     "Bhojpuri": {
@@ -30,22 +30,22 @@
     "English": {
       "total": 140,
       "working": 128,
-      "hd": 53
+      "hd": 52
     },
     "Gujarati": {
       "total": 48,
       "working": 46,
-      "hd": 19
+      "hd": 20
     },
     "Hindi": {
       "total": 739,
-      "working": 665,
-      "hd": 247
+      "working": 668,
+      "hd": 244
     },
     "Kannada": {
       "total": 71,
       "working": 65,
-      "hd": 28
+      "hd": 29
     },
     "Konkani": {
       "total": 3,
@@ -75,12 +75,12 @@
     "Other": {
       "total": 27,
       "working": 21,
-      "hd": 13
+      "hd": 12
     },
     "Punjabi": {
       "total": 167,
       "working": 159,
-      "hd": 58
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 188,
-      "working": 170,
+      "working": 171,
       "hd": 64
     },
     "Urdu": {
@@ -222,7 +222,7 @@
     {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "CTVN AKD Plus (576p)",
@@ -238,11 +238,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -298,11 +293,6 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -372,7 +362,7 @@
     {
       "name": "Fast1 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "First India News (576p)",
@@ -408,6 +398,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -533,11 +528,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -722,7 +712,7 @@
     {
       "name": "Shaheedan Shahib (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHAHEEDBABADEEPSINGH/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Shekinah TV (1080p)",
@@ -740,14 +730,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
+      "name": "Shiksha TV (720p)",
+      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Shubh Cinema TV (576p)",
