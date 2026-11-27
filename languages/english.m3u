@@ -1,5 +1,5 @@
 #EXTM3U
-# Working English channels, updated 2026-11-27 02:26 UTC
+# Working English channels, updated 2026-11-27 11:08 UTC
 #EXTINF:-1 tvg-id="ABPNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="1080",ABP News (1080p)
 https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="1080",ABP News (1080p)
@@ -59,6 +59,9 @@ https://fta.ektv.in/live/701/master.m3u8
 https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
 #EXTINF:-1 tvg-id="CVREnglish.in@SD" x-category="news" tvg-logo="https://i.imgur.com/k0WTQKi.png" tvg-language="English" group-title="English" height="576",CVR English (576p)
 https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="DDAssam.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="576",DD Assam (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/672/master.m3u8
 #EXTINF:-1 tvg-id="DDIndia.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="1080",DD India (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/119/119_0.m3u8
@@ -144,6 +147,8 @@ https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
 #EXTINF:-1 tvg-id="MirrorNow.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143543_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="1080",Mirror Now (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MirrorNow.m3u8
+#EXTINF:-1 tvg-id="MoviesNow.in@HD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s147571_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="576",Movies Now HD (576p)
+http://27.124.71.27/Movies_Now/index.m3u8
 #EXTINF:-1 tvg-id="NDTV.in@SD" x-category="news" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ndtv-logo-new.svg/1280px-Ndtv-logo-new.svg.png" tvg-language="English" group-title="English" height="1080",NDTV (1080p)
 https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8
 #EXTINF:-1 tvg-id="NDTV.in@SD" x-category="news" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ndtv-logo-new.svg/1280px-Ndtv-logo-new.svg.png" tvg-language="English" group-title="English" height="1080",NDTV (1080p)
