@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Malayalam channels, updated 2026-11-26 19:46 UTC
+# Working Malayalam channels, updated 2026-11-27 02:26 UTC
 #EXTINF:-1 tvg-id="24News.in@SD" x-category="news" tvg-logo="https://i.imgur.com/xraizkS.png" tvg-language="Malayalam" group-title="Malayalam" height="396",24 News (396p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="24News.in@SD" x-category="news" tvg-logo="https://i.imgur.com/xraizkS.png" tvg-language="Malayalam" group-title="Malayalam" height="720",24 News (576p)
@@ -11,8 +11,16 @@ http://stream.logichost.in:1935/AJNET/live/chunklist_w1891201465.m3u8
 https://fta.ektv.in/live/698/master.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142632_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Amrita TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlAMRITATV/index.m3u8
+#EXTINF:-1 tvg-id="AmritaTV.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142632_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Amrita TV (576p)
+https://p-tr1.planetcast.in/amritaTV/master.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142632_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Amrita TV (720p)
 https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="AsianetCinema.in@SD" x-category="movies" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODASIANETCINEMAY2025MML/AVODASIANETCINEMAY2025MML-title-logo-en.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",Asianet Cinema (576p)
+https://b-tr1.planetcast.in/asianet/master.m3u8
+#EXTINF:-1 tvg-id="AsianetCinema.in@SD" x-category="movies" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODASIANETCINEMAY2025MML/AVODASIANETCINEMAY2025MML-title-logo-en.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",Asianet Cinema (576p)
+https://d2de7cj2i2iwkc.cloudfront.net/asianet/master.m3u8
+#EXTINF:-1 tvg-id="AsianetCinema.in@SD" x-category="movies" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODASIANETCINEMAY2025MML/AVODASIANETCINEMAY2025MML-title-logo-en.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",Asianet Cinema (576p)
+https://p-tr1.planetcast.in/asianet/master.m3u8
 #EXTINF:-1 tvg-id="Asianet.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7408/1782289617408-h.jpg" tvg-language="Malayalam" group-title="Malayalam" height="1080",Asianet HD (1080p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="Asianet.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7408/1782289617408-h.jpg" tvg-language="Malayalam" group-title="Malayalam" height="720",Asianet HD (720p)
@@ -20,6 +28,8 @@ https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ASIANETHD.m3u8
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/du9iZ0s.png" tvg-language="Malayalam" group-title="Malayalam" height="576",Asianet Middle East (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/697/master.m3u8
+#EXTINF:-1 tvg-id="AsianetMiddleEast.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/du9iZ0s.png" tvg-language="Malayalam" group-title="Malayalam" height="720",Asianet Middle East (576p)
+https://samitaorigin.tangotv.in/ASIANETMIDDLEEAST/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in@SD" x-category="movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7227/1782288617227-h.jpg" tvg-language="Malayalam" group-title="Malayalam" height="396",Asianet Movies (396p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142679_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",Asianet News (1080p)
@@ -43,6 +53,8 @@ https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 #EXTINF:-1 tvg-id="BigTV24x7.in@SD" x-category="news" tvg-logo="https://yt3.googleusercontent.com/blnfLkIGphkSPHfWy4SVOVyHlrWSAEn2pArAS5wdH7tYmXAFD4dVMGLtSmZr5R5CNl1d2cUuDw=s512-c-k-c0x00ffffff-no-rj" tvg-language="Malayalam" group-title="Malayalam" height="576",Big TV 24x7 (576i)
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="BigTV24x7.in@SD" x-category="news" tvg-logo="https://yt3.googleusercontent.com/blnfLkIGphkSPHfWy4SVOVyHlrWSAEn2pArAS5wdH7tYmXAFD4dVMGLtSmZr5R5CNl1d2cUuDw=s512-c-k-c0x00ffffff-no-rj" tvg-language="Malayalam" group-title="Malayalam" height="1080",Big TV 24x7 (720p)
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?&AVS_SSAIID=6a018358bef4d2cefe00ad63
 #EXTINF:-1 tvg-id="CCTVKunnamkulam.in@SD" x-category="entertainment" tvg-logo="https://i.ibb.co/ndPywxZ/cctv-logo.jpg" tvg-language="Malayalam" group-title="Malayalam" height="720",CCTV Kunnamkulam (720p)
 https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CCV.in@SD" x-category="general" tvg-logo="https://i.imgur.com/4ss0KfA.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",CCV (480p)
@@ -111,8 +123,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in@SD" x-category="lifestyle" tvg-logo="https://i.imgur.com/e9qTjgB.png" tvg-language="Malayalam" group-title="Malayalam" height="576",Kappa TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/247/master.m3u8
-#EXTINF:-1 tvg-id="KasargodVision.in@SD" x-category="entertainment" tvg-logo="https://coakerala.com/wp-content/uploads/2014/11/KSD-VISION-district-channel.jpg" tvg-language="Malayalam" group-title="Malayalam" height="576",Kasargod Vision (576p)
-https://live.skystream.in/live/kasaragodvsn/index.m3u8
 #EXTINF:-1 tvg-id="KCLTV.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/bkp9dIm.png" tvg-language="Malayalam" group-title="Malayalam" height="720",KCL TV (720p)
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id="KCNKasargod.in@SD" x-category="entertainment" tvg-logo="https://play-lh.googleusercontent.com/sfxGAj8et5iKbygQ7Plp6gSvsvLodM4b7HU0K_1dx_etJMo3FUEIkf0z7KdWTEb-Gwhx5Vz9bQjpB8g_oz6jry0=w240-h480" tvg-language="Malayalam" group-title="Malayalam" height="576",KCN Kasargod (576p)
@@ -184,14 +194,20 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://cdn.pishow.tv/ott/live/1629/master.m3u8
 #EXTINF:-1 tvg-id="News18Kerala.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143613_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",News18 Kerala (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Malayalam" group-title="Malayalam",Nickelodeon
+http://103.148.210.190:8000/play/a0zu
 #EXTINF:-1 tvg-id="NMMediaChannelHD.in@SD" x-category="entertainment" tvg-logo="https://play-lh.googleusercontent.com/bS6HNpsLqv-Irw64TaPYqk3o8AlMiA96GJjD8qUfIzgtoeC23CCLrGW5iReGh1jMlP7djBZhxsJ_2wFLWpHB" tvg-language="Malayalam" group-title="Malayalam" height="1080",NM Media Channel HD (1080p)
 https://live.skystream.in/live/newmedia2924/index.m3u8
 #EXTINF:-1 tvg-id="PeriyarVision.in@SD" x-category="entertainment" tvg-logo="https://play-lh.googleusercontent.com/Oh0y8uEVV7LIlMBig3mi5xthzsUeOMWXxkHh6CpNf8uousEVwTCCEgLnNIYPPOd5aWw5f7lAWOqPqP93y2H7" tvg-language="Malayalam" group-title="Malayalam" height="1080",Periyar Vision (1080p)
 https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
+#EXTINF:-1 tvg-id="PowervisionTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",Powervision TV (576p)
+https://dksfwd26nz1.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="PowervisionTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Powervision TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlPOWERVISION/index.m3u8
 #EXTINF:-1 tvg-id="PowervisionTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",Powervision TV (720p)
 https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8
+#EXTINF:-1 tvg-id="PowranMedia.in@SD" x-category="entertainment" tvg-logo="https://i.ibb.co/XrBb1DNZ/1000153157.png" tvg-language="Malayalam" group-title="Malayalam" height="720",Powran Media (720p) [Not 24/7]
+https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8
 #EXTINF:-1 tvg-id="PravasiChannel.in@SD" tvg-logo="https://i.imgur.com/1dHarb7.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",Pravasi Channel (1080p)
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PulariTV.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/v5urG30.png" tvg-language="Malayalam" group-title="Malayalam",Pulari TV
@@ -223,8 +239,16 @@ https://fta.ektv.in/live/410/master.m3u8
 https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
 #EXTINF:-1 tvg-id="Shalom.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",Shalom (1080p)
 https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Shalom.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",Shalom (576p)
+https://b-dsv8.planetcast.in/ShalomIndia/master.m3u8
+#EXTINF:-1 tvg-id="Shalom.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",Shalom (576p)
+https://b-tr1.planetcast.in/ShalomGlobal/master.m3u8
 #EXTINF:-1 tvg-id="Shalom.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Shalom (576p)
 https://mumt01.tangotv.in/O5aw8Zn3SHALOMTVINDIA/index.m3u8
+#EXTINF:-1 tvg-id="Shalom.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",Shalom (576p)
+https://p-dsv8.planetcast.in/ShalomIndia/master.m3u8
+#EXTINF:-1 tvg-id="Shalom.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",Shalom (576p)
+https://p-tr1.planetcast.in/ShalomGlobal/master.m3u8
 #EXTINF:-1 tvg-id="Shalom.in@Global" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",Shalom Global (1080p)
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="ShekinahTV.in@SD" tvg-logo="https://i.imgur.com/6hTshsG.png" tvg-language="Malayalam" group-title="Malayalam" height="576",Shekinah TV (576p)
@@ -235,6 +259,8 @@ https://samitaorigin.tangotv.in/SHEKINAHTV/SAMITAORIGIN/index.m3u8
 https://r2.amml.in/sony-yay/live.m3u8
 #EXTINF:-1 tvg-id="SouthVision.in@SD" x-category="entertainment" tvg-logo="https://play-lh.googleusercontent.com/R8Z8juih4xjZthHZeKnFqJTLFmf-GZfRLvcVHdeX7VNw568mvI6mES5LVbvTlPOSO8qoAjDE01fGy93XKkliyg=w512-h512" tvg-language="Malayalam" group-title="Malayalam" height="1080",South Vision (1080p)
 https://live.skystream.in/live/southvsnklm/index.m3u8
+#EXTINF:-1 tvg-id="SunSurya.in@HD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",Sun Surya HD (1080p)
+https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="Swantham.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/ye6v4GP.png" tvg-language="Malayalam" group-title="Malayalam" height="576",Swantham (576p)
 http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 #EXTINF:-1 tvg-id="Thanima.in@SD" x-category="entertainment" tvg-logo="https://play-lh.googleusercontent.com/cEXeXLHYTRthQoC8y_7SIr5hWU1gVpuRUc139KMbm-HqdllHs1IYig3voRgXrxG5XmELu95FBhLMEqyjNljHgog" tvg-language="Malayalam" group-title="Malayalam" height="1080",Thanima (1080p)
@@ -245,8 +271,6 @@ https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sd
 https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="VBCNews.in@SD" x-category="news" tvg-logo="https://i.imgur.com/SvXCjha.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",VBC News (1080p)
 https://live.skystream.in/live/vbcthdpza/index.m3u8
-#EXTINF:-1 tvg-id="VCV.in@SD" x-category="general" tvg-logo="https://i.imgur.com/KbU36xI.png" tvg-language="Malayalam" group-title="Malayalam" height="720",VCV (720p) [Not 24/7]
-https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 tvg-id="Vision.in@SD" x-category="general" tvg-logo="https://i.imgur.com/YozqNL3.jpg" tvg-language="Malayalam" group-title="Malayalam" height="576",Vision (576p)
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 tvg-id="WayanadVision.in@SD" x-category="general" tvg-logo="https://i.imgur.com/yF2C4Dt.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",Wayanad Vision (1080p)
